@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Simulazione Bocconi</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<div id="bar" class="hidden">
+  <div class="inner">
+    <span id="pos">Domanda 1–3</span>
+    <span id="pace"></span>
+    <span id="clock">75:00</span>
+  </div>
+  <div id="track"><i></i></div>
+</div>
+
+<main id="app"></main>
+
+<div id="foot" class="foot hidden">
+  <div class="inner">
+    <span class="hint" id="hint"></span>
+    <button class="btn" id="next">Avanti</button>
+  </div>
+</div>
+
+<script src="js/charts.js"></script>
+<script src="mocks/elenco.js"></script>
+<script src="js/engine.js"></script>
+<script>
+/* =======================================================================
+   mock.html — una pagina, quattro modalità:
+     ?id=07                     mock completo
+     ?mode=mini&n=15&...        mini-mock pescato dai mock pubblicati
+     ?mode=errori&n=15          rifai le domande sbagliate o omesse
+     ?rev=<timestamp>           revisione di un tentativo già registrato
+   ======================================================================= */
+(function () {
+  const B = window.Bocconi;
+  const app = document.getElementById('app');
+  B.Tema.init();
+
+  function errore(msg) {
+    app.innerHTML = `<div class="wrap page"><h1>Non ci siamo</h1>
+      <p class="lead">${B.esc(msg)}</p>
+      <div class="actions"><a class="btn" href="index.html" style="text-decoration:none">Torna alla home</a></div></div>`;
+  }
+
+  const rev = B.qs('rev');
+  const mode = B.qs('mode');
+  const id = B.qs('id');
+
+  /* ---------- revisione di un tentativo passato ---------- */
+  if (rev) {
+    const t = B.Store.tentativo(rev);
+    if (!t) return errore('Non trovo questo tentativo nell\'archivio del browser.');
+    const ids = Array.from(new Set(t.items.map(it => it.m)));
+    Promise.all(ids.map(m => B.caricaMock(m)))
+      .then(() => B.mostraEsito(t, { appenaFatta: false }))
+      .catch(e => errore(e.message));
+    return;
+  }
+
+  /* ---------- mock completo ---------- */
+  if (!mode) {
+    const voce = B.voceElenco(id || '');
+    if (!voce) return errore('Mock non trovato. Torna alla home e scegline uno dall\'elenco.');
+    B.caricaMock(voce.id).then(m => {
+      const refs = m.questions.map(q => ({ m: voce.id, n: q.n }));
+      const en = m.questions.filter(q => q.lang === 'en').length;
+      document.title = 'Simulazione Bocconi — ' + voce.title;
+      new B.Prova({
+        key: 'full-' + voce.id, mode: 'full', mockId: voce.id, label: voce.title,
+        refs: refs, seconds: (voce.minutes || 75) * 60,
+        kicker: 'Simulazione completa · ' + voce.title,
+        h1: 'Test Bocconi<br>Lauree Magistrali',
+        sub: voce.sub || (refs.length + ' domande'),
+        soglia: refs.length === 50, checkpoint: refs.length === 50,
+        lingua: en ? (en === 1 ? 'Una domanda è in inglese, come nel test reale.' : en + ' domande sono in inglese, come nel test reale.') : ''
+      }).parti();
+    }).catch(e => errore(e.message));
+    return;
+  }
+
+  /* ---------- mini-mock e "rifai i miei errori" ---------- */
+  B.caricaTutti().then(() => {
+    const n = Math.max(1, parseInt(B.qs('n') || '9', 10));
+
+    if (mode === 'mini') {
+      const aree = (B.qs('area') || '').split(',').filter(Boolean);
+      const patt = (B.qs('patt') || '').split('|').filter(Boolean);
+      let pool = B.tutteLeDomande();
+      if (aree.length) pool = pool.filter(x => aree.indexOf(x.q.area) >= 0);
+      if (patt.length) pool = pool.filter(x => patt.indexOf(x.q.patt) >= 0);
+      if (!pool.length) return errore('Con questi filtri non resta nessuna domanda. Torna alla home e allarga la selezione.');
+      const scelte = B.mescola(pool).slice(0, Math.min(n, pool.length));
+      const refs = scelte.map(x => ({ m: x.m, n: x.n }));
+      const etichetta = 'Mini-mock ' + refs.length + ' domande';
+      document.title = 'Simulazione Bocconi — ' + etichetta;
+      new B.Prova({
+        key: 'mini', mode: 'mini', label: etichetta, refs: refs,
+        seconds: Math.round(refs.length * B.PER_Q),
+        kicker: 'Allenamento · mini-mock',
+        h1: 'Mini-mock',
+        sub: refs.length + ' domande pescate dai mock pubblicati'
+          + (aree.length ? ' · aree: ' + aree.join(', ') : '')
+          + (patt.length ? ' · pattern: ' + patt.join(', ') : ''),
+        soglia: false, checkpoint: false, lingua: ''
+      }).parti();
+      return;
+    }
+
+    if (mode === 'errori') {
+      const tutti = B.mieiErrori();
+      if (!tutti.length) return errore('Nell\'archivio non ci sono ancora domande sbagliate o omesse. Fai prima un mock.');
+      const scelte = B.mescola(tutti).slice(0, Math.min(n, tutti.length));
+      const refs = scelte.map(x => ({ m: x.m, n: x.n }));
+      const etichetta = 'I miei errori · ' + refs.length + ' domande';
+      document.title = 'Simulazione Bocconi — i miei errori';
+      new B.Prova({
+        key: 'errori', mode: 'errori', label: etichetta, refs: refs,
+        seconds: Math.round(refs.length * B.PER_Q),
+        kicker: 'Allenamento · rifai i miei errori',
+        h1: 'Rifai i miei errori',
+        sub: refs.length + ' domande che nei tentativi precedenti hai sbagliato o lasciato in bianco',
+        soglia: false, checkpoint: false, lingua: ''
+      }).parti();
+      return;
+    }
+
+    errore('Modalità sconosciuta: ' + mode);
+  }).catch(e => errore(e.message));
+})();
+</script>
+</body>
+</html>
