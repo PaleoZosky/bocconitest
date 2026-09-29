@@ -1,0 +1,1360 @@
+                                  Mock test Bocconi-style - ordine misto
+
+
+
+
+          MOCK TEST BOCCONI-STYLE
+                        50 domande in ordine misto
+
+                18 Quantitative | 16 Verbal | 16 Data Insights
+
+
+                               Tempo consigliato: 75 minuti
+
+         Una sola risposta corretta per domanda. Non usare la calcolatrice.
+
+
+
+La soluzione è collocata nella parte bassa della stessa pagina. Rispondi prima di scorrere.
+
+
+
+
+        Controllo interno effettuato: calcoli, univocità delle risposte e distribuzione A/B/C/D.
+
+
+
+
+                                                    1
+                                                    Mock test Bocconi-style - ordine misto
+
+
+VERBAL      DOMANDA 1
+Una città ha introdotto un pedaggio per l'accesso automobilistico al centro. Nei sei mesi successivi, il numero di automobili
+entrate nell'area è diminuito del 12%, mentre l'uso degli autobus è aumentato dell'8%. Le vendite complessive dei negozi
+situati nell'area sono rimaste sostanzialmente invariate. Il rapporto comunale segnala tuttavia che, nello stesso periodo, sono
+aumentati sia il prezzo dei carburanti sia il ricorso al lavoro da remoto. Pertanto, non è possibile attribuire automaticamente
+l'intera riduzione del traffico al pedaggio.
+Quale affermazione è certamente vera?
+A. Dopo l'introduzione del pedaggio, gli ingressi automobilistici sono diminuiti.
+B. Il pedaggio ha causato una riduzione delle vendite.
+C. Tutti gli ex automobilisti hanno iniziato a usare l'autobus.
+D. Il lavoro da remoto è stato la causa principale della riduzione del traffico.
+                                             NON SCORRERE OLTRE FINCHE NON HAI RISPOSTO
+
+
+
+
+SOLUZIONE - RISPOSTA CORRETTA: A
+Il testo afferma esplicitamente che gli ingressi automobilistici sono diminuiti del 12%.
+Non stabilisce quale sia stata la causa principale e non dice che tutti gli automobilisti siano passati agli autobus.
+
+
+
+
+                                                                      2
+                                                  Mock test Bocconi-style - ordine misto
+
+
+VERBAL     DOMANDA 2
+Una città ha introdotto un pedaggio per l'accesso automobilistico al centro. Nei sei mesi successivi, il numero di automobili
+entrate nell'area è diminuito del 12%, mentre l'uso degli autobus è aumentato dell'8%. Le vendite complessive dei negozi
+situati nell'area sono rimaste sostanzialmente invariate. Il rapporto comunale segnala tuttavia che, nello stesso periodo, sono
+aumentati sia il prezzo dei carburanti sia il ricorso al lavoro da remoto. Pertanto, non è possibile attribuire automaticamente
+l'intera riduzione del traffico al pedaggio.
+Quale affermazione non è giustificata dal testo?
+A. L'utilizzo degli autobus è aumentato.
+B. Le vendite complessive sono rimaste sostanzialmente stabili.
+C. La relazione causale tra pedaggio e traffico è incerta.
+D. Il pedaggio ha provocato l'intera riduzione del 12% del traffico.
+                                           NON SCORRERE OLTRE FINCHE NON HAI RISPOSTO
+
+
+
+
+SOLUZIONE - RISPOSTA CORRETTA: D
+Il rapporto indica fattori concorrenti: prezzo dei carburanti e lavoro da remoto.
+Attribuire al pedaggio l'intera riduzione è un salto causale non supportato.
+
+
+
+
+                                                                    3
+                                                   Mock test Bocconi-style - ordine misto
+
+
+VERBAL     DOMANDA 3
+Una città ha introdotto un pedaggio per l'accesso automobilistico al centro. Nei sei mesi successivi, il numero di automobili
+entrate nell'area è diminuito del 12%, mentre l'uso degli autobus è aumentato dell'8%. Le vendite complessive dei negozi
+situati nell'area sono rimaste sostanzialmente invariate. Il rapporto comunale segnala tuttavia che, nello stesso periodo, sono
+aumentati sia il prezzo dei carburanti sia il ricorso al lavoro da remoto. Pertanto, non è possibile attribuire automaticamente
+l'intera riduzione del traffico al pedaggio.
+Quale informazione sarebbe più utile per valutare l'effetto causale del pedaggio?
+A. Il numero complessivo di negozi presenti in città.
+B. L'andamento del traffico in città simili che non hanno introdotto il pedaggio.
+C. L'opinione personale del sindaco.
+D. Il prezzo medio delle abitazioni nel centro storico.
+                                            NON SCORRERE OLTRE FINCHE NON HAI RISPOSTO
+
+
+
+
+SOLUZIONE - RISPOSTA CORRETTA: B
+Una città simile priva del pedaggio funzionerebbe come gruppo di confronto.
+Se il traffico fosse diminuito anche li, parte della riduzione sarebbe probabilmente dovuta a fattori generali.
+
+
+
+
+                                                                     4
+                                                       Mock test Bocconi-style - ordine misto
+
+
+QUANTITATIVE          DOMANDA 4
+Per x diverso da 3, si ha (x^2 - 9)/(x - 3) = 8. Qual è il valore di x?
+A. 3
+B. 4
+C. 5
+D. 8
+                                               NON SCORRERE OLTRE FINCHE NON HAI RISPOSTO
+
+
+
+
+SOLUZIONE - RISPOSTA CORRETTA: C
+x^2 - 9 = (x - 3)(x + 3). Poiche x è diverso da 3, la frazione si semplifica in x + 3.
+x + 3 = 8, quindi x = 5. Pattern: differenza di quadrati.
+
+
+
+
+                                                                         5
+                                                    Mock test Bocconi-style - ordine misto
+
+
+QUANTITATIVE         DOMANDA 5
+Il prezzo di un prodotto aumenta del 20% e successivamente diminuisce del 20%. Dopo entrambe le variazioni il
+prezzo è EUR 960. Qual èra il prezzo iniziale?
+A. EUR 1.000
+B. EUR 1.040
+C. EUR 1.152
+D. EUR 1.200
+                                             NON SCORRERE OLTRE FINCHE NON HAI RISPOSTO
+
+
+
+
+SOLUZIONE - RISPOSTA CORRETTA: A
+Le variazioni successive si moltiplicano: P x 1,20 x 0,80 = 960.
+0,96P = 960, quindi P = EUR 1.000. Aumentare e diminuire della stessa percentuale non riporta al valore iniziale.
+
+
+
+
+                                                                      6
+                                                      Mock test Bocconi-style - ordine misto
+
+
+QUANTITATIVE         DOMANDA 6
+Qual è il più piccolo intero positivo che, diviso per 5, dà resto 2 e, diviso per 7, dà resto 4?
+A. 18
+B. 22
+C. 27
+D. 32
+                                              NON SCORRERE OLTRE FINCHE NON HAI RISPOSTO
+
+
+
+
+SOLUZIONE - RISPOSTA CORRETTA: D
+I numeri che danno resto 4 nella divisione per 7 sono 4, 11, 18, 25, 32, ...
+Il primo che dà resto 2 nella divisione per 5 è 32.
+
+
+
+
+                                                                        7
+                                                  Mock test Bocconi-style - ordine misto
+
+
+DATA INSIGHTS         DOMANDA 7
+Un'area riceve un bonus soltanto se raggiunge almeno il 110% dell'obiettivo e genera almeno EUR 60.000 di margine di
+contribuzione.
+
+            Regione                            Vendite                            Obiettivo              Margine
+Nord                                         EUR 540.000                        EUR 500.000                20%
+Centro                                       EUR 420.000                        EUR 450.000                25%
+Sud                                          EUR 360.000                        EUR 300.000                18%
+Isole                                        EUR 180.000                        EUR 200.000                30%
+
+
+
+
+Quale regione riceve il bonus?
+A. Nord
+B. Centro
+C. Sud
+D. Isole
+                                            NON SCORRERE OLTRE FINCHE NON HAI RISPOSTO
+
+
+
+
+SOLUZIONE - RISPOSTA CORRETTA: C
+Sud raggiunge il 120% dell'obiettivo: 360.000/300.000 = 1,20.
+Il margine è 360.000 x 18% = EUR 64.800. Soddisfa entrambe le condizioni.
+
+
+
+
+                                                                    8
+                                                     Mock test Bocconi-style - ordine misto
+
+
+DATA INSIGHTS         DOMANDA 8
+            Regione                              Vendite                             Obiettivo      Margine
+Nord                                           EUR 540.000                         EUR 500.000       20%
+Centro                                         EUR 420.000                         EUR 450.000       25%
+Sud                                            EUR 360.000                         EUR 300.000       18%
+Isole                                          EUR 180.000                         EUR 200.000       30%
+
+
+
+
+Quale percentuale dell'obiettivo complessivo è stata raggiunta?
+A. 96,6%
+B. Circa 103,4%
+C. 105%
+D. 110%
+                                              NON SCORRERE OLTRE FINCHE NON HAI RISPOSTO
+
+
+
+
+SOLUZIONE - RISPOSTA CORRETTA: B
+Vendite totali = 540 + 420 + 360 + 180 = 1.500 migliaia. Obiettivi totali = 1.450 migliaia.
+1.500/1.450 = circa 1,0345, cioe 103,4%. Non si fa la media semplice delle percentuali regionali.
+
+
+
+
+                                                                       9
+                                                  Mock test Bocconi-style - ordine misto
+
+
+VERBAL     DOMANDA 9
+Un'impresa ha sperimentato un algoritmo per classificare i candidati a posizioni commerciali. I selezionatori potevano
+visualizzare il punteggio assegnato dall'algoritmo prima di decidere quali candidati intervistare. I lavoratori assunti durante il
+progetto pilota hanno registrato, nel primo anno, una produttività media superiore a quella dei lavoratori assunti l'anno
+precedente. Tuttavia, le posizioni disponibili e le condizioni del mercato del lavoro erano cambiate. Inoltre, l'algoritmo era
+stato addestrato sui dati dei dipendenti storicamente assunti dall'impresa e avrebbe quindi potuto riprodurre distorsioni già
+presenti. Non è stato utilizzato un gruppo di controllo randomizzato.
+Qual è la conclusione più rigorosa?
+A. L'algoritmo è necessariamente imparziale.
+B. L'algoritmo ha certamente causato l'aumento della produttività.
+C. La nuova coorte e risultata più produttiva, ma il disegno dello studio non permette di isolare la causa.
+D. L'algoritmo ha ridotto la produttività dei nuovi dipendenti.
+                                           NON SCORRERE OLTRE FINCHE NON HAI RISPOSTO
+
+
+
+
+SOLUZIONE - RISPOSTA CORRETTA: C
+Il miglioramento della produttività è osservato, ma la causalità non è dimostrata.
+Le coorti appartengono a periodi diversi, le posizioni e il mercato sono cambiati e manca la randomizzazione.
+
+
+
+
+                                                                   10
+                                                  Mock test Bocconi-style - ordine misto
+
+
+VERBAL     DOMANDA 10
+Un'impresa ha sperimentato un algoritmo per classificare i candidati a posizioni commerciali. I selezionatori potevano
+visualizzare il punteggio assegnato dall'algoritmo prima di decidere quali candidati intervistare. I lavoratori assunti durante il
+progetto pilota hanno registrato, nel primo anno, una produttività media superiore a quella dei lavoratori assunti l'anno
+precedente. Tuttavia, le posizioni disponibili e le condizioni del mercato del lavoro erano cambiate. Inoltre, l'algoritmo era
+stato addestrato sui dati dei dipendenti storicamente assunti dall'impresa e avrebbe quindi potuto riprodurre distorsioni già
+presenti. Non è stato utilizzato un gruppo di controllo randomizzato.
+Quale evidenza rafforzerebbe maggiormente l'affermazione che l'algoritmo migliora la qualità delle
+assunzioni?
+A. I dirigenti dichiarano di fidarsi dell'algoritmo.
+B. L'impresa utilizza un software più costoso dei concorrenti.
+C. Candidati contemporanei vengono assegnati casualmente a una selezione con algoritmo o tradizionale.
+D. I candidati conoscono il funzionamento generale dell'algoritmo.
+                                            NON SCORRERE OLTRE FINCHE NON HAI RISPOSTO
+
+
+
+
+SOLUZIONE - RISPOSTA CORRETTA: C
+L'assegnazione casuale crea gruppi comparabili e riduce il rischio che le differenze dipendano da caratteristiche iniziali diverse.
+Opinioni e costo del software non dimostrano efficacia.
+
+
+
+
+                                                                   11
+                                                    Mock test Bocconi-style - ordine misto
+
+
+VERBAL      DOMANDA 11
+Un'impresa ha sperimentato un algoritmo per classificare i candidati a posizioni commerciali. I selezionatori potevano
+visualizzare il punteggio assegnato dall'algoritmo prima di decidere quali candidati intervistare. I lavoratori assunti durante il
+progetto pilota hanno registrato, nel primo anno, una produttività media superiore a quella dei lavoratori assunti l'anno
+precedente. Tuttavia, le posizioni disponibili e le condizioni del mercato del lavoro erano cambiate. Inoltre, l'algoritmo era
+stato addestrato sui dati dei dipendenti storicamente assunti dall'impresa e avrebbe quindi potuto riprodurre distorsioni già
+presenti. Non è stato utilizzato un gruppo di controllo randomizzato.
+Quale affermazione è incompatibile con il testo?
+A. Lo studio dimostra che l'algoritmo non può riprodurre distorsioni storiche.
+B. Il punteggio dell'algoritmo era visibile ai selezionatori.
+C. Le condizioni del mercato del lavoro erano cambiate.
+D. Non èra presente un gruppo di controllo randomizzato.
+                                             NON SCORRERE OLTRE FINCHE NON HAI RISPOSTO
+
+
+
+
+SOLUZIONE - RISPOSTA CORRETTA: A
+Il testo dice il contrario: l'algoritmo, addestrato su assunzioni storiche, potrebbe riprodurre distorsioni preesistenti.
+
+
+
+
+                                                                     12
+                                                   Mock test Bocconi-style - ordine misto
+
+
+QUANTITATIVE        DOMANDA 12
+Un triangolo isoscele ha base 10 cm e i due lati obliqui lunghi 13 cm ciascuno. Qual è la sua area?
+A. 50 cm^2
+B. 60 cm^2
+C. 65 cm^2
+D. 120 cm^2
+                                             NON SCORRERE OLTRE FINCHE NON HAI RISPOSTO
+
+
+
+
+SOLUZIONE - RISPOSTA CORRETTA: B
+L'altezza divide la base in due segmenti da 5 cm. Per Pitagora: h = sqrt(13^2 - 5^2) = sqrt(144) = 12.
+Area = (10 x 12)/2 = 60 cm^2.
+
+
+
+
+                                                                    13
+                                                       Mock test Bocconi-style - ordine misto
+
+
+QUANTITATIVE          DOMANDA 13
+Un'urna contiene 4 palline rosse e 3 blu. Si estraggono contemporaneamente 3 palline. Qual è la probabilità di
+ottenere esattamente 2 palline rosse?
+A. 12/35
+B. 18/35
+C. 3/7
+D. 4/7
+                                                NON SCORRERE OLTRE FINCHE NON HAI RISPOSTO
+
+
+
+
+SOLUZIONE - RISPOSTA CORRETTA: B
+Casi favorevoli: C(4,2) x C(3,1) = 6 x 3 = 18. Casi totali: C(7,3) = 35.
+La probabilità è 18/35. Quando l'ordine non conta, usare le combinazioni.
+
+
+
+
+                                                                           14
+                                                       Mock test Bocconi-style - ordine misto
+
+
+QUANTITATIVE         DOMANDA 14
+Da un gruppo di 8 persone deve essere formato un comitato di 3 persone. Anna e Bruno non possono far parte
+contemporaneamente del comitato. Quanti comitati diversi possono essere formati?
+A. 42
+B. 46
+C. 48
+D. 50
+                                                  NON SCORRERE OLTRE FINCHE NON HAI RISPOSTO
+
+
+
+
+SOLUZIONE - RISPOSTA CORRETTA: D
+Comitati totali: C(8,3) = 56. Comitati vietati con Anna e Bruno: la terza persona può essere una delle altre 6.
+56 - 6 = 50. Pattern: totale meno casi vietati.
+
+
+
+
+                                                                        15
+                                                  Mock test Bocconi-style - ordine misto
+
+
+DATA INSIGHTS        DOMANDA 15
+                Magazzino                                  Spedizioni aprile                          Costi aprile
+Nord                                                              3.000                               EUR 50.000
+Centro                                                            2.500                               EUR 42.000
+Sud                                                               1.800                               EUR 27.000
+
+
+
+
+Quale magazzino ha avuto il costo operativo medio per spedizione più basso ad aprile?
+A. Sud
+B. Nord
+C. Centro
+D. Tutti uguali
+                                           NON SCORRERE OLTRE FINCHE NON HAI RISPOSTO
+
+
+
+
+SOLUZIONE - RISPOSTA CORRETTA: A
+Nord: 50.000/3.000 = circa EUR 16,67. Centro: 42.000/2.500 = EUR 16,80. Sud: 27.000/1.800 = EUR 15.
+Il valore più basso è quello del Sud.
+
+
+
+
+                                                                   16
+                                                   Mock test Bocconi-style - ordine misto
+
+
+DATA INSIGHTS        DOMANDA 16
+A maggio, le spedizioni di ciascun magazzino aumentano del 10%, mentre i costi operativi rimangono invariati.
+
+                Magazzino                                   Spedizioni aprile                     Costi aprile
+Nord                                                               3.000                           EUR 50.000
+Centro                                                             2.500                           EUR 42.000
+Sud                                                                1.800                           EUR 27.000
+
+
+
+
+Qual è il nuovo costo medio complessivo per spedizione?
+A. EUR 13,50
+B. EUR 14,00
+C. EUR 14,50
+D. Circa EUR 14,82
+                                            NON SCORRERE OLTRE FINCHE NON HAI RISPOSTO
+
+
+
+
+SOLUZIONE - RISPOSTA CORRETTA: D
+Costi totali = EUR 119.000. Spedizioni iniziali = 7.300; dopo l'aumento diventano 8.030.
+119.000/8.030 = circa EUR 14,82.
+
+
+
+
+                                                                    17
+                                                   Mock test Bocconi-style - ordine misto
+
+
+VERBAL     DOMANDA 17
+Uno studio condotto in cinquanta quartieri ha rilevato che una maggiore copertura arborea è associata a temperature
+superficiali diurne più basse. L'associazione risulta particolarmente forte durante le ondate di calore. I quartieri più ricchi
+tendono però ad avere sia più alberi sia edifici costruiti con materiali maggiormente capaci di limitare l'assorbimento di
+calore. I ricercatori hanno controllato statisticamente per reddito e densita abitativa, ma non per i materiali edilizi. Gli autori
+avvertono inoltre che la temperatura superficiale misurata dai satelliti non coincide necessariamente con l'esposizione
+termica sperimentata all'interno degli edifici.
+Quale elemento minaccia maggiormente l'interpretazione causale dell'associazione tra alberi e temperatura?
+A. Il numero totale di quartieri analizzati.
+B. L'utilizzo di dati satellitari.
+C. La maggiore intensita dell'associazione durante le ondate di calore.
+D. Le differenze nei materiali edilizi.
+                                            NON SCORRERE OLTRE FINCHE NON HAI RISPOSTO
+
+
+
+
+SOLUZIONE - RISPOSTA CORRETTA: D
+I materiali edilizi possono influenzare la temperatura e sono correlati con la ricchezza, a sua volta correlata con la presenza di alberi.
+Non èssendo stati controllati, possono confondere la relazione osservata.
+
+
+
+
+                                                                    18
+                                                   Mock test Bocconi-style - ordine misto
+
+
+VERBAL     DOMANDA 18
+Uno studio condotto in cinquanta quartieri ha rilevato che una maggiore copertura arborea è associata a temperature
+superficiali diurne più basse. L'associazione risulta particolarmente forte durante le ondate di calore. I quartieri più ricchi
+tendono però ad avere sia più alberi sia edifici costruiti con materiali maggiormente capaci di limitare l'assorbimento di
+calore. I ricercatori hanno controllato statisticamente per reddito e densita abitativa, ma non per i materiali edilizi. Gli autori
+avvertono inoltre che la temperatura superficiale misurata dai satelliti non coincide necessariamente con l'esposizione
+termica sperimentata all'interno degli edifici.
+Quale affermazione è supportata dal testo?
+A. Gli alberi eliminano completamente le differenze termiche tra quartieri.
+B. L'associazione tra copertura arborea e temperatura e più forte durante le ondate di calore.
+C. Tutti i quartieri ricchi hanno temperature basse.
+D. La temperatura interna coincide con quella superficiale.
+                                            NON SCORRERE OLTRE FINCHE NON HAI RISPOSTO
+
+
+
+
+SOLUZIONE - RISPOSTA CORRETTA: B
+Il testo afferma esplicitamente che l'associazione è particolarmente forte durante le ondate di calore.
+Le altre opzioni sono assolute o contraddicono il testo.
+
+
+
+
+                                                                    19
+                                                    Mock test Bocconi-style - ordine misto
+
+
+VERBAL      DOMANDA 19
+Uno studio condotto in cinquanta quartieri ha rilevato che una maggiore copertura arborea è associata a temperature
+superficiali diurne più basse. L'associazione risulta particolarmente forte durante le ondate di calore. I quartieri più ricchi
+tendono però ad avere sia più alberi sia edifici costruiti con materiali maggiormente capaci di limitare l'assorbimento di
+calore. I ricercatori hanno controllato statisticamente per reddito e densita abitativa, ma non per i materiali edilizi. Gli autori
+avvertono inoltre che la temperatura superficiale misurata dai satelliti non coincide necessariamente con l'esposizione
+termica sperimentata all'interno degli edifici.
+Quale conclusione non può essere dedotta?
+A. Copertura arborea e temperatura superficiale risultano associate.
+B. Gli abitanti degli edifici hanno necessariamente sperimentato una riduzione termica della stessa entità.
+C. I quartieri più ricchi tendono ad avere più alberi.
+D. Lo studio ha controllato per reddito e densita abitativa.
+                                             NON SCORRERE OLTRE FINCHE NON HAI RISPOSTO
+
+
+
+
+SOLUZIONE - RISPOSTA CORRETTA: B
+Il testo distingue la temperatura superficiale dall'esposizione termica all'interno degli edifici.
+Il risultato satellitare non può essere trasferito automaticamente all'esperienza degli abitanti.
+
+
+
+
+                                                                     20
+                                                   Mock test Bocconi-style - ordine misto
+
+
+QUANTITATIVE        DOMANDA 20
+In un primo gruppo vi sono 20 studenti con voto medio 24. In un secondo gruppo vi sono 30 studenti con voto
+medio 30. Qual è la media complessiva?
+A. 27,6
+B. 27
+C. 28
+D. 28,5
+                                            NON SCORRERE OLTRE FINCHE NON HAI RISPOSTO
+
+
+
+
+SOLUZIONE - RISPOSTA CORRETTA: A
+Media ponderata = (20 x 24 + 30 x 30)/(20 + 30) = 1.380/50 = 27,6.
+La media semplice tra 24 e 30 sarebbe errata perché i gruppi hanno dimensioni diverse.
+
+
+
+
+                                                                     21
+                                                   Mock test Bocconi-style - ordine misto
+
+
+QUANTITATIVE        DOMANDA 21
+Siano x e y numeri reali tali che x + y < 0 e xy > 0. Quale affermazione è necessariamente vera?
+A. x > 0 e y > 0
+B. x e y hanno segno opposto
+C. x < 0 e y < 0
+D. Non è possibile determinare il loro segno
+                                            NON SCORRERE OLTRE FINCHE NON HAI RISPOSTO
+
+
+
+
+SOLUZIONE - RISPOSTA CORRETTA: C
+xy > 0 implica che x e y hanno lo stesso segno. x + y < 0 esclude che siano entrambi positivi.
+Devono quindi essere entrambi negativi.
+
+
+
+
+                                                                    22
+                                                     Mock test Bocconi-style - ordine misto
+
+
+QUANTITATIVE         DOMANDA 22
+Per quale valore di x è verificata l'equazione log_2(x - 1) + log_2(x + 1) = 3?
+A. 1
+B. 2
+C. sqrt(7)
+D. 3
+                                              NON SCORRERE OLTRE FINCHE NON HAI RISPOSTO
+
+
+
+
+SOLUZIONE - RISPOSTA CORRETTA: D
+Dominio: x > 1. Unendo i logaritmi: log_2[(x - 1)(x + 1)] = 3.
+x^2 - 1 = 8, quindi x^2 = 9. Il dominio elimina -3 e resta x = 3.
+
+
+
+
+                                                                      23
+                                                Mock test Bocconi-style - ordine misto
+
+
+DATA INSIGHTS       DOMANDA 23
+Il budget totale è EUR 600.000. La categoria Formazione viene eliminata e il suo budget viene redistribuito in parti uguali, in
+valore assoluto, tra Ricerca e Risorse Umane.
+
+                           Categoria                                                        Quota iniziale
+Ricerca                                                                                          30%
+Marketing                                                                                        25%
+Operations                                                                                       20%
+Risorse Umane                                                                                    15%
+Formazione                                                                                       10%
+
+
+
+
+Qual è la nuova percentuale di budget destinata a Risorse Umane?
+A. 17,5%
+B. 20%
+C. 22,5%
+D. 25%
+                                          NON SCORRERE OLTRE FINCHE NON HAI RISPOSTO
+
+
+
+
+SOLUZIONE - RISPOSTA CORRETTA: B
+Formazione vale il 10% di EUR 600.000, cioe EUR 60.000. Meta, EUR 30.000, va a Risorse Umane.
+HR passa da EUR 90.000 a EUR 120.000: 120.000/600.000 = 20%.
+
+
+
+
+                                                                 24
+                                                  Mock test Bocconi-style - ordine misto
+
+
+DATA INSIGHTS       DOMANDA 24
+Il budget totale è EUR 600.000. La categoria Formazione viene eliminata e il suo budget viene redistribuito in parti uguali, in
+valore assoluto, tra Ricerca e Risorse Umane.
+
+                            Categoria                                                        Quota iniziale
+Ricerca                                                                                           30%
+Marketing                                                                                         25%
+Operations                                                                                        20%
+Risorse Umane                                                                                     15%
+Formazione                                                                                        10%
+
+
+
+
+Dopo la redistribuzione, di quanti punti percentuali la quota di Ricerca supera quella di Marketing?
+A. 5 punti percentuali
+B. 7,5 punti percentuali
+C. 10 punti percentuali
+D. 15 punti percentuali
+                                           NON SCORRERE OLTRE FINCHE NON HAI RISPOSTO
+
+
+
+
+SOLUZIONE - RISPOSTA CORRETTA: C
+Ricerca riceve metà del 10% di Formazione, cioe 5 punti percentuali. Passa dal 30% al 35%.
+Marketing resta al 25%; la differenza è 10 punti percentuali.
+
+
+
+
+                                                                   25
+                                                  Mock test Bocconi-style - ordine misto
+
+
+VERBAL     DOMANDA 25
+Una piattaforma di streaming ha aumentato del 10% il prezzo mensile medio degli abbonamenti. Nei tre mesi successivi, il
+numero totale degli abbonati è diminuito del 3%. I dirigenti hanno concluso che la domanda è relativamente anelastica.
+Durante lo stesso periodo, però, la piattaforma ha modificato le promozioni, aumentato il peso degli abbonamenti annuali e
+introdotto un nuovo piano premium. Queste variazioni rendono meno immediato confrontare il prezzo e il numero di
+abbonati prima e dopo l'aumento.
+Qual è la principale debolezza della conclusione dei dirigenti?
+A. La riduzione degli abbonati è inferiore all'aumento del prezzo.
+B. La piattaforma opera nel settore digitale.
+C. Il periodo osservato dura tre mesi.
+D. Sono cambiate contemporaneamente la composizione dei piani e le promozioni.
+                                           NON SCORRERE OLTRE FINCHE NON HAI RISPOSTO
+
+
+
+
+SOLUZIONE - RISPOSTA CORRETTA: D
+Per stimare l'elasticità occorre confrontare prezzo e quantità mantenendo costanti le altre condizioni.
+Qui sono cambiati anche tipologia dei piani, durata degli abbonamenti e promozioni.
+
+
+
+
+                                                                   26
+                                                    Mock test Bocconi-style - ordine misto
+
+
+VERBAL     DOMANDA 26
+Una piattaforma di streaming ha aumentato del 10% il prezzo mensile medio degli abbonamenti. Nei tre mesi successivi, il
+numero totale degli abbonati è diminuito del 3%. I dirigenti hanno concluso che la domanda è relativamente anelastica.
+Durante lo stesso periodo, però, la piattaforma ha modificato le promozioni, aumentato il peso degli abbonamenti annuali e
+introdotto un nuovo piano premium. Queste variazioni rendono meno immediato confrontare il prezzo e il numero di
+abbonati prima e dopo l'aumento.
+Supponendo che tutti gli abbonati paghino lo stesso prezzo e che non vi siano altri cambiamenti, quale sarebbe
+la variazione dei ricavi?
+A. Aumento del 6,7%
+B. Aumento del 7%
+C. Aumento del 10%
+D. Diminuzione del 3%
+                                               NON SCORRERE OLTRE FINCHE NON HAI RISPOSTO
+
+
+
+
+SOLUZIONE - RISPOSTA CORRETTA: A
+Ricavi successivi = 1,10P x 0,97Q = 1,067PQ.
+L'aumento dei ricavi sarebbe quindi del 6,7%.
+
+
+
+
+                                                                     27
+                                                 Mock test Bocconi-style - ordine misto
+
+
+VERBAL     DOMANDA 27
+Una piattaforma di streaming ha aumentato del 10% il prezzo mensile medio degli abbonamenti. Nei tre mesi successivi, il
+numero totale degli abbonati è diminuito del 3%. I dirigenti hanno concluso che la domanda è relativamente anelastica.
+Durante lo stesso periodo, però, la piattaforma ha modificato le promozioni, aumentato il peso degli abbonamenti annuali e
+introdotto un nuovo piano premium. Queste variazioni rendono meno immediato confrontare il prezzo e il numero di
+abbonati prima e dopo l'aumento.
+Quale risultato rafforzerebbe maggiormente la conclusione sull'anelasticita?
+A. I dirigenti ritengono che il marchio sia forte.
+B. Il nuovo piano premium riceve recensioni positive.
+C. Nella stessa coorte e a parità di piano, il prezzo aumenta del 10% e la quantità domandata diminuisce del 3%.
+D. I concorrenti aumentano la spesa pubblicitaria.
+                                          NON SCORRERE OLTRE FINCHE NON HAI RISPOSTO
+
+
+
+
+SOLUZIONE - RISPOSTA CORRETTA: C
+A parità di prodotto e coorte, una diminuzione percentuale della quantità inferiore all'aumento percentuale del prezzo indica
+elasticità in valore assoluto inferiore a 1.
+
+
+
+
+                                                                  28
+                                                    Mock test Bocconi-style - ordine misto
+
+
+QUANTITATIVE         DOMANDA 28
+Una macchina A completa un lavoro in 6 ore. Una macchina B completa lo stesso lavoro in 4 ore. Quanto
+impiegano lavorando contemporaneamente?
+A. 2 ore
+B. 2 ore e 24 minuti
+C. 2 ore e 30 minuti
+D. 3 ore
+                                             NON SCORRERE OLTRE FINCHE NON HAI RISPOSTO
+
+
+
+
+SOLUZIONE - RISPOSTA CORRETTA: B
+Velocita complessiva = 1/6 + 1/4 = 5/12 del lavoro per ora. Il tempo è il reciproco: 12/5 = 2,4 ore.
+0,4 ore = 24 minuti. Totale: 2 ore e 24 minuti.
+
+
+
+
+                                                                      29
+                                                   Mock test Bocconi-style - ordine misto
+
+
+QUANTITATIVE        DOMANDA 29
+Le aree di due cerchi sono nel rapporto 9:16. In quale rapporto stanno le loro circonferenze?
+A. 3:4
+B. 9:16
+C. 9:8
+D. 81:256
+                                            NON SCORRERE OLTRE FINCHE NON HAI RISPOSTO
+
+
+
+
+SOLUZIONE - RISPOSTA CORRETTA: A
+L'area è proporzionale al quadrato del raggio. Se A1:A2 = 9:16, allora r1:r2 = 3:4.
+La circonferenza è proporzionale al raggio, quindi il rapporto è 3:4.
+
+
+
+
+                                                                    30
+                                                 Mock test Bocconi-style - ordine misto
+
+
+QUANTITATIVE        DOMANDA 30
+Domanda: qual è il valore di x? (1) x + y = 10. (2) x - y = 2.
+A. La sola affermazione 1 è sufficiente.
+B. La sola affermazione 2 è sufficiente.
+C. Le due affermazioni insieme sono sufficienti, ma nessuna lo è da sola.
+D. Ciascuna affermazione è sufficiente da sola.
+                                           NON SCORRERE OLTRE FINCHE NON HAI RISPOSTO
+
+
+
+
+SOLUZIONE - RISPOSTA CORRETTA: C
+Ciascuna equazione, da sola, contiene due incognite e non determina x.
+Insieme: sommando le due equazioni si ottiene 2x = 12, quindi x = 6.
+
+
+
+
+                                                                  31
+                                                  Mock test Bocconi-style - ordine misto
+
+
+DATA INSIGHTS            DOMANDA 31
+              Attivita                         Valore                              Rischio             Rendimento
+Titoli di Stato                             EUR 200.000                             Basso                 3%
+Obbligazioni societarie                     EUR 150.000                             Medio                 5%
+Azioni                                      EUR 100.000                              Alto                 8%
+Criptoattivita                               EUR 50.000                              Alto                 -10%
+Liquidita                                   EUR 100.000                             Basso                 0%
+
+
+
+
+Quale percentuale del portafoglio è investita in attività ad alto rischio?
+A. 15%
+B. 20%
+C. 22,5%
+D. 25%
+                                           NON SCORRERE OLTRE FINCHE NON HAI RISPOSTO
+
+
+
+
+SOLUZIONE - RISPOSTA CORRETTA: D
+Attività ad alto rischio = EUR 100.000 + EUR 50.000 = EUR 150.000. Portafoglio totale = EUR 600.000.
+150.000/600.000 = 25%.
+
+
+
+
+                                                                   32
+                                                 Mock test Bocconi-style - ordine misto
+
+
+DATA INSIGHTS            DOMANDA 32
+              Attivita                        Valore                              Rischio   Rendimento
+Titoli di Stato                             EUR 200.000                            Basso       3%
+Obbligazioni societarie                     EUR 150.000                            Medio       5%
+Azioni                                      EUR 100.000                             Alto       8%
+Criptoattivita                              EUR 50.000                              Alto       -10%
+Liquidita                                   EUR 100.000                            Basso       0%
+
+
+
+
+Qual è il rendimento annuo complessivo del portafoglio?
+A. 2,75%
+B. 3,20%
+C. 4%
+D. 6%
+                                           NON SCORRERE OLTRE FINCHE NON HAI RISPOSTO
+
+
+
+
+SOLUZIONE - RISPOSTA CORRETTA: A
+Rendimenti monetari: 6.000 + 7.500 + 8.000 - 5.000 = EUR 16.500.
+16.500/600.000 = 2,75%. La media semplice dei rendimenti sarebbe errata.
+
+
+
+
+                                                                   33
+                                                Mock test Bocconi-style - ordine misto
+
+
+VERBAL     DOMANDA 33
+Sei dipartimenti hanno budget diversi. Marketing ha il budget più alto; Risorse Umane quello più basso; IT > Vendite > Finanza
+> Operations.
+Quale affermazione è necessariamente vera?
+A. Vendite è al secondo posto.
+B. Operations è al terzo posto.
+C. Risorse Umane è al quinto posto.
+D. Finanza è al quarto posto.
+                                         NON SCORRERE OLTRE FINCHE NON HAI RISPOSTO
+
+
+
+
+SOLUZIONE - RISPOSTA CORRETTA: D
+L'ordine completo è Marketing > IT > Vendite > Finanza > Operations > Risorse Umane.
+Finanza è necessariamente al quarto posto.
+
+
+
+
+                                                                 34
+                                                   Mock test Bocconi-style - ordine misto
+
+
+VERBAL      DOMANDA 34
+Cinque libri K, L, M, N e P vengono collocati in fila. K viene prima di M; N viene prima di L; P non può essere né il primo né
+l'ultimo.
+Quale disposizione è possibile?
+A. K, P, M, L, N
+B. N, K, P, M, L
+C. P, N, L, K, M
+D. N, L, M, P, K
+                                             NON SCORRERE OLTRE FINCHE NON HAI RISPOSTO
+
+
+
+
+SOLUZIONE - RISPOSTA CORRETTA: B
+N, K, P, M, L rispetta tutte le condizioni: K precede M, N precede L e P non è agli estremi.
+Le altre disposizioni violano almeno un vincolo.
+
+
+
+
+                                                                    35
+                                                    Mock test Bocconi-style - ordine misto
+
+
+VERBAL      DOMANDA 35
+Tutti gli analisti che utilizzano il Modello X effettuano anche stress test. Alcuni analisti che effettuano stress test non utilizzano
+il Modello Y.
+Quale affermazione è necessariamente vera?
+A. Alcuni utilizzatori del Modello X non utilizzano il Modello Y.
+B. Tutti coloro che effettuano stress test utilizzano il Modello X.
+C. Non tutti coloro che effettuano stress test utilizzano il Modello Y.
+D. Nessun utilizzatore del Modello X utilizza il Modello Y.
+                                            NON SCORRERE OLTRE FINCHE NON HAI RISPOSTO
+
+
+
+
+SOLUZIONE - RISPOSTA CORRETTA: C
+Alcuni soggetti che effettuano stress test non usano Y; quindi non tutti coloro che effettuano stress test usano Y.
+Non sappiamo se quei soggetti utilizzino anche X.
+
+
+
+
+                                                                     36
+                                                  Mock test Bocconi-style - ordine misto
+
+
+VERBAL     DOMANDA 36
+Un'università sostiene che estendere l'orario di apertura della biblioteca migliorera i voti, perché gli studenti avranno più
+tempo disponibile per studiare.
+Quale assunzione è necessaria?
+A. Almeno una parte degli studenti utilizzera produttivamente le ore aggiuntive.
+B. Tutti gli studenti preferiscono studiare di notte.
+C. I voti dipendono esclusivamente dal numero di ore di studio.
+D. La biblioteca è l'unico luogo in cui e possibile studiare.
+                                            NON SCORRERE OLTRE FINCHE NON HAI RISPOSTO
+
+
+
+
+SOLUZIONE - RISPOSTA CORRETTA: A
+Se nessuno utilizzasse produttivamente le ore aggiuntive, il meccanismo proposto non potrebbe migliorare i risultati.
+Le altre affermazioni sono molto più forti del necessario.
+
+
+
+
+                                                                   37
+                                            Mock test Bocconi-style - ordine misto
+
+
+DATA INSIGHTS        DOMANDA 37
+                               Mese                                                  Tasso di disoccupazione
+Gennaio                                                                                       8,0%
+Aprile                                                                                        7,4%
+Luglio                                                                                        7,1%
+Ottobre                                                                                       6,8%
+
+
+
+
+Di quanti punti percentuali è diminuito il tasso tra gennaio e ottobre?
+A. 1,2 punti percentuali
+B. 1,5 punti percentuali
+C. 6,8 punti percentuali
+D. 15 punti percentuali
+                                       NON SCORRERE OLTRE FINCHE NON HAI RISPOSTO
+
+
+
+
+SOLUZIONE - RISPOSTA CORRETTA: A
+8,0% - 6,8% = 1,2 punti percentuali.
+
+
+
+
+                                                             38
+                                                   Mock test Bocconi-style - ordine misto
+
+
+DATA INSIGHTS        DOMANDA 38
+                               Mese                                                         Tasso di disoccupazione
+Gennaio                                                                                              8,0%
+Aprile                                                                                               7,4%
+Luglio                                                                                               7,1%
+Ottobre                                                                                              6,8%
+
+
+
+
+Qual è stata la diminuzione percentuale del tasso di disoccupazione rispetto al valore di gennaio?
+A. 1,2%
+B. 12%
+C. 15%
+D. 17,6%
+                                             NON SCORRERE OLTRE FINCHE NON HAI RISPOSTO
+
+
+
+
+SOLUZIONE - RISPOSTA CORRETTA: C
+La diminuzione assoluta è 1,2 punti. Rispetto al valore iniziale: 1,2/8 = 0,15 = 15%.
+Distinzione: 1,2 punti percentuali corrisponde a una riduzione relativa del 15%.
+
+
+
+
+                                                                     39
+                                                    Mock test Bocconi-style - ordine misto
+
+
+QUANTITATIVE          DOMANDA 39
+L'intero n soddisfa 1 <= n <= 6 e n(7 - n) > 10. Quanti valori di n sono possibili?
+A. 1
+B. 2
+C. 3
+D. 4
+                                               NON SCORRERE OLTRE FINCHE NON HAI RISPOSTO
+
+
+
+
+SOLUZIONE - RISPOSTA CORRETTA: B
+Testando i sei valori: 6, 10, 12, 12, 10, 6.
+La quantità è maggiore di 10 soltanto per n = 3 e n = 4: due valori.
+
+
+
+
+                                                                       40
+                                                Mock test Bocconi-style - ordine misto
+
+
+QUANTITATIVE         DOMANDA 40
+Un prodotto costa EUR 250. Viene applicato prima uno sconto del 20% e successivamente uno sconto del 10% sul
+prezzo già scontato. Qual è il prezzo finale?
+A. EUR 175
+B. EUR 177,50
+C. EUR 180,50
+D. EUR 180
+                                          NON SCORRERE OLTRE FINCHE NON HAI RISPOSTO
+
+
+
+
+SOLUZIONE - RISPOSTA CORRETTA: D
+250 x 0,80 = 200; poi 200 x 0,90 = 180.
+Lo sconto complessivo è del 28%, non del 30%.
+
+
+
+
+                                                                 41
+                                                       Mock test Bocconi-style - ordine misto
+
+
+QUANTITATIVE          DOMANDA 41
+Se x > 0 e x^3 - 4x = 0, quanto vale x?
+A. 2
+B. 4
+C. sqrt(2)
+D. Non è determinabile
+                                                NON SCORRERE OLTRE FINCHE NON HAI RISPOSTO
+
+
+
+
+SOLUZIONE - RISPOSTA CORRETTA: A
+x^3 - 4x = x(x^2 - 4) = x(x - 2)(x + 2). Le soluzioni sono 0, 2 e -2.
+Il vincolo x > 0 lascia soltanto x = 2.
+
+
+
+
+                                                                        42
+                                                 Mock test Bocconi-style - ordine misto
+
+
+DATA INSIGHTS       DOMANDA 42
+L'indice del prezzo di una materia prima pone gennaio uguale a 100. A gennaio il prezzo effettivo era EUR 80 per unità.
+
+                  Mese                                          Indice                           Quantita utilizzata
+Gennaio                                                           100                                   200
+Marzo                                                             115                                   240
+Aprile                                                            90                                    300
+
+
+
+
+Qual è la spesa complessiva sostenuta a marzo?
+A. EUR 19.200
+B. EUR 22.080
+C. EUR 24.000
+D. EUR 27.600
+                                           NON SCORRERE OLTRE FINCHE NON HAI RISPOSTO
+
+
+
+
+SOLUZIONE - RISPOSTA CORRETTA: B
+Prezzo di marzo = 80 x 115/100 = EUR 92. Spesa = 92 x 240 = EUR 22.080.
+L'indice 115 non significa EUR 115: indica un prezzo superiore del 15% rispetto a gennaio.
+
+
+
+
+                                                                  43
+                                                   Mock test Bocconi-style - ordine misto
+
+
+DATA INSIGHTS        DOMANDA 43
+L'indice del prezzo di una materia prima pone gennaio uguale a 100. A gennaio il prezzo effettivo era EUR 80 per unità.
+
+                   Mese                                            Indice                        Quantita utilizzata
+Gennaio                                                             100                                 200
+Marzo                                                               115                                 240
+Aprile                                                              90                                  300
+
+
+
+
+Come varia la spesa da marzo ad aprile?
+A. Aumenta di EUR 480
+B. Aumenta di EUR 3.520
+C. Diminuisce di EUR 4.080
+D. Diminuisce di EUR 480
+                                            NON SCORRERE OLTRE FINCHE NON HAI RISPOSTO
+
+
+
+
+SOLUZIONE - RISPOSTA CORRETTA: D
+Prezzo di aprile = 80 x 0,90 = EUR 72. Spesa di aprile = 72 x 300 = EUR 21.600.
+Rispetto a marzo, 21.600 - 22.080 = -480: diminuisce di EUR 480.
+
+
+
+
+                                                                    44
+                                                    Mock test Bocconi-style - ordine misto
+
+
+QUANTITATIVE         DOMANDA 44
+In una progressione aritmetica il quinto termine è 18 e l'undicesimo termine è 42. Qual è la somma dei primi 10
+termini?
+A. 180
+B. 190
+C. 200
+D. 210
+                                             NON SCORRERE OLTRE FINCHE NON HAI RISPOSTO
+
+
+
+
+SOLUZIONE - RISPOSTA CORRETTA: C
+a1 + 4d = 18 e a1 + 10d = 42. Sottraendo: 6d = 24, quindi d = 4 e a1 = 2.
+a10 = 38; S10 = 10(2 + 38)/2 = 200.
+
+
+
+
+                                                                      45
+                                            Mock test Bocconi-style - ordine misto
+
+
+QUANTITATIVE          DOMANDA 45
+La superficie totale di un cubo è 150 cm^2. Qual è il suo volume?
+A. 25 cm^3
+B. 75 cm^3
+C. 100 cm^3
+D. 125 cm^3
+                                       NON SCORRERE OLTRE FINCHE NON HAI RISPOSTO
+
+
+
+
+SOLUZIONE - RISPOSTA CORRETTA: D
+6l^2 = 150, quindi l^2 = 25 e l = 5.
+Volume = l^3 = 125 cm^3.
+
+
+
+
+                                                             46
+                                                     Mock test Bocconi-style - ordine misto
+
+
+QUANTITATIVE         DOMANDA 46
+Una soluzione di 40 litri contiene il 30% di acido. Vengono aggiunti 20 litri d'acqua. Qual è la nuova percentuale
+di acido?
+A. 15%
+B. 20%
+C. 22,5%
+D. 25%
+                                              NON SCORRERE OLTRE FINCHE NON HAI RISPOSTO
+
+
+
+
+SOLUZIONE - RISPOSTA CORRETTA: B
+Acido iniziale = 40 x 30% = 12 litri. Il volume totale diventa 60 litri.
+12/60 = 20%.
+
+
+
+
+                                                                       47
+                                                  Mock test Bocconi-style - ordine misto
+
+
+DATA INSIGHTS       DOMANDA 47
+Su 1.000 studenti, 620 utilizzano la piattaforma A, 480 utilizzano la piattaforma B e 150 non utilizzano nessuna delle due
+piattaforme.
+Quanti studenti utilizzano esattamente una delle due piattaforme?
+A. 350
+B. 500
+C. 600
+D. 850
+                                           NON SCORRERE OLTRE FINCHE NON HAI RISPOSTO
+
+
+
+
+SOLUZIONE - RISPOSTA CORRETTA: C
+Usano almeno una piattaforma: 1.000 - 150 = 850. Intersezione: 620 + 480 - 850 = 250.
+Esattamente una = 850 - 250 = 600.
+
+
+
+
+                                                                   48
+                                                 Mock test Bocconi-style - ordine misto
+
+
+DATA INSIGHTS       DOMANDA 48
+Su 1.000 studenti, 620 utilizzano la piattaforma A, 480 utilizzano la piattaforma B e 150 non utilizzano nessuna delle due
+piattaforme.
+Tra gli studenti che utilizzano la piattaforma A, quale percentuale utilizza anche B?
+A. Circa 40,3%
+B. 25%
+C. 48%
+D. 62%
+                                           NON SCORRERE OLTRE FINCHE NON HAI RISPOSTO
+
+
+
+
+SOLUZIONE - RISPOSTA CORRETTA: A
+L'intersezione è 250. La percentuale condizionata è 250/620 = circa 40,3%.
+Il denominatore è 620, non 1.000.
+
+
+
+
+                                                                  49
+                                                  Mock test Bocconi-style - ordine misto
+
+
+DATA INSIGHTS        DOMANDA 49
+Il lavoro da remoto riduce del 50% i costi di trasporto in tutte le città. Chi sceglie Treviso riceve inoltre un bonus mensile di
+EUR 80, da sottrarre al costo complessivo.
+
+             Citta                             Affitto                            Trasporti                  Alimentazione
+Venezia                                        EUR 800                             EUR 120                       EUR 300
+Padova                                         EUR 650                             EUR 180                       EUR 290
+Treviso                                        EUR 600                             EUR 220                       EUR 280
+
+
+
+
+Quale città presenta il costo mensile netto più basso?
+A. Venezia
+B. Padova
+C. Venezia e Padova hanno lo stesso costo
+D. Treviso
+                                            NON SCORRERE OLTRE FINCHE NON HAI RISPOSTO
+
+
+
+
+SOLUZIONE - RISPOSTA CORRETTA: D
+Venezia: 800 + 60 + 300 = EUR 1.160. Padova: 650 + 90 + 290 = EUR 1.030.
+Treviso: 600 + 110 + 280 - 80 = EUR 910. Treviso è la meno costosa.
+
+
+
+
+                                                                      50
+                                                   Mock test Bocconi-style - ordine misto
+
+
+DATA INSIGHTS        DOMANDA 50
+Il lavoro da remoto riduce del 50% i costi di trasporto in tutte le città. Chi sceglie Treviso riceve inoltre un bonus mensile di
+EUR 80, da sottrarre al costo complessivo.
+
+             Citta                              Affitto                            Trasporti                 Alimentazione
+Venezia                                        EUR 800                              EUR 120                      EUR 300
+Padova                                         EUR 650                              EUR 180                      EUR 290
+Treviso                                        EUR 600                              EUR 220                      EUR 280
+
+
+
+
+Quanto si risparmia scegliendo Treviso anziche Venezia?
+A. EUR 170 al mese
+B. EUR 250 al mese
+C. EUR 270 al mese
+D. EUR 330 al mese
+                                             NON SCORRERE OLTRE FINCHE NON HAI RISPOSTO
+
+
+
+
+SOLUZIONE - RISPOSTA CORRETTA: B
+Costo netto Venezia = EUR 1.160. Costo netto Treviso = EUR 910.
+Risparmio = 1.160 - 910 = EUR 250 al mese.
+
+
+
+
+                                                                    51
+

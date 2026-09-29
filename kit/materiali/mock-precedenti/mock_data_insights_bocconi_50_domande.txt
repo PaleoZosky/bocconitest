@@ -1,0 +1,1456 @@
+       Mock Data Insights - 50 domande stile
+                     Bocconi
+Obiettivo: allenarti a riconoscere i pattern, non solo a fare calcoli. Le domande sono costruite sui pattern
+emersi dai tuoi mock: tabelle, grafici a barre, line chart, pie chart, quote, margini, forecast, pesi, soglie e
+dati insufficienti.
+
+
+
+Pagina iniziale - Metodo operativo
+Regola base. Nel test non puoi tornare indietro. Quindi ogni domanda deve essere classificata subito:
+fattibile, rischiosa, o da omettere/rispondere solo se puoi eliminare opzioni.
+Primi 20-30 secondi. Devi capire: cosa chiede, quale formula serve, dove sono i dati, se manca un dato
+essenziale. Se non lo capisci entro 30 secondi, la domanda è una trappola di tempo.
+Tempo massimo. Domanda facile: 60-90 secondi. Domanda media: 90-120 secondi. Oltre 120 secondi devi
+avere una risposta quasi certa, altrimenti stai bruciando punteggio.
+
+Formule e controlli ricorrenti
+• Variazione percentuale = (nuovo - vecchio) / vecchio x 100.
+• Punti percentuali = differenza diretta tra due percentuali, non variazione relativa.
+• Media ponderata = somma di valore x peso. Non usare la media semplice se ci sono quote o pesi.
+• Quota = parte / totale. Controlla sempre il denominatore.
+• Margine di contribuzione = prezzo - costo variabile. I costi fissi non servono se chiedono solo
+contribuzione.
+• Utile operativo = ricavi x margine - costi fissi.
+• Indice base 100: prezzo corrente = prezzo base x indice corrente / 100.
+• Pie chart con riallocazione: se elimini categorie, devi decidere se la redistribuzione è equa o
+proporzionale. Non inventarlo.
+• Forecast: applica prima la crescita al totale, poi quote/margini/costi.
+• Dati insufficienti: se mancano overlap, distribuzione interna o denominatori, non forzare il calcolo.
+
+Segnali di domanda lenta
+• Ogni opzione richiede un calcolo diverso.
+• Compaiono insieme crescita futura, quota costante e margine/costo.
+• La domanda usa "solo", "almeno", "entrambi" ma non dà gli overlap.
+• Ci sono bonus, soglie, penalità o condizioni se/allora.
+• Ci sono percentuali su basi diverse: totale, sottogruppo, premium, regione, ecc.
+• La domanda chiede "certamente" o "non determinabile".
+• Stai facendo il terzo passaggio e non hai ancora una risposta vicina.
+
+
+
+
+                                                                                                            Pagina 1
+Domande
+Domanda 1 - Vendite regionali e obiettivi 2024
+Regione                     2022                        2023                      Obiettivo 2024
+
+Nord                        760                         820                       900
+
+Centro                      610                         590                       640
+
+Sud                         420                         480                       540
+
+Isole                       300                         345                       390
+
+
+Sapendo che:
+• nel 2024 ogni regione ha raggiunto esattamente il proprio obiettivo
+• il costo operativo è pari al 34% delle vendite per Nord e Centro, 42% per Sud e Isole
+• il bonus regionale viene erogato se la crescita 2024 vs 2023 supera il 10%
+Sulla base dei dati, è corretto affermare che:
+A. il margine operativo del Nord nel 2024 supera quello di Centro e Sud sommati
+B. nessuna regione ha diritto al bonus nel 2024
+C. solo Sud e Isole hanno diritto al bonus nel 2024
+D. il totale vendite 2024 supera del 20% il totale vendite 2022
+
+
+
+
+                                                                                                   Pagina 2
+Domanda 2 - Produzione industriale per settore
+
+
+
+
+Sapendo che:
+• il costo di produzione per unità è: Automotive EUR 14.000, Elettronica EUR 900, Tessile EUR 150
+• nel 2023 l’Automotive ha esportato il 65% della produzione, l’Elettronica l’80%, il Tessile il 50%
+• ogni unità esportata genera un margine del 18% sul costo di produzione
+Il margine totale da esportazioni nel 2023 è stato maggiore per:
+A. Automotive
+B. Elettronica
+C. Tessile
+D. Automotive ed Elettronica hanno lo stesso margine
+
+
+
+
+                                                                                                       Pagina 3
+Domanda 3 - Soddisfazione clienti
+
+
+
+
+Qual è la differenza tra il punteggio più alto e quello più basso?
+A. 20 punti
+B. 24 punti
+C. 26 punti
+D. 28 punti
+
+
+
+
+                                                                     Pagina 4
+Domanda 4 - Budget dipartimentale annuale (migliaia EUR)
+Dipartimento        Q1              Q2               Q3       Q4    Totale
+
+Marketing           95              100              98       107   400
+
+Vendite             140             150              145      165   600
+
+R&D;                70              75               72       83    300
+
+HR                  45              50               48       57    200
+
+
+Sapendo che:
+• nel prossimo anno il budget totale aumenterà del 10%
+• Marketing manterrà la stessa quota percentuale sul totale
+• Vendite crescerà del 12%
+• R&D; crescerà come il totale
+Quale sarà il budget HR nel prossimo anno?
+A. circa EUR 195k
+B. circa EUR 208k
+C. circa EUR 220k
+D. circa EUR 230k
+
+
+
+
+                                                                             Pagina 5
+Domanda 5 - Fatturato trimestrale
+
+
+
+
+Sapendo che:
+• il margine operativo di A è il 24%, quello di B è il 30%
+• i costi fissi annuali sono: A = EUR 18M, B = EUR 10M
+• nel Q1 del prossimo anno A prevede +10% di fatturato, B prevede +15%
+Quale affermazione è corretta?
+A. l’utile operativo annuo di B supera quello di A di circa EUR 14M
+B. nel Q1 prossimo anno A supererà B di più di EUR 5M di fatturato
+C. il margine operativo annuo in valore assoluto di A supera quello di B
+D. la differenza di utile operativo tra A e B nel Q4 è inferiore a EUR 1M
+
+
+
+
+                                                                            Pagina 6
+Domanda 6 - Vendite mensili e contribuzione
+
+
+
+
+Sapendo che:
+• Prezzo X = EUR 90, Prezzo Y = EUR 130
+• Costo variabile X = EUR 55, Costo variabile Y = EUR 86
+• Costi fissi mensili: X = EUR 1.100, Y = EUR 900
+In quale mese il margine di contribuzione totale (X + Y) è stato massimo?
+A. Marzo
+B. Aprile
+C. Maggio
+D. Febbraio
+
+
+
+
+                                                                            Pagina 7
+Domanda 7 - Performance trimestrale fondi pensione (rendimento %)
+Fondo              Q1                  Q2              Q3               Q4               Media annua
+
+Prudente           +1,0                +0,8            +1,1             +0,9             +0,95
+
+Bilanciato         +2,5                -1,0            +2,8             +1,6             +1,48
+
+Aggressivo         +4,0                -4,5            +5,2             +3,5             +2,05
+
+
+Sapendo che:
+• un investitore ha allocato 50% nel Prudente, 30% nel Bilanciato, 20% nell’Aggressivo
+• il capitale iniziale è EUR 100.000
+• considerare solo il primo semestre (Q1+Q2) con capitalizzazione trimestrale
+Sulla base dei dati, è corretto affermare che:
+A. il rendimento complessivo del portafoglio nel primo semestre è negativo
+B. il fondo Bilanciato ha generato una perdita superiore a EUR 500 nel Q2
+C. il fondo Aggressivo ha generato una perdita inferiore a EUR 500 nel Q2
+D. il capitale finale dopo il primo semestre supera EUR 101.000
+
+
+
+
+                                                                                                       Pagina 8
+Domanda 8 - Distribuzione spese aziendali
+
+
+
+
+Sapendo che:
+• il budget totale attuale è EUR 2.000.000
+• l’anno prossimo il budget aumenterà del 20%
+• la quota R&D; salirà dal 22% al 28%
+Di quanto aumenterà la spesa R&D; in valore assoluto?
+A. EUR 180.000
+B. EUR 232.000
+C. EUR 260.000
+D. EUR 300.000
+
+
+
+
+                                                        Pagina 9
+Domanda 9 - Indicatori macroeconomici Q3 2024
+ Paese                 PIL YoY               Inflazione             Tasso BCE              Debito/PIL
+
+ Germania              +1,0%                 1,6%                   4,25%                  64%
+
+ Francia               +1,2%                 2,1%                   4,25%                  112%
+
+ Italia                -0,3%                 1,8%                   4,25%                  140%
+
+ Spagna                +2,1%                 2,9%                   4,25%                  108%
+
+
+Quale paese presenta il tasso di inflazione reale più basso (inflazione - crescita PIL)?
+A. Germania
+B. Francia
+C. Italia
+D. Spagna
+
+
+
+
+                                                                                                        Pagina 10
+Domanda 10 - Fatturato trimestrale per settore
+
+
+
+
+Qual è la variazione percentuale del fatturato del settore Tecnologia tra Q1 e Q4?
+A. Circa +28%
+B. Circa +32%
+C. Circa +36%
+D. Circa +42%
+
+
+
+
+                                                                                     Pagina 11
+Domanda 11 - Ripartizione spesa marketing
+
+
+
+
+Se l’azienda elimina completamente Stampa e Radio e redistribuisce equamente quel budget tra Digital e
+TV, quale sarà la nuova percentuale di Digital?
+A. 47,5%
+B. 50,0%
+C. 45,0%
+D. 52,0%
+
+
+
+
+                                                                                                 Pagina 12
+Domanda 12 - Costi operativi per divisione
+
+
+
+
+Quale voce di costo mostra la maggiore disparità percentuale tra Nord e Sud, calcolata come (Nord - Sud) /
+Sud?
+A. Utilities
+B. Marketing
+C. Personale
+D. Affitti
+
+
+
+
+                                                                                                    Pagina 13
+Domanda 13 - Composizione portafoglio investimenti
+Asset class                 Valore (M EUR)               Rendimento                    Rischio
+
+Azioni                      120                          8,2%                          Alto
+
+Obbligazioni                80                           3,5%                          Basso
+
+Immobiliare                 60                           5,8%                          Medio
+
+Materie prime               40                           12,1%                         Alto
+
+Liquidità                   20                           0,8%                          Basso
+
+
+Quale percentuale del portafoglio totale è investita in asset class ad alto rischio?
+A. 45,0%
+B. 50,0%
+C. 53,3%
+D. 60,0%
+
+
+
+
+                                                                                                 Pagina 14
+Domanda 14 - Tasso di disoccupazione
+
+
+
+
+Quale paese ha registrato la maggiore riduzione in punti percentuali del tasso di disoccupazione tra 2020 e
+2023?
+A. Spagna
+B. Tutti hanno avuto la stessa riduzione
+C. Italia
+D. Germania
+
+
+
+
+                                                                                                     Pagina 15
+Domanda 15 - Prezzi materie prime
+
+
+
+
+Sapendo che:
+• il prezzo del Petrolio a gennaio è EUR 70/barile
+• il prezzo dell’Oro a gennaio è EUR 1.500/oncia
+• un’azienda utilizza mensilmente 800 barili di petrolio e 4 once d’oro
+Sulla base dei dati, è corretto affermare che:
+A. la spesa per petrolio di giugno supera quella di gennaio di più di EUR 15.000
+B. la variazione percentuale dell’oro marzo/febbraio è maggiore di quella del petrolio nello stesso periodo
+C. la spesa totale per petrolio + oro a giugno è superiore a quella di maggio
+D. la variazione dell’oro gennaio/giugno supera quella del petrolio
+
+
+
+
+                                                                                                        Pagina 16
+Domanda 16 - Distribuzione energia per fonte
+
+
+
+
+Se le rinnovabili arrivassero al 50% mantenendo invariate le altre fonti in proporzione tra loro, a quale
+quota scenderebbe circa il gas naturale?
+A. Da 44% a circa 25%
+B. Da 44% a circa 28%
+C. Da 44% a circa 32%
+D. Da 44% a circa 36%
+
+
+
+
+                                                                                                        Pagina 17
+Domanda 17 - Vendite prodotti elettronici
+
+
+
+
+Quale categoria ha la maggior quota percentuale di vendite online rispetto al totale?
+A. Smartphone
+B. Laptop
+C. Tablet
+D. Smartwatch
+
+
+
+
+                                                                                        Pagina 18
+Domanda 18 - Ottimizzazione soddisfazione clienti
+
+
+
+
+Sapendo che:
+• ogni punto di miglioramento costa: Telefonica EUR 50k, Chat EUR 25k, Email EUR 25k, Negozio EUR 80k
+• l’App mobile non può migliorare ulteriormente
+• budget disponibile: EUR 200k
+• i punti possono essere acquistati anche in frazioni di punto
+• priorità: massimizzare il punteggio medio
+Se si spendesse tutto il budget in modo ottimale, quale sarebbe il nuovo punteggio medio?
+A. 8,42
+B. 8,95
+C. 8,79
+D. 8,14
+
+
+
+
+                                                                                                Pagina 19
+Domanda 19 - Ore lavorate settimanali
+
+
+
+
+Di quante ore settimanali la Corea supera la media dei paesi europei mostrati?
+A. 9,1 ore
+B. 6,4 ore
+C. 9,2 ore
+D. 7,5 ore
+
+
+
+
+                                                                                 Pagina 20
+Domanda 20 - Performance fondi comuni ultimo anno
+Fondo                 Rendimento            Volatilità            Sharpe Ratio   AUM (M EUR)
+
+Alpha Growth          12,3%                 18,5%                 0,66           450
+
+Beta Value            8,7%                  12,2%                 0,71           320
+
+Gamma Balanced        6,2%                  8,4%                  0,74           580
+
+Delta Tech            18,9%                 25,3%                 0,75           210
+
+Epsilon Income        4,1%                  5,0%                  0,82           890
+
+
+Quale fondo offre il miglior rendimento per unità di rischio assunto?
+A. Gamma Balanced
+B. Epsilon Income
+C. Beta Value
+D. Delta Tech
+
+
+
+
+                                                                                               Pagina 21
+Domanda 21 - Indice di soddisfazione ponderato
+Aspetto                             Peso        Punteggio
+
+Qualità                             40%         9
+
+Prezzo                              20%         7
+
+Consegna                            25%         8
+
+Supporto                            15%         6
+
+
+Qual è l’indice complessivo di soddisfazione?
+A. 7,5
+B. 7,7
+C. 7,8
+D. 7,9
+
+
+
+
+                                                            Pagina 22
+Domanda 22 - Confronto programmi universitari
+Università             Salario medio         Tasso occupazione   Costo annuo   Durata
+
+Alpha                  42.000                90%                 8.000         2
+
+Beta                   48.000                85%                 12.000        2
+
+Gamma                  45.000                92%                 9.000         2
+
+Delta                  55.000                75%                 15.000        2
+
+
+Sapendo che:
+• indice ROI = salario medio x tasso di occupazione - costo annuo x durata
+Quale università ha l’indice ROI più alto?
+A. Alpha
+B. Beta
+C. Gamma
+D. Delta
+
+
+
+
+                                                                                        Pagina 23
+Domanda 23 - Abbonati piattaforme streaming
+Piattaforma                        Abbonati attuali (M)               Crescita prevista prossimo trimestre
+
+StreamA                            2,0                                +10%
+
+StreamB                            1,8                                +18%
+
+StreamC                            1,2                                +5%
+
+StreamD                            0,9                                +25%
+
+
+Quale piattaforma avrà il maggior numero di abbonati nel prossimo trimestre?
+A. StreamA
+B. StreamB
+C. StreamC
+D. StreamD
+
+
+
+
+                                                                                                      Pagina 24
+Domanda 24 - Commercio estero 2024
+Voce                                                   Valore 2024 (M EUR)
+
+Export                                                 200
+
+Import                                                 170
+
+Saldo                                                  30
+
+Rapporto Import/Export                                 85%
+
+
+Sapendo che:
+• nel 2025 l’export crescerà del 15%
+• il rapporto Import/Export resterà costante all’85%
+Come cambierà il saldo commerciale nel 2025 rispetto al 2024?
+A. rimarrà invariato
+B. aumenterà di circa EUR 4,5M
+C. aumenterà di circa EUR 30M
+D. diminuirà di circa EUR 4,5M
+
+
+
+
+                                                                             Pagina 25
+Domanda 25 - Arrivi turistici
+
+
+
+
+Quale area ha registrato la maggiore crescita percentuale degli arrivi tra 2022 e 2023?
+A. Nord
+B. Centro
+C. Sud
+D. Isole
+
+
+
+
+                                                                                          Pagina 26
+Domanda 26 - Funding startup
+
+
+
+
+Sapendo che:
+• funding totale attuale: EUR 12M
+• il prossimo anno il funding totale aumenterà del 25%
+• la quota AI salirà dal 35% al 40%
+Di quanto aumenterà il funding destinato all’AI?
+A. EUR 1,8M
+B. EUR 1,5M
+C. EUR 2,0M
+D. EUR 2,4M
+
+
+
+
+                                                         Pagina 27
+Domanda 27 - Spesa pubblica
+
+
+
+
+Sapendo che:
+• spesa pubblica totale attuale: EUR 100B
+• il prossimo anno il totale crescerà dell’8%
+• Sanità e Welfare manterranno la stessa quota percentuale
+• Istruzione crescerà del 10% in valore assoluto
+• Difesa resterà invariata in valore assoluto
+Quale sarà la spesa per Infrastrutture nel prossimo anno?
+A. EUR 10,8B
+B. EUR 11,0B
+C. EUR 11,5B
+D. EUR 12,0B
+
+
+
+
+                                                             Pagina 28
+Domanda 28 - Costo della vita con smart working
+Città                 Affitto mensile        Trasporti mensili   Cibo mensile   Bonus trasferimento
+
+A                     900                    150                 400            0
+
+B                     800                    200                 430            1.000
+
+C                     700                    300                 500            0
+
+D                     850                    100                 450            500
+
+
+Sapendo che:
+• lo smart working riduce del 60% il costo dei trasporti
+• il bonus trasferimento si sottrae dal costo annuo del primo anno
+Quale città ha il costo annuo netto più basso nel primo anno?
+A. Città A
+B. Città B
+C. Città C
+D. Città D
+
+
+
+
+                                                                                               Pagina 29
+Domanda 29 - Consegne per regione
+Regione                             Consegne        On-time rate
+
+Nord                                5.000           94%
+
+Centro                              3.000           91%
+
+Sud                                 2.000           85%
+
+Isole                               1.000           80%
+
+
+Qual è il tasso complessivo di consegne puntuali?
+A. 88,5%
+B. 89,3%
+C. 90,0%
+D. 90,3%
+
+
+
+
+                                                                   Pagina 30
+Domanda 30 - Churn clienti per segmento
+Segmento             Clienti             Ricavo mensile/cliente   Churn mensile   Margine
+
+Standard             3.000               40                       5%              30%
+
+Premium              1.000               100                      3%              40%
+
+Enterprise           200                 500                      2%              50%
+
+Economy              5.000               20                       4%              20%
+
+
+Quale segmento genera la maggiore perdita mensile di margine a causa del churn?
+A. Standard
+B. Premium
+C. Enterprise
+D. Economy
+
+
+
+
+                                                                                            Pagina 31
+Domanda 31 - Campagne advertising
+Canale                     Spesa     Click    Conversion rate
+
+Social                     10.000    5.000    4%
+
+Search                     12.000    4.000    8%
+
+Email                      3.000     2.000    10%
+
+Display                    8.000     10.000   1%
+
+
+Sapendo che:
+• CPA = spesa / numero conversioni
+Quale canale ha il CPA più basso?
+A. Social
+B. Search
+C. Email
+D. Display
+
+
+
+
+                                                                Pagina 32
+Domanda 32 - Difetti di produzione per turno
+Turno                                 Unità prodotte   Difetti
+
+Mattina                               5.000            150
+
+Pomeriggio                            4.000            80
+
+Notte                                 3.000            90
+
+Weekend                               1.000            35
+
+
+Quale turno ha il tasso di difetti più basso?
+A. Mattina
+B. Pomeriggio
+C. Notte
+D. Weekend
+
+
+
+
+                                                                 Pagina 33
+Domanda 33 - Resi e-commerce per categoria
+Categoria                          Ordini           Tasso di reso
+
+Elettronica                        2.000            8%
+
+Abbigliamento                      3.500            4%
+
+Casa                               1.500            7%
+
+Libri                              5.000            2%
+
+
+Quale categoria genera il maggior numero di resi?
+A. Elettronica
+B. Abbigliamento
+C. Casa
+D. Libri
+
+
+
+
+                                                                    Pagina 34
+Domanda 34 - Ordini e ricavi per segmento
+Segmento                            Ordini                Ricavi (EUR)
+
+Low                                 1.000                 25.000
+
+Medium                              700                   28.000
+
+High                                300                   18.000
+
+Premium                             100                   9.000
+
+
+Quale segmento ha il valore medio dell’ordine più alto?
+A. Low
+B. Medium
+C. High
+D. Premium
+
+
+
+
+                                                                         Pagina 35
+Domanda 35 - Inventory turnover per prodotto
+Prodotto                            COGS (M EUR)   Inventario medio (M EUR)
+
+A                                   120            30
+
+B                                   100            20
+
+C                                   150            50
+
+D                                   90             25
+
+
+Sapendo che:
+• Inventory turnover = COGS / inventario medio
+Quale prodotto ha l’inventory turnover più alto?
+A. Prodotto A
+B. Prodotto B
+C. Prodotto C
+D. Prodotto D
+
+
+
+
+                                                                              Pagina 36
+Domanda 36 - Portafoglio azionario
+Titolo                Quantità              Prezzo acquisto     Prezzo attuale   Dividendo/unità
+
+A                     100                   50                  56               2
+
+B                     200                   20                  18               1
+
+
+Sapendo che:
+• commissione di acquisto = 1% del valore acquistato
+• commissione di vendita = 1% del valore attuale venduto
+• considerare il rendimento netto includendo dividendi e commissioni
+Qual è circa il rendimento netto complessivo del portafoglio?
+A. -1,0%
+B. +2,5%
+C. +4,6%
+D. +8,0%
+
+
+
+
+                                                                                                   Pagina 37
+Domanda 37 - Portafoglio prestiti
+Categoria                            Esposizione (M EUR)   NPL rate
+
+Mutui                                50                    2%
+
+Consumer                             20                    6%
+
+SME                                  30                    4%
+
+Carte credito                        10                    8%
+
+
+Qual è il tasso NPL complessivo del portafoglio?
+A. 3,8%
+B. 4,0%
+C. 5,0%
+D. 20,0%
+
+
+
+
+                                                                      Pagina 38
+Domanda 38 - Emissioni e produzione
+Settore                             Emissioni CO2 (kt)                    Produzione (milioni unità)
+
+Acciaio                             500                                   2,0
+
+Cemento                             420                                   1,5
+
+Chimica                             300                                   1,0
+
+Carta                               180                                   0,5
+
+
+Quale settore ha la maggiore intensità di emissioni per unità prodotta?
+A. Acciaio
+B. Cemento
+C. Chimica
+D. Carta
+
+
+
+
+                                                                                                       Pagina 39
+Domanda 39 - Rendimento trimestrale indice
+Trimestre                                               Rendimento
+
+Q1                                                      +5%
+
+Q2                                                      -2%
+
+Q3                                                      +3%
+
+Q4                                                      +4%
+
+
+Sapendo che:
+• i rendimenti sono capitalizzati trimestre per trimestre
+Qual è il rendimento annuo composto dell’indice?
+A. +9,5%
+B. +10,2%
+C. +12,0%
+D. +14,0%
+
+
+
+
+                                                                     Pagina 40
+Domanda 40 - Membership club
+Piano                         Membri attuali      Retention   Nuovi iscritti
+
+Basic                         1.000               80%         150
+
+Plus                          600                 85%         90
+
+Premium                       200                 90%         30
+
+
+Come cambia il numero totale di membri dopo un anno?
+A. aumenta di circa il 2,2%
+B. rimane invariato
+C. diminuisce di circa il 2,2%
+D. diminuisce di circa il 10%
+
+
+
+
+                                                                               Pagina 41
+Domanda 41 - Survey preferenze prodotto A
+Gruppo                               Numero intervistati                   % che preferisce A
+
+Uomini                               400                                   60%
+
+Donne                                600                                   55%
+
+Totale                               1.000                                 -
+
+
+Quale affermazione è corretta?
+A. gli uomini che preferiscono A sono più delle donne che preferiscono A
+B. il 60% del campione totale preferisce A
+C. le percentuali non possono essere confrontate perché mancano le numerosità
+D. le donne che preferiscono A sono più degli uomini che preferiscono A
+
+
+
+
+                                                                                                Pagina 42
+Domanda 42 - Utilizzo piattaforme digitali
+Piattaforma                                        Utenti (%)
+
+A                                                  70%
+
+B                                                  50%
+
+C                                                  40%
+
+Totale campione                                    100%
+
+
+Sapendo che:
+• gli utenti possono usare più piattaforme contemporaneamente
+Quanti utenti usano solo la piattaforma A?
+A. Non determinabile con i dati forniti
+B. 20%
+C. 30%
+D. 40%
+
+
+
+
+                                                                Pagina 43
+Domanda 43 - Performance team vendite
+Venditore                             Vendite                          Target
+
+Anna                                  120                              100
+
+Luca                                  90                               100
+
+Marco                                 150                              140
+
+Sara                                  80                               90
+
+
+Sapendo che:
+• il bonus viene assegnato se le vendite raggiungono almeno il 110% del target
+Quanti venditori ricevono il bonus?
+A. 0
+B. 1
+C. 2
+D. 3
+
+
+
+
+                                                                                 Pagina 44
+Domanda 44 - Temperature e pesi regionali
+Città                             Peso popolazione   Temperatura
+
+Milano                            30%                28
+
+Roma                              25%                31
+
+Napoli                            20%                30
+
+Torino                            15%                27
+
+Palermo                           10%                33
+
+
+Qual è la temperatura media nazionale ponderata?
+A. 28,9
+B. 29,2
+C. 29,5
+D. 30,0
+
+
+
+
+                                                                   Pagina 45
+Domanda 45 - Indice performance studenti
+Studente                    Esame               Progetto   Presenza
+
+A                           80                  90         100
+
+B                           90                  70         80
+
+C                           75                  95         90
+
+D                           85                  80         70
+
+
+Sapendo che:
+• indice = 50% Esame + 30% Progetto + 20% Presenza
+Quale studente ha l’indice più alto?
+A. Studente A
+B. Studente B
+C. Studente C
+D. Studente D
+
+
+
+
+                                                                      Pagina 46
+Domanda 46 - Tempi di attesa ospedalieri
+Reparto                            Pazienti   Attesa media (ore)
+
+Pronto soccorso                    500        3
+
+Cardiologia                        200        6
+
+Ortopedia                          300        5
+
+Dermatologia                       100        2
+
+
+Qual è il tempo medio ponderato di attesa?
+A. 3,5 ore
+B. 3,8 ore
+C. 3,9 ore
+D. 4,0 ore
+
+
+
+
+                                                                   Pagina 47
+Domanda 47 - Costo importazioni
+Prodotto                    Costo unitario USD          Quantità   Tariffa
+
+A                           100                         100        10%
+
+B                           80                          150        5%
+
+C                           50                          200        20%
+
+
+Sapendo che:
+• cambio: 1 USD = 0,92 EUR
+• costo totale = costo USD x quantità x cambio x (1 + tariffa)
+Quale prodotto ha il costo totale di importazione più alto?
+A. Prodotto A
+B. Prodotto B
+C. Prodotto C
+D. Tutti uguali
+
+
+
+
+                                                                             Pagina 48
+Domanda 48 - Valutazione fornitori
+Fornitore                  Prezzo                   Qualità     Consegna
+
+A                          8                        7           9
+
+B                          7                        9           7
+
+C                          9                        8           8
+
+D                          6                        10          9
+
+
+Sapendo che:
+• score complessivo = 40% Prezzo + 35% Qualità + 25% Consegna
+Quale fornitore ha lo score complessivo più alto?
+A. Fornitore A
+B. Fornitore B
+C. Fornitore C
+D. Fornitore D
+
+
+
+
+                                                                           Pagina 49
+Domanda 49 - Costi cloud
+
+
+
+
+Se il servizio Networking viene eliminato e il suo costo viene riallocato proporzionalmente agli altri servizi,
+quale sarà la nuova quota di Compute?
+A. 50%
+B. 52%
+C. 55%
+D. 45%
+
+
+
+
+                                                                                                          Pagina 50
+Domanda 50 - Break-even per prodotto
+Prodotto                     Prezzo unitario              Costo variabile unitario   Costi fissi
+
+A                            50                           30                         120.000
+
+B                            80                           50                         180.000
+
+C                            100                          70                         210.000
+
+D                            60                           40                         100.000
+
+
+Sapendo che:
+• break-even units = costi fissi / (prezzo - costo variabile)
+Quale prodotto ha il break-even in unità più basso?
+A. Prodotto A
+B. Prodotto B
+C. Prodotto C
+D. Prodotto D
+
+
+
+
+                                                                                                   Pagina 51
+Soluzioni
+Answer key sintetica
+    Domand
+             Risposta   Pattern
+    a
+
+    1        C          Multi-affermazione: obiettivo raggiunto + costi + soglia bonus.
+
+    2        A          Export margin: unità esportate x costo unitario x margine, non solo volume.
+
+    3        D          Lettura diretta: massimo - minimo.
+
+    4        B          Budget residuo: calcolare il totale futuro e sottrarre le voci vincolate.
+
+    5        A          Ricavi + margini + costi fissi: distinguere margine lordo e utile operativo.
+
+    6        C          Contribution margin: costi fissi irrilevanti.
+
+    7        D          Portafoglio: rendimento ponderato e capitalizzazione sui capitali allocati.
+
+    8        B          Pie chart + totale futuro: aggiornare il totale prima della quota.
+
+    9        A          Formula dichiarata + attenzione ai segni.
+
+    10       C          Variazione percentuale: (nuovo - vecchio) / vecchio.
+
+    11       A          Reallocazione quote: eliminare categorie e ridistribuire.
+
+    12       D          Disparità percentuale: non guardare solo la differenza assoluta.
+
+    13       B          Quota sul totale: sommare solo le categorie corrette.
+
+    14       A          Punti percentuali, non riduzione percentuale relativa.
+
+    15       C          Indice base 100: trasformare indice in prezzo e poi in spesa.
+
+    16       C          Pie chart con target: ridimensionare proporzionalmente il resto.
+
+    17       D          Quota online: online / (online + negozio), non volume online assoluto.
+
+    18       B          Ottimizzazione: comprare prima i punti meno costosi fino al limite massimo.
+
+    19       A          Media di un sottoinsieme: solo paesi europei indicati.
+
+    20       B          Sharpe Ratio: scegliere il rapporto rischio-rendimento, non il rendimento massimo.
+
+    21       D          Media ponderata: usare i pesi, non la media semplice.
+
+    22       C          Formula composita: salario atteso meno costo totale.
+
+    23       A          Forecast: applicare la crescita al livello iniziale.
+
+    24       B          Forecast + rapporto costante: aggiornare export e poi import.
+
+    25       D          Crescita percentuale, non aumento assoluto.
+
+
+    Domand
+             Risposta   Pattern
+    a
+
+    26       A          Pie chart + totale futuro + nuova quota.
+
+    27       C          Voce residua: sommare vincoli e sottrarre dal totale futuro.
+
+    28       B          Ottimizzazione costi: applicare riduzioni e bonus prima del confronto.
+
+    29       D          Media ponderata su volumi, non media semplice dei tassi.
+
+    30       A          Churn economico: clienti x churn x ricavo x margine.
+
+    31       C          Costo per acquisizione: spesa / (click x conversion rate).
+
+    32       B          Tasso, non numero assoluto di difetti.
+
+    33       A          Valore assoluto da percentuale: base x tasso.
+
+    34       D          Valore medio: ricavi / ordini.
+
+    35       B          Rapporto: non scegliere il COGS più alto.
+
+    36       C          Portafoglio con dividendi e commissioni: usare cash iniziale e finale netti.
+
+    37       A          Tasso ponderato: sommare importi NPL e dividere per esposizione totale.
+
+    38       D          Intensità: emissioni / produzione, non emissioni totali.
+
+    39       B          Rendimenti successivi: moltiplicare i fattori, non sommare le percentuali.
+
+    40       C          Retention + nuovi iscritti: calcolare il livello finale per categoria.
+
+                                                                                                             Pagina 52
+         Percentuali con denominatori diversi: convertire in valori assoluti se le basi sono
+41   D
+         date.
+
+42   A   Overlap mancanti: i totali per piattaforma non danno gli utenti esclusivi.
+
+43   B   Soglia bonus: rapporto vendite/target per ciascun caso.
+
+44   C   Media ponderata.
+
+45   A   Indice ponderato: più variabili con pesi diversi.
+
+46   D   Media ponderata su pazienti.
+
+47   B   Costo import: cambio + tariffa.
+
+48   C   Punteggio ponderato.
+
+49   A   Riallocazione proporzionale: nuova quota = quota vecchia / totale rimanente.
+
+50   D   Break-even: costi fissi / margine unitario.
+
+
+
+
+                                                                                               Pagina 53
+Soluzioni commentate
+1. Risposta C. Pattern: Multi-affermazione: obiettivo raggiunto + costi + soglia bonus.
+
+Margini 2024: Nord 900 x 66% = 594; Centro 640 x 66% = 422,4; Sud 540 x 58% = 313,2. Centro+Sud > Nord, quindi A
+è falsa. Crescite 2024/2023: Nord +9,8%, Centro +8,5%, Sud +12,5%, Isole +13,0%. Solo Sud e Isole superano il 10%.
+Totale 2024 = 2470; totale 2022 = 2090; crescita = 18,2%, non 20%.
+
+2. Risposta A. Pattern: Export margin: unità esportate x costo unitario x margine, non solo volume.
+
+Automotive: 220.000 x 65% x 14.000 x 18% = 360,36M EUR. Elettronica: 360.000 x 80% x 900 x 18% = 46,66M EUR.
+Tessile: 180.000 x 50% x 150 x 18% = 2,43M EUR. Vince Automotive.
+
+3. Risposta D. Pattern: Lettura diretta: massimo - minimo.
+
+Il valore massimo è Qualità = 94. Il minimo è Prezzo = 66. Differenza = 94 - 66 = 28.
+
+4. Risposta B. Pattern: Budget residuo: calcolare il totale futuro e sottrarre le voci vincolate.
+
+Totale attuale = 1500k; prossimo totale = 1650k. Marketing mantiene quota 400/1500 = 26,67%, quindi 440k. Vendite
+= 600 x 1,12 = 672k. R&D; = 300 x 1,10 = 330k. HR = 1650 - 440 - 672 - 330 = 208k.
+
+5. Risposta A. Pattern: Ricavi + margini + costi fissi: distinguere margine lordo e utile operativo.
+
+Fatturato annuo: A = 190M, B = 172M. Utile operativo: A = 190 x 24% - 18 = 27,6M; B = 172 x 30% - 10 = 41,6M. B
+supera A di 14,0M. Le altre affermazioni sono false.
+
+6. Risposta C. Pattern: Contribution margin: costi fissi irrilevanti.
+
+Margini unitari: X = 90 - 55 = 35; Y = 130 - 86 = 44. Totali: Gen 7.020; Feb 7.940; Mar 8.205; Apr 8.950; Mag 9.520.
+Massimo a maggio.
+
+7. Risposta D. Pattern: Portafoglio: rendimento ponderato e capitalizzazione sui capitali allocati.
+
+Prudente: 50.000 x 1,01 x 1,008 = 50.904. Bilanciato: 30.000 x 1,025 x 0,99 = 30.442,5. Aggressivo: 20.000 x 1,04 x
+0,955 = 19.864. Totale = 101.210,5 EUR. Il capitale supera 101.000.
+
+8. Risposta B. Pattern: Pie chart + totale futuro: aggiornare il totale prima della quota.
+
+R&D; attuale = 2.000.000 x 22% = 440.000. Budget futuro = 2.000.000 x 1,20 = 2.400.000. R&D; futura = 2.400.000 x
+28% = 672.000. Aumento = 232.000.
+
+9. Risposta A. Pattern: Formula dichiarata + attenzione ai segni.
+
+Germania: 1,6 - 1,0 = 0,6. Francia: 2,1 - 1,2 = 0,9. Italia: 1,8 - (-0,3) = 2,1. Spagna: 2,9 - 2,1 = 0,8. Minimo: Germania.
+
+10. Risposta C. Pattern: Variazione percentuale: (nuovo - vecchio) / vecchio.
+
+Tecnologia: Q1 = 50, Q4 = 68. Variazione = (68 - 50) / 50 = 36%.
+
+11. Risposta A. Pattern: Reallocazione quote: eliminare categorie e ridistribuire.
+
+Stampa + Radio = 10% + 5% = 15%. Redistribuzione equa tra Digital e TV: +7,5 punti ciascuno. Digital passa da 40% a
+47,5%.
+
+12. Risposta D. Pattern: Disparità percentuale: non guardare solo la differenza assoluta.
+
+Personale: (30-18)/18 = 66,7%. Affitti: (14-7)/7 = 100%. Utilities: (7-4)/4 = 75%. Marketing: (9-6)/6 = 50%. Maggiore:
+Affitti.
+
+13. Risposta B. Pattern: Quota sul totale: sommare solo le categorie corrette.
+
+Alto rischio = Azioni 120 + Materie prime 40 = 160. Totale = 120+80+60+40+20 = 320. Quota = 160/320 = 50%.
+
+14. Risposta A. Pattern: Punti percentuali, non riduzione percentuale relativa.
+
+Italia: 10,5 - 8,6 = 1,9 p.p. Spagna: 15,0 - 12,0 = 3,0 p.p. Germania: 4,5 - 3,8 = 0,7 p.p. Maggiore riduzione: Spagna.
+
+15. Risposta C. Pattern: Indice base 100: trasformare indice in prezzo e poi in spesa.
+
+Petrolio giugno: 70 x 1,25 x 800 = 70.000; gennaio = 56.000; aumento = 14.000, quindi A è falsa. Marzo/febbraio: oro
++2,94%, petrolio +5,77%, quindi B falsa. Maggio petrolio+oro = 66.080 + 6.480 = 72.560; giugno = 70.000 + 6.600 =
+76.600. C è vera. Oro +10%, petrolio +25%, quindi D falsa.
+
+16. Risposta C. Pattern: Pie chart con target: ridimensionare proporzionalmente il resto.
+
+Le fonti non rinnovabili oggi sono 68%. Il gas è 44/68 della parte non rinnovabile. Se le rinnovabili diventano 50%, il resto
+è 50%. Nuovo gas = 50 x 44/68 = 32,35% circa.
+
+17. Risposta D. Pattern: Quota online: online / (online + negozio), non volume online assoluto.
+
+Smartphone: 4200/7200 = 58,3%. Laptop: 2400/4200 = 57,1%. Tablet: 1800/2500 = 72,0%. Smartwatch: 3000/3900 =
+76,9%. Maggiore: Smartwatch.
+
+18. Risposta B. Pattern: Ottimizzazione: comprare prima i punti meno costosi fino al limite massimo.
+
+
+
+                                                                                                                      Pagina 54
+Media iniziale = (7+8+6,5+9+7,5)/5 = 7,6. Si acquistano prima Chat: +2 punti per 50k; poi Email: +3,5 punti per 87,5k;
+restano 62,5k per Telefonica: +1,25 punti. Miglioramento totale = 6,75 punti distribuiti su 5 servizi. Nuova media = 7,6
++ 6,75/5 = 8,95.
+
+19. Risposta A. Pattern: Media di un sottoinsieme: solo paesi europei indicati.
+
+Paesi europei mostrati: Germania, Francia, Italia. Media = (34,0 + 35,2 + 36,1)/3 = 35,1. Corea = 44,2. Differenza =
+44,2 - 35,1 = 9,1 ore.
+
+20. Risposta B. Pattern: Sharpe Ratio: scegliere il rapporto rischio-rendimento, non il rendimento massimo.
+
+Il miglior rendimento per unità di rischio è indicato dallo Sharpe Ratio più alto. Il massimo è Epsilon Income con 0,82.
+
+21. Risposta D. Pattern: Media ponderata: usare i pesi, non la media semplice.
+
+Indice = 9x40% + 7x20% + 8x25% + 6x15% = 3,6 + 1,4 + 2,0 + 0,9 = 7,9.
+
+22. Risposta C. Pattern: Formula composita: salario atteso meno costo totale.
+
+Alpha = 42.000x90% - 16.000 = 21.800. Beta = 40.800 - 24.000 = 16.800. Gamma = 41.400 - 18.000 = 23.400. Delta =
+41.250 - 30.000 = 11.250. Massimo: Gamma.
+
+23. Risposta A. Pattern: Forecast: applicare la crescita al livello iniziale.
+
+StreamA = 2,0 x 1,10 = 2,20M. StreamB = 1,8 x 1,18 = 2,124M. StreamC = 1,26M. StreamD = 1,125M. Massimo:
+StreamA.
+
+24. Risposta B. Pattern: Forecast + rapporto costante: aggiornare export e poi import.
+
+Export 2025 = 200 x 1,15 = 230. Import 2025 = 230 x 85% = 195,5. Saldo 2025 = 34,5. Saldo 2024 = 30. Aumento =
+4,5M.
+
+25. Risposta D. Pattern: Crescita percentuale, non aumento assoluto.
+
+Nord: +180/900 = 20%. Centro: +70/700 = 10%. Sud: +150/500 = 30%. Isole: +120/300 = 40%. Massimo: Isole.
+
+26. Risposta A. Pattern: Pie chart + totale futuro + nuova quota.
+
+AI attuale = 12 x 35% = 4,2M. Totale futuro = 15M. AI futura = 15 x 40% = 6,0M. Aumento = 1,8M.
+
+27. Risposta C. Pattern: Voce residua: sommare vincoli e sottrarre dal totale futuro.
+
+Totale futuro = 108B. Sanità = 35% di 108 = 37,8B. Welfare = 15% di 108 = 16,2B. Istruzione = 25 x 1,10 = 27,5B.
+Difesa = 15B. Infrastrutture = 108 - 37,8 - 16,2 - 27,5 - 15 = 11,5B.
+
+28. Risposta B. Pattern: Ottimizzazione costi: applicare riduzioni e bonus prima del confronto.
+
+A: (900+60+400)x12 = 16.320. B: (800+80+430)x12 - 1.000 = 14.720. C: (700+120+500)x12 = 15.840. D:
+(850+40+450)x12 - 500 = 15.580. Minimo: B.
+
+29. Risposta D. Pattern: Media ponderata su volumi, non media semplice dei tassi.
+
+Consegne puntuali = 5.000x94% + 3.000x91% + 2.000x85% + 1.000x80% = 9.930. Totale = 11.000. Tasso =
+9.930/11.000 = 90,27% circa.
+
+30. Risposta A. Pattern: Churn economico: clienti x churn x ricavo x margine.
+
+Standard: 3.000x5%x40x30% = 1.800. Premium: 1.200. Enterprise: 1.000. Economy: 800. Maggiore perdita: Standard.
+
+31. Risposta C. Pattern: Costo per acquisizione: spesa / (click x conversion rate).
+
+Social: 10.000/(5.000x4%) = 50. Search: 12.000/320 = 37,5. Email: 3.000/200 = 15. Display: 8.000/100 = 80. Minimo:
+Email.
+
+32. Risposta B. Pattern: Tasso, non numero assoluto di difetti.
+
+Mattina: 150/5.000 = 3%. Pomeriggio: 80/4.000 = 2%. Notte: 3%. Weekend: 3,5%. Minimo: Pomeriggio.
+
+33. Risposta A. Pattern: Valore assoluto da percentuale: base x tasso.
+
+Elettronica: 2.000x8% = 160. Abbigliamento: 140. Casa: 105. Libri: 100. Massimo: Elettronica.
+
+34. Risposta D. Pattern: Valore medio: ricavi / ordini.
+
+Low = 25.000/1.000 = 25. Medium = 40. High = 60. Premium = 90. Massimo: Premium.
+
+35. Risposta B. Pattern: Rapporto: non scegliere il COGS più alto.
+
+A = 120/30 = 4,0. B = 100/20 = 5,0. C = 150/50 = 3,0. D = 90/25 = 3,6. Massimo: B.
+
+36. Risposta C. Pattern: Portafoglio con dividendi e commissioni: usare cash iniziale e finale netti.
+
+Costo iniziale lordo = 100x50 + 200x20 = 9.000; commissione acquisto = 90; costo totale = 9.090. Valore attuale =
+100x56 + 200x18 = 9.200. Dividendi = 400. Commissione vendita = 92. Valore finale netto = 9.200 + 400 - 92 = 9.508.
+Rendimento = (9.508 - 9.090)/9.090 = 4,6%.
+
+37. Risposta A. Pattern: Tasso ponderato: sommare importi NPL e dividere per esposizione totale.
+
+
+                                                                                                                    Pagina 55
+NPL amount = 50x2% + 20x6% + 30x4% + 10x8% = 4,2M. Esposizione totale = 110M. Tasso = 4,2/110 = 3,82%.
+
+38. Risposta D. Pattern: Intensità: emissioni / produzione, non emissioni totali.
+
+Acciaio = 500/2,0 = 250. Cemento = 420/1,5 = 280. Chimica = 300/1,0 = 300. Carta = 180/0,5 = 360. Massimo: Carta.
+
+39. Risposta B. Pattern: Rendimenti successivi: moltiplicare i fattori, non sommare le percentuali.
+
+Rendimento composto = 1,05 x 0,98 x 1,03 x 1,04 - 1 = 10,23% circa. Non è la somma semplice 10%.
+
+40. Risposta C. Pattern: Retention + nuovi iscritti: calcolare il livello finale per categoria.
+
+Basic = 1.000x80% + 150 = 950. Plus = 600x85% + 90 = 600. Premium = 200x90% + 30 = 210. Totale finale = 1.760;
+iniziale = 1.800. Variazione = -40/1.800 = -2,2%.
+
+41. Risposta D. Pattern: Percentuali con denominatori diversi: convertire in valori assoluti se le basi sono date.
+
+Uomini che preferiscono A = 400x60% = 240. Donne che preferiscono A = 600x55% = 330. Quindi le donne sono di più
+in valore assoluto.
+
+42. Risposta A. Pattern: Overlap mancanti: i totali per piattaforma non danno gli utenti esclusivi.
+
+Per sapere “solo A” servono le sovrapposizioni A∩B, A∩C e A∩B∩C. I dati indicano solo i totali di utilizzo. La risposta non
+è determinabile.
+
+43. Risposta B. Pattern: Soglia bonus: rapporto vendite/target per ciascun caso.
+
+Anna: 120/100 = 120%, bonus. Luca: 90%. Marco: 150/140 = 107,1%, niente bonus. Sara: 88,9%. Solo un venditore
+riceve il bonus.
+
+44. Risposta C. Pattern: Media ponderata.
+
+Media = 28x30% + 31x25% + 30x20% + 27x15% + 33x10% = 29,5.
+
+45. Risposta A. Pattern: Indice ponderato: più variabili con pesi diversi.
+
+A = 87. B = 82. C = 84. D = 80,5. Massimo: Studente A.
+
+46. Risposta D. Pattern: Media ponderata su pazienti.
+
+Totale ore-paziente = 500x3 + 200x6 + 300x5 + 100x2 = 4.400. Pazienti totali = 1.100. Media = 4.400/1.100 = 4,0 ore.
+
+47. Risposta B. Pattern: Costo import: cambio + tariffa.
+
+A = 100x100x0,92x1,10 = 10.120. B = 80x150x0,92x1,05 = 11.592. C = 50x200x0,92x1,20 = 11.040. Massimo: B.
+
+48. Risposta C. Pattern: Punteggio ponderato.
+
+A = 7,90. B = 7,70. C = 8,40. D = 8,15. Massimo: Fornitore C.
+
+49. Risposta A. Pattern: Riallocazione proporzionale: nuova quota = quota vecchia / totale rimanente.
+
+Dopo l’eliminazione di Networking resta il 90% del budget. La quota di Compute sul nuovo totale è 45/90 = 50%.
+
+50. Risposta D. Pattern: Break-even: costi fissi / margine unitario.
+
+A = 120.000/(50-30) = 6.000. B = 180.000/30 = 6.000. C = 210.000/30 = 7.000. D = 100.000/20 = 5.000. Minimo: D.
+
+
+
+
+                                                                                                                     Pagina 56
+

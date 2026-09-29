@@ -1,0 +1,994 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Simulazione Bocconi — Mock 07</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --ink:#12233c;
+  --ink-soft:#4d5f78;
+  --paper:#faf9f6;
+  --panel:#ffffff;
+  --rule:#ddd8cd;
+  --rule-strong:#b9b2a4;
+  --signal:#a8331a;
+  --good:#1c6b4a;
+  --focus:#2f6fd0;
+  --shadow:0 1px 0 rgba(18,35,60,.06);
+  --hl:#ece8de; --hl-soft:#f2efe7;
+  --f1:#12233c; --f2:#5a6c84; --f3:#a3adba; --f4:#d8dbdf;
+  box-sizing:border-box;
+  padding-top:env(safe-area-inset-top,0px);
+  padding-bottom:env(safe-area-inset-bottom,0px);
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --ink:#e8e4db; --ink-soft:#a3a49f; --paper:#14171b; --panel:#1b1f24;
+    --rule:#2e343b; --rule-strong:#4a525b; --signal:#e2775c; --good:#63b58c; --focus:#7aa7e8;
+    --hl:#262c33; --hl-soft:#212730;
+    --f1:#e8e4db; --f2:#a9aeb4; --f3:#6d747c; --f4:#3a4149;
+    --shadow:none;
+  }
+}
+:root[data-theme="dark"]{
+  --ink:#e8e4db; --ink-soft:#a3a49f; --paper:#14171b; --panel:#1b1f24;
+  --rule:#2e343b; --rule-strong:#4a525b; --signal:#e2775c; --good:#63b58c; --focus:#7aa7e8;
+    --hl:#262c33; --hl-soft:#212730;
+    --f1:#e8e4db; --f2:#a9aeb4; --f3:#6d747c; --f4:#3a4149;
+  --shadow:none;
+}
+*,*::before,*::after{box-sizing:inherit}
+html{scroll-padding-top:calc(64px + env(safe-area-inset-top,0px));-webkit-text-size-adjust:100%}
+body{
+  margin:0;background:var(--paper);color:var(--ink);
+  font-family:"Source Serif 4",Charter,Georgia,"Times New Roman",serif;
+  font-size:1.0625rem;line-height:1.58;
+}
+.ui{font-family:Inter,-apple-system,BlinkMacSystemFont,"Segoe UI",system-ui,sans-serif}
+h1,h2,h3{font-weight:600;line-height:1.2;margin:0}
+p{margin:0 0 .7em}
+p:last-child{margin-bottom:0}
+a{color:inherit}
+.wrap{max-width:46rem;margin:0 auto;padding:0 1.1rem}
+
+/* ---------- barra superiore ---------- */
+#bar{
+  position:sticky;top:0;z-index:20;background:var(--paper);
+  border-bottom:1px solid var(--rule);
+  padding-top:env(safe-area-inset-top,0px);
+}
+#bar .inner{
+  max-width:46rem;margin:0 auto;padding:.5rem 1.1rem;
+  display:flex;align-items:center;gap:.9rem;
+  font-family:Inter,system-ui,sans-serif;font-size:.8rem;
+}
+#pos{font-weight:600;letter-spacing:.01em}
+#pace{color:var(--ink-soft)}
+#clock{
+  margin-left:auto;font-variant-numeric:tabular-nums;font-size:1.25rem;
+  font-weight:600;letter-spacing:.02em;
+}
+#clock.warn{color:var(--signal)}
+#clock.crit{color:var(--signal);animation:pulse 1.4s ease-in-out infinite}
+@keyframes pulse{50%{opacity:.45}}
+@media (prefers-reduced-motion: reduce){#clock.crit{animation:none}}
+#track{height:3px;background:var(--rule);}
+#track > i{display:block;height:100%;background:var(--ink);width:0}
+
+/* ---------- copertina ---------- */
+.cover{padding:3rem 0 4rem}
+.kicker{font-family:Inter,system-ui,sans-serif;font-size:.75rem;letter-spacing:.08em;color:var(--ink-soft);margin-bottom:.9rem}
+.cover h1{font-size:clamp(2rem,6vw,2.9rem);letter-spacing:-.02em;margin-bottom:.4rem}
+.cover .sub{color:var(--ink-soft);font-size:1.05rem;margin-bottom:2.2rem}
+.rules{border-top:1px solid var(--rule-strong);margin-bottom:2rem}
+.rule-row{display:grid;grid-template-columns:8.5rem 1fr;gap:1rem;padding:.72rem 0;border-bottom:1px solid var(--rule);align-items:baseline}
+.rule-row dt{font-family:Inter,system-ui,sans-serif;font-size:.78rem;color:var(--ink-soft)}
+.rule-row dd{margin:0}
+@media (max-width:30rem){.rule-row{grid-template-columns:1fr;gap:.15rem}}
+.warnbox{border-left:3px solid var(--signal);padding:.1rem 0 .1rem .9rem;margin:0 0 2rem;color:var(--ink)}
+
+/* ---------- bottoni ---------- */
+button{font:inherit;color:inherit}
+.btn{
+  font-family:Inter,system-ui,sans-serif;font-size:.95rem;font-weight:500;
+  background:var(--ink);color:var(--paper);border:1px solid var(--ink);
+  padding:.7rem 1.6rem;border-radius:2px;cursor:pointer;
+}
+.btn:hover{opacity:.88}
+.btn.ghost{background:transparent;color:var(--ink);border-color:var(--rule-strong)}
+.btn:focus-visible,label:focus-within{outline:2px solid var(--focus);outline-offset:2px}
+.btn[disabled]{opacity:.4;cursor:not-allowed}
+
+/* ---------- quesiti ---------- */
+.screen{padding:1.6rem 0 6rem}
+.qnum{
+  font-family:Inter,system-ui,sans-serif;font-size:.74rem;letter-spacing:.06em;
+  color:var(--ink-soft);display:flex;gap:.6rem;align-items:center;margin-bottom:.5rem;
+}
+.tag{border:1px solid var(--rule-strong);border-radius:2px;padding:.05rem .35rem;font-size:.68rem}
+.q{padding:1.4rem 0 1.6rem;border-bottom:1px solid var(--rule)}
+.q:first-of-type{padding-top:.4rem}
+.stem{margin-bottom:.9rem}
+.passage{border-left:2px solid var(--rule-strong);padding-left:.9rem;margin:0 0 .9rem;color:var(--ink)}
+.claim{margin:.6rem 0 .9rem;font-weight:600}
+.opts{list-style:none;margin:0;padding:0;display:grid;gap:.15rem}
+.opts label{
+  display:grid;grid-template-columns:1.6rem 1fr;gap:.55rem;align-items:baseline;
+  padding:.46rem .5rem;border-radius:2px;cursor:pointer;
+}
+.opts label:hover{background:var(--hl-soft)}
+.opts input{position:absolute;opacity:0;width:0;height:0}
+.opts .ltr{
+  font-family:Inter,system-ui,sans-serif;font-size:.78rem;font-weight:600;
+  border:1px solid var(--rule-strong);border-radius:50%;width:1.55rem;height:1.55rem;
+  display:inline-flex;align-items:center;justify-content:center;color:var(--ink-soft);
+  align-self:start;flex:none;
+}
+.opts input:checked + .ltr{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+.opts label:has(input:checked){background:var(--hl)}
+.opts input:focus-visible + .ltr{outline:2px solid var(--focus);outline-offset:2px}
+
+/* ---------- dati: tabelle e grafici ---------- */
+.asset{margin:.2rem 0 1rem;overflow-x:auto}
+table{border-collapse:collapse;font-family:Inter,system-ui,sans-serif;font-size:.86rem;min-width:min(100%,20rem)}
+caption{text-align:left;font-size:.78rem;color:var(--ink-soft);padding-bottom:.4rem}
+th,td{padding:.35rem .8rem .35rem 0;text-align:right;border-bottom:1px solid var(--rule)}
+th:first-child,td:first-child{text-align:left}
+thead th{border-bottom:1px solid var(--rule-strong);font-weight:600}
+tfoot td{font-weight:600;border-bottom:none;border-top:1px solid var(--rule-strong)}
+svg{max-width:100%;height:auto;display:block}
+.chartlabel{font-family:Inter,system-ui,sans-serif;font-size:11px;fill:var(--ink-soft)}
+.chartval{font-family:Inter,system-ui,sans-serif;font-size:11px;fill:var(--ink);font-weight:500}
+.dsbox{border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);padding:.6rem 0;margin:.2rem 0 .9rem}
+.dsbox div{display:grid;grid-template-columns:1.8rem 1fr;gap:.4rem}
+
+/* ---------- piede schermata ---------- */
+.foot{
+  position:fixed;left:0;right:0;bottom:0;z-index:20;background:var(--paper);
+  border-top:1px solid var(--rule);
+  padding:.7rem 1.1rem calc(.7rem + env(safe-area-inset-bottom,0px));
+}
+.foot .inner{max-width:46rem;margin:0 auto;display:flex;align-items:center;gap:1rem;
+  font-family:Inter,system-ui,sans-serif;font-size:.8rem}
+.foot .hint{color:var(--ink-soft)}
+.foot .btn{margin-left:auto}
+
+/* ---------- esito ---------- */
+.res{padding:2.4rem 0 5rem}
+.bigscore{font-size:clamp(3.4rem,13vw,5.4rem);line-height:1;letter-spacing:-.03em;font-weight:600;font-variant-numeric:tabular-nums}
+.bigscore small{font-size:.28em;font-weight:400;color:var(--ink-soft);letter-spacing:0}
+.verdict{font-family:Inter,system-ui,sans-serif;font-size:.9rem;margin-top:.6rem}
+.grid{border-top:1px solid var(--rule-strong);margin:2rem 0}
+.grid .row{display:grid;grid-template-columns:7rem repeat(4,1fr) 5rem;gap:.5rem;padding:.55rem 0;border-bottom:1px solid var(--rule);
+  font-family:Inter,system-ui,sans-serif;font-size:.85rem;font-variant-numeric:tabular-nums}
+.grid .row.head{color:var(--ink-soft);font-size:.74rem;border-bottom:1px solid var(--rule-strong)}
+.grid .row span:not(:first-child){text-align:right}
+.patt{border-top:1px solid var(--rule-strong);margin:2rem 0}
+.patt .row{display:grid;grid-template-columns:1fr 4rem 9rem;gap:.7rem;padding:.6rem 0;border-bottom:1px solid var(--rule);
+  font-family:Inter,system-ui,sans-serif;font-size:.85rem;align-items:baseline}
+.patt .row.head{color:var(--ink-soft);font-size:.74rem;border-bottom:1px solid var(--rule-strong)}
+.patt .n{text-align:right;font-variant-numeric:tabular-nums}
+.patt .qs{color:var(--ink-soft);font-size:.8rem}
+h2.sec{font-size:1.15rem;margin:2.6rem 0 .9rem;padding-bottom:.35rem;border-bottom:1px solid var(--rule-strong)}
+.rev{padding:1.2rem 0;border-bottom:1px solid var(--rule)}
+.rev .verdicttag{font-family:Inter,system-ui,sans-serif;font-size:.72rem;letter-spacing:.04em;padding:.08rem .4rem;border-radius:2px;border:1px solid}
+.vt-ok{color:var(--good);border-color:var(--good)}
+.vt-no{color:var(--signal);border-color:var(--signal)}
+.vt-om{color:var(--ink-soft);border-color:var(--rule-strong)}
+.rev .opts label{cursor:default}
+.rev .opts label:hover{background:none}
+.mark{font-family:Inter,system-ui,sans-serif;font-size:.72rem;color:var(--ink-soft);margin-left:.35rem}
+.solbox{margin-top:.9rem;border-left:2px solid var(--rule-strong);padding-left:.9rem;font-size:.97rem}
+.solbox b{font-family:Inter,system-ui,sans-serif;font-size:.74rem;letter-spacing:.04em;color:var(--ink-soft);font-weight:500;display:block}
+.solbox p{margin:.15rem 0 .7rem}
+textarea{width:100%;min-height:7rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:.8rem;
+  background:var(--panel);color:var(--ink);border:1px solid var(--rule-strong);border-radius:2px;padding:.6rem}
+.hidden{display:none !important}
+.note{color:var(--ink-soft);font-size:.9rem}
+@media print{
+  #bar,.foot,.noprint{display:none !important}
+  body{background:#fff;color:#000}
+}
+</style>
+</head>
+<body>
+
+<div id="bar" class="hidden">
+  <div class="inner">
+    <span id="pos">Domanda 1–3 di 50</span>
+    <span id="pace"></span>
+    <span id="clock">75:00</span>
+  </div>
+  <div id="track"><i></i></div>
+</div>
+
+<main id="app"></main>
+
+<div id="foot" class="foot hidden">
+  <div class="inner">
+    <span class="hint" id="hint"></span>
+    <button class="btn" id="next">Avanti</button>
+  </div>
+</div>
+
+<script>
+/* ======================= ASSET: tabelle e grafici ======================= */
+
+const TAB_RICAVI = `<div class="asset"><table>
+<caption>Ricavi per area geografica (milioni di €)</caption>
+<thead><tr><th>Area</th><th>2024</th><th>2025</th></tr></thead>
+<tbody>
+<tr><td>Nord</td><td>400</td><td>480</td></tr>
+<tr><td>Centro</td><td>200</td><td>240</td></tr>
+<tr><td>Sud</td><td>150</td><td>180</td></tr>
+<tr><td>Isole</td><td>50</td><td>100</td></tr>
+</tbody>
+<tfoot><tr><td>Totale</td><td>800</td><td>1.000</td></tr></tfoot>
+</table></div>`;
+
+const TAB_CORSI = `<div class="asset"><table>
+<caption>Esiti dell'esame finale, sessione di giugno</caption>
+<thead><tr><th>Corso</th><th>Iscritti</th><th>Promossi</th></tr></thead>
+<tbody>
+<tr><td>Corso A</td><td>200</td><td>60%</td></tr>
+<tr><td>Corso B</td><td>150</td><td>80%</td></tr>
+<tr><td>Corso C</td><td>50</td><td>40%</td></tr>
+</tbody>
+</table></div>`;
+
+function barChart(){
+  const alfa=[120,150,180,150], beta=[80,100,140,200];
+  const W=520,H=230,L=34,B=44,T=18,R=8;
+  const maxV=200, plotH=H-T-B, plotW=W-L-R;
+  const groupW=plotW/4, bw=groupW*0.28, gap=groupW*0.08;
+  let bars='', labs='';
+  const q=['Q1','Q2','Q3','Q4'];
+  for(let i=0;i<4;i++){
+    const cx=L+groupW*i+groupW/2;
+    const ha=alfa[i]/maxV*plotH, hb=beta[i]/maxV*plotH;
+    const xa=cx-bw-gap/2, xb=cx+gap/2;
+    bars+=`<rect x="${xa}" y="${T+plotH-ha}" width="${bw}" height="${ha}" fill="var(--ink)"></rect>`;
+    bars+=`<rect x="${xb}" y="${T+plotH-hb}" width="${bw}" height="${hb}" fill="none" stroke="var(--ink)" stroke-width="1.4"></rect>`;
+    bars+=`<text class="chartval" x="${xa+bw/2}" y="${T+plotH-ha-4}" text-anchor="middle">${alfa[i]}</text>`;
+    bars+=`<text class="chartval" x="${xb+bw/2}" y="${T+plotH-hb-4}" text-anchor="middle">${beta[i]}</text>`;
+    labs+=`<text class="chartlabel" x="${cx}" y="${T+plotH+16}" text-anchor="middle">${q[i]}</text>`;
+  }
+  return `<div class="asset"><svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Vendite trimestrali dei prodotti Alfa e Beta">
+  <line x1="${L}" y1="${T+plotH}" x2="${W-R}" y2="${T+plotH}" stroke="var(--rule-strong)"></line>
+  ${bars}${labs}
+  <rect x="${L}" y="${H-16}" width="11" height="9" fill="var(--ink)"></rect>
+  <text class="chartlabel" x="${L+16}" y="${H-8}">Alfa</text>
+  <rect x="${L+62}" y="${H-16}" width="11" height="9" fill="none" stroke="var(--ink)" stroke-width="1.4"></rect>
+  <text class="chartlabel" x="${L+78}" y="${H-8}">Beta</text>
+  <text class="chartlabel" x="0" y="${T+6}">unità</text>
+  </svg></div>`;
+}
+
+function lineChart(){
+  const v=[100,104,107,108,108,110];
+  const m=['Gen','Feb','Mar','Apr','Mag','Giu'];
+  const W=520,H=210,L=40,B=34,T=22,R=14;
+  const lo=98, hi=112, plotH=H-T-B, plotW=W-L-R;
+  const x=i=>L+plotW*i/5, y=val=>T+plotH-(val-lo)/(hi-lo)*plotH;
+  let pts=v.map((val,i)=>`${x(i)},${y(val)}`).join(' ');
+  let dots='',labs='',grid='';
+  for(let g=100;g<=110;g+=5){
+    grid+=`<line x1="${L}" y1="${y(g)}" x2="${W-R}" y2="${y(g)}" stroke="var(--rule)"></line>`;
+    grid+=`<text class="chartlabel" x="${L-6}" y="${y(g)+4}" text-anchor="end">${g}</text>`;
+  }
+  v.forEach((val,i)=>{
+    dots+=`<circle cx="${x(i)}" cy="${y(val)}" r="3.4" fill="var(--paper)" stroke="var(--ink)" stroke-width="1.6"></circle>`;
+    dots+=`<text class="chartval" x="${x(i)}" y="${y(val)-10}" text-anchor="middle">${val}</text>`;
+    labs+=`<text class="chartlabel" x="${x(i)}" y="${T+plotH+18}" text-anchor="middle">${m[i]}</text>`;
+  });
+  return `<div class="asset"><svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Indice dei prezzi da gennaio a giugno">
+  ${grid}<polyline points="${pts}" fill="none" stroke="var(--ink)" stroke-width="1.8"></polyline>${dots}${labs}
+  <text class="chartlabel" x="0" y="${T-8}">indice (gennaio = 100)</text></svg></div>`;
+}
+
+function pieChart(){
+  const data=[['Affitto',40],['Cibo',25],['Altro',20],['Trasporti',15]];
+  const cx=110,cy=110,r=86,W=470,H=228;
+  let a=-Math.PI/2, paths='', leg='';
+  const fills=['var(--f1)','var(--f2)','var(--f3)','var(--f4)'];
+  data.forEach((d,i)=>{
+    const ang=d[1]/100*2*Math.PI, b=a+ang;
+    const x1=cx+r*Math.cos(a), y1=cy+r*Math.sin(a), x2=cx+r*Math.cos(b), y2=cy+r*Math.sin(b);
+    paths+=`<path d="M${cx},${cy} L${x1},${y1} A${r},${r} 0 ${ang>Math.PI?1:0} 1 ${x2},${y2} Z" fill="${fills[i]}" stroke="var(--paper)" stroke-width="1.5"></path>`;
+    leg+=`<rect x="248" y="${44+i*30}" width="11" height="11" fill="${fills[i]}" stroke="var(--rule-strong)" stroke-width=".7"></rect>`;
+    leg+=`<text class="chartval" x="268" y="${54+i*30}">${d[0]} — ${d[1]}%</text>`;
+    a=b;
+  });
+  return `<div class="asset"><svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Ripartizione percentuale della spesa mensile">
+  ${paths}${leg}<text class="chartlabel" x="248" y="26">Spesa mensile: 2.000 €</text></svg></div>`;
+}
+
+function ds(q,i1,i2){
+  return `<p class="stem">${q}</p><div class="dsbox">
+  <div><span>(1)</span><span>${i1}</span></div>
+  <div><span>(2)</span><span>${i2}</span></div></div>`;
+}
+const DSOPTS = [
+  'La (1) da sola è sufficiente, la (2) da sola no',
+  'La (2) da sola è sufficiente, la (1) da sola no',
+  'Servono entrambe insieme; nessuna delle due da sola basta',
+  'Nemmeno insieme sono sufficienti'
+];
+const VFN = ['Vera','Falsa','Non deducibile'];
+
+/* ======================= LE 50 DOMANDE ======================= */
+/* area: Q = quantitativa, V = verbale, DI = data insights
+   ans = indice della risposta corretta (0 = A) */
+
+const QUESTIONS = [
+{n:1,area:'Q',diff:'facile',
+ stem:`Il prezzo di un articolo aumenta del 25% e successivamente viene ridotto del 20%. Rispetto al prezzo iniziale, il prezzo finale è:`,
+ opts:['inferiore del 5%','uguale','superiore del 4%','superiore del 5%'],ans:1,
+ sol:'1,25 × 0,80 = 1,00: il 20% viene tolto da una base più alta, quindi i due effetti si annullano esattamente.',
+ trap:'Sommare le percentuali (+25 − 20 = +5%). Le variazioni percentuali si moltiplicano, non si sommano.',
+ patt:'Percentuali composte'},
+
+{n:2,area:'V',diff:'media',
+ passage:`Nel 2025 il Comune ha installato 200 nuove rastrelliere per biciclette. Nello stesso anno i furti di bicicletta denunciati sono aumentati del 12%. Il comando di polizia locale dichiara di non aver analizzato né la distribuzione dei furti per zona né l'andamento del numero di biciclette in circolazione.`,
+ claim:`L'installazione delle rastrelliere ha causato l'aumento dei furti.`,
+ stem:'',opts:VFN,ans:2,
+ sol:'Il brano riporta solo una coincidenza temporale e dichiara esplicitamente di non aver esaminato le spiegazioni alternative (più biciclette in circolazione, concentrazione per zona). Non conferma e non smentisce: non deducibile.',
+ trap:'Rispondere "Falsa" perché il nesso sembra assurdo. Il testo non lo nega: semplicemente non lo verifica.',
+ patt:'Falso vs Non deducibile'},
+
+{n:3,area:'DI',diff:'media',asset:TAB_RICAVI,
+ stem:`Quale area registra la crescita percentuale più alta dal 2024 al 2025?`,
+ opts:['Nord','Centro','Sud','Isole'],ans:3,
+ sol:'Isole: 50 → 100, cioè +100%. Nord, Centro e Sud crescono tutte del 20%.',
+ trap:'Scegliere il Nord perché ha l\'aumento più grande in valore assoluto (+80), che però è la domanda sbagliata.',
+ patt:'Rapporti vs valori assoluti'},
+
+{n:4,area:'Q',diff:'facile',
+ stem:`Una pompa riempie una vasca in 6 ore, un'altra in 12 ore. Lavorando insieme, in quanto tempo la riempiono?`,
+ opts:['3 ore','4 ore','4 ore e 30 minuti','9 ore'],ans:1,
+ sol:'Si sommano le velocità, non i tempi: 1/6 + 1/12 = 3/12 = 1/4 di vasca all\'ora → 4 ore.',
+ trap:'Fare la media dei due tempi (9 ore). Insieme devono impiegare meno della più veloce da sola.',
+ patt:'Lavoro e tassi'},
+
+{n:5,area:'DI',diff:'facile',ds:true,
+ stem:ds('Qual è il prezzo unitario del prodotto X?',
+   '12 unità del prodotto X costano complessivamente 96 €.',
+   'Il prezzo unitario del prodotto X è aumentato del 20% rispetto all\'anno scorso.'),
+ opts:DSOPTS,ans:0,
+ sol:'(1) dà 96/12 = 8 €. (2) fornisce solo una variazione percentuale, senza il livello di partenza: da sola non determina nulla.',
+ trap:'Cercare comunque di usare entrambe. Se una basta da sola, la risposta non è C.',
+ patt:'Sufficienza dei dati'},
+
+{n:6,area:'V',diff:'media',
+ stem:`Nessun membro del club di scacchi frequenta il corso di nuoto. Alcuni studenti del terzo anno frequentano il corso di nuoto. Quale conclusione segue necessariamente?`,
+ opts:['Alcuni studenti del terzo anno non sono membri del club di scacchi.',
+       'Nessuno studente del terzo anno è membro del club di scacchi.',
+       'Tutti i membri del club di scacchi sono studenti del terzo anno.',
+       'Alcuni membri del club di scacchi frequentano il corso di nuoto.'],ans:0,
+ sol:'Gli studenti del terzo anno che nuotano non possono stare nel club: di quelli almeno si sa che non ne fanno parte, cioè "alcuni non sono".',
+ trap:'La risposta B ("nessuno") è troppo forte: gli altri studenti del terzo anno, che non nuotano, potrebbero benissimo essere nel club.',
+ patt:'Quantificatori: alcuni vs tutti'},
+
+{n:7,area:'Q',diff:'media',
+ stem:`In una classe di 30 studenti, i 12 maschi hanno una media di 24 e le 18 femmine una media di 27. Qual è la media della classe?`,
+ opts:['25,5','25,8','26,0','26,2'],ans:1,
+ sol:'(12 × 24 + 18 × 27) / 30 = (288 + 486) / 30 = 774/30 = 25,8.',
+ trap:'Media semplice (24 + 27)/2 = 25,5. I gruppi hanno numerosità diverse, quindi i pesi contano.',
+ patt:'Media ponderata vs semplice'},
+
+{n:8,area:'Q',diff:'media',
+ stem:`Dopo uno sconto del 15% un articolo costa 68 €. Qual era il prezzo di listino?`,
+ opts:['76,50 €','78,20 €','80 €','82 €'],ans:2,
+ sol:'68 è l\'85% del listino: 68 / 0,85 = 80 €.',
+ trap:'Aggiungere il 15% a 68 (= 78,20 €). La percentuale va calcolata sulla base di partenza, che è il listino, non il prezzo scontato.',
+ patt:'Base della percentuale'},
+
+{n:9,area:'V',diff:'facile',
+ passage:`Il regolamento prevede che la biblioteca resti aperta dalle 9 alle 20 dal lunedì al venerdì e dalle 9 alle 14 il sabato. La domenica resta chiusa.`,
+ claim:`La biblioteca è aperta almeno fino alle 14 in tutti i giorni della settimana.`,
+ stem:'',opts:VFN,ans:1,
+ sol:'La domenica è chiusa e il brano lo dice esplicitamente: l\'affermazione è contraddetta dal testo, quindi falsa.',
+ trap:'Rispondere "non deducibile" perché la domenica sembra un caso a parte: il testo la nomina, quindi l\'informazione c\'è.',
+ patt:'Falso vs Non deducibile'},
+
+{n:10,area:'DI',diff:'facile',asset:barChart(),
+ stem:`Considerando l'intero anno, quale prodotto ha venduto di più e di quanto?`,
+ opts:['Alfa, 80 unità in più','Alfa, 40 unità in più','Beta, 80 unità in più','I due prodotti hanno venduto la stessa quantità'],ans:0,
+ sol:'Alfa: 120 + 150 + 180 + 150 = 600. Beta: 80 + 100 + 140 + 200 = 520. Differenza 80.',
+ trap:'Guardare solo il quarto trimestre, dove Beta supera Alfa, e generalizzare all\'anno.',
+ patt:'Lettura del grafico: totale vs ultimo periodo'},
+
+{n:11,area:'V',diff:'difficile',
+ stem:`Uno studio rileva che le città con più chilometri di piste ciclabili hanno una quota minore di abitanti obesi. Gli autori concludono che le piste ciclabili riducono l'obesità. Quale delle seguenti, se vera, indebolisce di più la conclusione?`,
+ opts:['Costruire piste ciclabili richiede investimenti elevati.',
+       'In alcune città le piste ciclabili sono usate soprattutto nel fine settimana.',
+       'Negli ultimi dieci anni i chilometri di piste ciclabili sono aumentati in quasi tutte le città.',
+       'Le città che costruiscono piste ciclabili hanno anche redditi medi più alti e maggiore offerta di cibo fresco.'],ans:3,
+ sol:'D introduce una causa comune: il reddito spiega sia le piste sia la minore obesità, e la correlazione resta senza alcun nesso causale.',
+ trap:'A e B sembrano critiche ma non toccano il legame causale: il costo è irrilevante e un uso parziale non esclude l\'effetto.',
+ patt:'Cause alternative'},
+
+{n:12,area:'Q',diff:'media',
+ stem:`Si lanciano due dadi a sei facce. Qual è la probabilità che la somma sia 9?`,
+ opts:['1/9','5/36','1/6','2/9'],ans:0,
+ sol:'I casi favorevoli sono (3,6), (4,5), (5,4), (6,3): 4 su 36 = 1/9.',
+ trap:'Contare solo le coppie non ordinate {3,6} e {4,5} (2/36). Con due dadi distinti l\'ordine conta.',
+ patt:'Probabilità: casi ordinati'},
+
+{n:13,area:'Q',diff:'media',
+ stem:`Il negozio A controlla 200 pezzi e ne trova difettosi il 4%. Il negozio B ne controlla 600 e ne trova difettosi il 2%. Quanti pezzi difettosi in totale?`,
+ opts:['20','24','32','48'],ans:0,
+ sol:'A: 4% di 200 = 8. B: 2% di 600 = 12. Totale 20.',
+ trap:'Mediare le percentuali: (4 + 2)/2 = 3% di 800 = 24. Le percentuali vanno pesate con le rispettive basi.',
+ patt:'Media ponderata vs semplice'},
+
+{n:14,area:'DI',diff:'media',asset:TAB_CORSI,
+ stem:`Qual è la percentuale di promossi sul totale degli iscritti ai tre corsi?`,
+ opts:['58%','60%','62%','65%'],ans:3,
+ sol:'Promossi: 120 + 120 + 20 = 260 su 400 iscritti = 65%.',
+ trap:'Media semplice delle tre percentuali (60 + 80 + 40)/3 = 60%: ignora che i corsi hanno numerosità molto diverse.',
+ patt:'Media ponderata vs semplice'},
+
+{n:15,area:'V',diff:'difficile',
+ passage:`Tutti i dipendenti che superano il corso avanzato ricevono il bonus di fine anno.`,
+ claim:`Marta ha ricevuto il bonus, quindi ha superato il corso avanzato.`,
+ stem:'',opts:VFN,ans:2,
+ sol:'La regola dice che superare il corso basta per ottenere il bonus, non che sia l\'unica strada. Il bonus potrebbe spettare anche per altri motivi: non deducibile.',
+ trap:'Leggere "tutti quelli che superano ricevono" come "solo quelli che superano ricevono": è la conversione indebita di una condizione sufficiente in necessaria.',
+ patt:'Condizione sufficiente vs necessaria'},
+
+{n:16,area:'V',diff:'media',
+ stem:`Il Comune intende ridurre il traffico in centro raddoppiando le tariffe dei parcheggi. Su quale assunzione si basa principalmente il piano?`,
+ opts:['I parcheggi del centro sono oggi gratuiti.',
+       'Il trasporto pubblico è il mezzo più usato in città.',
+       'Una quota rilevante di automobilisti, di fronte a tariffe più alte, rinuncia all\'auto o al viaggio.',
+       'Il traffico è il problema più grave della città.'],ans:2,
+ sol:'Il piano funziona solo se la domanda reagisce al prezzo. Se nessuno cambiasse comportamento, le tariffe salirebbero e il traffico resterebbe identico.',
+ trap:'A non serve (le tariffe raddoppiano, quindi esistono già); D riguarda l\'opportunità del piano, non il suo funzionamento.',
+ patt:'Assunzione implicita'},
+
+{n:17,area:'Q',diff:'facile',
+ stem:`In un parcheggio ci sono solo auto (4 ruote) e moto (2 ruote): in tutto 30 veicoli e 100 ruote. Quante sono le moto?`,
+ opts:['10','15','20','25'],ans:0,
+ sol:'Se tutti fossero auto le ruote sarebbero 120: ogni moto ne toglie 2, quindi (120 − 100)/2 = 10 moto.',
+ trap:'Risolvere a occhio con 15 e 15, che darebbe 90 ruote.',
+ patt:'Sistema lineare a parole'},
+
+{n:18,area:'DI',diff:'facile',asset:pieChart(),
+ stem:`Quanto spende la famiglia per i trasporti in un mese?`,
+ opts:['150 €','200 €','250 €','300 €'],ans:3,
+ sol:'15% di 2.000 € = 300 €.',
+ trap:'Confondere la fetta "Altro" (20%) con quella dei trasporti (15%).',
+ patt:'Lettura di quote su un totale'},
+
+{n:19,area:'Q',diff:'difficile',
+ stem:`Una soluzione di 20 litri contiene il 30% di alcol. Quanti litri di acqua pura vanno aggiunti per portare la concentrazione al 24%?`,
+ opts:['4','5','6','8'],ans:1,
+ sol:'L\'alcol resta 6 litri e cambia solo il totale: 6/(20 + x) = 0,24 → 20 + x = 25 → x = 5.',
+ trap:'Applicare il calo di 6 punti percentuali al volume (6% di 20 = 1,2). Il numeratore è fisso, si muove il denominatore.',
+ patt:'Rapporti vs valori assoluti'},
+
+{n:20,area:'DI',diff:'difficile',ds:true,
+ stem:ds('Qual è il prezzo di una felpa?',
+   '3 magliette e 2 felpe costano 130 €.',
+   '6 magliette e 4 felpe costano 260 €.'),
+ opts:DSOPTS,ans:3,
+ sol:'La (2) è esattamente la (1) moltiplicata per 2: non aggiunge nulla. Restano due incognite e una sola equazione indipendente, quindi infinite soluzioni.',
+ trap:'Contare due equazioni e concludere che il sistema si risolve: vanno verificate indipendenti.',
+ patt:'Sufficienza dei dati'},
+
+{n:21,area:'V',diff:'media',
+ passage:`Nel 2025 il museo ha registrato 120.000 visitatori, il 20% in più rispetto al 2024.`,
+ claim:`Nel 2024 i visitatori del museo sono stati 100.000.`,
+ stem:'',opts:VFN,ans:0,
+ sol:'120.000 = 1,20 × visitatori 2024 → 120.000 / 1,20 = 100.000. L\'affermazione segue dai dati: vera.',
+ trap:'Togliere il 20% da 120.000 (= 96.000) e dichiarare falsa l\'affermazione. Il 20% va calcolato sul 2024, non sul 2025.',
+ patt:'Base della percentuale'},
+
+{n:22,area:'Q',diff:'media',
+ stem:`Un'auto percorre l'andata a 60 km/h e il ritorno, sullo stesso percorso, a 40 km/h. Qual è la velocità media sull'intero viaggio?`,
+ opts:['48 km/h','50 km/h','52 km/h','54 km/h'],ans:0,
+ sol:'Con 120 km per tratta: 2 ore all\'andata e 3 al ritorno, cioè 240 km in 5 ore = 48 km/h.',
+ trap:'Media semplice (60 + 40)/2 = 50. La media va pesata sui tempi, e si viaggia più a lungo alla velocità bassa.',
+ patt:'Media ponderata vs semplice'},
+
+{n:23,area:'V',diff:'media',
+ stem:`Dopo l'introduzione dello smart working la produttività media dell'azienda è cresciuta del 7%. Il direttore conclude che lo smart working ha aumentato la produttività. Quale informazione rafforza di più la conclusione?`,
+ opts:['I dipendenti dichiarano di essere più soddisfatti.',
+       'I costi degli uffici sono diminuiti.',
+       'Il numero di dipendenti è rimasto stabile nel periodo.',
+       'Un reparto rimasto interamente in presenza, con le stesse mansioni e gli stessi incentivi, non ha registrato alcun aumento.'],ans:3,
+ sol:'D è un gruppo di controllo: esclude che l\'aumento derivi da fattori comuni a tutta l\'azienda (mercato, incentivi, stagionalità).',
+ trap:'A misura la soddisfazione, non la produttività; B è un risparmio di costi, che è un\'altra cosa.',
+ patt:'Cause alternative'},
+
+{n:24,area:'DI',diff:'media',asset:lineChart(),
+ stem:`In quale mese si registra l'aumento maggiore rispetto al mese precedente?`,
+ opts:['Febbraio','Marzo','Maggio','Giugno'],ans:0,
+ sol:'Variazioni mensili: +4, +3, +1, 0, +2. La più grande è quella di febbraio.',
+ trap:'Indicare giugno, che ha il livello più alto. La domanda chiede la variazione, non il livello.',
+ patt:'Livello vs variazione'},
+
+{n:25,area:'DI',diff:'difficile',asset:TAB_RICAVI,
+ stem:`Come cambia la quota del Nord sul totale tra il 2024 e il 2025?`,
+ opts:['Aumenta di 2 punti percentuali','Diminuisce di 2 punti percentuali','Resta invariata','Diminuisce di 5 punti percentuali'],ans:1,
+ sol:'400/800 = 50% nel 2024; 480/1.000 = 48% nel 2025 → −2 punti percentuali.',
+ trap:'Dedurre che la quota sale perché i ricavi del Nord crescono (+20%). La quota dipende anche dal totale, cresciuto del 25%.',
+ patt:'Rapporti vs valori assoluti'},
+
+{n:26,area:'Q',diff:'media',en:true,
+ stem:`A worker is paid 15 € per hour for the first 40 hours of the week and 22.50 € per hour for each additional hour. Last week she earned 780 €. How many hours did she work?`,
+ opts:['44','46','48','50'],ans:2,
+ sol:'40 × 15 = 600 €; restano 180 €; 180 / 22,50 = 8 ore extra → 48 ore in totale.',
+ trap:'Dividere 780 per 15 (= 52 ore), applicando la tariffa base a tutte le ore.',
+ patt:'Tariffe a scaglioni'},
+
+{n:27,area:'V',diff:'facile',
+ passage:`Il rapporto osserva che nella maggior parte dei venti paesi analizzati l'inflazione è scesa nel 2025; in tre di essi è invece aumentata.`,
+ claim:`Nel 2025 l'inflazione è scesa in tutti i paesi analizzati.`,
+ stem:'',opts:VFN,ans:1,
+ sol:'Il testo indica esplicitamente tre paesi in cui è aumentata: l\'affermazione è contraddetta.',
+ trap:'"La maggior parte" non è "tutti"; qui però il testo va oltre e nomina le eccezioni, quindi si può dire falsa e non solo non deducibile.',
+ patt:'Quantificatori: alcuni vs tutti'},
+
+{n:28,area:'Q',diff:'media',
+ stem:`Un'eredità è divisa tra tre fratelli in parti proporzionali a 2, 3 e 5. Chi riceve di più prende 6.000 € in più di chi riceve di meno. A quanto ammonta l'eredità?`,
+ opts:['12.000 €','18.000 €','20.000 €','24.000 €'],ans:2,
+ sol:'La differenza vale 5 − 2 = 3 parti = 6.000 €, quindi una parte è 2.000 €. Il totale è 10 parti = 20.000 €.',
+ trap:'Prendere 6.000 € come valore di una parte e concludere 60.000, oppure sommare solo 2 + 5.',
+ patt:'Rapporti vs valori assoluti'},
+
+{n:29,area:'DI',diff:'media',ds:true,en:true,
+ stem:ds('What is the percentage increase in the price of the product?',
+   'The price increased by 12 € in absolute terms.',
+   'The price went from 60 € to 72 €.'),
+ opts:['Statement (1) alone is sufficient, (2) alone is not',
+       'Statement (2) alone is sufficient, (1) alone is not',
+       'Both statements together are needed; neither alone is sufficient',
+       'Even together they are not sufficient'],ans:1,
+ sol:'Una variazione percentuale richiede la base di partenza. La (2) la fornisce: 12/60 = 20%. La (1) dà solo l\'aumento assoluto.',
+ trap:'Pensare che la (1) serva comunque: è già contenuta nella (2).',
+ patt:'Rapporti vs valori assoluti'},
+
+{n:30,area:'V',diff:'media',
+ stem:`Cinque squadre A, B, C, D, E si classificano in cinque posizioni diverse. B è davanti a C; D è dietro a C; A è davanti a B. Non ci sono altre informazioni. Quale affermazione è necessariamente vera?`,
+ opts:['C è davanti a D.','A è prima.','E è ultima.','B è seconda.'],ans:0,
+ sol:'I vincoli danno la catena A < B < C < D, quindi C precede sempre D. E non è vincolata e può inserirsi in qualsiasi posizione.',
+ trap:'Dimenticare E: se E è prima, A non è prima e B non è seconda.',
+ patt:'Vincoli logici: elemento libero'},
+
+{n:31,area:'V',diff:'difficile',
+ passage:`Nell'ultimo anno le vendite online del negozio sono cresciute del 40%, mentre le vendite totali (online più punto vendita fisico) sono cresciute del 5%.`,
+ claim:`Le vendite del punto vendita fisico sono cresciute di più del 40%.`,
+ stem:'',opts:VFN,ans:1,
+ sol:'La crescita totale è una media ponderata delle due crescite. Se entrambe superassero il 40%, anche il totale supererebbe il 40%: invece è 5%. L\'affermazione è quindi impossibile, cioè falsa.',
+ trap:'Rispondere "non deducibile" perché mancano i valori assoluti. Non servono: la logica della media ponderata basta a escludere il caso.',
+ patt:'Falso vs Non deducibile'},
+
+{n:32,area:'Q',diff:'difficile',
+ stem:`Il numero di iscritti a un corso cresce del 20%. Nello stesso periodo la quota di donne passa dal 40% al 45% del totale. Di quanto varia il numero di donne iscritte?`,
+ opts:['+5%','+12,5%','+27%','+35%'],ans:3,
+ sol:'Con 100 iscritti iniziali: 40 donne. Dopo: 120 iscritti, il 45% è 54 donne. 54/40 = 1,35 → +35%.',
+ trap:'Leggere i 5 punti percentuali di differenza (45 − 40) come una crescita del 5%: sono punti di quota, non variazione del numero.',
+ patt:'Rapporti vs valori assoluti'},
+
+{n:33,area:'DI',diff:'media',asset:barChart(),
+ stem:`Di quanto crescono le vendite del prodotto Beta dal primo al quarto trimestre?`,
+ opts:['+120%','+150%','+200%','+250%'],ans:1,
+ sol:'Da 80 a 200: l\'aumento è 120, su una base di 80 → 120/80 = +150%.',
+ trap:'Calcolare 200/80 = 2,5 e leggerlo come +250%. Quello è il rapporto tra i due valori, non la variazione.',
+ patt:'Rapporti vs valori assoluti'},
+
+{n:34,area:'Q',diff:'facile',
+ stem:`In quanti modi si può scegliere un comitato di 3 persone da un gruppo di 8?`,
+ opts:['24','56','112','336'],ans:1,
+ sol:'C(8,3) = (8 × 7 × 6)/(3 × 2 × 1) = 336/6 = 56.',
+ trap:'Fermarsi a 8 × 7 × 6 = 336, che conta anche l\'ordine: in un comitato l\'ordine non conta.',
+ patt:'Combinazioni vs permutazioni'},
+
+{n:35,area:'DI',diff:'facile',ds:true,
+ stem:ds('Qual è il fatturato 2025 dell\'azienda?',
+   'Nel 2025 il fatturato è cresciuto del 25% rispetto al 2024.',
+   'Nel 2024 il fatturato è stato di 800.000 €.'),
+ opts:DSOPTS,ans:2,
+ sol:'Serve la base più la variazione: 800.000 × 1,25 = 1.000.000 €. Da sole, nessuna delle due determina il valore.',
+ trap:'Dare per scontato che il dato 2024 basti: senza la variazione non dice nulla sul 2025.',
+ patt:'Sufficienza dei dati'},
+
+{n:36,area:'V',diff:'media',en:true,
+ stem:`The company reports that employees who attend the optional training program are promoted twice as often as those who do not. Which of the following, if true, most weakens the claim that the program improves promotion chances?`,
+ opts:['Employees already rated as high performers are far more likely to enrol in the program.',
+       'The program lasts only three days.',
+       'Some managers have never attended the program.',
+       'The program was introduced two years ago.'],ans:0,
+ sol:'È autoselezione: chi si iscrive è già il candidato più promettente, quindi sarebbe stato promosso comunque. La correlazione resta, il nesso causale no.',
+ trap:'B e C sembrano critiche al programma ma non spiegano la differenza nei tassi di promozione.',
+ patt:'Cause alternative'},
+
+{n:37,area:'Q',diff:'media',
+ stem:`Oggi Marco ha il triplo degli anni di Luca. Tra 10 anni ne avrà il doppio. Quanti anni ha Marco oggi?`,
+ opts:['20','24','27','30'],ans:3,
+ sol:'Con L gli anni di Luca: 3L + 10 = 2(L + 10) → 3L + 10 = 2L + 20 → L = 10, quindi Marco ne ha 30.',
+ trap:'Aggiungere 10 anni a uno solo dei due: passa il tempo per entrambi.',
+ patt:'Equazione a parole'},
+
+{n:38,area:'V',diff:'media',
+ stem:`Regola della catena: in ogni negozio, se il fatturato mensile supera 50.000 €, il responsabile riceve un premio. A marzo il responsabile del negozio di Padova non ha ricevuto il premio. Cosa se ne deduce?`,
+ opts:['Il fatturato di marzo a Padova ha superato 50.000 €.',
+       'Il fatturato di marzo a Padova non ha superato 50.000 €.',
+       'Il negozio di Padova ha chiuso marzo in perdita.',
+       'Nessun responsabile della catena ha ricevuto il premio a marzo.'],ans:1,
+ sol:'Contrapposta: se "fatturato > 50.000 → premio" è vera, allora "niente premio → fatturato ≤ 50.000".',
+ trap:'C confonde fatturato e utile: sono due grandezze diverse e il testo parla solo di fatturato.',
+ patt:'Condizionale e contrapposta'},
+
+{n:39,area:'DI',diff:'difficile',asset:pieChart(),
+ stem:`Se la spesa totale mensile sale a 2.500 € mentre l'affitto resta invariato in euro, quale sarà la quota dell'affitto?`,
+ opts:['25%','32%','36%','40%'],ans:1,
+ sol:'Affitto = 40% di 2.000 = 800 €. Sulla nuova spesa: 800/2.500 = 32%.',
+ trap:'Lasciare la quota al 40% perché "l\'affitto non è cambiato": in euro no, ma la quota dipende dal totale.',
+ patt:'Rapporti vs valori assoluti'},
+
+{n:40,area:'DI',diff:'difficile',asset:TAB_CORSI,
+ stem:`Quale corso ha il maggior numero di promossi?`,
+ opts:['Corso A','Corso B','Corso A e Corso B, a pari merito','Corso C'],ans:2,
+ sol:'A: 60% di 200 = 120. B: 80% di 150 = 120. C: 40% di 50 = 20. A e B pareggiano.',
+ trap:'Scegliere B perché ha la percentuale di promossi più alta: la percentuale è calcolata su una base più piccola.',
+ patt:'Rapporti vs valori assoluti'},
+
+{n:41,area:'Q',diff:'facile',
+ stem:`Un capitale di 2.000 € è investito al 10% annuo con interesse composto. Quanto vale dopo 2 anni?`,
+ opts:['2.400 €','2.410 €','2.420 €','2.440 €'],ans:2,
+ sol:'2.000 × 1,1 = 2.200; 2.200 × 1,1 = 2.420 €.',
+ trap:'2.400 € è l\'interesse semplice (200 + 200): il secondo anno il 10% si calcola su 2.200, non su 2.000.',
+ patt:'Percentuali composte'},
+
+{n:42,area:'V',diff:'media',
+ passage:`Al concorso sono ammessi solo i candidati che possiedono sia una laurea magistrale sia almeno 24 mesi di esperienza. Giulia ha 30 mesi di esperienza ed è stata ammessa al concorso.`,
+ claim:`Giulia possiede una laurea magistrale.`,
+ stem:'',opts:VFN,ans:0,
+ sol:'"Solo se" rende entrambi i requisiti necessari: essendo ammessa, Giulia li soddisfa entrambi. Vera.',
+ trap:'Rispondere "non deducibile" perché il testo non lo dice in modo diretto. Attenzione al confronto con il quesito 15: lì la condizione era sufficiente, qui è necessaria.',
+ patt:'Condizione sufficiente vs necessaria'},
+
+{n:43,area:'Q',diff:'media',
+ stem:`Un rubinetto versa 12 litri al minuto in una vasca da 240 litri, mentre una falla ne fa uscire 4 litri ogni 30 secondi. In quanti minuti la vasca si riempie?`,
+ opts:['20','30','40','60'],ans:3,
+ sol:'La falla perde 8 litri al minuto. Flusso netto = 12 − 8 = 4 L/min → 240/4 = 60 minuti.',
+ trap:'Leggere la falla come 4 L/min e ottenere 240/8 = 30. Le due unità di tempo sono diverse.',
+ patt:'Unità di misura e tassi'},
+
+{n:44,area:'V',diff:'media',
+ stem:`In una città il limite di velocità in centro è stato abbassato a 30 km/h e nell'anno successivo gli incidenti sono calati del 18%. Quale informazione indebolisce di più la tesi che il limite abbia causato il calo?`,
+ opts:['Nello stesso anno il traffico complessivo è calato del 20% per la chiusura di un grande stabilimento.',
+       'Alcuni automobilisti non rispettano il nuovo limite.',
+       'Il calo è stato più marcato nelle strade più larghe.',
+       'Il nuovo limite è segnalato da cartelli ben visibili.'],ans:0,
+ sol:'Meno veicoli in strada producono meno incidenti a prescindere dal limite: è una causa alternativa che spiega da sola il calo.',
+ trap:'B sembra una critica, ma se gli incidenti calano nonostante qualche trasgressore la tesi ne esce semmai rafforzata.',
+ patt:'Cause alternative'},
+
+{n:45,area:'DI',diff:'difficile',ds:true,
+ stem:ds('Marco ha più di 30 anni?',
+   'L\'età di Marco, in anni compiuti, è un multiplo di 7.',
+   'Marco ha più di 25 anni e meno di 40.'),
+ opts:DSOPTS,ans:3,
+ sol:'Insieme restano due possibilità: 28 e 35. Una sta sotto i 30, l\'altra sopra: la domanda resta senza risposta certa.',
+ trap:'Fermarsi quando le due informazioni restringono molto il campo e concludere C. Restringere non è determinare.',
+ patt:'Sufficienza dei dati'},
+
+{n:46,area:'DI',diff:'facile',asset:TAB_RICAVI,
+ stem:`Quale area contribuisce di più all'aumento del totale in valore assoluto?`,
+ opts:['Centro','Nord','Sud','Isole'],ans:1,
+ sol:'Aumenti: Nord +80, Isole +50, Centro +40, Sud +30. Il Nord è il contributo maggiore.',
+ trap:'Scegliere le Isole perché hanno la crescita percentuale più alta (+100%): partono però da una base molto piccola.',
+ patt:'Rapporti vs valori assoluti'},
+
+{n:47,area:'Q',diff:'facile',
+ stem:`Se 3x − 7 = 2x + 5, quanto vale x² − 4?`,
+ opts:['32','136','140','144'],ans:2,
+ sol:'3x − 2x = 5 + 7 → x = 12. Quindi 144 − 4 = 140.',
+ trap:'Fermarsi a x² = 144 senza sottrarre 4.',
+ patt:'Equazione di primo grado'},
+
+{n:48,area:'V',diff:'difficile',
+ passage:`Il rapporto precisa che i ritardi nelle consegne non sono necessariamente dovuti alla carenza di autisti.`,
+ claim:`La carenza di autisti non ha contribuito ai ritardi.`,
+ stem:'',opts:VFN,ans:2,
+ sol:'"Non necessariamente X" lascia aperta la possibilità di X: il testo nega che la carenza sia l\'unica spiegazione, non che abbia avuto un ruolo. Non deducibile.',
+ trap:'Leggere la frase come un\'esclusione e rispondere "Vera". Non necessariamente X ≠ necessariamente non X.',
+ patt:'Falso vs Non deducibile'},
+
+{n:49,area:'Q',diff:'media',
+ stem:`Il 40% degli studenti di una scuola pratica uno sport; tra questi, il 25% gioca a calcio. I calciatori sono 30. Quanti studenti ha la scuola?`,
+ opts:['120','200','250','300'],ans:3,
+ sol:'I calciatori sono il 25% del 40%, cioè il 10% del totale. Se il 10% vale 30, il totale è 300.',
+ trap:'Fare 30/0,25 = 120 e fermarsi: quello è il numero di studenti che praticano sport, non il totale.',
+ patt:'Percentuali annidate'},
+
+{n:50,area:'DI',diff:'difficile',ds:true,
+ stem:ds('Il reparto A ha un tasso di pezzi difettosi più alto del reparto B?',
+   'Il reparto A ha prodotto 20 pezzi difettosi, il reparto B ne ha prodotti 15.',
+   'Il reparto A ha prodotto 500 pezzi in totale, il reparto B 250.'),
+ opts:DSOPTS,ans:2,
+ sol:'Insieme: A 20/500 = 4%, B 15/250 = 6%. La risposta è "no", ma è una risposta certa, quindi sufficienti. Da sole non bastano né i difettosi né i totali.',
+ trap:'Con la sola (1) concludere "sì" perché 20 > 15: sono valori assoluti, il tasso richiede anche il denominatore.',
+ patt:'Rapporti vs valori assoluti'}
+];
+/* ======================= STATO ======================= */
+const TOTAL_SEC = 75 * 60;
+const PER_Q = 90;
+const KEY = 'mock07-bocconi-v1';
+const SCREENS = [];
+for (let i = 0; i < QUESTIONS.length; i += 3) SCREENS.push(QUESTIONS.slice(i, i + 3));
+
+let S = { phase:'cover', screen:0, answers:new Array(50).fill(null), left:TOTAL_SEC, tPrev:TOTAL_SEC, screenTimes:[] };
+let ticker = null;
+
+function save(){ try{ localStorage.setItem(KEY, JSON.stringify(S)); }catch(e){} }
+function load(){ try{ const r=localStorage.getItem(KEY); return r?JSON.parse(r):null; }catch(e){ return null; } }
+function wipe(){ try{ localStorage.removeItem(KEY); }catch(e){} }
+
+const app = document.getElementById('app');
+const bar = document.getElementById('bar');
+const foot = document.getElementById('foot');
+const clock = document.getElementById('clock');
+const posEl = document.getElementById('pos');
+const paceEl = document.getElementById('pace');
+const trackEl = document.querySelector('#track > i');
+const hintEl = document.getElementById('hint');
+const nextBtn = document.getElementById('next');
+
+function mmss(s){ s=Math.max(0,Math.round(s)); const m=Math.floor(s/60); return m+':'+String(s%60).padStart(2,'0'); }
+function esc(t){ return String(t).replace(/&/g,'&amp;').replace(/</g,'&lt;'); }
+
+/* ======================= COPERTINA ======================= */
+function renderCover(resume){
+  bar.classList.add('hidden'); foot.classList.add('hidden');
+  app.innerHTML = `<div class="wrap cover">
+    <div class="kicker ui">Simulazione completa · Mock 07</div>
+    <h1>Test Bocconi<br>Lauree Magistrali</h1>
+    <p class="sub">50 domande · 18 quantitativa, 16 verbale, 16 data insights</p>
+
+    <dl class="rules">
+      <div class="rule-row"><dt>Tempo</dt><dd>75 minuti in totale. Il cronometro parte quando premi Inizia e non si ferma.</dd></div>
+      <div class="rule-row"><dt>Schermate</dt><dd>3 domande per volta. Una volta chiusa una schermata non si torna indietro.</dd></div>
+      <div class="rule-row"><dt>Materiale</dt><dd>Una penna e 2 fogli A4. Nessuna calcolatrice: tutti i conti si fanno a mano.</dd></div>
+      <div class="rule-row"><dt>Punteggio</dt><dd>+1 corretta, 0 omessa, −0,25 errata (4 opzioni), −0,33 errata (3 opzioni). Soglia minima 15/50.</dd></div>
+      <div class="rule-row"><dt>Ritmo</dt><dd>1,5 minuti a domanda. Checkpoint: alla 15ª ≈ 22', alla 30ª ≈ 45', alla 45ª ≈ 67'.</dd></div>
+      <div class="rule-row"><dt>Lingua</dt><dd>Tre domande sono in inglese, come nel test reale.</dd></div>
+    </dl>
+
+    <div class="warnbox"><p>Rispondi sempre: con queste penalità anche il tiro alla cieca ha valore atteso positivo, e se elimini anche una sola opzione conviene di sicuro. Lasciare in bianco vale zero.</p></div>
+
+    ${resume && resume.phase==='run' ? `<p class="note" style="margin-bottom:1.2rem">Prova interrotta: schermata ${resume.screen+1} di ${SCREENS.length}, ${mmss(resume.left)} rimasti.</p>` : ''}
+    ${resume && resume.phase==='done' ? `<p class="note" style="margin-bottom:1.2rem">C'è un esito già registrato da una prova precedente.</p>` : ''}
+    <div style="display:flex;gap:.7rem;flex-wrap:wrap">
+      ${resume ? `<button class="btn" id="go-resume">${resume.phase==='done'?'Rivedi l\'esito':'Riprendi'}</button><button class="btn ghost" id="go-new">${resume.phase==='done'?'Nuova prova':'Ricomincia da zero'}</button>`
+               : `<button class="btn" id="go-new">Inizia la prova</button>`}
+    </div>
+  </div>`;
+  const r = document.getElementById('go-resume');
+  if(r) r.onclick = ()=>{ S = resume; if(S.phase==='done') renderResults(); else start(); };
+  document.getElementById('go-new').onclick = ()=>{
+    wipe();
+    S = { phase:'run', screen:0, answers:new Array(50).fill(null), left:TOTAL_SEC, tPrev:TOTAL_SEC, screenTimes:[] };
+    start(false);
+  };
+}
+
+/* ======================= SVOLGIMENTO ======================= */
+function start(){
+  S.phase='run';
+  bar.classList.remove('hidden'); foot.classList.remove('hidden');
+  renderScreen();
+  if(ticker) clearInterval(ticker);
+  ticker = setInterval(tick, 1000);
+  tick();
+}
+
+function tick(){
+  S.left -= 1;
+  if(S.left <= 0){ S.left = 0; paintClock(); finish(true); return; }
+  paintClock();
+  if(S.left % 5 === 0) save();
+}
+
+function paintClock(){
+  clock.textContent = mmss(S.left);
+  clock.className = S.left <= 300 ? 'crit' : (S.left <= 900 ? 'warn' : '');
+  const done = S.screen*3;
+  const expected = Math.floor((TOTAL_SEC - S.left)/PER_Q);
+  const d = done - expected;
+  paceEl.textContent = (TOTAL_SEC - S.left) < 120 ? '' :
+    (d >= 1 ? `${d} domande di margine` : (d <= -1 ? `${-d} domande di ritardo` : 'in linea con il ritmo'));
+}
+
+function renderScreen(){
+  const qs = SCREENS[S.screen];
+  const first = S.screen*3 + 1, last = first + qs.length - 1;
+  posEl.textContent = `Domanda ${first}–${last} di 50`;
+  trackEl.style.width = (S.screen/SCREENS.length*100)+'%';
+
+  app.innerHTML = `<div class="wrap screen">` + qs.map(q => qCard(q)).join('') + `</div>`;
+  app.querySelectorAll('input[type=radio]').forEach(inp=>{
+    inp.addEventListener('change', e=>{
+      S.answers[+e.target.dataset.q - 1] = +e.target.value;
+      save(); paintHint();
+    });
+  });
+  paintHint();
+  nextBtn.textContent = (S.screen === SCREENS.length-1) ? 'Consegna' : 'Avanti';
+  window.scrollTo(0,0);
+}
+
+function qCard(q){
+  const tags = `<span class="tag">${q.area==='Q'?'Quantitativa':q.area==='V'?'Verbale':'Data insights'}</span>`
+             + (q.en ? `<span class="tag">EN</span>` : '');
+  const body = (q.passage ? `<div class="passage">${q.passage}</div>` : '')
+             + (q.claim ? `<p class="claim">Affermazione: «${q.claim}»</p><p class="stem">L'affermazione è:</p>` : '')
+             + (q.asset || '')
+             + (q.stem ? (q.ds ? q.stem : `<p class="stem">${q.stem}</p>`) : '');
+  const opts = q.opts.map((o,i)=>`
+    <li><label>
+      <input type="radio" name="q${q.n}" value="${i}" data-q="${q.n}" ${S.answers[q.n-1]===i?'checked':''}>
+      <span class="ltr">${'ABCD'[i]}</span><span>${o}</span>
+    </label></li>`).join('');
+  return `<section class="q" id="q${q.n}">
+    <div class="qnum ui"><span>${q.n}</span>${tags}</div>
+    ${body}
+    <ul class="opts">${opts}</ul>
+  </section>`;
+}
+
+function paintHint(){
+  const qs = SCREENS[S.screen];
+  const blank = qs.filter(q => S.answers[q.n-1]===null).length;
+  hintEl.textContent = blank===0 ? (qs.length===3?'Tutte e tre date.':'Entrambe date.') :
+    (blank===1 ? '1 domanda ancora in bianco.' : `${blank} domande ancora in bianco.`);
+  hintEl.style.color = blank===0 ? 'var(--good)' : 'var(--signal)';
+}
+
+nextBtn.onclick = ()=>{
+  const qs = SCREENS[S.screen];
+  const blank = qs.filter(q => S.answers[q.n-1]===null).length;
+  if(blank>0 && !confirm(`Stai chiudendo la schermata con ${blank} domanda/e in bianco. Valgono 0 e non potrai tornare indietro. Confermi?`)) return;
+  S.screenTimes.push(Math.round(S.tPrev - S.left)); S.tPrev = S.left;
+  if(S.screen === SCREENS.length-1){ finish(false); return; }
+  S.screen++; save(); renderScreen();
+};
+
+/* ======================= ESITO ======================= */
+function finish(timeout){
+  if(ticker) clearInterval(ticker);
+  S.phase='done'; S.timeout=!!timeout; save();
+  renderResults();
+}
+
+function scoreAll(){
+  let pts=0, right=0, wrong=0, blank=0;
+  const byArea = {Q:{r:0,w:0,b:0,p:0,tot:0}, V:{r:0,w:0,b:0,p:0,tot:0}, DI:{r:0,w:0,b:0,p:0,tot:0}};
+  QUESTIONS.forEach(q=>{
+    const a = S.answers[q.n-1], pen = q.opts.length===3 ? 0.33 : 0.25, A = byArea[q.area];
+    A.tot++;
+    if(a===null){ blank++; A.b++; }
+    else if(a===q.ans){ pts+=1; right++; A.r++; A.p+=1; }
+    else { pts-=pen; wrong++; A.w++; A.p-=pen; }
+  });
+  return {pts, right, wrong, blank, byArea};
+}
+
+function renderResults(){
+  bar.classList.add('hidden'); foot.classList.add('hidden');
+  const R = scoreAll();
+  const used = TOTAL_SEC - S.left;
+  const pass = R.pts >= 15;
+
+  // griglia pattern
+  const patt = {};
+  QUESTIONS.forEach(q=>{
+    const a=S.answers[q.n-1];
+    if(!patt[q.patt]) patt[q.patt]={tot:0,bad:[],om:[]};
+    patt[q.patt].tot++;
+    if(a===null) patt[q.patt].om.push(q.n);
+    else if(a!==q.ans) patt[q.patt].bad.push(q.n);
+  });
+  const pattRows = Object.entries(patt)
+    .sort((a,b)=> (b[1].bad.length - a[1].bad.length) || (b[1].om.length - a[1].om.length))
+    .map(([k,v])=>`<div class="row"><span>${k}</span><span class="n">${v.bad.length}/${v.tot}</span>
+      <span class="qs">${v.bad.length?('n. '+v.bad.join(', ')):'—'}${v.om.length?(' · om. '+v.om.join(', ')):''}</span></div>`).join('');
+
+  const areaRow = (k,label)=>{
+    const A=R.byArea[k];
+    return `<div class="row"><span>${label}</span><span>${A.r}</span><span>${A.w}</span><span>${A.b}</span><span>${A.tot}</span><span>${A.p.toFixed(2).replace('.',',')}</span></div>`;
+  };
+
+  const times = S.screenTimes.map((t,i)=>{
+    const over = t > 270;
+    return `${i+1}: ${mmss(t)}${over?' ⚑':''}`;
+  }).join(' · ');
+
+  const compact = QUESTIONS.map(q=>{
+    const a=S.answers[q.n-1];
+    return q.n+':'+(a===null?'-':'ABCD'[a]);
+  }).join(' ');
+
+  app.innerHTML = `<div class="wrap res">
+    <div class="kicker ui">Esito · Mock 07${S.timeout?' · tempo scaduto':''}</div>
+    <div class="bigscore">${R.pts.toFixed(2).replace('.',',')}<small> / 50</small></div>
+    <p class="verdict" style="color:${pass?'var(--good)':'var(--signal)'}">
+      ${pass?'Sopra la soglia minima di 15':'Sotto la soglia minima di 15'} · ${R.right} corrette, ${R.wrong} errate, ${R.blank} omesse · tempo usato ${mmss(used)}
+    </p>
+
+    <div class="grid">
+      <div class="row head"><span>Area</span><span>Giuste</span><span>Sbagliate</span><span>Omesse</span><span>Totale</span><span>Punti</span></div>
+      ${areaRow('Q','Quantitativa')}${areaRow('V','Verbale')}${areaRow('DI','Data insights')}
+      <div class="row"><span><b>Totale</b></span><span>${R.right}</span><span>${R.wrong}</span><span>${R.blank}</span><span>50</span><span><b>${R.pts.toFixed(2).replace('.',',')}</b></span></div>
+    </div>
+
+    <h2 class="sec">Errori per pattern</h2>
+    <div class="patt">
+      <div class="row head"><span>Pattern</span><span class="n">Errori</span><span class="qs">Domande</span></div>
+      ${pattRows}
+    </div>
+
+    <h2 class="sec">Tempo per schermata</h2>
+    <p class="note">${times || '—'} <br>⚑ = oltre 4'30", il budget di una schermata.</p>
+
+    <h2 class="sec noprint">Riepilogo da incollare in chat</h2>
+    <textarea class="noprint" readonly rows="4">Mock 07 — ${R.pts.toFixed(2).replace('.',',')}/50 (${R.right} giuste, ${R.wrong} sbagliate, ${R.blank} omesse), tempo ${mmss(used)}
+Risposte: ${compact}</textarea>
+
+    <h2 class="sec">Soluzioni</h2>
+    <div id="review"></div>
+
+    <div style="margin-top:2.5rem;display:flex;gap:.7rem;flex-wrap:wrap" class="noprint">
+      <button class="btn" id="again">Rifai da zero</button>
+      <button class="btn ghost" id="printit">Stampa l'esito</button>
+    </div>
+  </div>`;
+
+  document.getElementById('review').innerHTML = QUESTIONS.map(q=>{
+    const a=S.answers[q.n-1];
+    const st = a===null ? ['vt-om','omessa'] : (a===q.ans ? ['vt-ok','corretta'] : ['vt-no','sbagliata']);
+    const opts = q.opts.map((o,i)=>{
+      const mk = i===q.ans ? '<span class="mark">← corretta</span>' : (i===a ? '<span class="mark">← la tua</span>' : '');
+      return `<li><label><span class="ltr" style="${i===q.ans?'background:var(--ink);color:var(--paper);border-color:var(--ink)':''}">${'ABCD'[i]}</span><span>${o}${mk}</span></label></li>`;
+    }).join('');
+    const body = (q.passage ? `<div class="passage">${q.passage}</div>` : '')
+               + (q.claim ? `<p class="claim">Affermazione: «${q.claim}»</p>` : '')
+               + (q.asset || '')
+               + (q.stem ? (q.ds ? q.stem : `<p class="stem">${q.stem}</p>`) : '');
+    return `<section class="rev">
+      <div class="qnum ui"><span>${q.n}</span><span class="verdicttag ${st[0]}">${st[1]}</span>
+        <span class="tag">${q.area==='Q'?'Quantitativa':q.area==='V'?'Verbale':'Data insights'}</span>
+        <span class="tag">${q.diff}</span></div>
+      ${body}
+      <ul class="opts">${opts}</ul>
+      <div class="solbox">
+        <b>Via rapida</b><p>${q.sol}</p>
+        <b>Trappola</b><p>${q.trap}</p>
+        <b>Pattern</b><p>${q.patt}</p>
+      </div>
+    </section>`;
+  }).join('');
+
+  document.getElementById('again').onclick = ()=>{ wipe(); location.reload(); };
+  document.getElementById('printit').onclick = ()=>window.print();
+  window.scrollTo(0,0);
+}
+
+/* ======================= AVVIO ======================= */
+window.addEventListener('beforeunload', e=>{
+  if(S.phase==='run'){ e.preventDefault(); e.returnValue=''; }
+});
+const saved = load();
+renderCover(saved && (saved.phase==='run'||saved.phase==='done') ? saved : null);
+
+</script>
+</body>
+</html>

@@ -1,0 +1,1591 @@
+MOCK TEST
+BOCCONI 03
+50 domande nuove in ordine misto
+
+
+18 Quantitative       16 Verbal      16 Data Insights
+
+
+
+
+Tempo consigliato: 75 minuti
+Una sola risposta corretta per domanda
+Soluzione collocata nella fascia inferiore di ogni pagina
+                      SCHEDA RISPOSTE
+Segna una sola lettera per domanda. Non modificare le risposte già confermate durante la
+                                         simulazione.
+
+
+                        N.    A    B    C    D    N.    A   B    C    D
+
+                         1    ○    ○    ○    ○   26     ○   ○    ○    ○
+
+                         2    ○    ○    ○    ○   27     ○   ○    ○    ○
+
+                         3    ○    ○    ○    ○   28     ○   ○    ○    ○
+
+                         4    ○    ○    ○    ○   29     ○   ○    ○    ○
+
+                         5    ○    ○    ○    ○   30     ○   ○    ○    ○
+
+                         6    ○    ○    ○    ○   31     ○   ○    ○    ○
+
+                         7    ○    ○    ○    ○   32     ○   ○    ○    ○
+
+                         8    ○    ○    ○    ○   33     ○   ○    ○    ○
+
+                         9    ○    ○    ○    ○   34     ○   ○    ○    ○
+
+                        10    ○    ○    ○    ○   35     ○   ○    ○    ○
+
+                        11    ○    ○    ○    ○   36     ○   ○    ○    ○
+
+                        12    ○    ○    ○    ○   37     ○   ○    ○    ○
+
+                        13    ○    ○    ○    ○   38     ○   ○    ○    ○
+
+                        14    ○    ○    ○    ○   39     ○   ○    ○    ○
+
+                        15    ○    ○    ○    ○   40     ○   ○    ○    ○
+
+                        16    ○    ○    ○    ○   41     ○   ○    ○    ○
+
+                        17    ○    ○    ○    ○   42     ○   ○    ○    ○
+
+                        18    ○    ○    ○    ○   43     ○   ○    ○    ○
+
+                        19    ○    ○    ○    ○   44     ○   ○    ○    ○
+
+                        20    ○    ○    ○    ○   45     ○   ○    ○    ○
+
+                        21    ○    ○    ○    ○   46     ○   ○    ○    ○
+
+                        22    ○    ○    ○    ○   47     ○   ○    ○    ○
+
+                        23    ○    ○    ○    ○   48     ○   ○    ○    ○
+
+                        24    ○    ○    ○    ○   49     ○   ○    ○    ○
+
+                        25    ○    ○    ○    ○   50     ○   ○    ○    ○
+
+
+            Distribuzione verificata delle soluzioni: A = 13, B = 12, C = 13, D = 12.
+  DATA INSIGHTS                                                                       DOMANDA 01
+
+
+   Filiale                            Ricavi                             Costi operativi
+
+   Nord                               €480.000                           €360.000
+
+   Centro                             €420.000                           €294.000
+
+   Sud                                €300.000                           €225.000
+
+
+  Quale filiale presenta il margine operativo percentuale più elevato?
+
+   A      Nord
+
+   B      Centro
+
+   C      Sud
+
+   D      Nord e Sud, a pari merito
+
+
+
+
+  SOLUZIONE - CONTROLLA SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: B
+  Il margine percentuale è (Ricavi - Costi) / Ricavi. Nord: 120/480 = 25%. Centro: 126/420 = 30%. Sud:
+  75/300 = 25%. Il valore massimo è quindi quello del Centro.
+
+
+
+
+Mock Test Bocconi 03                                                                                     1/50
+  QUANTITATIVE                                                                          DOMANDA 02
+
+
+  Dopo uno sconto del 15%, un prodotto costa €204. Qual era il prezzo
+  iniziale?
+
+   A     €220
+
+   B     €230
+
+   C     €235
+
+   D     €240
+
+
+
+
+  SOLUZIONE - CONTROLLA SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: D
+  Se P è il prezzo iniziale, dopo lo sconto resta l'85%: 0,85P = 204. Quindi P = 204 / 0,85 = 240.
+
+
+
+
+Mock Test Bocconi 03                                                                                 2/50
+       VERBAL                                                                       DOMANDA 03
+
+
+     In un mercato immobiliare il numero di compravendite è diminuito nel corso dell'anno, mentre il
+     prezzo medio delle abitazioni vendute è aumentato. Il rapporto precisa che la composizione
+     degli immobili scambiati è cambiata: sono state vendute meno abitazioni economiche e una
+     quota maggiore di immobili di pregio.
+
+
+  Quale conclusione è più rigorosa?
+
+         Una riduzione del numero di transazioni non implica necessariamente una riduzione dei
+   A
+         prezzi medi
+
+   B     Il prezzo di ogni abitazione è aumentato
+
+   C     La domanda complessiva di abitazioni è certamente aumentata
+
+   D     Gli immobili economici non sono più stati venduti
+
+
+
+
+  SOLUZIONE - CONTROLLA SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: A
+  Il testo mostra che volumi e prezzi medi possono muoversi in direzioni opposte e segnala un cambiamento
+  nella composizione delle vendite. Non consente conclusioni sul prezzo di ogni immobile né sulla domanda
+  complessiva.
+
+
+
+
+Mock Test Bocconi 03                                                                                    3/50
+  QUANTITATIVE                                                                        DOMANDA 04
+
+
+  Per x ≠ 2, quale valore soddisfa l'equazione seguente?
+
+                                            (x + 2) / (x - 2) = 3
+
+   A     2
+
+   B     3
+
+   C     4
+
+   D     6
+
+
+
+
+  SOLUZIONE - CONTROLLA SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: C
+  x + 2 = 3x - 6, quindi 8 = 2x e x = 4. Il valore rispetta anche il vincolo x ≠ 2.
+
+
+
+
+Mock Test Bocconi 03                                                                          4/50
+  DATA INSIGHTS                                                                 DOMANDA 05
+
+
+   Reparto                          Dipendenti                       Punteggio medio
+
+   A                                40                               8
+
+   B                                60                               7
+
+   C                                100                              9
+
+
+  Qual è il punteggio medio complessivo, ponderato per il numero di
+  dipendenti?
+
+   A     8,0
+
+   B     8,2
+
+   C     8,4
+
+   D     8,6
+
+
+
+
+  SOLUZIONE - CONTROLLA SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: B
+  Media ponderata = (40×8 + 60×7 + 100×9) / 200 = (320 + 420 + 900) / 200 = 1.640 / 200 = 8,2.
+
+
+
+
+Mock Test Bocconi 03                                                                             5/50
+       VERBAL                                                                        DOMANDA 06
+
+
+     Un'impresa ha introdotto un nuovo programma formativo. La produttività media dei dipendenti
+     è aumentata nei tre mesi successivi. Nello stesso periodo sono però stati assunti nuovi
+     lavoratori esperti ed è stato sostituito parte del software utilizzato. Non è stato osservato alcun
+     gruppo privo del programma formativo.
+
+
+  Qual è la conclusione più difendibile?
+
+         La produttività è aumentata dopo l'introduzione del programma, ma il programma non
+   A
+         può essere identificato come unica causa
+
+   B     Il programma ha certamente causato l'intero aumento
+
+   C     Il nuovo software non ha avuto alcun effetto
+
+   D     I nuovi assunti erano meno produttivi dei dipendenti precedenti
+
+
+
+
+  SOLUZIONE - CONTROLLA SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: A
+  Il miglioramento è osservato, ma più fattori sono cambiati contemporaneamente e manca un gruppo di
+  controllo. La causalità non è isolata.
+
+
+
+
+Mock Test Bocconi 03                                                                                       6/50
+  QUANTITATIVE                                                                   DOMANDA 07
+
+
+  Un trapezio ha basi lunghe 8 cm e 14 cm e altezza 6 cm. Qual è la sua
+  area?
+
+   A     54 cm²
+
+   B     60 cm²
+
+   C     64 cm²
+
+   D     66 cm²
+
+
+
+
+  SOLUZIONE - CONTROLLA SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: D
+  Area = (base maggiore + base minore) × altezza / 2 = (14 + 8)×6/2 = 22×3 = 66 cm².
+
+
+
+
+Mock Test Bocconi 03                                                                     7/50
+  DATA INSIGHTS                                                                   DOMANDA 08
+
+
+   Categoria                                          Quota iniziale
+
+   IT                                                 35%
+
+   Marketing                                          25%
+
+   Risorse Umane                                      20%
+
+   Formazione                                         20%
+
+
+  La categoria Formazione viene eliminata. Il 75% del suo budget viene
+  trasferito a Risorse Umane e il restante 25% a IT. Qual è la nuova
+  quota di Risorse Umane?
+
+   A     30%
+
+   B     32,5%
+
+   C     35%
+
+   D     40%
+
+
+
+
+  SOLUZIONE - CONTROLLA SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: C
+  Il 75% della quota Formazione equivale a 0,75×20% = 15 punti percentuali. Risorse Umane passa quindi
+  dal 20% al 35%.
+
+
+
+
+Mock Test Bocconi 03                                                                                     8/50
+       VERBAL                                                                       DOMANDA 09
+
+
+     Un dirigente sostiene che il lavoro da remoto aumenterà la produttività perché i dipendenti
+     risparmieranno il tempo normalmente dedicato agli spostamenti.
+
+
+  Quale assunzione è necessaria per l'argomento?
+
+         Almeno una parte del tempo risparmiato verrà impiegata in attività lavorative
+   A
+         produttive
+
+   B     Tutti i dipendenti preferiscono lavorare da casa
+
+   C     Gli spostamenti sono l'unica causa di bassa produttività
+
+   D     Il lavoro da remoto elimina ogni interruzione
+
+
+
+
+  SOLUZIONE - CONTROLLA SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: A
+  Il meccanismo proposto funziona soltanto se almeno una parte del tempo risparmiato viene convertita in
+  lavoro produttivo. Le altre affermazioni sono molto più forti del necessario.
+
+
+
+
+Mock Test Bocconi 03                                                                                       9/50
+  QUANTITATIVE                                                                          DOMANDA 10
+
+
+  Un contenitore contiene 5 componenti funzionanti e 3 difettosi. Se ne
+  scelgono 2 contemporaneamente, qual è la probabilità di selezionare
+  esattamente un componente difettoso?
+
+   A     3/14
+
+   B     15/28
+
+   C     5/8
+
+   D     3/4
+
+
+
+
+  SOLUZIONE - CONTROLLA SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: B
+  Casi favorevoli: C(3,1)×C(5,1) = 15. Casi totali: C(8,2) = 28. Probabilità = 15/28.
+
+
+
+
+Mock Test Bocconi 03                                                                            10/50
+  DATA INSIGHTS                                                    DOMANDA 11
+
+
+  A gennaio il prezzo effettivo era €50 per unità e l'indice era 100. Ad
+  aprile l'indice è 124 e vengono acquistate 300 unità. Qual è la spesa di
+  aprile?
+
+   A     €15.000
+
+   B     €17.400
+
+   C     €18.000
+
+   D     €18.600
+
+
+
+
+  SOLUZIONE - CONTROLLA SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: D
+  Prezzo di aprile = 50×124/100 = €62. Spesa = 62×300 = €18.600.
+
+
+
+
+Mock Test Bocconi 03                                                       11/50
+       VERBAL                                                                           DOMANDA 12
+
+
+     Cinque corridori P, Q, R, S e T arrivano in posizioni diverse. P arriva prima di Q; R arriva dopo Q;
+     S arriva prima di P. Non sono disponibili altre informazioni.
+
+
+  Quale affermazione è necessariamente vera?
+
+   A     T arriva primo
+
+   B     R arriva ultimo
+
+   C     S arriva prima di Q
+
+   D     P arriva secondo
+
+
+
+
+  SOLUZIONE - CONTROLLA SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: C
+  Dai vincoli segue la catena S < P < Q < R. T può inserirsi in diverse posizioni. S precede quindi
+  necessariamente Q.
+
+
+
+
+Mock Test Bocconi 03                                                                                        12/50
+  QUANTITATIVE                                                                            DOMANDA 13
+
+
+  In una progressione aritmetica il terzo termine è 11 e l'ottavo termine
+  è 31. Qual è la somma dei primi 6 termini?
+
+   A     72
+
+   B     78
+
+   C     84
+
+   D     90
+
+
+
+
+  SOLUZIONE - CONTROLLA SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: B
+  Tra il terzo e l'ottavo termine ci sono 5 intervalli: d = (31 - 11)/5 = 4. Il primo termine è 11 - 2×4 = 3. S6 =
+  6/2 × [2×3 + 5×4] = 3×26 = 78.
+
+
+
+
+Mock Test Bocconi 03                                                                                            13/50
+  DATA INSIGHTS                                                                      DOMANDA 14
+
+
+   Magazzino                         Costi                              Spedizioni
+
+   A                                 €72.000                            4.800
+
+   B                                 €64.800                            3.600
+
+   C                                 €52.500                            3.500
+
+
+  Quale magazzino presenta il costo medio per spedizione più basso?
+
+   A     A e C, a pari merito
+
+   B     Solo A
+
+   C     Solo B
+
+   D     Solo C
+
+
+
+
+  SOLUZIONE - CONTROLLA SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: A
+  A: 72.000/4.800 = €15. B: 64.800/3.600 = €18. C: 52.500/3.500 = €15. A e C sono a pari merito.
+
+
+
+
+Mock Test Bocconi 03                                                                               14/50
+       VERBAL                                                                        DOMANDA 15
+
+
+     Dopo un corso facoltativo, il punteggio medio dei partecipanti a un test è aumentato. Tuttavia, il
+     30% degli studenti inizialmente iscritti non ha sostenuto il test finale e gli studenti ritirati
+     avevano ottenuto i punteggi iniziali più bassi.
+
+
+  Qual è la principale minaccia alla validità della conclusione che il corso
+  abbia migliorato le competenze?
+
+   A     Il test finale era troppo breve
+
+   B     Il corso era facoltativo
+
+   C     L'abbandono selettivo degli studenti con risultati iniziali più bassi
+
+   D     Il punteggio medio finale era superiore a quello iniziale
+
+
+
+
+  SOLUZIONE - CONTROLLA SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: C
+  L'uscita selettiva degli studenti più deboli può aumentare la media anche senza un reale miglioramento
+  individuale. È un problema di attrition bias.
+
+
+
+
+Mock Test Bocconi 03                                                                                       15/50
+  QUANTITATIVE                                           DOMANDA 16
+
+
+  Quale valore di x soddisfa l'equazione?
+
+                                        2^(x + 1) = 32
+
+   A     1
+
+   B     2
+
+   C     3
+
+   D     4
+
+
+
+
+  SOLUZIONE - CONTROLLA SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: D
+  32 = 2^5. Quindi x + 1 = 5 e x = 4.
+
+
+
+
+Mock Test Bocconi 03                                             16/50
+  DATA INSIGHTS                                                                          DOMANDA 17
+
+
+  Il tasso di disoccupazione scende dal 9,5% al 7,6%. Qual è la riduzione
+  percentuale rispetto al valore iniziale?
+
+   A     20%
+
+   B     1,9%
+
+   C     25%
+
+   D     80%
+
+
+
+
+  SOLUZIONE - CONTROLLA SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: A
+  La diminuzione è 1,9 punti percentuali. In termini relativi: 1,9 / 9,5 = 0,20 = 20%.
+
+
+
+
+Mock Test Bocconi 03                                                                             17/50
+       VERBAL                                                                            DOMANDA 18
+
+
+     Un gruppo di studiosi concorda sul fatto che l'automazione modificherà il mercato del lavoro.
+     Alcuni prevedono una riduzione netta dell'occupazione, altri ritengono che i nuovi impieghi
+     compenseranno quelli eliminati. Il rapporto non adotta una previsione unica.
+
+
+  Quale affermazione è incompatibile con il testo?
+
+   A     Gli studiosi prevedono effetti sul mercato del lavoro
+
+   B     Le previsioni sull'occupazione netta sono diverse
+
+   C     Tutti gli studiosi concordano su una perdita netta di posti di lavoro
+
+   D     Il rapporto non presenta un'unica previsione
+
+
+
+
+  SOLUZIONE - CONTROLLA SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: C
+  Il testo afferma esplicitamente che gli studiosi divergono sull'effetto netto. L'unanimità su una perdita
+  occupazionale è quindi falsa.
+
+
+
+
+Mock Test Bocconi 03                                                                                          18/50
+  QUANTITATIVE                                                                           DOMANDA 19
+
+
+  Da un gruppo di 7 persone si deve scegliere un comitato di 3 membri.
+  Anna e Bruno non possono essere scelti insieme. Quanti comitati sono
+  possibili?
+
+   A     25
+
+   B     30
+
+   C     32
+
+   D     35
+
+
+
+
+  SOLUZIONE - CONTROLLA SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: B
+  Comitati totali: C(7,3) = 35. Comitati vietati con Anna e Bruno insieme: si sceglie il terzo membro tra le
+  altre 5 persone. Quindi 35 - 5 = 30.
+
+
+
+
+Mock Test Bocconi 03                                                                                           19/50
+  DATA INSIGHTS                                                                 DOMANDA 20
+
+
+   Attività                        Valore                           Rendimento
+
+   A                               €100.000                         4%
+
+   B                               €150.000                         6%
+
+   C                               €250.000                         2%
+
+
+  Qual è il rendimento annuo complessivo del portafoglio?
+
+   A     3,0%
+
+   B     3,2%
+
+   C     3,4%
+
+   D     3,6%
+
+
+
+
+  SOLUZIONE - CONTROLLA SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: D
+  Rendimento monetario = 4.000 + 9.000 + 5.000 = €18.000. Valore totale = €500.000. Rendimento =
+  18.000/500.000 = 3,6%.
+
+
+
+
+Mock Test Bocconi 03                                                                               20/50
+       VERBAL                                                                        DOMANDA 21
+
+
+     Tutti i progetti urgenti ricevono una revisione senior. Nessun progetto sottoposto a revisione
+     senior viene approvato automaticamente.
+
+
+  Quale conclusione è necessariamente vera?
+
+   A     Tutti i progetti revisionati sono urgenti
+
+   B     Esiste almeno un progetto urgente
+
+   C     Nessun progetto urgente viene approvato automaticamente
+
+   D     Tutti i progetti non urgenti vengono approvati automaticamente
+
+
+
+
+  SOLUZIONE - CONTROLLA SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: C
+  Urgente implica revisione senior; revisione senior implica mancata approvazione automatica. Per
+  transitività, nessun progetto urgente è approvato automaticamente.
+
+
+
+
+Mock Test Bocconi 03                                                                                  21/50
+  QUANTITATIVE                                                                         DOMANDA 22
+
+
+  Una soluzione di 30 litri contiene il 40% di sostanza attiva. Vengono
+  aggiunti 10 litri d'acqua. Qual è la nuova concentrazione?
+
+   A     30%
+
+   B     32%
+
+   C     35%
+
+   D     40%
+
+
+
+
+  SOLUZIONE - CONTROLLA SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: A
+  La sostanza attiva è 30×0,40 = 12 litri. Il volume totale diventa 40 litri. Concentrazione = 12/40 = 30%.
+
+
+
+
+Mock Test Bocconi 03                                                                                          22/50
+  DATA INSIGHTS                                                                   DOMANDA 23
+
+
+  Su 1.200 studenti, 700 usano la piattaforma A, 500 la piattaforma B e
+  200 non usano nessuna delle due. Quanti studenti usano esattamente
+  una piattaforma?
+
+   A     700
+
+   B     800
+
+   C     900
+
+   D     1.000
+
+
+
+
+  SOLUZIONE - CONTROLLA SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: B
+  Usano almeno una piattaforma: 1.200 - 200 = 1.000. Intersezione = 700 + 500 - 1.000 = 200. Esattamente
+  una = 1.000 - 200 = 800.
+
+
+
+
+Mock Test Bocconi 03                                                                                 23/50
+       VERBAL                                                                        DOMANDA 24
+
+
+     Una società sostiene che un nuovo algoritmo migliori la qualità delle assunzioni perché i
+     dipendenti selezionati dopo la sua introduzione hanno ottenuto risultati migliori rispetto ai
+     dipendenti assunti l'anno precedente.
+
+
+  Quale evidenza rafforzerebbe maggiormente la conclusione causale?
+
+   A     I dirigenti dichiarano di apprezzare l'algoritmo
+
+   B     L'algoritmo ha un costo elevato
+
+   C     I candidati conoscono l'esistenza dell'algoritmo
+
+         Candidati contemporanei vengono assegnati casualmente a selezione algoritmica o
+   D
+         tradizionale
+
+
+
+
+  SOLUZIONE - CONTROLLA SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: D
+  Un confronto randomizzato tra candidati contemporanei riduce le differenze di composizione e di contesto,
+  permettendo di isolare meglio l'effetto dell'algoritmo.
+
+
+
+
+Mock Test Bocconi 03                                                                                     24/50
+  QUANTITATIVE                                                                        DOMANDA 25
+
+
+  L'intero n soddisfa 1 ≤ n ≤ 8 e n(9 - n) > 18. Quanti valori di n sono
+  possibili?
+
+   A     2
+
+   B     3
+
+   C     4
+
+   D     5
+
+
+
+
+  SOLUZIONE - CONTROLLA SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: A
+  Testando i valori interi: n=4 dà 20 e n=5 dà 20. Per n=3 o 6 si ottiene 18, che non è maggiore di 18. Sono
+  quindi possibili soltanto 2 valori.
+
+
+
+
+Mock Test Bocconi 03                                                                                      25/50
+  DATA INSIGHTS                                                                   DOMANDA 26
+
+
+   Regione                  Vendite                  Obiettivo                 Margine
+
+   Est                      €330.000                 €300.000                  18%
+
+   Ovest                    €420.000                 €350.000                  14%
+
+   Sud                      €280.000                 €250.000                  22%
+
+   Nord                     €520.000                 €500.000                  25%
+
+
+  Una regione riceve il bonus se raggiunge almeno il 110% dell'obiettivo
+  e genera almeno €60.000 di margine. Quale regione riceve il bonus?
+
+   A      Est
+
+   B      Ovest
+
+   C      Sud
+
+   D      Nord
+
+
+
+
+  SOLUZIONE - CONTROLLA SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: C
+  Est raggiunge il 110%, ma genera €59.400. Ovest raggiunge il 120%, ma genera €58.800. Sud raggiunge il
+  112% e genera €61.600. Nord non raggiunge il 110%. Solo Sud soddisfa entrambe le condizioni.
+
+
+
+
+Mock Test Bocconi 03                                                                                  26/50
+       VERBAL                                                                            DOMANDA 27
+
+
+     Dopo l'introduzione di orari flessibili, il tasso di dimissioni è diminuito. Il sondaggio interno sul
+     gradimento ha però ottenuto risposte soltanto dal 40% dei dipendenti e non sono disponibili
+     informazioni su eventuali aumenti salariali avvenuti nello stesso periodo.
+
+
+  Quale conclusione non è giustificata?
+
+   A     Il tasso di dimissioni è diminuito dopo il cambiamento
+
+   B     Gli orari flessibili hanno certamente causato la riduzione delle dimissioni
+
+   C     Il sondaggio può soffrire di mancata risposta selettiva
+
+   D     I salari potrebbero rappresentare un fattore concorrente
+
+
+
+
+  SOLUZIONE - CONTROLLA SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: B
+  La successione temporale non dimostra causalità. Mancano dati su fattori concorrenti, tra cui i salari, e il
+  sondaggio ha un basso tasso di risposta.
+
+
+
+
+Mock Test Bocconi 03                                                                                             27/50
+  QUANTITATIVE                                                                    DOMANDA 28
+
+
+  Un automobilista percorre due tratte della stessa lunghezza: la prima
+  a 60 km/h e la seconda a 40 km/h. Qual è la velocità media
+  complessiva?
+
+   A     45 km/h
+
+   B     46 km/h
+
+   C     47 km/h
+
+   D     48 km/h
+
+
+
+
+  SOLUZIONE - CONTROLLA SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: D
+  Per distanze uguali si usa la media armonica: 2ab/(a+b) = 2×60×40/100 = 48 km/h. La media semplice 50
+  è errata perché i tempi delle due tratte sono diversi.
+
+
+
+
+Mock Test Bocconi 03                                                                                28/50
+  DATA INSIGHTS                                                               DOMANDA 29
+
+
+  Un impianto consuma 2.000 MWh. Il 30% proviene dal solare, il 25%
+  dall'eolico, il 20% dall'idroelettrico e il resto dal gas. Quanti MWh
+  provengono complessivamente da solare ed eolico?
+
+   A     900
+
+   B     1.000
+
+   C     1.100
+
+   D     1.200
+
+
+
+
+  SOLUZIONE - CONTROLLA SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: C
+  Solare ed eolico rappresentano il 55% del totale. 2.000×0,55 = 1.100 MWh.
+
+
+
+
+Mock Test Bocconi 03                                                                  29/50
+       VERBAL                                                                        DOMANDA 30
+
+
+     Uno studio rileva che i quartieri con maggiore copertura arborea presentano temperature
+     superficiali più basse misurate da satellite. Gli autori precisano che la temperatura superficiale
+     esterna non coincide necessariamente con la temperatura interna degli edifici.
+
+
+  Quale affermazione è supportata dal testo?
+
+         I dati satellitari non permettono da soli di determinare l'esposizione termica all'interno
+   A
+         degli edifici
+
+   B     Gli alberi riducono in ugual misura la temperatura interna ed esterna
+
+   C     Tutti i quartieri con pochi alberi hanno abitazioni più calde
+
+   D     La temperatura interna non può mai essere misurata
+
+
+
+
+  SOLUZIONE - CONTROLLA SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: A
+  Il testo distingue esplicitamente temperatura superficiale e temperatura interna. Non afferma uguaglianza
+  degli effetti né generalizzazioni assolute.
+
+
+
+
+Mock Test Bocconi 03                                                                                      30/50
+  QUANTITATIVE                                                                           DOMANDA 31
+
+
+  Data sufficiency. Qual è il valore di x? (1) x² = 25. (2) x > 0.
+
+   A     La sola affermazione 1 è sufficiente
+
+   B     Le due affermazioni insieme sono sufficienti, ma nessuna lo è da sola
+
+   C     Ciascuna affermazione è sufficiente da sola
+
+   D     Le due affermazioni insieme non sono sufficienti
+
+
+
+
+  SOLUZIONE - CONTROLLA SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: B
+  Da (1), x può essere 5 oppure -5: non basta. Da (2), x può assumere infiniti valori positivi: non basta.
+  Insieme, x = 5.
+
+
+
+
+Mock Test Bocconi 03                                                                                         31/50
+  DATA INSIGHTS                                                                     DOMANDA 32
+
+
+   Prodotto                 Unità                    Prezzo unitario          Costo variabile
+
+   A                        1.000                    €50                      €30
+
+   B                        800                      €70                      €40
+
+   C                        600                      €90                      €55
+
+
+  Quale prodotto genera il margine di contribuzione totale più elevato?
+
+   A     A
+
+   B     C
+
+   C     A e C, a pari merito
+
+   D     B
+
+
+
+
+  SOLUZIONE - CONTROLLA SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: D
+  A: 1.000×(50-30) = €20.000. B: 800×(70-40) = €24.000. C: 600×(90-55) = €21.000. Il massimo è B.
+
+
+
+
+Mock Test Bocconi 03                                                                                32/50
+       VERBAL                                                                               DOMANDA 33
+
+
+     Cinque libri J, K, L, M e N sono disposti in fila. J deve precedere K; L deve precedere M; K deve
+     precedere M; N deve essere ultimo.
+
+
+  Quale disposizione è possibile?
+
+   A     J, L, K, M, N
+
+   B     K, J, L, M, N
+
+   C     L, M, J, K, N
+
+   D     J, K, M, N, L
+
+
+
+
+  SOLUZIONE - CONTROLLA SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: A
+  La disposizione A rispetta tutti i vincoli: J prima di K, L prima di M, K prima di M e N ultimo. Le altre ne
+  violano almeno uno.
+
+
+
+
+Mock Test Bocconi 03                                                                                             33/50
+  QUANTITATIVE                                                                          DOMANDA 34
+
+
+  Le aree di due cerchi sono nel rapporto 25:49. In quale rapporto
+  stanno le loro circonferenze?
+
+   A     25:49
+
+   B     10:14
+
+   C     5:7
+
+   D     625:2401
+
+
+
+
+  SOLUZIONE - CONTROLLA SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: C
+  L'area è proporzionale al quadrato del raggio. Il rapporto dei raggi è quindi √25:√49 = 5:7. Le circonferenze
+  hanno lo stesso rapporto dei raggi.
+
+
+
+
+Mock Test Bocconi 03                                                                                        34/50
+  DATA INSIGHTS                                                                 DOMANDA 35
+
+
+   Divisione                        Unità prodotte                   Costo unitario
+
+   A                                100                              €10
+
+   B                                200                              €13
+
+   C                                300                              €15
+
+
+  Qual è il costo medio unitario complessivo?
+
+   A     €13,0
+
+   B     €13,5
+
+   C     €14,0
+
+   D     €14,5
+
+
+
+
+  SOLUZIONE - CONTROLLA SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: B
+  Costo totale = 100×10 + 200×13 + 300×15 = 1.000 + 2.600 + 4.500 = €8.100. Unità totali = 600. Costo
+  medio = 8.100/600 = €13,5.
+
+
+
+
+Mock Test Bocconi 03                                                                               35/50
+       VERBAL                                                                         DOMANDA 36
+
+
+     Un comune sostiene che nuove piste ciclabili ridurranno la congestione perché una parte degli
+     automobilisti passerà alla bicicletta.
+
+
+  Quale assunzione è necessaria?
+
+   A     Ogni automobilista possiede una bicicletta
+
+   B     Le piste ciclabili eliminano tutti gli incidenti
+
+   C     La congestione dipende esclusivamente dalle automobili
+
+   D     Un numero non trascurabile di automobilisti è disposto e in grado di cambiare mezzo
+
+
+
+
+  SOLUZIONE - CONTROLLA SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: D
+  Il meccanismo richiede che almeno una quota rilevante di automobilisti possa e voglia passare alla
+  bicicletta. Le altre affermazioni sono assolute e non necessarie.
+
+
+
+
+Mock Test Bocconi 03                                                                                   36/50
+  QUANTITATIVE                                                DOMANDA 37
+
+
+  La superficie totale di un cubo è 216 cm². Qual è il suo volume?
+
+   A     216 cm³
+
+   B     324 cm³
+
+   C     432 cm³
+
+   D     1.296 cm³
+
+
+
+
+  SOLUZIONE - CONTROLLA SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: A
+  6s² = 216, quindi s² = 36 e s = 6. Volume = s³ = 216 cm³.
+
+
+
+
+Mock Test Bocconi 03                                                  37/50
+  DATA INSIGHTS                                                                     DOMANDA 38
+
+
+  Nel 2025 le esportazioni sono €500 milioni e le importazioni €400
+  milioni. Nel 2026 le esportazioni aumentano del 12% e il rapporto
+  importazioni/esportazioni resta invariato. Quali saranno le
+  importazioni?
+
+   A     €420 milioni
+
+   B     €440 milioni
+
+   C     €448 milioni
+
+   D     €450 milioni
+
+
+
+
+  SOLUZIONE - CONTROLLA SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: C
+  Il rapporto iniziale è 400/500 = 0,8. Le esportazioni 2026 sono 500×1,12 = 560. Importazioni = 560×0,8 =
+  €448 milioni.
+
+
+
+
+Mock Test Bocconi 03                                                                                    38/50
+       VERBAL                                                                             DOMANDA 39
+
+
+     Una scuola confronta i risultati di due classi. La classe che ha utilizzato un nuovo metodo
+     didattico ottiene una media più alta, ma era composta in partenza da studenti con voti
+     precedenti superiori e con minore assenteismo.
+
+
+  Qual è la principale debolezza della conclusione che il metodo sia più
+  efficace?
+
+   A     Le classi hanno la stessa numerosità
+
+   B     I gruppi differivano già prima dell'intervento
+
+   C     La media della classe sperimentale è più alta
+
+   D     Il metodo è stato utilizzato per un intero semestre
+
+
+
+
+  SOLUZIONE - CONTROLLA SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: B
+  Le differenze iniziali tra i gruppi possono spiegare almeno parte del divario finale. Senza controllo o
+  randomizzazione, l'effetto del metodo non è isolato.
+
+
+
+
+Mock Test Bocconi 03                                                                                        39/50
+  QUANTITATIVE                                                                         DOMANDA 40
+
+
+  Per x > 1, quale valore soddisfa l'equazione?
+
+                                   log₃(x - 1) + log₃(x + 1) = 2
+
+   A     3
+
+   B     √8
+
+   C     √9
+
+   D     √10
+
+
+
+
+  SOLUZIONE - CONTROLLA SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: D
+  Somma dei logaritmi: log₃[(x-1)(x+1)] = 2. Quindi x² - 1 = 9 e x² = 10. Poiché x > 1, x = √10.
+
+
+
+
+Mock Test Bocconi 03                                                                               40/50
+  DATA INSIGHTS                                                                   DOMANDA 41
+
+
+   Programma           Salario             Occupazione         Costo annuo         Anni
+
+   A                   €40.000             90%                 €8.000              2
+
+   B                   €44.000             85%                 €10.000             2
+
+   C                   €38.000             95%                 €7.000              1
+
+   D                   €50.000             75%                 €12.000             3
+
+
+  Per ogni programma si calcola: salario annuo × tasso di occupazione -
+  costo annuo × anni di corso. Quale programma ottiene il valore più
+  alto?
+
+   A     Programma C
+
+   B     Programma A
+
+   C     Programma B
+
+   D     Programma D
+
+
+
+
+  SOLUZIONE - CONTROLLA SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: A
+  A: 40.000×0,90 - 16.000 = 20.000. B: 44.000×0,85 - 20.000 = 17.400. C: 38.000×0,95 - 7.000 = 29.100.
+  D: 50.000×0,75 - 36.000 = 1.500. Il massimo è C.
+
+
+
+
+Mock Test Bocconi 03                                                                                 41/50
+       VERBAL                                                                            DOMANDA 42
+
+
+     Il cosiddetto quiet quitting indica generalmente la scelta di limitare il proprio impegno alle
+     mansioni previste, senza assumere compiti aggiuntivi. Non implica necessariamente la volontà
+     di dimettersi.
+
+
+  Quale affermazione è falsa rispetto al testo?
+
+   A     Il fenomeno può riguardare lavoratori che restano nell'impresa
+
+   B     Il termine riguarda il livello di impegno oltre le mansioni previste
+
+   C     Chi pratica quiet quitting si dimetterà necessariamente
+
+   D     Il fenomeno non coincide per definizione con le dimissioni
+
+
+
+
+  SOLUZIONE - CONTROLLA SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: C
+  Il testo nega esplicitamente che il quiet quitting implichi necessariamente le dimissioni.
+
+
+
+
+Mock Test Bocconi 03                                                                                  42/50
+  QUANTITATIVE                                                                        DOMANDA 43
+
+
+  Un parallelepipedo rettangolo misura 50 cm × 40 cm × 30 cm. Qual è il
+  suo volume in litri?
+
+   A     50 litri
+
+   B     60 litri
+
+   C     600 litri
+
+   D     6.000 litri
+
+
+
+
+  SOLUZIONE - CONTROLLA SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: B
+  Volume = 50×40×30 = 60.000 cm³. Poiché 1 litro = 1.000 cm³, il volume è 60 litri.
+
+
+
+
+Mock Test Bocconi 03                                                                          43/50
+  DATA INSIGHTS                                                                DOMANDA 44
+
+
+   Gruppo                           Persone                        Punteggio
+
+   A                                20                             9
+
+   B                                80                             7
+
+
+  Qual è il punteggio medio ponderato?
+
+   A     7,0
+
+   B     7,5
+
+   C     8,0
+
+   D     7,4
+
+
+
+
+  SOLUZIONE - CONTROLLA SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: D
+  Media ponderata = (20×9 + 80×7) / 100 = (180 + 560)/100 = 7,4.
+
+
+
+
+Mock Test Bocconi 03                                                                   44/50
+       VERBAL                                                                           DOMANDA 45
+
+
+     Una piattaforma aumenta dell'8% il prezzo medio degli abbonamenti. La quantità di
+     abbonamenti diminuisce del 2%, ma nello stesso periodo cambiano le promozioni e viene
+     introdotto un piano premium.
+
+
+  Quale evidenza rafforzerebbe maggiormente la conclusione che la
+  domanda sia anelastica?
+
+         Per lo stesso piano e nella stessa coorte, un aumento dell'8% del prezzo è associato a
+   A
+         un calo del 2% della quantità
+
+   B     I dirigenti ritengono che il marchio sia forte
+
+   C     Il piano premium riceve recensioni positive
+
+   D     I concorrenti aumentano i prezzi
+
+
+
+
+  SOLUZIONE - CONTROLLA SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: A
+  Il confronto a parità di piano e coorte riduce l'effetto dei cambiamenti di composizione. Un calo percentuale
+  della quantità inferiore all'aumento del prezzo è coerente con domanda anelastica.
+
+
+
+
+Mock Test Bocconi 03                                                                                        45/50
+  QUANTITATIVE                                                                       DOMANDA 46
+
+
+  Una macchina A completa un lavoro in 8 ore e una macchina B in 12
+  ore. Quanto tempo impiegano lavorando insieme?
+
+   A     4 ore e 30 minuti
+
+   B     4 ore e 40 minuti
+
+   C     4 ore e 48 minuti
+
+   D     5 ore
+
+
+
+
+  SOLUZIONE - CONTROLLA SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: C
+  Velocità congiunta = 1/8 + 1/12 = 5/24 del lavoro per ora. Tempo = 24/5 = 4,8 ore = 4 ore e 48 minuti.
+
+
+
+
+Mock Test Bocconi 03                                                                                       46/50
+  DATA INSIGHTS                                                                      DOMANDA 47
+
+
+   Settore                            Occupati iniziali                  Occupati finali
+
+   Industria                          500.000                            470.000
+
+   Agricoltura                        200.000                            160.000
+
+   Pubblico                           300.000                            310.000
+
+   Servizi                            800.000                            850.000
+
+
+  Quale settore registra la maggiore perdita assoluta di occupati?
+
+   A     Industria
+
+   B     Agricoltura
+
+   C     Pubblico
+
+   D     Servizi
+
+
+
+
+  SOLUZIONE - CONTROLLA SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: B
+  Industria perde 30.000 occupati; Agricoltura ne perde 40.000; Pubblico e Servizi aumentano. La perdita
+  maggiore è in Agricoltura.
+
+
+
+
+Mock Test Bocconi 03                                                                                       47/50
+       VERBAL                                                                           DOMANDA 48
+
+
+     Un'azienda confronta la produttività prima e dopo l'introduzione dello smart working. Prima
+     utilizza il numero di pratiche completate per dipendente; dopo utilizza una valutazione
+     soggettiva compilata dai responsabili.
+
+
+  Qual è la prima domanda da porre per valutare il confronto?
+
+   A     Quanti responsabili preferiscono il lavoro in ufficio?
+
+   B     Quanto costa il software aziendale?
+
+   C     I dipendenti lavorano nello stesso edificio?
+
+   D     La produttività è stata misurata con criteri comparabili nei due periodi?
+
+
+
+
+  SOLUZIONE - CONTROLLA SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: D
+  Prima di interpretare una differenza occorre verificare che la variabile sia misurata in modo coerente. Qui le
+  metriche sono diverse e potrebbero non essere comparabili.
+
+
+
+
+Mock Test Bocconi 03                                                                                         48/50
+  QUANTITATIVE                                                                             DOMANDA 49
+
+
+  Un padre ha oggi un'età tripla rispetto al figlio. Tra 12 anni avrà un'età
+  doppia rispetto al figlio. Qual è la somma delle loro età attuali?
+
+   A     48
+
+   B     50
+
+   C     52
+
+   D     54
+
+
+
+
+  SOLUZIONE - CONTROLLA SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: A
+  Sia s l'età del figlio. Il padre ha 3s anni. Tra 12 anni: 3s + 12 = 2(s + 12). Quindi s = 12 e il padre ha 36
+  anni. Somma = 48.
+
+
+
+
+Mock Test Bocconi 03                                                                                              49/50
+  QUANTITATIVE                                                                       DOMANDA 50
+
+
+  Cinque persone si dispongono in fila. In quanti modi possono farlo se
+  Anna e Bruno devono essere adiacenti?
+
+   A     24
+
+   B     36
+
+   C     48
+
+   D     60
+
+
+
+
+  SOLUZIONE - CONTROLLA SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: C
+  Consideriamo Anna e Bruno come un unico blocco. Il blocco e le altre 3 persone formano 4 oggetti: 4!
+  disposizioni. All'interno del blocco Anna e Bruno possono scambiarsi: 2×4! = 48.
+
+
+
+
+Mock Test Bocconi 03                                                                                     50/50
+

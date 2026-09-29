@@ -1,0 +1,616 @@
+              Archivio errori - Mock Bocconi
+                                Versione per il rifacimento
+
+
+
+
+Contiene i 62 quesiti sbagliati caricati dai mock 1-7, nello stesso ordine.
+Le schermate sono state convertite in scala di grigi e le spiegazioni finali sono state rimosse.
+Le selezioni originali possono restare visibili in alcuni quesiti, ma il feedback corretto/errato e stato neutralizz
+Usa la griglia finale per segnare risposta, tempo e motivo dell eventuale nuovo errore.
+
+
+
+
+Creato per il rifacimento sistematico degli errori.
+Indice
+
+Mock 1: quesiti 1-15 (15 errori)
+
+Mock 2: quesiti 16-24 (9 errori)
+
+Mock 3: quesiti 25-35 (11 errori)
+
+Mock 4: quesiti 36-43 (8 errori)
+
+Mock 5-6: quesiti 44-57 (14 errori)
+
+Mock 7: quesiti 58-62 (5 errori)
+
+
+
+
+Totale: 62 quesiti.
+ Mock 1
+15 errori da rifare
+Quesito 1 - Mock 1                                                                  Origine schermata 40
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Quesito 2 - Mock 1                                                                  Origine schermata 41
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Quesito 3 - Mock 1                                                                  Origine schermata 42
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Quesito 4 - Mock 1                                                                  Origine schermata 43
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Quesito 5 - Mock 1                                                                  Origine schermata 44
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Quesito 6 - Mock 1                                                                  Origine schermata 45
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Quesito 7 - Mock 1                                                                  Origine schermata 46
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Quesito 8 - Mock 1                                                                  Origine schermata 47
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Quesito 9 - Mock 1                                                                  Origine schermata 48
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Quesito 10 - Mock 1                                                                 Origine schermata 49
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Quesito 11 - Mock 1                                                                 Origine schermata 50
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Quesito 12 - Mock 1                                                                 Origine schermata 51
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Quesito 13 - Mock 1                                                                 Origine schermata 52
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Quesito 14 - Mock 1                                                                 Origine schermata 53
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Quesito 15 - Mock 1                                                                 Origine schermata 54
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Mock 2
+9 errori da rifare
+Quesito 16 - Mock 2                                                                 Origine schermata 55
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Quesito 17 - Mock 2                                                                 Origine schermata 56
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Quesito 18 - Mock 2                                                                 Origine schermata 57
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Quesito 19 - Mock 2                                                                 Origine schermata 58
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Quesito 20 - Mock 2                                                                 Origine schermata 59
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Quesito 21 - Mock 2                                                                 Origine schermata 60
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Quesito 22 - Mock 2                                                                 Origine schermata 61
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Quesito 23 - Mock 2                                                                 Origine schermata 62
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Quesito 24 - Mock 2                                                                 Origine schermata 63
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+ Mock 3
+11 errori da rifare
+Quesito 25 - Mock 3                                                                 Origine schermata 64
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Quesito 26 - Mock 3                                                                 Origine schermata 65
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Quesito 27 - Mock 3                                                                 Origine schermata 66
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Quesito 28 - Mock 3                                                                 Origine schermata 67
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Quesito 29 - Mock 3                                                                 Origine schermata 68
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Quesito 30 - Mock 3                                                                 Origine schermata 69
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Quesito 31 - Mock 3                                                                 Origine schermata 70
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Quesito 32 - Mock 3                                                                 Origine schermata 71
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Quesito 33 - Mock 3                                                                 Origine schermata 72
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Quesito 34 - Mock 3                                                                 Origine schermata 73
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Quesito 35 - Mock 3                                                                 Origine schermata 74
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Mock 4
+8 errori da rifare
+Quesito 36 - Mock 4                                                                 Origine schermata 75
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Quesito 37 - Mock 4                                                                 Origine schermata 76
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Quesito 38 - Mock 4                                                                 Origine schermata 77
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Quesito 39 - Mock 4                                                                 Origine schermata 78
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Quesito 40 - Mock 4                                                                 Origine schermata 79
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Quesito 41 - Mock 4                                                                 Origine schermata 80
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Quesito 42 - Mock 4                                                                 Origine schermata 81
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Quesito 43 - Mock 4                                                                 Origine schermata 82
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Mock 5-6
+14 errori da rifare
+Quesito 44 - Mock 5-6                                                               Origine schermata 83
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Quesito 45 - Mock 5-6                                                               Origine schermata 84
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Quesito 46 - Mock 5-6                                                               Origine schermata 85
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Quesito 47 - Mock 5-6                                                               Origine schermata 86
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Quesito 48 - Mock 5-6                                                               Origine schermata 87
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Quesito 49 - Mock 5-6                                                               Origine schermata 88
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Quesito 50 - Mock 5-6                                                               Origine schermata 89
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Quesito 51 - Mock 5-6                                                               Origine schermata 90
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Quesito 52 - Mock 5-6                                                               Origine schermata 91
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Quesito 53 - Mock 5-6                                                               Origine schermata 92
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Quesito 54 - Mock 5-6                                                               Origine schermata 94
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Quesito 55 - Mock 5-6                                                               Origine schermata 95
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Quesito 56 - Mock 5-6                                                               Origine schermata 96
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Quesito 57 - Mock 5-6                                                               Origine schermata 97
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Mock 7
+5 errori da rifare
+Quesito 58 - Mock 7                                                                 Origine schermata 98
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Quesito 59 - Mock 7                                                                 Origine schermata 99
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Quesito 60 - Mock 7                                                                 Origine schermata 100
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Quesito 61 - Mock 7                                                                 Origine schermata 101
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Quesito 62 - Mock 7                                                                 Origine schermata 102
+
+
+
+
+Risposta: ______   Tempo: ______   Tipo di errore: ______________________________
+Griglia di rifacimento 1/3
+
+
+N.   Risposta   Corretta?   Tempo   Errore/pattern da correggere
+
+
+1
+
+
+2
+
+
+3
+
+
+4
+
+
+5
+
+
+6
+
+
+7
+
+
+8
+
+
+9
+
+
+10
+
+
+11
+
+
+12
+
+
+13
+
+
+14
+
+
+15
+
+
+16
+
+
+17
+
+
+18
+
+
+19
+
+
+20
+
+
+21
+Griglia di rifacimento 2/3
+
+
+N.   Risposta   Corretta?   Tempo   Errore/pattern da correggere
+
+
+22
+
+
+23
+
+
+24
+
+
+25
+
+
+26
+
+
+27
+
+
+28
+
+
+29
+
+
+30
+
+
+31
+
+
+32
+
+
+33
+
+
+34
+
+
+35
+
+
+36
+
+
+37
+
+
+38
+
+
+39
+
+
+40
+
+
+41
+
+
+42
+Griglia di rifacimento 3/3
+
+
+N.   Risposta   Corretta?   Tempo   Errore/pattern da correggere
+
+
+43
+
+
+44
+
+
+45
+
+
+46
+
+
+47
+
+
+48
+
+
+49
+
+
+50
+
+
+51
+
+
+52
+
+
+53
+
+
+54
+
+
+55
+
+
+56
+
+
+57
+
+
+58
+
+
+59
+
+
+60
+
+
+61
+
+
+62
+

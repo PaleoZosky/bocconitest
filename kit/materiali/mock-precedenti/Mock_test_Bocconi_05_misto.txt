@@ -1,0 +1,1725 @@
+                                                           05 / 08
+
+
+
+MOCK TEST
+BOCCONI 05
+50 domande completamente nuove - ordine misto
+
+
+18 Quantitative       16 Verbal     16 Data Insights
+
+
+
+
+Tempo consigliato: 75 minuti
+Una sola risposta corretta per domanda
+Copri la fascia inferiore prima di iniziare ogni quesito
+
+
+
+Serie di preparazione: Mock 5 di 8
+            SCHEDA RISPOSTE
+Segna una sola lettera. Usa questa pagina prima di scoprire le soluzioni.
+
+
+              N.    A    B    C    D    N.   A    B    C    D
+
+               1    ○    ○    ○    ○   26    ○    ○    ○    ○
+
+               2    ○    ○    ○    ○   27    ○    ○    ○    ○
+
+               3    ○    ○    ○    ○   28    ○    ○    ○    ○
+
+               4    ○    ○    ○    ○   29    ○    ○    ○    ○
+
+               5    ○    ○    ○    ○   30    ○    ○    ○    ○
+
+               6    ○    ○    ○    ○   31    ○    ○    ○    ○
+
+               7    ○    ○    ○    ○   32    ○    ○    ○    ○
+
+               8    ○    ○    ○    ○   33    ○    ○    ○    ○
+
+               9    ○    ○    ○    ○   34    ○    ○    ○    ○
+
+              10    ○    ○    ○    ○   35    ○    ○    ○    ○
+
+              11    ○    ○    ○    ○   36    ○    ○    ○    ○
+
+              12    ○    ○    ○    ○   37    ○    ○    ○    ○
+
+              13    ○    ○    ○    ○   38    ○    ○    ○    ○
+
+              14    ○    ○    ○    ○   39    ○    ○    ○    ○
+
+              15    ○    ○    ○    ○   40    ○    ○    ○    ○
+
+              16    ○    ○    ○    ○   41    ○    ○    ○    ○
+
+              17    ○    ○    ○    ○   42    ○    ○    ○    ○
+
+              18    ○    ○    ○    ○   43    ○    ○    ○    ○
+
+              19    ○    ○    ○    ○   44    ○    ○    ○    ○
+
+              20    ○    ○    ○    ○   45    ○    ○    ○    ○
+
+              21    ○    ○    ○    ○   46    ○    ○    ○    ○
+
+              22    ○    ○    ○    ○   47    ○    ○    ○    ○
+
+              23    ○    ○    ○    ○   48    ○    ○    ○    ○
+
+              24    ○    ○    ○    ○   49    ○    ○    ○    ○
+
+              25    ○    ○    ○    ○   50    ○    ○    ○    ○
+
+          Distribuzione verificata: A = 13, B = 12, C = 13, D = 12.
+   DATA INSIGHTS                                                                          DOMANDA 01
+
+
+              Filiale                     Vendite                    Obiettivo                Margine
+
+   Alfa                            €540.000                  €500.000                   15%
+
+   Beta                            €660.000                  €600.000                   10%
+
+   Gamma                           €430.000                  €400.000                   16%
+
+   Delta                           €800.000                  €780.000                   12%
+
+
+  Una filiale riceve il bonus soltanto se raggiunge almeno il 105%
+  dell'obiettivo di vendita e genera almeno €70.000 di margine operativo.
+  Quale filiale riceve il bonus?
+
+    A      Alfa
+
+    B      Beta
+
+    C      Gamma
+
+    D      Delta
+
+
+
+
+                                      COPRI O PIEGA QUI PRIMA DI LEGGERE LA SOLUZIONE
+
+  SOLUZIONE - APRI SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: A
+  Alfa raggiunge il 108% dell'obiettivo e genera €81.000 di margine. Beta genera solo €66.000; Gamma
+  €68.800; Delta non raggiunge il 105% dell'obiettivo. Solo Alfa soddisfa entrambe le condizioni.
+
+
+
+
+Mock Test Bocconi 05 - Serie 5/8                                                                        1/50
+   QUANTITATIVE                                                                         DOMANDA 02
+
+
+  Dopo uno sconto del 25%, un prodotto costa €270. Qual era il prezzo
+  iniziale?
+
+    A    €320
+
+    B    €337,50
+
+    C    €350
+
+    D    €360
+
+
+
+
+                                   COPRI O PIEGA QUI PRIMA DI LEGGERE LA SOLUZIONE
+
+  SOLUZIONE - APRI SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: D
+  Dopo lo sconto resta il 75% del prezzo iniziale: 0,75P = 270. Quindi P = 270 / 0,75 = €360.
+
+
+
+
+Mock Test Bocconi 05 - Serie 5/8                                                                2/50
+        VERBAL                                                                        DOMANDA 03
+
+
+     In una città il canone medio dei nuovi contratti di locazione è aumentato del 6%, mentre il numero
+     di nuovi contratti è diminuito del 15%. Il rapporto segnala però che, rispetto all'anno precedente,
+     una quota maggiore dei contratti riguarda appartamenti arredati e situati nel centro storico. Non
+     vengono forniti dati sugli stessi immobili osservati nei due periodi.
+
+
+  Quale conclusione è più rigorosa?
+
+    A    La domanda di abitazioni è certamente aumentata
+
+         L'aumento del canone medio può dipendere anche dal cambiamento nella composizione
+    B
+         degli immobili locati
+
+    C    Il canone di ogni appartamento è aumentato del 6%
+
+    D    La diminuzione dei contratti dimostra che i canoni sono diminuiti
+
+
+
+
+                                   COPRI O PIEGA QUI PRIMA DI LEGGERE LA SOLUZIONE
+
+  SOLUZIONE - APRI SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: B
+  La media può cambiare perché cambia la composizione degli immobili osservati. Il testo non permette di
+  concludere che il canone di ogni immobile sia aumentato, né identifica con certezza l'andamento della
+  domanda.
+
+
+
+
+Mock Test Bocconi 05 - Serie 5/8                                                                           3/50
+   QUANTITATIVE                                                                             DOMANDA 04
+
+
+  Per x diverso da 4, quale valore soddisfa l'equazione seguente?
+
+                                          (x² - 16) / (x - 4) = 10
+
+    A    4
+
+    B    6
+
+    C    10
+
+    D    14
+
+
+
+
+                                   COPRI O PIEGA QUI PRIMA DI LEGGERE LA SOLUZIONE
+
+  SOLUZIONE - APRI SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: B
+  x² - 16 = (x - 4)(x + 4). Poiché x è diverso da 4, l'espressione si semplifica in x + 4 = 10. Quindi x = 6.
+
+
+
+
+Mock Test Bocconi 05 - Serie 5/8                                                                                4/50
+        VERBAL                                                                        DOMANDA 05
+
+
+     Un museo ha ridotto il prezzo del biglietto e, nei due mesi successivi, il numero di visitatori è
+     aumentato. Nello stesso periodo è stata inaugurata una mostra molto pubblicizzata e la città ha
+     registrato un incremento dei flussi turistici. Il museo attribuisce l'intero aumento delle presenze
+     alla riduzione del prezzo.
+
+
+  Qual è il principale errore dell'argomento?
+
+    A    Ignora fattori concorrenti che possono aver aumentato le visite
+
+    B    Considera un periodo troppo lungo
+
+    C    Suppone che il numero di turisti sia diminuito
+
+    D    Confonde il prezzo del biglietto con il costo della mostra
+
+
+
+
+                                   COPRI O PIEGA QUI PRIMA DI LEGGERE LA SOLUZIONE
+
+  SOLUZIONE - APRI SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: A
+  Mostra temporanea e incremento del turismo sono spiegazioni alternative. La sequenza temporale non basta
+  per attribuire l'intero aumento alla riduzione del prezzo.
+
+
+
+
+Mock Test Bocconi 05 - Serie 5/8                                                                           5/50
+   DATA INSIGHTS                                                                         DOMANDA 06
+
+
+                  Gruppo                           Partecipanti                      Punteggio medio
+
+   A                                    20                                   9
+
+   B                                    50                                   7
+
+   C                                    30                                   8
+
+
+  Qual è il punteggio medio complessivo, ponderato per il numero di
+  partecipanti?
+
+    A    7,4
+
+    B    7,5
+
+    C    7,6
+
+    D    7,7
+
+
+
+
+                                   COPRI O PIEGA QUI PRIMA DI LEGGERE LA SOLUZIONE
+
+  SOLUZIONE - APRI SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: D
+  Media ponderata = (20×9 + 50×7 + 30×8) / 100 = (180 + 350 + 240) / 100 = 7,7.
+
+
+
+
+Mock Test Bocconi 05 - Serie 5/8                                                                       6/50
+   QUANTITATIVE                                                                         DOMANDA 07
+
+
+  Un'urna contiene 6 palline bianche e 4 nere. Si estraggono
+  contemporaneamente 3 palline. Qual è la probabilità di ottenere
+  esattamente 2 palline bianche?
+
+    A    1/2
+
+    B    2/5
+
+    C    3/5
+
+    D    2/3
+
+
+
+
+                                   COPRI O PIEGA QUI PRIMA DI LEGGERE LA SOLUZIONE
+
+  SOLUZIONE - APRI SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: A
+  Casi favorevoli: C(6,2)×C(4,1) = 15×4 = 60. Casi totali: C(10,3) = 120. Probabilità = 60/120 = 1/2.
+
+
+
+
+Mock Test Bocconi 05 - Serie 5/8                                                                        7/50
+   DATA INSIGHTS                                                                       DOMANDA 08
+
+
+                  Attività                            Valore                         Rendimento
+
+   Titoli A                             €100.000                             4%
+
+   Titoli B                             €200.000                             7%
+
+   Titoli C                             €300.000                             1%
+
+
+  Qual è il rendimento annuo complessivo del portafoglio?
+
+    A    3,0%
+
+    B    3,25%
+
+    C    3,5%
+
+    D    4,0%
+
+
+
+
+                                   COPRI O PIEGA QUI PRIMA DI LEGGERE LA SOLUZIONE
+
+  SOLUZIONE - APRI SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: C
+  Rendimento monetario = 4.000 + 14.000 + 3.000 = €21.000. Valore totale = €600.000. Rendimento =
+  21.000 / 600.000 = 3,5%.
+
+
+
+
+Mock Test Bocconi 05 - Serie 5/8                                                                    8/50
+        VERBAL                                                                               DOMANDA 09
+
+
+     Un liceo offre volontariamente un sistema di tutoraggio basato sull'intelligenza artificiale. Gli
+     studenti che scelgono di utilizzarlo ottengono, a fine semestre, risultati medi superiori rispetto agli
+     altri studenti. Prima dell'intervento, però, gli utilizzatori avevano già voti più alti, minore
+     assenteismo e una maggiore frequenza di accesso ai materiali online.
+
+
+  Qual è la principale debolezza della conclusione che il tutoraggio abbia
+  causato il miglioramento?
+
+    A    Il sistema utilizza una tecnologia recente
+
+    B    I risultati sono espressi come medie
+
+    C    Gli studenti hanno sostenuto lo stesso esame
+
+    D    Gli utilizzatori si sono autoselezionati ed erano già diversi dagli altri
+
+
+
+
+                                   COPRI O PIEGA QUI PRIMA DI LEGGERE LA SOLUZIONE
+
+  SOLUZIONE - APRI SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: D
+  Le differenze iniziali e l'adesione volontaria producono selezione. Il confronto finale non isola l'effetto del
+  tutoraggio.
+
+
+
+
+Mock Test Bocconi 05 - Serie 5/8                                                                                    9/50
+   QUANTITATIVE                                                                          DOMANDA 10
+
+
+  Un rombo ha diagonali lunghe 10 cm e 24 cm. Qual è il suo perimetro?
+
+    A    52 cm
+
+    B    60 cm
+
+    C    68 cm
+
+    D    120 cm
+
+
+
+
+                                   COPRI O PIEGA QUI PRIMA DI LEGGERE LA SOLUZIONE
+
+  SOLUZIONE - APRI SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: A
+  Le semidiagonali misurano 5 e 12. Il lato è l'ipotenusa del triangolo rettangolo: √(5² + 12²) = 13. Perimetro =
+  4×13 = 52 cm.
+
+
+
+
+Mock Test Bocconi 05 - Serie 5/8                                                                              10/50
+   DATA INSIGHTS                                                                             DOMANDA 11
+
+
+                              Fonte                                              Quota iniziale
+
+   Gas                                                       30%
+
+   Solare                                                    25%
+
+   Eolico                                                    20%
+
+   Idroelettrico                                             15%
+
+   Importazioni                                              10%
+
+
+  La fonte Importazioni viene eliminata. Il 60% della sua quota viene
+  trasferito al Solare e il restante 40% all'Eolico. Qual è la nuova quota
+  complessiva di Solare ed Eolico?
+
+    A    55%
+
+    B    50%
+
+    C    60%
+
+    D    65%
+
+
+
+
+                                      COPRI O PIEGA QUI PRIMA DI LEGGERE LA SOLUZIONE
+
+  SOLUZIONE - APRI SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: A
+  La quota del 10% viene interamente redistribuita tra Solare ed Eolico. La loro quota congiunta passa quindi
+  da 25% + 20% = 45% a 55%.
+
+
+
+
+Mock Test Bocconi 05 - Serie 5/8                                                                            11/50
+        VERBAL                                                                           DOMANDA 12
+
+
+     L'amministrazione sostiene che l'apertura di una nuova linea ferroviaria ridurrà la congestione
+     stradale, perché una parte dei pendolari abbandonerà l'automobile. Il progetto non modifica il
+     numero di parcheggi né introduce restrizioni alla circolazione.
+
+
+  Quale assunzione è necessaria per l'argomento?
+
+    A    Tutti i pendolari abitano vicino a una stazione
+
+    B    Il treno è sempre più veloce dell'automobile
+
+    C    La nuova linea non avrà costi operativi
+
+    D    Un numero rilevante di automobilisti sarà disposto e in grado di utilizzare la nuova linea
+
+
+
+
+                                   COPRI O PIEGA QUI PRIMA DI LEGGERE LA SOLUZIONE
+
+  SOLUZIONE - APRI SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: D
+  Il meccanismo causale richiede un effettivo trasferimento dall'automobile al treno. Non è necessario che tutti
+  i pendolari cambino mezzo o che il treno sia sempre più veloce.
+
+
+
+
+Mock Test Bocconi 05 - Serie 5/8                                                                             12/50
+   QUANTITATIVE                                                                         DOMANDA 13
+
+
+  Una macchina completa un lavoro in 5 ore; una seconda macchina
+  completa lo stesso lavoro in 7 ore e 30 minuti. Quanto impiegano
+  lavorando insieme?
+
+    A    2 ore e 30 minuti
+
+    B    2 ore e 45 minuti
+
+    C    3 ore
+
+    D    3 ore e 15 minuti
+
+
+
+
+                                   COPRI O PIEGA QUI PRIMA DI LEGGERE LA SOLUZIONE
+
+  SOLUZIONE - APRI SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: C
+  7 ore e 30 minuti = 7,5 ore. Velocità congiunta = 1/5 + 1/7,5 = 1/5 + 2/15 = 1/3. Il lavoro viene completato
+  in 3 ore.
+
+
+
+
+Mock Test Bocconi 05 - Serie 5/8                                                                            13/50
+        VERBAL                                                                           DOMANDA 14
+
+
+     Sei presentazioni A, B, C, D, E e F vengono svolte una alla volta. A deve precedere D; B deve
+     essere immediatamente prima di C; D deve precedere F; E deve essere successiva a C. Non sono
+     disponibili altre informazioni.
+
+
+  Quale affermazione è necessariamente vera?
+
+    A    B è la prima presentazione
+
+    B    A precede F
+
+    C    E è l'ultima presentazione
+
+    D    C precede D
+
+
+
+
+                                   COPRI O PIEGA QUI PRIMA DI LEGGERE LA SOLUZIONE
+
+  SOLUZIONE - APRI SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: B
+  A precede D e D precede F; quindi, per transitività, A precede necessariamente F. Le altre posizioni
+  dipendono dall'ordine scelto.
+
+
+
+
+Mock Test Bocconi 05 - Serie 5/8                                                                         14/50
+   DATA INSIGHTS                                                                           DOMANDA 15
+
+
+                            Periodo                                        Tasso di disoccupazione
+
+   Gennaio                                                   8,4%
+
+   Dicembre                                                  7,14%
+
+
+  Di quale percentuale è diminuito il tasso rispetto al valore iniziale?
+
+    A    1,26%
+
+    B    15%
+
+    C    17,6%
+
+    D    84,9%
+
+
+
+
+                                      COPRI O PIEGA QUI PRIMA DI LEGGERE LA SOLUZIONE
+
+  SOLUZIONE - APRI SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: B
+  La diminuzione è di 1,26 punti percentuali. In termini relativi: 1,26 / 8,4 = 0,15 = 15%.
+
+
+
+
+Mock Test Bocconi 05 - Serie 5/8                                                                     15/50
+   QUANTITATIVE                                                                             DOMANDA 16
+
+
+  In una progressione aritmetica il quarto termine è 17 e il nono termine è
+  37. Qual è la somma dei primi 8 termini?
+
+    A    136
+
+    B    144
+
+    C    152
+
+    D    160
+
+
+
+
+                                   COPRI O PIEGA QUI PRIMA DI LEGGERE LA SOLUZIONE
+
+  SOLUZIONE - APRI SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: C
+  Tra il quarto e il nono termine ci sono 5 intervalli: d = (37 - 17)/5 = 4. Il primo termine è 17 - 3×4 = 5.
+  L'ottavo è 33. Somma = 8(5 + 33)/2 = 152.
+
+
+
+
+Mock Test Bocconi 05 - Serie 5/8                                                                                16/50
+   DATA INSIGHTS                                                                     DOMANDA 17
+
+
+  A gennaio l'indice del prezzo era 100 e il prezzo effettivo €75 per unità.
+  A maggio l'indice è 112 e vengono acquistate 320 unità. Qual è la spesa
+  di maggio?
+
+    A    €24.000
+
+    B    €25.200
+
+    C    €26.400
+
+    D    €26.880
+
+
+
+
+                                   COPRI O PIEGA QUI PRIMA DI LEGGERE LA SOLUZIONE
+
+  SOLUZIONE - APRI SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: D
+  Prezzo di maggio = 75×112/100 = €84. Spesa = 84×320 = €26.880.
+
+
+
+
+Mock Test Bocconi 05 - Serie 5/8                                                             17/50
+        VERBAL                                                                             DOMANDA 18
+
+
+     Gli studiosi concordano sul fatto che l'automazione modificherà le mansioni richieste in molti
+     settori. Alcuni prevedono una riduzione netta dell'occupazione; altri ritengono che le nuove
+     attività create compenseranno i posti eliminati. Il rapporto finale non adotta una previsione unica
+     sull'occupazione complessiva.
+
+
+  Quale affermazione è incompatibile con il testo?
+
+    A    Gli studiosi prevedono cambiamenti nelle mansioni
+
+    B    Il rapporto non offre una previsione unica
+
+    C    Tutti gli studiosi concordano su una perdita netta di occupazione
+
+    D    Le opinioni sull'effetto occupazionale netto sono diverse
+
+
+
+
+                                   COPRI O PIEGA QUI PRIMA DI LEGGERE LA SOLUZIONE
+
+  SOLUZIONE - APRI SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: C
+  Il testo afferma esplicitamente che gli studiosi divergono sull'effetto netto. Non esiste quindi unanimità su
+  una perdita di posti di lavoro.
+
+
+
+
+Mock Test Bocconi 05 - Serie 5/8                                                                                  18/50
+   QUANTITATIVE                                                                            DOMANDA 19
+
+
+  L'intero n soddisfa 1 ≤ n ≤ 9 e n(10 - n) ≥ 21. Quanti valori di n sono
+  possibili?
+
+    A    3
+
+    B    4
+
+    C    5
+
+    D    6
+
+
+
+
+                                   COPRI O PIEGA QUI PRIMA DI LEGGERE LA SOLUZIONE
+
+  SOLUZIONE - APRI SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: C
+  Provando gli interi: n = 3, 4, 5, 6, 7 producono rispettivamente 21, 24, 25, 24, 21. Gli altri valori danno meno
+  di 21. I valori possibili sono 5.
+
+
+
+
+Mock Test Bocconi 05 - Serie 5/8                                                                               19/50
+        VERBAL                                                                           DOMANDA 20
+
+
+     Tutti i progetti classificati come ad alto rischio sono sottoposti a revisione legale. Nessun progetto
+     sottoposto a revisione legale viene approvato automaticamente. Alcuni progetti vengono
+     approvati automaticamente.
+
+
+  Quale conclusione è necessariamente vera?
+
+    A    Nessun progetto ad alto rischio viene approvato automaticamente
+
+    B    Tutti i progetti non rischiosi vengono approvati automaticamente
+
+    C    Alcuni progetti ad alto rischio vengono approvati automaticamente
+
+    D    Ogni progetto sottoposto a revisione legale è ad alto rischio
+
+
+
+
+                                   COPRI O PIEGA QUI PRIMA DI LEGGERE LA SOLUZIONE
+
+  SOLUZIONE - APRI SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: A
+  Alto rischio implica revisione legale; revisione legale implica assenza di approvazione automatica. Quindi
+  nessun progetto ad alto rischio è approvato automaticamente.
+
+
+
+
+Mock Test Bocconi 05 - Serie 5/8                                                                               20/50
+   DATA INSIGHTS                                                                     DOMANDA 21
+
+
+  Su 1.500 clienti, 900 utilizzano il servizio A, 700 il servizio B e 250 non
+  utilizzano nessuno dei due. Quanti clienti utilizzano esattamente uno
+  dei due servizi?
+
+    A    350
+
+    B    550
+
+    C    800
+
+    D    900
+
+
+
+
+                                   COPRI O PIEGA QUI PRIMA DI LEGGERE LA SOLUZIONE
+
+  SOLUZIONE - APRI SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: D
+  Usano almeno un servizio: 1.500 - 250 = 1.250. Intersezione = 900 + 700 - 1.250 = 350. Esattamente uno =
+  1.250 - 350 = 900.
+
+
+
+
+Mock Test Bocconi 05 - Serie 5/8                                                                       21/50
+   QUANTITATIVE                                                                                   DOMANDA 22
+
+
+  Una soluzione di 50 litri contiene il 24% di acido. Si eliminano 10 litri
+  della soluzione e si sostituiscono con 10 litri d'acqua. Qual è la nuova
+  concentrazione di acido?
+
+    A    19,2%
+
+    B    20%
+
+    C    21,6%
+
+    D    24%
+
+
+
+
+                                     COPRI O PIEGA QUI PRIMA DI LEGGERE LA SOLUZIONE
+
+  SOLUZIONE - APRI SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: A
+  L'acido iniziale è 12 litri. Eliminando 10 litri, cioè il 20% della miscela, si elimina il 20% dell'acido: 2,4 litri.
+  Restano 9,6 litri di acido su 50 litri totali: 19,2%.
+
+
+
+
+Mock Test Bocconi 05 - Serie 5/8                                                                                          22/50
+        VERBAL                                                                       DOMANDA 23
+
+
+     Un distretto scolastico introduce un nuovo orario in alcune scuole e osserva una diminuzione
+     dell'assenteismo. Nello stesso periodo cambiano anche gli orari del trasporto pubblico e le
+     condizioni meteorologiche sono più favorevoli rispetto all'anno precedente.
+
+
+  Quale evidenza rafforzerebbe maggiormente l'ipotesi che il nuovo orario
+  abbia ridotto l'assenteismo?
+
+         Scuole comparabili senza il nuovo orario non mostrano una riduzione simile nello stesso
+    A
+         periodo
+
+    B    I dirigenti scolastici approvano il cambiamento
+
+    C    Gli studenti dichiarano di preferire il nuovo orario
+
+    D    Le scuole interessate hanno edifici più recenti
+
+
+
+
+                                   COPRI O PIEGA QUI PRIMA DI LEGGERE LA SOLUZIONE
+
+  SOLUZIONE - APRI SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: A
+  Un gruppo di confronto contemporaneo aiuta a separare l'effetto del nuovo orario dai cambiamenti comuni,
+  come trasporti e condizioni meteorologiche.
+
+
+
+
+Mock Test Bocconi 05 - Serie 5/8                                                                         23/50
+   DATA INSIGHTS                                                                        DOMANDA 24
+
+
+                 Magazzino                        Costi operativi                     Spedizioni
+
+   Nord                                 €96.000                              6.000
+
+   Centro                               €81.000                              5.400
+
+   Sud                                  €70.000                              4.000
+
+
+  Quale magazzino presenta il costo medio per spedizione più basso?
+
+    A     Nord
+
+    B     Sud
+
+    C     Centro
+
+    D     Nord e Centro, a pari merito
+
+
+
+
+                                   COPRI O PIEGA QUI PRIMA DI LEGGERE LA SOLUZIONE
+
+  SOLUZIONE - APRI SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: C
+  Nord: €16 per spedizione. Centro: €15. Sud: €17,50. Il costo medio più basso è quello del Centro.
+
+
+
+
+Mock Test Bocconi 05 - Serie 5/8                                                                      24/50
+   QUANTITATIVE                                                                          DOMANDA 25
+
+
+  Sei persone si dispongono in fila. In quanti modi possono farlo se Anna e
+  Bruno non possono essere adiacenti?
+
+    A    240
+
+    B    360
+
+    C    480
+
+    D    600
+
+
+
+
+                                   COPRI O PIEGA QUI PRIMA DI LEGGERE LA SOLUZIONE
+
+  SOLUZIONE - APRI SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: C
+  Disposizioni totali: 6! = 720. Disposizioni con Anna e Bruno adiacenti: si considerano come un blocco, quindi
+  5!×2 = 240. Disposizioni ammesse: 720 - 240 = 480.
+
+
+
+
+Mock Test Bocconi 05 - Serie 5/8                                                                             25/50
+   DATA INSIGHTS                                                                           DOMANDA 26
+
+
+           Programma                         Salario               Occupazione               Costo totale
+
+   A                               €40.000                   90%                        €18.000
+
+   B                               €46.000                   88%                        €16.000
+
+   C                               €50.000                   75%                        €15.000
+
+   D                               €38.000                   95%                        €14.000
+
+
+  Per ogni programma si calcola: salario annuo × tasso di occupazione -
+  costo complessivo del corso. Quale programma ottiene il valore più
+  alto?
+
+    A    Programma A
+
+    B    Programma B
+
+    C    Programma C
+
+    D    Programma D
+
+
+
+
+                                      COPRI O PIEGA QUI PRIMA DI LEGGERE LA SOLUZIONE
+
+  SOLUZIONE - APRI SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: B
+  A: 36.000 - 18.000 = 18.000. B: 40.480 - 16.000 = 24.480. C: 37.500 - 15.000 = 22.500. D: 36.100 - 14.000 =
+  22.100. Il massimo è B.
+
+
+
+
+Mock Test Bocconi 05 - Serie 5/8                                                                            26/50
+        VERBAL                                                                           DOMANDA 27
+
+
+     Un'impresa conclude che tutti i dipendenti preferiscono il lavoro ibrido sulla base di un sondaggio
+     al quale ha risposto il 35% del personale. I lavoratori degli uffici centrali costituiscono la
+     maggioranza dei rispondenti, mentre operai e lavoratori notturni sono scarsamente rappresentati.
+
+
+  Qual è la principale debolezza della conclusione?
+
+    A    Il questionario contiene troppe domande
+
+    B    Il lavoro ibrido non è definito
+
+    C    La percentuale di risposte è superiore al 30%
+
+    D    Il campione dei rispondenti può non rappresentare l'intera popolazione aziendale
+
+
+
+
+                                   COPRI O PIEGA QUI PRIMA DI LEGGERE LA SOLUZIONE
+
+  SOLUZIONE - APRI SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: D
+  Il basso tasso di risposta e la sovrarappresentazione di alcuni gruppi producono rischio di mancata risposta e
+  di copertura selettiva. Non è lecito generalizzare a tutti i dipendenti.
+
+
+
+
+Mock Test Bocconi 05 - Serie 5/8                                                                             27/50
+   QUANTITATIVE                                                                      DOMANDA 28
+
+
+  Quale valore di x soddisfa l'equazione?
+
+                                          2^(x + 2) = 8^(x - 1)
+
+    A    3/2
+
+    B    2
+
+    C    5/2
+
+    D    3
+
+
+
+
+                                   COPRI O PIEGA QUI PRIMA DI LEGGERE LA SOLUZIONE
+
+  SOLUZIONE - APRI SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: C
+  8 = 2³, quindi x + 2 = 3(x - 1). Da x + 2 = 3x - 3 segue 2x = 5 e x = 5/2.
+
+
+
+
+Mock Test Bocconi 05 - Serie 5/8                                                             28/50
+        VERBAL                                                                       DOMANDA 29
+
+
+     Un rapporto osserva che alcune piccole imprese che hanno adottato il commercio elettronico
+     hanno registrato una crescita dei ricavi. Il rapporto non confronta queste imprese con aziende
+     simili che non hanno adottato il sistema e non descrive l'andamento dei ricavi prima dell'adozione.
+
+
+  Quale affermazione non può essere dedotta?
+
+    A    Alcune imprese adottanti hanno registrato una crescita
+
+    B    Il rapporto non include un adeguato gruppo di confronto
+
+    C    L'adozione e la crescita sono state osservate nelle stesse imprese
+
+    D    Il commercio elettronico ha causato la crescita dei ricavi
+
+
+
+
+                                   COPRI O PIEGA QUI PRIMA DI LEGGERE LA SOLUZIONE
+
+  SOLUZIONE - APRI SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: D
+  L'associazione osservata non dimostra causalità. Mancano confronto, andamento precedente e controllo di
+  altri fattori.
+
+
+
+
+Mock Test Bocconi 05 - Serie 5/8                                                                            29/50
+   DATA INSIGHTS                                                                        DOMANDA 30
+
+
+                    Città                          Arrivi 2025                         Arrivi 2026
+
+   A                                    200.000                              250.000
+
+   B                                    80.000                               120.000
+
+   C                                    300.000                              342.000
+
+   D                                    150.000                              195.000
+
+
+  Quale città registra la crescita percentuale più elevata degli arrivi
+  turistici?
+
+    A    Città C
+
+    B    Città D
+
+    C    Città A
+
+    D    Città B
+
+
+
+
+                                   COPRI O PIEGA QUI PRIMA DI LEGGERE LA SOLUZIONE
+
+  SOLUZIONE - APRI SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: D
+  A: +25%. B: +50%. C: +14%. D: +30%. La crescita percentuale più elevata è quella della città B.
+
+
+
+
+Mock Test Bocconi 05 - Serie 5/8                                                                     30/50
+   QUANTITATIVE                                                                         DOMANDA 31
+
+
+  Un rettangolo ha perimetro 34 cm e la lunghezza supera la larghezza di
+  3 cm. Qual è la sua area?
+
+    A    70 cm²
+
+    B    72 cm²
+
+    C    75 cm²
+
+    D    77 cm²
+
+
+
+
+                                   COPRI O PIEGA QUI PRIMA DI LEGGERE LA SOLUZIONE
+
+  SOLUZIONE - APRI SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: A
+  Sia w la larghezza; la lunghezza è w + 3. 2[w + (w + 3)] = 34, quindi 4w + 6 = 34 e w = 7. La lunghezza è 10;
+  area = 70 cm².
+
+
+
+
+Mock Test Bocconi 05 - Serie 5/8                                                                            31/50
+   DATA INSIGHTS                                                                          DOMANDA 32
+
+
+                  Settore                         Occupati iniziali                    Occupati finali
+
+   Manifattura                          420.000                              390.000
+
+   Servizi                              600.000                              650.000
+
+   Costruzioni                          180.000                              150.000
+
+   Tecnologia                           150.000                              190.000
+
+
+  Qual è la variazione netta complessiva degli occupati?
+
+    A    -20.000
+
+    B    0
+
+    C    +30.000
+
+    D    +60.000
+
+
+
+
+                                   COPRI O PIEGA QUI PRIMA DI LEGGERE LA SOLUZIONE
+
+  SOLUZIONE - APRI SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: C
+  Variazioni: -30.000 + 50.000 - 30.000 + 40.000 = +30.000 occupati.
+
+
+
+
+Mock Test Bocconi 05 - Serie 5/8                                                                         32/50
+        VERBAL                                                                                DOMANDA 33
+
+
+     Un'impresa sostiene che acquistare componenti da un maggior numero di Paesi ridurrà il rischio di
+     interruzioni della produzione. La strategia aumenta però i costi di coordinamento e non modifica la
+     quantità totale di scorte detenute.
+
+
+  Quale assunzione è necessaria per l'argomento?
+
+    A    Ogni nuovo fornitore applica prezzi inferiori
+
+    B    Almeno alcune interruzioni non colpiscono simultaneamente tutti i Paesi fornitori
+
+    C    Le scorte sono sempre inutili
+
+    D    Il numero di fornitori determina automaticamente la qualità dei componenti
+
+
+
+
+                                    COPRI O PIEGA QUI PRIMA DI LEGGERE LA SOLUZIONE
+
+  SOLUZIONE - APRI SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: B
+  La diversificazione riduce il rischio solo se gli shock non sono perfettamente correlati tra tutte le fonti. Le altre
+  affermazioni non sono necessarie.
+
+
+
+
+Mock Test Bocconi 05 - Serie 5/8                                                                                    33/50
+   QUANTITATIVE                                                                         DOMANDA 34
+
+
+  Le età di due persone sono nel rapporto 4:7. Tra 6 anni saranno nel
+  rapporto 5:8. Qual è la somma delle loro età attuali?
+
+    A    54
+
+    B    60
+
+    C    66
+
+    D    72
+
+
+
+
+                                   COPRI O PIEGA QUI PRIMA DI LEGGERE LA SOLUZIONE
+
+  SOLUZIONE - APRI SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: C
+  Le età sono 4k e 7k. (4k + 6)/(7k + 6) = 5/8. Quindi 32k + 48 = 35k + 30, da cui k = 6. Le età sono 24 e 42;
+  somma = 66.
+
+
+
+
+Mock Test Bocconi 05 - Serie 5/8                                                                            34/50
+        VERBAL                                                                            DOMANDA 35
+
+
+     Un'azienda confronta la produttività prima e dopo l'introduzione dello smart working. Nel primo
+     periodo utilizza il numero di pratiche completate per dipendente; nel secondo utilizza valutazioni
+     soggettive attribuite dai responsabili. I gruppi di dipendenti sono simili per ruolo e anzianità.
+
+
+  Qual è la prima domanda da porre per valutare il confronto?
+
+    A    Quanti dipendenti preferiscono lavorare da casa?
+
+    B    I responsabili hanno ricevuto aumenti salariali?
+
+    C    Qual è il costo degli uffici?
+
+    D    Le due misure di produttività sono comparabili e applicate con criteri coerenti?
+
+
+
+
+                                   COPRI O PIEGA QUI PRIMA DI LEGGERE LA SOLUZIONE
+
+  SOLUZIONE - APRI SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: D
+  Prima di interpretare il cambiamento occorre verificare la comparabilità della variabile misurata. Qui le
+  metriche sono diverse e potrebbero non rappresentare lo stesso concetto.
+
+
+
+
+Mock Test Bocconi 05 - Serie 5/8                                                                              35/50
+   DATA INSIGHTS                                                                         DOMANDA 36
+
+
+                          Piattaforma                                          Abbonati T1
+
+   A                                                      280.000
+
+   B                                                      200.000
+
+   C                                                      160.000
+
+   D                                                      160.000
+
+
+  Nel secondo trimestre il totale degli abbonati aumenta del 5%. A cresce
+  del 20%, B diminuisce del 10% e C resta invariata. Qual è la quota di
+  mercato di D nel secondo trimestre?
+
+    A    18,0%
+
+    B    Circa 19,5%
+
+    C    20,0%
+
+    D    21,0%
+
+
+
+
+                                   COPRI O PIEGA QUI PRIMA DI LEGGERE LA SOLUZIONE
+
+  SOLUZIONE - APRI SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: B
+  Totale T1 = 800.000; totale T2 = 840.000. A = 336.000, B = 180.000, C = 160.000. D = 840.000 - 676.000 =
+  164.000. Quota = 164.000/840.000 ≈ 19,5%.
+
+
+
+
+Mock Test Bocconi 05 - Serie 5/8                                                                       36/50
+   QUANTITATIVE                                                                      DOMANDA 37
+
+
+  Un cilindro ha raggio di base 3 cm e altezza 8 cm. Qual è il suo volume?
+
+    A    48π cm³
+
+    B    72π cm³
+
+    C    96π cm³
+
+    D    144π cm³
+
+
+
+
+                                   COPRI O PIEGA QUI PRIMA DI LEGGERE LA SOLUZIONE
+
+  SOLUZIONE - APRI SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: B
+  Volume = πr²h = π×3²×8 = 72π cm³.
+
+
+
+
+Mock Test Bocconi 05 - Serie 5/8                                                             37/50
+        VERBAL                                                                         DOMANDA 38
+
+
+     Un comune introduce il bilancio partecipativo. Il numero di cittadini coinvolti nelle decisioni
+     aumenta, ma i partecipanti appartengono soprattutto ai quartieri più ricchi e hanno un livello di
+     istruzione superiore alla media. Il comune conclude che il processo rappresenta in modo uniforme
+     tutta la popolazione.
+
+
+  Quale conclusione è più rigorosa?
+
+    A    La partecipazione è aumentata, ma la rappresentatività uniforme non è dimostrata
+
+    B    Il processo è necessariamente antidemocratico
+
+    C    I quartieri meno ricchi non hanno partecipato
+
+    D    Il livello di istruzione non influenza mai la partecipazione
+
+
+
+
+                                   COPRI O PIEGA QUI PRIMA DI LEGGERE LA SOLUZIONE
+
+  SOLUZIONE - APRI SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: A
+  Il numero di partecipanti è aumentato, ma la composizione sbilanciata impedisce di concludere che l'intera
+  popolazione sia rappresentata uniformemente.
+
+
+
+
+Mock Test Bocconi 05 - Serie 5/8                                                                           38/50
+   DATA INSIGHTS                                                                                 DOMANDA 39
+
+
+            Prodotto                           Unità                  Prezzo unitario            Costo variabile
+
+   A                               1.500                        €30                        €18
+
+   B                               1.000                        €45                        €24
+
+   C                               800                          €55                        €30
+
+
+  Quale prodotto genera il margine di contribuzione totale più elevato?
+
+    A    Prodotto C
+
+    B    Prodotto B
+
+    C    Prodotto A
+
+    D    A e C, a pari merito
+
+
+
+
+                                         COPRI O PIEGA QUI PRIMA DI LEGGERE LA SOLUZIONE
+
+  SOLUZIONE - APRI SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: B
+  A: 1.500×12 = €18.000. B: 1.000×21 = €21.000. C: 800×25 = €20.000. Il margine totale più elevato è quello
+  del prodotto B.
+
+
+
+
+Mock Test Bocconi 05 - Serie 5/8                                                                                   39/50
+   QUANTITATIVE                                                                           DOMANDA 40
+
+
+  Data sufficiency. Qual è il valore dell'intero positivo n? (1) n è un
+  divisore di 30. (2) 7 < n < 12.
+
+    A    La sola affermazione 1 è sufficiente
+
+    B    La sola affermazione 2 è sufficiente
+
+    C    Le due affermazioni insieme sono sufficienti, ma nessuna lo è da sola
+
+    D    Ciascuna affermazione è sufficiente da sola
+
+
+
+
+                                   COPRI O PIEGA QUI PRIMA DI LEGGERE LA SOLUZIONE
+
+  SOLUZIONE - APRI SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: C
+  (1) ammette più divisori positivi; (2) ammette 8, 9, 10 e 11. Insieme, l'unico divisore di 30 compreso tra 7 e
+  12 è 10.
+
+
+
+
+Mock Test Bocconi 05 - Serie 5/8                                                                               40/50
+   DATA INSIGHTS                                                                     DOMANDA 41
+
+
+  Il budget totale del prossimo anno è €1.200.000. Ricerca riceve il 30%,
+  Marketing il 25% e Risorse Umane €240.000. Quanto resta per
+  Operations?
+
+    A    €240.000
+
+    B    €270.000
+
+    C    €300.000
+
+    D    €360.000
+
+
+
+
+                                   COPRI O PIEGA QUI PRIMA DI LEGGERE LA SOLUZIONE
+
+  SOLUZIONE - APRI SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: C
+  Ricerca = €360.000; Marketing = €300.000; Risorse Umane = €240.000. Totale assegnato = €900.000.
+  Residuo per Operations = €300.000.
+
+
+
+
+Mock Test Bocconi 05 - Serie 5/8                                                                     41/50
+        VERBAL                                                                             DOMANDA 42
+
+
+     Uno studio osserva che le abitazioni con certificazione energetica migliore sostengono bollette
+     medie inferiori. Tali abitazioni sono però mediamente più recenti, più piccole e occupate da
+     famiglie con reddito più elevato. Lo studio non controlla per dimensione dell'immobile né per
+     abitudini di consumo.
+
+
+  Qual è la principale limitazione dell'interpretazione causale?
+
+         Le differenze in età, dimensione e comportamento possono confondere la relazione
+    A
+         osservata
+
+    B    Le bollette non possono essere misurate
+
+    C    Le certificazioni energetiche sono sempre errate
+
+    D    Le famiglie con reddito elevato consumano necessariamente più energia
+
+
+
+
+                                   COPRI O PIEGA QUI PRIMA DI LEGGERE LA SOLUZIONE
+
+  SOLUZIONE - APRI SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: A
+  Più caratteristiche associate sia alla certificazione sia ai consumi non sono controllate. La correlazione non
+  isola quindi l'effetto della certificazione.
+
+
+
+
+Mock Test Bocconi 05 - Serie 5/8                                                                                   42/50
+   QUANTITATIVE                                                                      DOMANDA 43
+
+
+  Un automobilista percorre 120 km a 60 km/h e successivamente 180 km
+  a 90 km/h. Qual è la velocità media dell'intero viaggio?
+
+    A    72 km/h
+
+    B    75 km/h
+
+    C    78 km/h
+
+    D    80 km/h
+
+
+
+
+                                   COPRI O PIEGA QUI PRIMA DI LEGGERE LA SOLUZIONE
+
+  SOLUZIONE - APRI SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: B
+  Tempo della prima tratta = 120/60 = 2 ore. Tempo della seconda = 180/90 = 2 ore. Distanza totale = 300
+  km, tempo totale = 4 ore. Velocità media = 75 km/h.
+
+
+
+
+Mock Test Bocconi 05 - Serie 5/8                                                                           43/50
+        VERBAL                                                                              DOMANDA 44
+
+
+     Cinque attività G, H, J, K e L devono essere svolte in fila. G deve precedere J; H deve precedere K; J
+     deve precedere L; K non può essere l'ultima attività.
+
+
+  Quale disposizione è possibile?
+
+    A    H, K, L, G, J
+
+    B    G, J, L, H, K
+
+    C    J, G, H, K, L
+
+    D    H, G, K, J, L
+
+
+
+
+                                   COPRI O PIEGA QUI PRIMA DI LEGGERE LA SOLUZIONE
+
+  SOLUZIONE - APRI SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: D
+  D rispetta tutti i vincoli: G precede J, H precede K, J precede L e K non è ultima. Ogni altra opzione viola
+  almeno una condizione.
+
+
+
+
+Mock Test Bocconi 05 - Serie 5/8                                                                                 44/50
+   DATA INSIGHTS                                                                     DOMANDA 45
+
+
+  Nel 2025 le esportazioni sono €600 milioni e le importazioni €450
+  milioni. Nel 2026 le esportazioni aumentano dell'8% e il rapporto
+  importazioni/esportazioni resta invariato. Quali saranno le importazioni?
+
+    A    €472 milioni
+
+    B    €480 milioni
+
+    C    €486 milioni
+
+    D    €504 milioni
+
+
+
+
+                                   COPRI O PIEGA QUI PRIMA DI LEGGERE LA SOLUZIONE
+
+  SOLUZIONE - APRI SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: C
+  Rapporto iniziale importazioni/esportazioni = 450/600 = 0,75. Esportazioni 2026 = 600×1,08 = 648.
+  Importazioni = 648×0,75 = €486 milioni.
+
+
+
+
+Mock Test Bocconi 05 - Serie 5/8                                                                      45/50
+   QUANTITATIVE                                                                           DOMANDA 46
+
+
+  Siano x e y numeri reali tali che x - y > 0 e xy < 0. Quale affermazione è
+  necessariamente vera?
+
+    A    x>0ey<0
+
+    B    x<0ey>0
+
+    C    x e y sono entrambi positivi
+
+    D    Non è possibile determinare i segni
+
+
+
+
+                                   COPRI O PIEGA QUI PRIMA DI LEGGERE LA SOLUZIONE
+
+  SOLUZIONE - APRI SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: A
+  xy < 0 implica segni opposti. Se x fosse negativo e y positivo, sarebbe x < y, in contrasto con x - y > 0.
+  Quindi x è positivo e y negativo.
+
+
+
+
+Mock Test Bocconi 05 - Serie 5/8                                                                               46/50
+   DATA INSIGHTS                                                                           DOMANDA 47
+
+
+               Città                       Affitto                   Trasporti                 Alimentazione
+
+   Venezia                         €850                      €140                       €310
+
+   Padova                          €700                      €200                       €300
+
+   Treviso                         €650                      €240                       €290
+
+   Vicenza                         €600                      €280                       €300
+
+
+  Il lavoro da remoto riduce del 40% il costo dei trasporti. Chi sceglie
+  Treviso riceve inoltre un bonus mensile di €50, da sottrarre al costo
+  totale. Quale città presenta il costo netto più basso?
+
+    A    Padova
+
+    B    Treviso
+
+    C    Vicenza
+
+    D    Venezia
+
+
+
+
+                                      COPRI O PIEGA QUI PRIMA DI LEGGERE LA SOLUZIONE
+
+  SOLUZIONE - APRI SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: B
+  Venezia: 850 + 84 + 310 = €1.244. Padova: 700 + 120 + 300 = €1.120. Treviso: 650 + 144 + 290 - 50 =
+  €1.034. Vicenza: 600 + 168 + 300 = €1.068. Il minimo è Treviso.
+
+
+
+
+Mock Test Bocconi 05 - Serie 5/8                                                                               47/50
+        VERBAL                                                                            DOMANDA 48
+
+
+     Una città vieta i sacchetti di plastica monouso e, nei mesi successivi, la quantità di rifiuti di
+     plastica raccolti nelle strade diminuisce. Nello stesso periodo il comune aumenta la frequenza
+     della pulizia urbana e si registrano precipitazioni molto superiori alla media.
+
+
+  Quale informazione sarebbe più utile per valutare l'effetto causale del
+  divieto?
+
+    A    Il numero di negozi presenti nel centro
+
+    B    L'opinione del sindaco sul divieto
+
+    C    Il costo dei nuovi mezzi di pulizia
+
+    D    L'andamento dei rifiuti in una città comparabile senza divieto ma con condizioni simili
+
+
+
+
+                                   COPRI O PIEGA QUI PRIMA DI LEGGERE LA SOLUZIONE
+
+  SOLUZIONE - APRI SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: D
+  Una città comparabile senza divieto costituisce un gruppo di confronto e aiuta a distinguere l'effetto della
+  politica dagli altri cambiamenti contemporanei.
+
+
+
+
+Mock Test Bocconi 05 - Serie 5/8                                                                                 48/50
+   QUANTITATIVE                                                                                DOMANDA 49
+
+
+  Per x > 2, quale valore soddisfa l'equazione?
+
+                                          log₂(x) + log₂(x - 2) = 3
+
+    A    4
+
+    B    3
+
+    C    2√2
+
+    D    6
+
+
+
+
+                                    COPRI O PIEGA QUI PRIMA DI LEGGERE LA SOLUZIONE
+
+  SOLUZIONE - APRI SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: A
+  log₂[x(x - 2)] = 3, quindi x(x - 2) = 8. Si ottiene x² - 2x - 8 = 0, cioè (x - 4)(x + 2) = 0. Poiché x > 2, x = 4.
+
+
+
+
+Mock Test Bocconi 05 - Serie 5/8                                                                                       49/50
+   QUANTITATIVE                                                                            DOMANDA 50
+
+
+  I numeri x e y sono le radici dell'equazione t² - 7t + 10 = 0. Quanto vale
+  x² + y²?
+
+    A    21
+
+    B    29
+
+    C    39
+
+    D    49
+
+
+
+
+                                   COPRI O PIEGA QUI PRIMA DI LEGGERE LA SOLUZIONE
+
+  SOLUZIONE - APRI SOLO DOPO AVER RISPOSTO
+
+  Risposta corretta: B
+  Per le relazioni di Viète, x + y = 7 e xy = 10. Quindi x² + y² = (x + y)² - 2xy = 49 - 20 = 29.
+
+
+
+
+Mock Test Bocconi 05 - Serie 5/8                                                                    50/50
+

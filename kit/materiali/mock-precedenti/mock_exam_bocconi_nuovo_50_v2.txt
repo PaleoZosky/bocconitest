@@ -1,0 +1,1275 @@
+                         Mock Exam Bocconi-Style
+                 Versione 2 - 50 domande nuove con grafici, tabelle e soluzioni separate
+
+
+
+                  Struttura del test
+                  18 Quantitative - 16 Data Insights - 16 Verbale
+
+                  Uso consigliato
+                  75 minuti, senza calcolatrice. Non tornare indietro sulle domande. Segna le domande
+                  saltate e confronta gli errori con la sezione soluzioni.
+
+
+
+
+   Le soluzioni sono in fondo. Le domande Data Insights includono grafici e tabelle originali, non
+                                     derivati dagli screenshot.
+
+
+
+
+Mock Exam Bocconi-Style - Versione 2                                                                    Pagina 1
+                                   SEZIONE 1 - QUANTITATIVA
+
+ Domanda 1 - Quantitativa
+ Data sufficiency - equazione e vincolo
+ Alla domanda seguente scelga la risposta secondo i seguenti criteri:
+ A. se solo un'affermazione, o (1) o (2), da sola e' sufficiente a rispondere al problema, ma l'altra da sola non lo e';
+ B. se bisogna combinare le affermazioni (1) e (2) per rispondere al problema, sebbene nessuna presa singolarmente sia
+ sufficiente;
+ C. se entrambe le affermazioni (1) e (2) sono da sole sufficienti per rispondere al problema;
+ D. se, malgrado la combinazione delle affermazioni (1) e (2), non si e' in grado di rispondere al problema, essendo
+ necessari ulteriori dati.
+
+ Si vuole determinare il valore di x, sapendo che x e' un numero reale positivo.
+
+ Affermazione (1): x^2 - 7x + 10 = 0.
+ Affermazione (2): x > 4.
+
+  A. A
+  B. B
+  C. C
+  D. D
+
+
+
+ Domanda 2 - Quantitativa
+ Data sufficiency - tariffa con supplementi
+ Alla domanda seguente scelga la risposta secondo i seguenti criteri:
+ A. se solo un'affermazione, o (1) o (2), da sola e' sufficiente a rispondere al problema, ma l'altra da sola non lo e';
+ B. se bisogna combinare le affermazioni (1) e (2) per rispondere al problema, sebbene nessuna presa singolarmente sia
+ sufficiente;
+ C. se entrambe le affermazioni (1) e (2) sono da sole sufficienti per rispondere al problema;
+ D. se, malgrado la combinazione delle affermazioni (1) e (2), non si e' in grado di rispondere al problema, essendo
+ necessari ulteriori dati.
+
+ Una palestra applica una tariffa base mensile. L'accesso ai corsi premium costa un supplemento del 30% sulla tariffa
+ base. L'accesso agli armadietti personali costa inoltre 18 EUR fissi al mese. Quanto paga un cliente che sceglie tariffa
+ base, corsi premium e armadietto?
+
+ Affermazione (1): un cliente con tariffa base e corsi premium, ma senza armadietto, paga 91 EUR.
+ Affermazione (2): il supplemento per i corsi premium ammonta a 21 EUR.
+
+  A. A
+  B. B
+  C. C
+  D. D
+
+
+
+ Domanda 3 - Quantitativa
+ Profitto con vendita in due fasi
+ Un negoziante acquista 180 borracce termiche a 12 EUR ciascuna. Vende 120 borracce applicando un mark-up del 35%
+ sul costo di acquisto. Per liberare il magazzino, vende le 60 restanti con uno sconto del 10% rispetto al costo di acquisto.
+ Qual e' il profitto complessivo dell'operazione?
+
+
+Mock Exam Bocconi-Style - Versione 2                                                                                  Pagina 2
+  A. 384 EUR
+  B. 432 EUR
+  C. 468 EUR
+  D. 512 EUR
+
+
+
+ Domanda 4 - Quantitativa
+ Probabilita senza reinserimento
+ In un sacchetto ci sono 5 palline nere, 4 bianche e 3 verdi. Si estraggono 3 palline senza reinserimento. Qual e' la
+ probabilita che esattamente 2 delle 3 palline estratte siano nere?
+
+  A. 5/22
+  B. 7/33
+  C. 3/11
+  D. 7/22
+
+
+
+ Domanda 5 - Quantitativa
+ Area di un rombo da diagonali in rapporto
+ Un rombo ha perimetro 40 cm. Le sue diagonali sono in rapporto 3:4. Qual e' l'area del rombo?
+
+  A. 80 cm^2
+  B. 96 cm^2
+  C. 120 cm^2
+  D. 144 cm^2
+
+
+
+ Domanda 6 - Quantitativa
+ Data sufficiency - rettangolo
+ Alla domanda seguente scelga la risposta secondo i seguenti criteri:
+ A. se solo un'affermazione, o (1) o (2), da sola e' sufficiente a rispondere al problema, ma l'altra da sola non lo e';
+ B. se bisogna combinare le affermazioni (1) e (2) per rispondere al problema, sebbene nessuna presa singolarmente sia
+ sufficiente;
+ C. se entrambe le affermazioni (1) e (2) sono da sole sufficienti per rispondere al problema;
+ D. se, malgrado la combinazione delle affermazioni (1) e (2), non si e' in grado di rispondere al problema, essendo
+ necessari ulteriori dati.
+
+ Si vuole determinare l'area di un rettangolo R.
+
+ Affermazione (1): il perimetro del rettangolo e' 34 cm.
+ Affermazione (2): la diagonale del rettangolo misura 13 cm.
+
+  A. A
+  B. B
+  C. C
+  D. D
+
+
+
+ Domanda 7 - Quantitativa
+ Velocita media su distanze uguali
+
+
+Mock Exam Bocconi-Style - Versione 2                                                                                    Pagina 3
+ Un ciclista percorre la prima meta di un tragitto a 80 km/h e la seconda meta a 120 km/h. Qual e' la velocita media
+ sull'intero tragitto?
+
+  A. 90 km/h
+  B. 100 km/h
+  C. 96 km/h
+  D. 104 km/h
+
+
+
+ Domanda 8 - Quantitativa
+ Comitati con vincolo minimo
+ In un gruppo di 9 persone ci sono 5 donne e 4 uomini. Si vuole formare un comitato di 4 persone contenente almeno 2
+ donne. In quanti modi diversi si puo formare il comitato?
+
+  A. 105
+  B. 95
+  C. 90
+  D. 120
+
+
+
+ Domanda 9 - Quantitativa
+ Bayes - reparto di provenienza
+ Una fabbrica produce componenti in tre reparti. Il reparto A produce il 40% dei pezzi con il 3% difettoso; il reparto B
+ produce il 35% dei pezzi con il 4% difettoso; il reparto C produce il 25% dei pezzi con il 2% difettoso. Se un pezzo
+ difettoso viene scelto a caso, qual e' la probabilita che provenga dal reparto B?
+
+  A. circa 36%
+  B. circa 45%
+  C. circa 52%
+  D. circa 61%
+
+
+
+ Domanda 10 - Quantitativa
+ Progressione aritmetica
+ In una progressione aritmetica il primo termine e' 7 e la ragione e' 3. Quale termine della progressione e' uguale a 61?
+
+  A. Il 17esimo
+  B. Il 18esimo
+  C. Il 21esimo
+  D. Il 19esimo
+
+
+
+ Domanda 11 - Quantitativa
+ Logaritmi
+ Per t>0, si ha log_3(t)+log_3(t+6)=3. Quanto vale t?
+
+  A. 6
+  B. 9
+  C. 3
+
+
+
+
+Mock Exam Bocconi-Style - Versione 2                                                                                   Pagina 4
+  D. 12
+
+
+
+ Domanda 12 - Quantitativa
+ Cilindro
+ Un cilindro ha superficie laterale pari a 96pi cm^2 e altezza pari a 8 cm. Qual e' il suo volume?
+
+  A. 288pi cm^3
+  B. 192pi cm^3
+  C. 384pi cm^3
+  D. 144pi cm^3
+
+
+
+ Domanda 13 - Quantitativa
+ Data sufficiency - interi positivi
+ Alla domanda seguente scelga la risposta secondo i seguenti criteri:
+ A. se solo un'affermazione, o (1) o (2), da sola e' sufficiente a rispondere al problema, ma l'altra da sola non lo e';
+ B. se bisogna combinare le affermazioni (1) e (2) per rispondere al problema, sebbene nessuna presa singolarmente sia
+ sufficiente;
+ C. se entrambe le affermazioni (1) e (2) sono da sole sufficienti per rispondere al problema;
+ D. se, malgrado la combinazione delle affermazioni (1) e (2), non si e' in grado di rispondere al problema, essendo
+ necessari ulteriori dati.
+
+ Dati due interi positivi m e n, si vuole determinare il valore di m.
+
+ Affermazione (1): m*n=24.
+ Affermazione (2): m+n=10.
+
+  A. A
+  B. B
+  C. C
+  D. D
+
+
+
+ Domanda 14 - Quantitativa
+ Moto relativo con sosta
+ Due treni viaggiano l'uno verso l'altro su una tratta lunga 350 km. Il treno A parte dalla citta X alle 7:00 e procede a 80
+ km/h. Dopo 2 ore di viaggio si ferma per 15 minuti e poi riparte alla stessa velocita. Il treno B parte dalla citta Y alle 8:00
+ e procede verso X a 100 km/h senza soste. A che ora circa si incontrano?
+
+  A. 9:30
+  B. 9:37
+  C. 9:45
+  D. 10:00
+
+
+
+ Domanda 15 - Quantitativa
+ Insiemi e intersezione
+ In una scuola di lingue ci sono 500 studenti. Il 55% studia inglese, il 38% studia spagnolo e il 22% studia entrambe le
+ lingue. Quanti studenti non studiano ne' inglese ne' spagnolo?
+
+  A. 110
+
+
+Mock Exam Bocconi-Style - Versione 2                                                                                      Pagina 5
+  B. 125
+  C. 145
+  D. 160
+
+
+
+ Domanda 16 - Quantitativa
+ Variazioni percentuali successive
+ Il prezzo di un abbonamento era inizialmente 500 EUR. Prima aumenta del 20%, poi diminuisce del 25%, infine aumenta
+ del 10%. Qual e' il prezzo finale rispetto al prezzo iniziale?
+
+  A. E inferiore di 5 EUR
+  B. E superiore di 10 EUR
+  C. E uguale
+  D. E inferiore di 25 EUR
+
+
+
+ Domanda 17 - Quantitativa
+ Volume del cubo
+ Il lato di un cubo aumenta del 20%. Di quanto aumenta il suo volume, in percentuale?
+
+  A. 20%
+  B. 44%
+  C. 60%
+  D. 72,8%
+
+
+
+ Domanda 18 - Quantitativa
+ Data sufficiency - triangolo rettangolo
+ Alla domanda seguente scelga la risposta secondo i seguenti criteri:
+ A. se solo un'affermazione, o (1) o (2), da sola e' sufficiente a rispondere al problema, ma l'altra da sola non lo e';
+ B. se bisogna combinare le affermazioni (1) e (2) per rispondere al problema, sebbene nessuna presa singolarmente sia
+ sufficiente;
+ C. se entrambe le affermazioni (1) e (2) sono da sole sufficienti per rispondere al problema;
+ D. se, malgrado la combinazione delle affermazioni (1) e (2), non si e' in grado di rispondere al problema, essendo
+ necessari ulteriori dati.
+
+ In un triangolo ABC, i lati sono indicati come a=BC, b=CA, c=AB. Si vuole stabilire se l'angolo in C e' retto.
+
+ Affermazione (1): a^2+b^2=c^2.
+ Affermazione (2): il triangolo ha perimetro 30 cm e area 36 cm^2.
+
+  A. A
+  B. B
+  C. C
+  D. D
+
+
+
+
+Mock Exam Bocconi-Style - Versione 2                                                                              Pagina 6
+                                  SEZIONE 2 - DATA INSIGHTS
+
+ Domanda 19 - Data Insights
+ Ricavi trimestrali per filiale
+ L'azienda NordSud Retail opera con tre filiali: Torino, Venezia e Palermo. Il grafico mostra i ricavi trimestrali 2024, in
+ migliaia di EUR. La direzione assegna un bonus pari al 4% dei ricavi di Q4 alla filiale che ha registrato la maggiore
+ crescita percentuale tra Q1 e Q4. Quale filiale ottiene il bonus e qual e' il valore del bonus?
+
+
+
+
+  A. Torino, con bonus di circa 11.440 EUR
+  B. Venezia, con bonus di circa 9.360 EUR
+  C. Palermo, con bonus di circa 7.840 EUR
+  D. Nessuna, perche nessuna supera il 35% di crescita
+
+
+
+ Domanda 20 - Data Insights
+ Budget e riallocazione percentuale
+ Una societa di servizi ha un budget iniziale di 1.800.000 EUR, distribuito come indicato nel grafico. Per il prossimo anno
+ il budget totale aumentera del 12%. La quota di R&D; passera al 22% del nuovo budget. La quota Marketing verra ridotta
+ del 10% rispetto alla sua quota iniziale, mentre le altre divisioni assorbiranno la parte residua mantenendo i loro rapporti
+ interni. Di quanto aumenta in valore assoluto il budget R&D; rispetto all'anno iniziale?
+
+
+
+
+Mock Exam Bocconi-Style - Versione 2                                                                                     Pagina 7
+  A. 105.600 EUR
+  B. 119.520 EUR
+  C. 132.000 EUR
+  D. 151.200 EUR
+
+
+
+ Domanda 21 - Data Insights
+ Distribuzione inversamente proporzionale
+ Una societa di logistica assegna le spedizioni ai corrieri in proporzione inversa ai tempi medi di consegna: minore e' il
+ tempo, maggiore e' la quota. A luglio i tempi medi sono quelli del grafico. Il volume complessivo di luglio e' 11.000 pacchi.
+ Quanti pacchi vengono assegnati al Corriere Beta?
+
+
+
+
+  A. circa 4.580
+  B. circa 3.670
+  C. circa 5.100
+  D. circa 4.000
+
+
+
+ Domanda 22 - Data Insights
+ Dati e proposizioni - reparti aziendali
+
+Mock Exam Bocconi-Style - Versione 2                                                                                   Pagina 8
+ DATI
+ In un'azienda ci sono quattro reparti: Produzione, Marketing, R&D; e Amministrazione. Ogni reparto ha tra 10 e 24
+ dipendenti. Il totale dei dipendenti e' 78. Amministrazione ha esattamente 18 dipendenti. R&D; ha il doppio dei dipendenti
+ di Marketing e non puo superare 24 dipendenti. Produzione ha piu dipendenti di Marketing.
+
+ PROPOSIZIONI
+ A. Produzione ha esattamente 24 dipendenti.
+ B. Marketing ha al massimo 11 dipendenti.
+ C. R&D; ha esattamente 24 dipendenti.
+ D. Nessun reparto ha meno di 10 dipendenti.
+
+ Quali proposizioni sono sicuramente vere?
+
+  A. Solo A e C
+  B. Solo C e D
+  C. Solo A, B e D
+  D. Solo A, C e D
+
+
+
+ Domanda 23 - Data Insights
+ Traffico web, revenue e costi server
+ Il grafico mostra il traffico del sito di una societa editoriale, in migliaia di visite. Revenue per visita: Desktop 0,90 EUR,
+ Mobile 0,45 EUR. Costo server per 1.000 visite: Desktop 15 EUR, Mobile 9 EUR. Il sabato, rispetto al venerdi, il traffico
+ Mobile aumenta del 25% mentre il traffico Desktop cala del 20%. Quale affermazione e' corretta riguardo al sabato?
+
+
+
+
+  A. Il margine netto totale del sabato supera quello del giovedi
+  B. Il costo server totale del sabato supera 1.400 EUR
+  C. La revenue totale del sabato supera 90.000 EUR
+  D. Il margine netto Mobile supera quello Desktop di oltre 15.000 EUR
+
+
+
+ Domanda 24 - Data Insights
+ Mix energetico ed emissioni ponderate
+ Un consorzio industriale consuma 500 GWh di energia all'anno, distribuiti come nel grafico. Emissioni medie: Gas 420
+ kgCO2/MWh, Solare 40 kgCO2/MWh, Eolico 15 kgCO2/MWh, Idroelettrico 10 kgCO2/MWh. Quale affermazione e'
+ corretta?
+
+
+
+Mock Exam Bocconi-Style - Versione 2                                                                                      Pagina 9
+  A. Le emissioni totali superano 120.000 tonnellate di CO2
+  B. Il gas pesa meno del 70% delle emissioni totali
+  C. L'intensita media ponderata e' inferiore a 200 kgCO2/MWh
+  D. Solare ed eolico insieme generano piu emissioni del gas
+
+
+
+ Domanda 25 - Data Insights
+ Turismo, crescita e ricavi incrementali
+ La tabella mostra gli arrivi turistici annuali in migliaia e la spesa media per visitatore. Per il 2024 si prevedono queste
+ variazioni degli arrivi rispetto al 2023: Firenze +8%, Napoli +15%, Verona -5%, Bari +12%. Quale citta generera il
+ maggiore incremento di ricavi turistici nel 2024 rispetto al 2023?
+
+  Citta                      2021                     2022                      2023                      Spesa media EUR
+
+  Firenze                    900                      980                       1050                      110
+
+  Napoli                     700                      850                       950                       95
+
+  Verona                     600                      650                       720                       130
+
+  Bari                       500                      580                       680                       85
+
+
+  A. Napoli
+  B. Firenze
+  C. Bari
+  D. Verona
+
+
+
+ Domanda 26 - Data Insights
+ Portafoglio e rendimento ponderato
+ Un portafoglio vale 800.000 EUR ed e' composto come nel grafico. Nel trimestre osservato, Azioni Europa perdono il 6%,
+ Azioni USA guadagnano il 10%, Obbligazioni guadagnano il 3%, Liquidita resta invariata. Qual e' la variazione netta del
+ portafoglio e il valore finale approssimato?
+
+
+
+
+Mock Exam Bocconi-Style - Versione 2                                                                                    Pagina 10
+  A. -8.640 EUR; 791.360 EUR
+  B. +8.640 EUR; 808.640 EUR
+  C. +15.000 EUR; 815.000 EUR
+  D. +11.360 EUR; 811.360 EUR
+
+
+
+ Domanda 27 - Data Insights
+ Immatricolati e variazioni percentuali
+ La tabella riporta gli immatricolati universitari per provenienza geografica, in migliaia. Sulla base dei dati, quale
+ affermazione e' corretta?
+
+  Provenienza                          2021                        2022                             2023
+
+  Stessa provincia                     210                         198                              180
+
+  Regione limitrofa                    90                          105                              112
+
+  Altra regione italiana               70                          77                               88
+
+  Estero                               30                          35                               40
+
+  Totale                               400                         415                              420
+
+
+  A. Gli immatricolati da altra regione aumentano di oltre il 25% tra 2021 e 2023
+  B. La quota della stessa provincia sul totale diminuisce di oltre 10 punti percentuali tra 2021 e 2023
+  C. Limitrofa + estero nel 2023 supera del 40% lo stesso aggregato del 2021
+  D. Il totale 2023 e' aumentato di oltre l'8% rispetto al 2021
+
+
+
+ Domanda 28 - Data Insights
+ Costo totale di produzione
+ Il grafico mostra la produzione mensile di quattro stabilimenti. Nel mese di marzo i costi per unita sono: Nord 11 EUR,
+ Centro 12 EUR, Sud 10 EUR, Est 13 EUR. I costi fissi mensili sono: Nord 1.800 EUR, Centro 1.500 EUR, Sud 2.200
+ EUR, Est 1.000 EUR. Quale stabilimento ha il costo totale piu basso a marzo?
+
+
+
+
+Mock Exam Bocconi-Style - Versione 2                                                                                     Pagina 11
+  A. Est, con circa 9.450 EUR
+  B. Sud, con circa 10.000 EUR
+  C. Centro, con circa 12.300 EUR
+  D. Nord, con circa 13.900 EUR
+
+
+
+ Domanda 29 - Data Insights
+ Conversion rate e fatturato incrementale
+ Il grafico mostra i tassi di conversione settimanali di tre canali. Tra Settimana 1 e Settimana 4 il traffico settimanale
+ medio rimane costante: Search 60.000 visite, Social 150.000 visite, Email 30.000 visite. Valore ordine medio: Search 80
+ EUR, Social 44 EUR, Email 70 EUR. Quale canale genera il maggiore incremento di fatturato tra Settimana 1 e
+ Settimana 4?
+
+
+
+
+  A. Search, con +43.200 EUR
+  B. Social, con +52.800 EUR
+  C. Email, con +10.500 EUR
+  D. Search e Social, con lo stesso incremento
+
+
+
+
+Mock Exam Bocconi-Style - Versione 2                                                                               Pagina 12
+ Domanda 30 - Data Insights
+ Margine spedizioni e conversione di servizio
+ Una societa gestisce 12.000 spedizioni mensili. La distribuzione e i margini unitari sono nella tabella. Se il 15% delle
+ spedizioni Basic venisse convertito in Plus, mantenendo invariato il totale delle spedizioni, quale sarebbe la variazione
+ del margine mensile totale?
+
+  Servizio                   Distribuzione            Prezzo cliente                 Costo unitario         Margine unitario
+
+  Basic                      40%                      6                              4                      2
+
+  Plus                       35%                      12                             7                      5
+
+  Premium                    15%                      28                             15                     13
+
+  International              10%                      50                             32                     18
+
+
+  A. Aumento di 1.440 EUR
+  B. Diminuzione di 2.160 EUR
+  C. Aumento di 3.600 EUR
+  D. Aumento di 2.160 EUR
+
+
+
+ Domanda 31 - Data Insights
+ Transazioni e indice prezzi immobiliari
+ Il grafico mostra il numero di transazioni immobiliari in tre aree. La tabella riporta invece l'indice dei prezzi, con base
+ 2021=100. Quale affermazione e' corretta?
+
+
+
+
+  Area                                 Prezzi 2021                     Prezzi 2022                    Prezzi 2023
+
+  Milano Nord                          100                             105                            109
+
+  Bologna Est                          100                             98                             101
+
+  Genova Centro                        100                             102                            106
+
+
+  A. Genova Centro ha avuto transazioni in calo e indice dei prezzi in aumento tra 2021 e 2023
+  B. Bologna Est ha avuto prezzi in calo continuo tra 2021 e 2023
+  C. Milano Nord ha avuto piu transazioni e prezzi in calo
+  D. Il calo delle transazioni implica sempre un calo dei prezzi
+
+
+
+
+Mock Exam Bocconi-Style - Versione 2                                                                                           Pagina 13
+ Domanda 32 - Data Insights
+ Consumi idrici e dati insufficienti
+ Il grafico mostra il consumo idrico mensile 2023 di un condominio. Nel 2024 il consumo annuo totale diminuisce del 12%.
+ Nei mesi di giugno, luglio e agosto il consumo diminuisce di 20 m3 ciascuno rispetto al 2023. Nei mesi da gennaio a
+ maggio compresi la diminuzione complessiva e' di 70 m3. Di quanto diminuisce il consumo complessivo di settembre e
+ ottobre dal 2023 al 2024?
+
+
+
+
+  A. 74 m3
+  B. 82 m3
+  C. 96 m3
+  D. Non e' possibile determinarlo con i dati forniti
+
+
+
+ Domanda 33 - Data Insights
+ Indice ponderato di soddisfazione
+ Un'azienda valuta tre prodotti su Performance, Design e Supporto. I pesi dell'indice finale sono: Performance 50%,
+ Design 30%, Supporto 20%. In base al grafico, quale prodotto ha il punteggio ponderato piu alto?
+
+
+
+
+  A. Prodotto A
+  B. Prodotto C
+
+
+Mock Exam Bocconi-Style - Versione 2                                                                             Pagina 14
+  C. Prodotto B
+  D. Tutti hanno lo stesso punteggio
+
+
+
+ Domanda 34 - Data Insights
+ Funding startup e quote residue
+ Il grafico mostra la distribuzione iniziale del funding startup, totale 60 milioni EUR. L'anno successivo il funding totale
+ aumenta del 20%. La quota AI scende di 5 punti percentuali; la quota Climate raddoppia; Other resta invariata all'8%. Le
+ quote Fintech e Health si dividono la quota residua mantenendo il rapporto iniziale 25:20. Quale sara il funding Fintech
+ nell'anno successivo?
+
+
+
+
+  A. circa 13,6 milioni EUR
+  B. circa 15,2 milioni EUR
+  C. circa 16,8 milioni EUR
+  D. circa 18,0 milioni EUR
+
+
+
+
+Mock Exam Bocconi-Style - Versione 2                                                                                 Pagina 15
+                                         SEZIONE 3 - VERBALE
+
+ Domanda 35 - Verbale
+ Tesi principale - fintech e credito
+ Si legga attentamente il seguente brano.
+
+ Negli ultimi anni le piattaforme fintech di credito al consumo hanno modificato il modo in cui famiglie e piccole imprese
+ accedono ai finanziamenti. Attraverso modelli algoritmici di valutazione del rischio, queste piattaforme promettono
+ decisioni piu rapide, costi operativi minori e una maggiore capacita di servire clienti che in passato erano esclusi dal
+ circuito bancario tradizionale. Tuttavia, l'espansione del credito digitale non e' priva di rischi. Alcuni osservatori
+ sottolineano che l'uso di dati alternativi, come abitudini di acquisto o comportamenti online, puo produrre discriminazioni
+ indirette difficili da identificare. Inoltre, la rapidita del processo di approvazione puo spingere alcuni consumatori a
+ indebitarsi senza comprendere pienamente il costo effettivo del prestito. Le autorita di vigilanza si trovano quindi davanti
+ a un equilibrio delicato: incoraggiare l'innovazione, che puo aumentare la concorrenza e l'inclusione finanziaria, senza
+ consentire che l'opacita degli algoritmi e la pressione commerciale riducano la tutela dei clienti. La questione centrale
+ non e' se il credito fintech sia positivo o negativo in assoluto, ma quali regole siano necessarie per renderlo trasparente,
+ controllabile e sostenibile.
+
+ Qual e' la tesi principale del brano?
+
+  A. Il credito fintech e sempre piu rischioso del credito bancario tradizionale
+  B. Il credito fintech offre opportunita ma richiede regole adeguate per contenere rischi di opacita e sovraindebitamento
+  C. Le banche tradizionali dovrebbero essere escluse dal mercato del credito digitale
+  D. Gli algoritmi sono strumenti neutrali e non richiedono alcuna forma di controllo
+
+
+
+ Domanda 36 - Verbale
+ Rafforzare una tesi
+ Si legga attentamente il seguente brano.
+
+ Un gruppo di amministratori locali propone di introdurre corsie preferenziali dinamiche per gli autobus, attivate solo nelle
+ ore di maggiore congestione. Secondo i promotori, questa misura ridurrebbe i tempi di percorrenza del trasporto pubblico
+ senza penalizzare eccessivamente gli automobilisti durante le fasce orarie meno trafficate. La proposta si basa sull'idea
+ che una rete di sensori stradali possa rilevare in tempo reale la densita del traffico e modificare la destinazione delle
+ corsie attraverso segnaletica luminosa. I critici sostengono pero che gli automobilisti potrebbero non comprendere
+ rapidamente i cambiamenti, generando confusione e aumentando il rischio di incidenti. Inoltre, alcune associazioni
+ commerciali temono che la riduzione temporanea delle corsie per le auto possa scoraggiare l'accesso ai negozi nei
+ quartieri centrali.
+
+ Quale affermazione, se vera, rafforza maggiormente la tesi dei promotori?
+
+  A. Molti negozianti preferiscono parcheggi gratuiti alle corsie preferenziali
+  B. In una citta comparabile, un sistema dinamico simile ha ridotto del 22% i tempi degli autobus senza aumentare gli
+     incidenti
+  C. Gli autobus sono spesso percepiti come meno confortevoli delle auto private
+  D. La maggioranza degli automobilisti non conosce il significato di tutte le segnalazioni luminose
+
+
+
+ Domanda 37 - Verbale
+ Vero, falso, non deducibile
+
+
+
+Mock Exam Bocconi-Style - Versione 2                                                                                  Pagina 16
+ Si legga attentamente il seguente brano.
+
+ Le universita europee stanno investendo in programmi di tutoraggio per ridurre il tasso di abbandono degli studenti del
+ primo anno. I dati raccolti in un campione di 90 atenei indicano che gli studenti che partecipano regolarmente agli incontri
+ con tutor senior ottengono in media risultati migliori agli esami del primo semestre e dichiarano un maggiore senso di
+ appartenenza alla comunita accademica. Tuttavia, i coordinatori dei programmi avvertono che l'efficacia varia molto in
+ base alla formazione dei tutor, alla frequenza degli incontri e alla disponibilita degli studenti a chiedere supporto. In alcuni
+ atenei il programma ha prodotto risultati modesti, soprattutto quando gli incontri erano sporadici o poco strutturati.
+
+ L'affermazione "Il tutoraggio universitario riduce sempre l'abbandono degli studenti" e':
+
+  A. Falsa
+  B. Vera
+  C. Non deducibile
+  D. Vera solo per gli studenti con voti alti
+
+
+
+ Domanda 38 - Verbale
+ Economia circolare - inferenza
+ Si legga attentamente il seguente brano.
+
+ L'economia circolare viene spesso presentata come un'alternativa al modello industriale lineare, fondato sull'estrazione
+ di risorse, la produzione, il consumo e lo smaltimento finale. Nel modello circolare, invece, l'obiettivo e' ridurre la
+ generazione di rifiuti progettando beni piu durevoli, riparabili e riciclabili, e mantenendo materiali e componenti all'interno
+ del ciclo produttivo il piu a lungo possibile. Le imprese che adottano questa logica possono ridurre la dipendenza da
+ materie prime vergini, attenuare l'esposizione alla volatilita dei prezzi e migliorare la propria reputazione ambientale.
+ Tuttavia, la transizione richiede investimenti in progettazione, logistica inversa e collaborazione lungo la filiera. Per
+ questo motivo, non tutte le imprese riescono a implementare il modello con la stessa rapidita o efficacia.
+
+ Quale affermazione e' correttamente desumibile dal testo?
+
+  A. Leconomia circolare elimina completamente il bisogno di materie prime
+  B. Il modello circolare mira a mantenere risorse e materiali in uso piu a lungo, ma richiede investimenti organizzativi e
+     tecnologici
+  C. Tutte le imprese ottengono immediatamente risparmi adottando leconomia circolare
+  D. Il modello lineare e basato principalmente sulla riparazione dei prodotti
+
+
+
+ Domanda 39 - Verbale
+ Dati e proposizioni - ordine logico
+ DATI
+ In un concorso interno partecipano quattro candidati: A, B, C e D. A ha ottenuto piu punti di B. C ha ottenuto meno punti
+ di D. B ha ottenuto almeno tanti punti quanti C.
+
+ PROPOSIZIONI
+ A. A ha sicuramente il punteggio piu alto.
+ B. C ha sicuramente il punteggio piu basso.
+ C. D ha piu punti di C.
+ D. B ha piu punti di D.
+
+ Quale proposizione e' sicuramente vera?
+
+  A. Solo A
+  B. Solo B
+
+
+Mock Exam Bocconi-Style - Versione 2                                                                                     Pagina 17
+  C. Solo C
+  D. Solo D
+
+
+
+ Domanda 40 - Verbale
+ Urbanizzazione - deduzione corretta
+ Si legga attentamente il seguente brano.
+
+ La crescita delle aree metropolitane sta creando una tensione sempre piu evidente tra efficienza economica e
+ sostenibilita urbana. Le grandi citta concentrano universita, imprese, servizi sanitari avanzati e opportunita lavorative,
+ favorendo innovazione e produttivita. Allo stesso tempo, l'aumento della densita abitativa produce pressioni rilevanti su
+ trasporti, alloggi, gestione dei rifiuti e qualita dell'aria. In molte metropoli europee, il costo delle abitazioni e' cresciuto piu
+ rapidamente dei redditi medi, costringendo una parte della popolazione a spostarsi verso periferie sempre piu lontane.
+ Alcuni urbanisti propongono modelli di citta policentrica, con piu nuclei di servizi e lavoro distribuiti sul territorio, per
+ ridurre la pressione sul centro. Altri ritengono che tali modelli funzionino solo se accompagnati da trasporti pubblici
+ efficienti e da una pianificazione coordinata.
+
+ Quale affermazione e' supportata dal testo?
+
+  A. Le grandi citta producono solo costi sociali e ambientali
+  B. La citta policentrica e' presentata come una possibile risposta, ma non come soluzione automatica e sufficiente
+  C. La crescita dei prezzi delle case e' irrilevante per la struttura urbana
+  D. Gli urbanisti concordano sul fatto che i trasporti pubblici non siano necessari
+
+
+
+ Domanda 41 - Verbale
+ Assunzione necessaria
+ Si legga attentamente il seguente brano.
+
+ Il direttore di una catena di supermercati sostiene che l'introduzione di casse automatiche abbia migliorato l'efficienza dei
+ punti vendita. A supporto della tesi osserva che, nei sei mesi successivi all'installazione, il tempo medio di attesa in
+ cassa e' diminuito del 18% nei negozi interessati. Sulla base di questo dato propone di estendere il sistema a tutti i punti
+ vendita della catena. Alcuni responsabili operativi, tuttavia, invitano alla cautela: nello stesso periodo sono stati assunti
+ nuovi addetti alle casse tradizionali e in alcuni negozi e' stata modificata la disposizione delle corsie, facilitando il flusso
+ dei clienti.
+
+ Quale assunzione e' necessaria per sostenere l'argomentazione del direttore?
+
+  A. I clienti preferiscono sempre le casse automatiche
+  B. La riduzione dei tempi non e' spiegata principalmente da altri cambiamenti introdotti nello stesso periodo
+  C. Le casse tradizionali devono essere eliminate del tutto
+  D. Tutti i supermercati hanno la stessa dimensione
+
+
+
+ Domanda 42 - Verbale
+ Non deducibile
+ Si legga attentamente il seguente brano.
+
+ Le biblioteche pubbliche stanno ampliando la propria offerta digitale, includendo prestito di ebook, accesso a banche
+ dati, corsi online e consulenze per l'alfabetizzazione informatica. Secondo un'indagine condotta in 40 comuni, gli utenti
+ sotto i 35 anni utilizzano piu frequentemente i servizi digitali, mentre gli utenti piu anziani continuano a preferire il prestito
+ di libri cartacei e gli incontri in presenza. Alcuni bibliotecari sottolineano che la crescita dei servizi digitali non ha ridotto
+ l'importanza degli spazi fisici: in molti quartieri la biblioteca resta un luogo di studio, socialita e accesso gratuito alla
+
+
+Mock Exam Bocconi-Style - Versione 2                                                                                         Pagina 18
+ cultura.
+
+ L'affermazione "Gli utenti anziani rifiutano completamente i servizi digitali" e':
+
+  A. Vera
+  B. Falsa
+  C. Non deducibile
+  D. Vera solo nei piccoli comuni
+
+
+
+ Domanda 43 - Verbale
+ Agricoltura rigenerativa - falsificazione di assoluti
+ Si legga attentamente il seguente brano.
+
+ L'agricoltura rigenerativa comprende pratiche come rotazione delle colture, riduzione dell'aratura, coperture vegetali e
+ integrazione di alberi nei sistemi agricoli. Diversi studi sperimentali mostrano che, in condizioni favorevoli e con
+ applicazione continuativa, queste tecniche possono migliorare la fertilita del suolo e aumentare la capacita di trattenere
+ acqua. Tuttavia, i risultati variano in modo significativo in base al clima, al tipo di terreno, alla disponibilita di competenze
+ tecniche e alla durata dell'intervento. Alcuni agronomi avvertono che presentare queste pratiche come una soluzione
+ rapida e universale rischia di generare aspettative irrealistiche, soprattutto in aree dove i suoli sono gia gravemente
+ degradati o gli agricoltori non hanno accesso a supporto finanziario.
+
+ L'affermazione "Le pratiche rigenerative garantiscono sempre il recupero rapido della fertilita del suolo" e':
+
+  A. Vera
+  B. Falsa
+  C. Non deducibile
+  D. Vera solo nei paesi europei
+
+
+
+ Domanda 44 - Verbale
+ Indebolire una tesi
+ Si legga attentamente il seguente brano.
+
+ Una societa di cybersecurity sostiene che l'obbligo di cambiare password ogni 30 giorni ridurra sensibilmente gli accessi
+ non autorizzati agli account aziendali. La tesi si basa sull'idea che password frequentemente rinnovate siano meno
+ vulnerabili in caso di furto o compromissione. I responsabili IT propongono quindi di introdurre questa regola per tutti i
+ dipendenti. Alcuni consulenti esterni, pero, osservano che politiche troppo rigide possono produrre comportamenti
+ controproducenti: gli utenti tendono a scegliere password piu semplici, a modificarle in modo prevedibile o a scriverle su
+ supporti non sicuri.
+
+ Quale affermazione, se vera, indebolisce maggiormente la tesi della societa?
+
+  A. Le password lunghe sono generalmente piu difficili da violare
+  B. In aziende che hanno imposto cambi mensili, molti utenti hanno iniziato a usare sequenze prevedibili come
+     Password01, Password02 e cosi via
+  C. Gli accessi non autorizzati possono avere costi elevati
+  D. Alcuni dipendenti preferiscono usare strumenti digitali per ricordare le password
+
+
+
+ Domanda 45 - Verbale
+ Turismo culturale - previsione non supportata
+
+
+Mock Exam Bocconi-Style - Versione 2                                                                                      Pagina 19
+ Si legga attentamente il seguente brano.
+
+ Le destinazioni turistiche minori stanno attirando maggiore attenzione grazie a festival locali, percorsi gastronomici e
+ promozione sui social media. Molti viaggiatori dichiarano di cercare esperienze autentiche e meno affollate rispetto alle
+ mete piu note. Tuttavia, le grandi capitali culturali continuano a registrare numeri elevati di visitatori, sostenute da
+ infrastrutture consolidate, collegamenti internazionali e un patrimonio artistico di fama globale. Gli operatori del settore
+ osservano che la crescita delle localita minori non implica necessariamente il declino delle citta storiche: in diversi casi i
+ due fenomeni coesistono, intercettando segmenti diversi di viaggiatori.
+
+ L'affermazione "Le grandi capitali culturali sono destinate inevitabilmente a perdere visitatori nei prossimi anni" e':
+
+  A. Vera
+  B. Falsa
+  C. Non deducibile
+  D. Vera solo per le capitali europee
+
+
+
+ Domanda 46 - Verbale
+ Politiche attive del lavoro
+ Si legga attentamente il seguente brano.
+
+ I programmi di riqualificazione professionale per lavoratori adulti sono diventati una componente centrale delle politiche
+ del lavoro. La digitalizzazione e l'automazione stanno riducendo la domanda di alcune mansioni ripetitive, ma allo stesso
+ tempo stanno creando nuovi profili professionali legati alla gestione dei dati, alla manutenzione dei sistemi digitali e alla
+ sicurezza informatica. Secondo diversi centri di ricerca, i programmi piu efficaci non si limitano a corsi brevi e generici,
+ ma combinano formazione tecnica, orientamento individuale e contatti diretti con imprese che cercano personale. Il
+ problema principale e' che questi programmi richiedono risorse, tempo e una progettazione accurata; se implementati in
+ modo superficiale, rischiano di produrre certificati poco spendibili sul mercato.
+
+ Quale affermazione e' correttamente supportata dal testo?
+
+  A. La riqualificazione funziona solo se dura molti anni
+  B. I programmi efficaci tendono a combinare formazione, orientamento e collegamento con le imprese
+  C. L'automazione elimina tutti i lavori disponibili
+  D. I corsi brevi e generici sono descritti come la soluzione piu efficace
+
+
+
+ Domanda 47 - Verbale
+ Correlazione e causalita
+ Si legga attentamente il seguente brano.
+
+ Un rapporto su giovani adulti e benessere psicologico rileva che chi trascorre piu di quattro ore al giorno sui social
+ network dichiara livelli medi di ansia piu elevati rispetto a chi li usa meno di un'ora al giorno. Gli autori del rapporto
+ sostengono che l'uso intenso dei social sia una causa diretta dell'aumento dell'ansia e propongono campagne pubbliche
+ per limitarne l'utilizzo. Alcuni psicologi, pur riconoscendo l'importanza del dato, criticano la conclusione: la ricerca non
+ stabilisce se l'uso dei social generi ansia, se individui gia ansiosi tendano a usare di piu i social, o se un terzo fattore,
+ come isolamento sociale o stress lavorativo, influenzi entrambe le variabili.
+
+ Quale e' la debolezza principale dell'argomentazione degli autori?
+
+  A. Il rapporto usa un campione troppo piccolo, anche se il testo non lo dice
+  B. Il rapporto confonde una correlazione osservata con una relazione causale dimostrata
+  C. Il rapporto ignora che tutti i social network sono identici
+
+
+
+Mock Exam Bocconi-Style - Versione 2                                                                                       Pagina 20
+  D. Il rapporto dimostra che l'ansia non esiste
+
+
+
+ Domanda 48 - Verbale
+ Assunzione e causalita urbana
+ Si legga attentamente il seguente brano.
+
+ Il sindaco di una citta sostiene che l'aumento delle piste ciclabili abbia ridotto il traffico automobilistico nel centro urbano.
+ A sostegno della tesi cita il fatto che, nell'anno successivo alla realizzazione di 18 km di nuove piste, gli ingressi
+ giornalieri di auto nel centro sono diminuiti del 12%. Propone quindi di estendere ulteriormente la rete ciclabile. Alcuni
+ tecnici del comune fanno notare che nello stesso anno sono aumentati i prezzi dei parcheggi, e una nuova linea
+ tramviaria ha iniziato a collegare la periferia con il centro.
+
+ Quale assunzione e' necessaria per sostenere l'argomentazione del sindaco?
+
+  A. La nuova linea tramviaria ha avuto zero passeggeri
+  B. La riduzione del traffico non e' attribuibile principalmente ad altri interventi contemporanei, come parcheggi piu costosi
+     o nuova linea tramviaria
+  C. Tutti i cittadini possiedono una bicicletta
+  D. Le piste ciclabili devono sostituire tutte le strade per auto
+
+
+
+ Domanda 49 - Verbale
+ Crisi idrica e desalinizzazione
+ Si legga attentamente il seguente brano.
+
+ La scarsita di acqua dolce e' una delle sfide piu rilevanti per molte regioni del mondo. L'agricoltura assorbe la quota
+ maggiore dei prelievi idrici, mentre crescita demografica, urbanizzazione e cambiamenti climatici aumentano la
+ pressione sulle risorse disponibili. La desalinizzazione puo offrire un contributo importante in aree costiere ricche di
+ energia, ma oggi resta costosa e copre solo una frazione limitata del fabbisogno globale. Gli esperti raccomandano
+ quindi un approccio integrato: riduzione delle perdite nelle reti, irrigazione di precisione, riuso delle acque reflue trattate,
+ protezione delle falde e, dove conveniente, desalinizzazione. Nessuna singola tecnologia viene presentata come
+ soluzione sufficiente da sola.
+
+ L'affermazione "La desalinizzazione e' indicata come la soluzione principale e sufficiente alla crisi idrica globale" e':
+
+  A. Vera
+  B. Falsa
+  C. Non deducibile
+  D. Vera solo nei paesi senza agricoltura
+
+
+
+ Domanda 50 - Verbale
+ Tono del brano - globalizzazione culturale
+ Si legga attentamente il seguente brano.
+
+ La globalizzazione culturale ha accelerato la circolazione di musica, film, mode alimentari e linguaggi simbolici tra paesi
+ molto diversi. Questo processo ha ampliato l'accesso a prodotti culturali un tempo difficili da raggiungere e ha favorito
+ contaminazioni creative tra tradizioni differenti. Allo stesso tempo, alcuni studiosi temono che la diffusione globale di
+ pochi grandi marchi e piattaforme possa indebolire pratiche locali, lingue minoritarie e forme di produzione culturale
+ meno redditizie. Altri osservano che le culture non sono entita statiche: spesso assorbono elementi esterni e li
+ reinterpretano secondo contesti locali. Il fenomeno, dunque, non puo essere ridotto ne' a pura perdita di identita ne' a
+ semplice arricchimento universale; presenta benefici, rischi e trasformazioni difficili da valutare in modo definitivo.
+
+
+
+Mock Exam Bocconi-Style - Versione 2                                                                                      Pagina 21
+ Qual e' il tono del brano?
+
+  A. Celebrativo e promozionale
+  B. Equilibrato e analitico
+  C. Allarmista e catastrofico
+  D. Ironico e polemico
+
+
+
+
+Mock Exam Bocconi-Style - Versione 2   Pagina 22
+                                       SOLUZIONI E SPIEGAZIONI
+  Domanda       Risposta     Domanda     Risposta   Domanda      Risposta     Domanda     Risposta     Domanda      Risposta
+
+  1             B            2           C          3            B            4           D            5            B
+
+  6             B            7           C          8            A            9           B            10           D
+
+  11            C            12          A          13           D            14          B            15           C
+
+  16            A            17          D          18           A            19          C            20           B
+
+  21            A            22          D          23           B            24          C            25           A
+
+  26            D            27          A          28           A            29          B            30           D
+
+  31            A            32          D          33           C            34          B            35           B
+
+  36            B            37          A          38           B            39          C            40           B
+
+  41            B            42          C          43           B            44          B            45           C
+
+  46            B            47          B          48           B            49          B            50           B
+
+
+
+ Domanda 1 - Risposta corretta: B
+ (1) implica (x-2)(x-5)=0, quindi x puo' essere 2 oppure 5: non basta. (2) dice solo x>4: non basta. Insieme rimane solo
+ x=5. Serve combinare le due affermazioni.
+
+
+ Domanda 2 - Risposta corretta: C
+ Sia T la tariffa base. (1) fornisce 1,30T=91, quindi T=70 e il totale e' 70+21+18=109. Sufficiente. (2) fornisce 0,30T=21,
+ quindi T=70 e lo stesso totale. Sufficiente. Entrambe bastano da sole.
+
+
+ Domanda 3 - Risposta corretta: B
+ Costo totale: 180*12=2160. Prezzo prima fase: 12*1,35=16,20; ricavo 120*16,20=1944. Prezzo seconda fase:
+ 12*0,90=10,80; ricavo 60*10,80=648. Ricavo totale 2592. Profitto=2592-2160=432 EUR.
+
+
+ Domanda 4 - Risposta corretta: D
+ Usiamo le combinazioni: casi totali C(12,3)=220. Casi favorevoli: scegliere 2 nere su 5 e 1 non nera su 7, cioe'
+ C(5,2)*C(7,1)=10*7=70. Probabilita=70/220=7/22.
+
+
+ Domanda 5 - Risposta corretta: B
+ Il lato del rombo e' 40/4=10. Se le diagonali sono 3k e 4k, le semidiagonali sono 1,5k e 2k. Nel triangolo rettangolo
+ formato dalle semidiagonali: (1,5k)^2+(2k)^2=10^2, quindi 6,25k^2=100 e k=4. Le diagonali sono 12 e 16.
+ Area=(12*16)/2=96 cm^2.
+
+
+ Domanda 6 - Risposta corretta: B
+ (1) da sola: a+b=17, ma l'area ab non e' unica. (2) da sola: a^2+b^2=169, ma l'area non e' unica. Insieme:
+ (a+b)^2=a^2+b^2+2ab, quindi 289=169+2ab, ab=60. Serve combinare le affermazioni.
+
+
+ Domanda 7 - Risposta corretta: C
+ Quando le distanze sono uguali non si usa la media aritmetica. Velocita media =
+ 2*v1*v2/(v1+v2)=2*80*120/(80+120)=19200/200=96 km/h.
+
+
+ Domanda 8 - Risposta corretta: A
+
+
+
+
+Mock Exam Bocconi-Style - Versione 2                                                                                    Pagina 23
+ Casi favorevoli: 2 donne e 2 uomini: C(5,2)C(4,2)=60; 3 donne e 1 uomo: C(5,3)C(4,1)=40; 4 donne: C(5,4)=5.
+ Totale=60+40+5=105.
+
+
+ Domanda 9 - Risposta corretta: B
+ P(difettoso)=0,40*0,03+0,35*0,04+0,25*0,02=0,012+0,014+0,005=0,031. La quota di difettosi provenienti da B e'
+ 0,35*0,04=0,014. Quindi P(B|difettoso)=0,014/0,031=0,4516, circa 45%.
+
+
+ Domanda 10 - Risposta corretta: D
+ Il termine n-esimo e' a_n=7+(n-1)*3. Impongo 61=7+3(n-1). Allora 54=3(n-1), n-1=18, n=19.
+
+
+ Domanda 11 - Risposta corretta: C
+ Somma di logaritmi con stessa base: log_3[t(t+6)]=3. Quindi t(t+6)=27, cioe' t^2+6t-27=0. Le soluzioni sono t=3 e t=-9.
+ Poiche' t>0, t=3.
+
+
+ Domanda 12 - Risposta corretta: A
+ La superficie laterale e' S=2*pi*r*h. Dunque 2*pi*r*8=96pi, quindi 16r=96 e r=6. Volume=pi*r^2*h=pi*36*8=288pi cm^3.
+
+
+ Domanda 13 - Risposta corretta: D
+ (1) da sola permette molte coppie. (2) da sola permette molte coppie. Insieme le coppie positive che soddisfano
+ entrambe sono (4,6) e (6,4). Quindi m puo' valere 4 oppure 6. Non e' determinabile nemmeno combinando le
+ affermazioni.
+
+
+ Domanda 14 - Risposta corretta: B
+ Alle 8:00 il treno A ha percorso 80 km; restano 270 km tra i due. Dalle 8:00 alle 9:00 A percorre altri 80 km e B percorre
+ 100 km: distanza residua 90 km. Dalle 9:00 alle 9:15 A e' fermo, B percorre 25 km: distanza residua 65 km. Poi la
+ velocita relativa e' 180 km/h. Tempo=65/180 h=21,7 minuti. Incontro circa alle 9:37.
+
+
+ Domanda 15 - Risposta corretta: C
+ Inglese=275, spagnolo=190, entrambe=110. Almeno una lingua=275+190-110=355. Nessuna=500-355=145.
+
+
+ Domanda 16 - Risposta corretta: A
+ Prezzo finale=500*1,20*0,75*1,10=495. Rispetto a 500, e' inferiore di 5 EUR, cioe' -1%.
+
+
+ Domanda 17 - Risposta corretta: D
+ Il volume dipende dal cubo del lato. Se il lato diventa 1,2 volte quello iniziale, il volume diventa 1,2^3=1,728 volte quello
+ iniziale. L'aumento e' 72,8%.
+
+
+ Domanda 18 - Risposta corretta: A
+ L'angolo in C e' compreso tra i lati a e b, e il lato opposto e' c. (1) dice esattamente a^2+b^2=c^2, quindi l'angolo C e'
+ retto: sufficiente. (2) non identifica necessariamente un unico triangolo orientato rispetto all'angolo C; fornisce perimetro
+ e area, ma non basta a decidere con certezza se l'angolo C sia retto. Solo (1) e' sufficiente.
+
+
+ Domanda 19 - Risposta corretta: C
+ Crescita Torino=(286-220)/220=30%. Venezia=(234-180)/180=30%. Palermo=(196-140)/140=40%. Palermo ha la
+ crescita maggiore. Bonus=4% di 196.000=7.840 EUR.
+
+
+ Domanda 20 - Risposta corretta: B
+ R&D; iniziale=18% di 1.800.000=324.000. Nuovo budget=1.800.000*1,12=2.016.000. Nuovo R&D;=22% di
+ 2.016.000=443.520. Aumento=443.520-324.000=119.520 EUR.
+
+
+Mock Exam Bocconi-Style - Versione 2                                                                                   Pagina 24
+ Domanda 21 - Risposta corretta: A
+ A luglio i tempi sono Alfa 30, Beta 24, Gamma 40 ore. Le quote inverse sono 1/30, 1/24, 1/40. Con denominatore 120:
+ 4/120, 5/120, 3/120. Somma=12/120. Quota Beta=5/12. Pacchi=11.000*5/12=4.583, circa 4.580.
+
+
+ Domanda 22 - Risposta corretta: D
+ Tolti i 18 di Amministrazione, restano 60 per Produzione, Marketing e R&D.; Sia M=Marketing. R&D;=2M, quindi
+ Produzione=60-3M. Poiche' tutti sono tra 10 e 24 e R&D;<=24, M puo essere al massimo 12. Provando M=12, R&D;=24
+ e Produzione=24. M=11 darebbe Produzione=27, impossibile. Quindi la configurazione e' unica: P=24, M=12, R&D;=24,
+ A=18. Vere A, C e D; falsa B.
+
+
+ Domanda 23 - Risposta corretta: B
+ Venerdi: Desktop 50.000, Mobile 80.000. Sabato: Desktop 40.000, Mobile 100.000. Revenue
+ sabato=40.000*0,90+100.000*0,45=81.000. Costo server=40*15+100*9=600+900=1.500, quindi supera 1.400. Le altre
+ opzioni sono false.
+
+
+ Domanda 24 - Risposta corretta: C
+ Consumi: Gas 210.000 MWh, Solare 120.000, Eolico 90.000, Idroelettrico 80.000. Emissioni: Gas 88.200 t, Solare 4.800
+ t, Eolico 1.350 t, Idro 800 t. Totale=95.150 t. Intensita media=95.150.000 kg / 500.000 MWh=190,3 kg/MWh, inferiore a
+ 200.
+
+
+ Domanda 25 - Risposta corretta: A
+ Incrementi: Firenze 1.050k*8%=84k, ricavi extra=84k*110=9,24M. Napoli 950k*15%=142,5k, ricavi
+ extra=142,5k*95=13,54M. Verona cala. Bari 680k*12%=81,6k, ricavi extra=81,6k*85=6,94M. Vince Napoli.
+
+
+ Domanda 26 - Risposta corretta: D
+ Rendimento ponderato=32%*(-6%)+25%*(10%)+28%*(3%)+15%*0 = -1,92%+2,50%+0,84%=+1,42%.
+ Guadagno=800.000*1,42%=11.360 EUR. Valore finale=811.360 EUR.
+
+
+ Domanda 27 - Risposta corretta: A
+ Altra regione: da 70 a 88, incremento 18/70=25,7%, quindi oltre 25%. Stessa provincia: 210/400=52,5%;
+ 180/420=42,9%; calo 9,6 punti, non oltre 10. Limitrofa+estero: 120 nel 2021, 152 nel 2023, +26,7%, non 40. Totale +5%,
+ non oltre 8%.
+
+
+ Domanda 28 - Risposta corretta: A
+ Marzo: Nord 1100*11+1800=13.900. Centro 900*12+1500=12.300. Sud 780*10+2200=10.000. Est 650*13+1000=9.450.
+ Il costo piu basso e' Est.
+
+
+ Domanda 29 - Risposta corretta: B
+ Incremento Search: 60.000*(3,4%-2,5%)*80=60.000*0,009*80=43.200. Social:
+ 150.000*(2,0%-1,2%)*44=150.000*0,008*44=52.800. Email: 30.000*(4,5%-4,0%)*70=10.500. Vince Social.
+
+
+ Domanda 30 - Risposta corretta: D
+ Basic rappresenta il 40% di 12.000, cioe' 4.800 spedizioni. Il 15% convertito e' 720 spedizioni. Il margine unitario passa
+ da 2 EUR a 5 EUR, incremento 3 EUR per spedizione. Aumento totale=720*3=2.160 EUR.
+
+
+ Domanda 31 - Risposta corretta: A
+ Genova Centro passa da 1500 a 1300 transazioni, mentre l'indice prezzi passa da 100 a 106: transazioni giu, prezzi su.
+ Bologna scende nel 2022 ma risale a 101 nel 2023. Milano Nord ha transazioni in calo ma prezzo in aumento. L'ultima
+ affermazione e' una generalizzazione falsa.
+
+
+Mock Exam Bocconi-Style - Versione 2                                                                                 Pagina 25
+ Domanda 32 - Risposta corretta: D
+ Il totale 2023 e' determinabile dal grafico, e il calo annuo totale pure. Sottraendo il calo di gennaio-maggio e quello di
+ giugno-agosto si ottiene solo il calo aggregato di settembre-dicembre. Non viene data la distribuzione tra settembre,
+ ottobre, novembre e dicembre. Quindi il calo specifico di settembre+ottobre non e' determinabile.
+
+
+ Domanda 33 - Risposta corretta: C
+ A=8*0,5+7*0,3+6*0,2=7,3. B=7*0,5+9*0,3+8*0,2=7,8. C=9*0,5+6*0,3+7*0,2=7,7. Il piu alto e' Prodotto B.
+
+
+ Domanda 34 - Risposta corretta: B
+ Nuovo totale=60*1,20=72M. Quote: AI 30%, Climate 24%, Other 8%, totale gia assegnato 62%. Residuo per
+ Fintech+Health=38%. Il rapporto Fintech:Health resta 25:20, quindi Fintech prende 25/45 del 38%=21,11%. Funding
+ Fintech=72M*21,11%=15,2M circa.
+
+
+ Domanda 35 - Risposta corretta: B
+ Il brano presenta benefici e rischi, poi conclude che il punto non e' giudicare il fintech in assoluto, ma regolarlo per
+ renderlo trasparente e sostenibile. L'opzione B sintetizza questa posizione equilibrata.
+
+
+ Domanda 36 - Risposta corretta: B
+ La tesi sostiene efficacia senza danni rilevanti. Un caso comparabile con riduzione dei tempi e nessun aumento degli
+ incidenti fornisce prova diretta contro l'obiezione principale. Le altre opzioni non rafforzano o indeboliscono.
+
+
+ Domanda 37 - Risposta corretta: A
+ Il testo parla di risultati medi positivi ma sottolinea che l'efficacia varia e che in alcuni atenei i risultati sono modesti.
+ L'avverbio 'sempre' e' troppo forte e contraddetto dalle cautele del brano.
+
+
+ Domanda 38 - Risposta corretta: B
+ Il testo definisce chiaramente il modello circolare come riduzione dei rifiuti e mantenimento delle risorse in uso, ma
+ segnala anche costi e investimenti. B e' l'unica sintesi fedele.
+
+
+ Domanda 39 - Risposta corretta: C
+ L'unico dato diretto e certo tra queste proposizioni e' D>C, cioe' la proposizione C. A non e' certo perche D potrebbe
+ superare A. B non e' certo perche B potrebbe essere uguale a C. D non e' determinabile.
+
+
+ Domanda 40 - Risposta corretta: B
+ Il brano presenta il modello policentrico come proposta, ma aggiunge che per alcuni richiede trasporti efficienti e
+ pianificazione. Dunque non e' descritto come soluzione automatica.
+
+
+ Domanda 41 - Risposta corretta: B
+ Il direttore attribuisce la riduzione dei tempi alle casse automatiche. Perche' l'argomento regga, deve assumere che altri
+ fattori contemporanei non siano la vera causa principale del miglioramento.
+
+
+ Domanda 42 - Risposta corretta: C
+ Il testo dice che gli utenti piu anziani continuano a preferire i servizi cartacei e in presenza. Preferire non significa rifiutare
+ completamente. Non abbiamo dati per stabilire un rifiuto totale.
+
+
+ Domanda 43 - Risposta corretta: B
+ Il testo usa formule caute: possono migliorare, in condizioni favorevoli, con applicazione continuativa. Inoltre dice che i
+ risultati variano e critica l'idea di soluzione rapida e universale. L'affermazione con 'sempre' e 'garantiscono' e' falsa.
+
+
+Mock Exam Bocconi-Style - Versione 2                                                                                         Pagina 26
+ Domanda 44 - Risposta corretta: B
+ La tesi e' che il cambio frequente aumenti la sicurezza. B mostra un effetto opposto: la regola induce password
+ prevedibili, quindi puo ridurre la sicurezza. E' l'indebolimento piu diretto.
+
+
+ Domanda 45 - Risposta corretta: C
+ Il testo non fornisce una previsione inevitabile di calo. Anzi, dice che le mete note continuano a registrare numeri elevati
+ e che crescita delle localita minori non implica declino delle citta storiche. La previsione non e' deducibile.
+
+
+ Domanda 46 - Risposta corretta: B
+ Il brano dice esplicitamente che i programmi piu efficaci combinano formazione tecnica, orientamento e contatti con le
+ imprese. Le altre opzioni sono assolute o contrarie al testo.
+
+
+ Domanda 47 - Risposta corretta: B
+ La critica centrale e' metodologica: i dati mostrano associazione, ma non provano la direzione causale. B identifica
+ esattamente il salto logico.
+
+
+ Domanda 48 - Risposta corretta: B
+ Il sindaco attribuisce il calo alle piste ciclabili. Deve assumere che altri cambiamenti contemporanei non siano la
+ spiegazione principale del calo. B e' l'assunzione necessaria.
+
+
+ Domanda 49 - Risposta corretta: B
+ Il brano dice che la desalinizzazione puo contribuire ma copre una frazione limitata e che serve un approccio integrato.
+ Quindi non e' presentata come soluzione principale e sufficiente.
+
+
+ Domanda 50 - Risposta corretta: B
+ Il brano espone benefici, rischi e una posizione intermedia. Non celebra ne' condanna in modo unilaterale. Il tono e'
+ equilibrato e analitico.
+
+
+
+
+Mock Exam Bocconi-Style - Versione 2                                                                                   Pagina 27
+

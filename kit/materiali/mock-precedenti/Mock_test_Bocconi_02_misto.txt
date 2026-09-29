@@ -1,0 +1,2346 @@
+BOCCONI-STYLE MOCK TEST 02
+
+
+
+
+                                          MOCK TEST 02
+
+
+                             BOCCONI-STYLE
+                             50 domande miste - 75 minuti
+                         18 Quantitative | 16 Verbal | 16 Data Insights
+
+
+
+
+                                            ISTRUZIONI
+                                      Rispondi senza calcolatrice.
+                         Tempo medio disponibile: 90 secondi per domanda.
+                             Le categorie sono mescolate come richiesto.
+  La soluzione è collocata nella fascia inferiore di ogni pagina: coprila con un foglio mentre risolvi.
+          QUANTITATIVE                          VERBAL                          DATA INSIGHTS
+
+
+
+
+                                                                                                          1
+BOCCONI-STYLE MOCK TEST 02
+
+
+
+                                  SCHEDA RISPOSTE
+                             Segna qui le risposte prima di controllare le soluzioni.
+
+
+         01                      02                          03                           04     05
+     A B C D                 A B C D                    A B C D                   A B C D      A B C D
+
+
+         06                      07                          08                           09     10
+     A B C D                 A B C D                    A B C D                   A B C D      A B C D
+
+
+         11                      12                          13                           14     15
+     A B C D                 A B C D                    A B C D                   A B C D      A B C D
+
+
+         16                      17                          18                           19     20
+     A B C D                 A B C D                    A B C D                   A B C D      A B C D
+
+
+         21                      22                          23                           24     25
+     A B C D                 A B C D                    A B C D                   A B C D      A B C D
+
+
+         26                      27                          28                           29     30
+     A B C D                 A B C D                    A B C D                   A B C D      A B C D
+
+
+         31                      32                          33                           34     35
+     A B C D                 A B C D                    A B C D                   A B C D      A B C D
+
+
+         36                      37                          38                           39     40
+     A B C D                 A B C D                    A B C D                   A B C D      A B C D
+
+
+         41                      42                          43                           44     45
+     A B C D                 A B C D                    A B C D                   A B C D      A B C D
+
+
+         46                      47                          48                           49     50
+     A B C D                 A B C D                    A B C D                   A B C D      A B C D
+
+
+
+                                          DISTRIBUZIONE DEL TEST
+                              Quantitative: 18 | Verbal: 16 | Data Insights: 16
+                                      Risposte corrette: A = 13, B = 12, C = 13, D = 12
+
+
+
+
+                                                                                                         2
+BOCCONI-STYLE MOCK TEST 02
+
+
+   QUANTITATIVE             DOMANDA 01 / 50 - Rapporti e trasferimenti
+
+
+
+
+  In un’impresa il rapporto tra gli addetti alle Vendite e quelli alla Ricerca è 3:2. Dopo il trasferimento di 12
+  dipendenti dalle Vendite alla Ricerca, il rapporto diventa 9:8.
+  Quanti dipendenti lavorano complessivamente nei due reparti?
+
+    A    136
+
+
+
+
+    B    150
+
+
+
+
+    C    170
+
+
+
+
+    D    204
+
+
+
+
+  SOLUZIONE - COPRIRE QUESTA FASCIA DURANTE LO SVOLGIMENTO
+
+  RISPOSTA CORRETTA: C
+  Poni Vendite = 3k e Ricerca = 2k. Dopo il trasferimento: (3k - 12)/(2k + 12) = 9/8. Quindi 24k - 96 = 18k + 108, da cui k = 34.
+  Totale = 5k = 170.
+  Pattern: Tradurre il rapporto in multipli della stessa variabile.
+
+
+
+
+                                                                                                                                    3
+BOCCONI-STYLE MOCK TEST 02
+
+
+        VERBAL              DOMANDA 02 / 50 - Causalità e confronto temporale
+
+
+
+
+ Una società ha introdotto un corso obbligatorio sulla gestione degli ordini. Nei quattro mesi successivi, gli errori
+ medi per ordine sono diminuiti del 18%. Nello stesso periodo, tuttavia, l’impresa ha sostituito il software gestionale
+ e ha ridotto il numero medio di ordini assegnati a ciascun dipendente. Non è stato mantenuto alcun gruppo di
+ lavoratori escluso dal corso.
+
+
+
+
+  Qual è la conclusione più rigorosa?
+
+    A    Il nuovo software non ha avuto alcun effetto.
+
+
+
+
+    B    Gli errori sono diminuiti, ma non è possibile isolare l’effetto causale del corso.
+
+
+
+
+    C    Il corso ha causato esattamente una riduzione del 18%.
+
+
+
+
+    D    La riduzione del carico di lavoro è stata certamente l’unica causa.
+
+
+
+
+  SOLUZIONE - COPRIRE QUESTA FASCIA DURANTE LO SVOLGIMENTO
+
+  RISPOSTA CORRETTA: B
+  La diminuzione degli errori è osservata, ma corso, software e carico di lavoro sono cambiati contemporaneamente.
+  Senza un gruppo di controllo non si può attribuire causalmente l’intero risultato al corso.
+  Pattern: Separare il fatto osservato dalla causa non identificata.
+
+
+
+
+                                                                                                                          4
+BOCCONI-STYLE MOCK TEST 02
+
+
+     DATA INSIGHTS           DOMANDA 03 / 50 - Consegne in ritardo
+
+
+
+    Un’azienda registra i seguenti dati mensili:
+
+Centro                                                      Ordini consegnati                    Percentuale in ritardo
+
+A                                                                     2.400                               6%
+
+B                                                                     1.800                               4%
+
+C                                                                     3.000                               5%
+
+D                                                                     1.600                               3%
+
+
+
+
+    Quale centro ha registrato il minor numero assoluto di ordini in ritardo?
+
+      A    Centro A
+
+
+
+
+      B    Centro B
+
+
+
+
+      C    Centro C
+
+
+
+
+      D    Centro D
+
+
+
+
+    SOLUZIONE - COPRIRE QUESTA FASCIA DURANTE LO SVOLGIMENTO
+
+    RISPOSTA CORRETTA: D
+    Ordini in ritardo: A = 2.400 x 6% = 144; B = 72; C = 150; D = 48. Il minimo è il Centro D.
+    Pattern: Confrontare valori assoluti, non soltanto percentuali.
+
+
+
+
+                                                                                                                          5
+BOCCONI-STYLE MOCK TEST 02
+
+
+   QUANTITATIVE             DOMANDA 04 / 50 - Equazione con frazioni
+
+
+
+
+  Risolvi l’equazione:
+                                                       (x + 2)/3 - (x - 1)/2 = 1
+  Qual è il valore di x?
+
+    A    1
+
+
+
+
+    B    -1
+
+
+
+
+    C    5
+
+
+
+
+    D    7
+
+
+
+
+  SOLUZIONE - COPRIRE QUESTA FASCIA DURANTE LO SVOLGIMENTO
+
+  RISPOSTA CORRETTA: A
+  Moltiplica per 6: 2(x + 2) - 3(x - 1) = 6. Quindi 2x + 4 - 3x + 3 = 6, cioè -x + 7 = 6. Pertanto x = 1.
+  Pattern: Usare il minimo comune multiplo dei denominatori.
+
+
+
+
+                                                                                                            6
+BOCCONI-STYLE MOCK TEST 02
+
+
+   DATA INSIGHTS            DOMANDA 05 / 50 - Nuovo mix energetico
+
+
+
+  Un impianto produce inizialmente 800 MWh con questo mix:
+  Successivamente la produzione solare aumenta del 40%, quella a gas diminuisce del 20% e le altre fonti
+  restano invariate.
+  • Solare: 25%
+  • Eolico: 30%
+  • Gas: 35%
+  • Idroelettrico: 10%
+  Qual è, approssimativamente, la nuova quota di energia rinnovabile sul totale prodotto?
+
+    A    68,0%
+
+
+
+
+    B    70,0%
+
+
+
+
+    C    72,8%
+
+
+
+
+    D    75,0%
+
+
+
+
+  SOLUZIONE - COPRIRE QUESTA FASCIA DURANTE LO SVOLGIMENTO
+
+  RISPOSTA CORRETTA: C
+  Produzioni iniziali: 200, 240, 280, 80. Nuovi valori: solare 280, eolico 240, gas 224, idroelettrico 80. Totale = 824;
+  rinnovabili = 600. Quota = 600/824 = 72,8% circa.
+  Pattern: Ricalcolare sia il numeratore sia il nuovo totale.
+
+
+
+
+                                                                                                                           7
+BOCCONI-STYLE MOCK TEST 02
+
+
+        VERBAL             DOMANDA 06 / 50 - Ordinamento
+
+
+
+
+  Cinque report J, K, L, M e N sono disposti in fila rispettando le seguenti condizioni:
+  • J viene prima di K;
+  • L è immediatamente prima di M;
+  • N non è né il primo né l’ultimo.
+  Quale disposizione è possibile?
+
+    A    J, L, M, K, N
+
+
+
+
+    B    L, M, K, J, N
+
+
+
+
+    C    N, J, K, L, M
+
+
+
+
+    D    L, M, N, J, K
+
+
+
+
+  SOLUZIONE - COPRIRE QUESTA FASCIA DURANTE LO SVOLGIMENTO
+
+  RISPOSTA CORRETTA: D
+  Solo L, M, N, J, K rispetta tutti i vincoli: L precede immediatamente M, J precede K e N occupa una posizione interna.
+  Pattern: Eliminare rapidamente le opzioni che violano un vincolo esplicito.
+
+
+
+
+                                                                                                                           8
+BOCCONI-STYLE MOCK TEST 02
+
+
+   QUANTITATIVE            DOMANDA 07 / 50 - Volume del cilindro
+
+
+
+
+  Un cilindro ha raggio di base 3 cm e altezza 10 cm.
+  Qual è il suo volume?
+
+    A    30π cm³
+
+
+
+
+    B    90π cm³
+
+
+
+
+    C    180π cm³
+
+
+
+
+    D    300π cm³
+
+
+
+
+  SOLUZIONE - COPRIRE QUESTA FASCIA DURANTE LO SVOLGIMENTO
+
+  RISPOSTA CORRETTA: B
+  V = πr²h = π x 3² x 10 = 90π cm³.
+  Pattern: Il raggio va elevato al quadrato.
+
+
+
+
+                                                                   9
+BOCCONI-STYLE MOCK TEST 02
+
+
+        VERBAL            DOMANDA 08 / 50 - Transazioni e prezzi immobiliari
+
+
+
+
+ Nel primo semestre il numero di compravendite residenziali in una provincia è diminuito del 20% rispetto all’anno
+ precedente. Nello stesso periodo, il prezzo medio delle abitazioni vendute è aumentato del 2%. Gli analisti
+ segnalano inoltre che sono state vendute meno abitazioni nelle zone periferiche, dove i prezzi medi sono inferiori.
+
+
+
+
+  Quale affermazione è supportata dal testo?
+
+    A    Una riduzione delle transazioni non implica necessariamente una riduzione dei prezzi medi.
+
+
+
+
+    B    Il valore totale delle compravendite è certamente aumentato.
+
+
+
+
+    C    Ogni abitazione è stata venduta a un prezzo superiore rispetto all’anno precedente.
+
+
+
+
+    D    La domanda di abitazioni periferiche è aumentata.
+
+
+
+
+  SOLUZIONE - COPRIRE QUESTA FASCIA DURANTE LO SVOLGIMENTO
+
+  RISPOSTA CORRETTA: A
+  Il testo riporta meno transazioni ma un prezzo medio superiore. Non consente conclusioni sul valore totale, sui singoli
+  immobili o sulla domanda periferica.
+  Pattern: Non confondere quantità scambiata, prezzo medio e valore totale.
+
+
+
+
+                                                                                                                            10
+BOCCONI-STYLE MOCK TEST 02
+
+
+   DATA INSIGHTS            DOMANDA 09 / 50 - Rendimento del portafoglio
+
+
+
+  Un portafoglio è composto come segue:
+
+Attività                                                      Valore                          Rendimento annuo
+
+Obbligazioni                                                  €200.000                                3%
+
+Azioni                                                        €150.000                               10%
+
+Liquidità                                                     €50.000                                 0%
+
+Immobili                                                      €100.000                                6%
+
+
+
+
+  Qual è il rendimento annuo complessivo del portafoglio?
+
+    A      4,8%
+
+
+
+
+    B      5,0%
+
+
+
+
+    C      5,4%
+
+
+
+
+    D      6,0%
+
+
+
+
+  SOLUZIONE - COPRIRE QUESTA FASCIA DURANTE LO SVOLGIMENTO
+
+  RISPOSTA CORRETTA: C
+  Rendimento monetario = 6.000 + 15.000 + 0 + 6.000 = 27.000 euro. Valore totale = 500.000 euro. Rendimento =
+  27.000/500.000 = 5,4%.
+  Pattern: Usare la media ponderata per i valori investiti.
+
+
+
+
+                                                                                                                 11
+BOCCONI-STYLE MOCK TEST 02
+
+
+   QUANTITATIVE            DOMANDA 10 / 50 - Probabilità condizionata
+
+
+
+
+  In una classe il 60% degli studenti è composto da donne e il 40% da uomini. Il 30% delle donne e il 50% degli
+  uomini frequenta un corso di finanza. Viene scelto casualmente uno studente tra quelli che frequentano il
+  corso.
+  Qual è la probabilità che lo studente scelto sia un uomo?
+
+    A    3/8
+
+
+
+
+    B    2/5
+
+
+
+
+    C    9/19
+
+
+
+
+    D    10/19
+
+
+
+
+  SOLUZIONE - COPRIRE QUESTA FASCIA DURANTE LO SVOLGIMENTO
+
+  RISPOSTA CORRETTA: D
+  Quota di uomini nel corso = 0,40 x 0,50 = 0,20. Quota totale nel corso = 0,60 x 0,30 + 0,40 x 0,50 = 0,38. Probabilità =
+  0,20/0,38 = 10/19.
+  Pattern: Il denominatore è il gruppo condizionato, non l’intera classe.
+
+
+
+
+                                                                                                                             12
+BOCCONI-STYLE MOCK TEST 02
+
+
+        VERBAL             DOMANDA 11 / 50 - Deduzione da quantificatori
+
+
+
+
+  Tutti gli analisti del Team X utilizzano Python. Alcune persone che utilizzano Python non utilizzano SQL.
+  Quale affermazione è necessariamente vera?
+
+    A    Alcuni membri del Team X non utilizzano SQL.
+
+
+
+
+    B    Non tutte le persone che utilizzano Python utilizzano SQL.
+
+
+
+
+    C    Tutti gli utilizzatori di Python appartengono al Team X.
+
+
+
+
+    D    Nessun membro del Team X utilizza SQL.
+
+
+
+
+  SOLUZIONE - COPRIRE QUESTA FASCIA DURANTE LO SVOLGIMENTO
+
+  RISPOSTA CORRETTA: B
+  “Alcune persone che utilizzano Python non utilizzano SQL” implica direttamente che non tutti gli utilizzatori di Python
+  usano SQL. Non sappiamo se quelle persone appartengano al Team X.
+  Pattern: Non invertire una relazione universale.
+
+
+
+
+                                                                                                                            13
+BOCCONI-STYLE MOCK TEST 02
+
+
+     DATA INSIGHTS            DOMANDA 12 / 50 - Margine di contribuzione
+
+
+
+    I dati mensili di quattro prodotti sono:
+
+Prodotto                                      Unità vendute                  Prezzo unitario              Costo variabile unitario
+
+A                                                  1.000                           €50                               €30
+
+B                                                   800                            €70                               €40
+
+C                                                  1.500                           €35                               €22
+
+D                                                   600                            €90                               €45
+
+
+
+
+    Quale prodotto genera il margine di contribuzione totale più elevato?
+
+      A    Prodotto D
+
+
+
+
+      B    Prodotto B
+
+
+
+
+      C    Prodotto A
+
+
+
+
+      D    Prodotto C
+
+
+
+
+    SOLUZIONE - COPRIRE QUESTA FASCIA DURANTE LO SVOLGIMENTO
+
+    RISPOSTA CORRETTA: A
+    Margini totali: A = 1.000 x 20 = 20.000; B = 800 x 30 = 24.000; C = 1.500 x 13 = 19.500; D = 600 x 45 = 27.000. Vince D.
+    Pattern: Margine totale = quantità x (prezzo - costo variabile).
+
+
+
+
+                                                                                                                                     14
+BOCCONI-STYLE MOCK TEST 02
+
+
+   QUANTITATIVE             DOMANDA 13 / 50 - Potenze con la stessa base
+
+
+
+
+                                                       4^(x + 1) = 8^(x - 1)
+  Qual è il valore di x?
+
+    A    1
+
+
+
+
+    B    2
+
+
+
+
+    C    3
+
+
+
+
+    D    5
+
+
+
+
+  SOLUZIONE - COPRIRE QUESTA FASCIA DURANTE LO SVOLGIMENTO
+
+  RISPOSTA CORRETTA: D
+  Scrivi tutto in base 2: 2^(2x + 2) = 2^(3x - 3). Uguagliando gli esponenti: 2x + 2 = 3x - 3, quindi x = 5.
+  Pattern: Riscrivere le potenze con la stessa base.
+
+
+
+
+                                                                                                               15
+BOCCONI-STYLE MOCK TEST 02
+
+
+        VERBAL             DOMANDA 14 / 50 - Assunzione nascosta
+
+
+
+
+  Un dirigente sostiene: “Dovremmo ridurre la durata delle riunioni, perché i team che tengono riunioni più
+  brevi completano i progetti più rapidamente”.
+  Quale assunzione è necessaria per sostenere l’argomento?
+
+    A    Tutte le riunioni lunghe sono inutili.
+
+
+
+
+    B    I dipendenti preferiscono sempre riunioni brevi.
+
+
+
+
+         La differenza nei tempi di completamento non dipende interamente dal tipo di progetto assegnato ai
+    C
+         team.
+
+
+
+
+    D    Ogni progetto può essere completato senza riunioni.
+
+
+
+
+  SOLUZIONE - COPRIRE QUESTA FASCIA DURANTE LO SVOLGIMENTO
+
+  RISPOSTA CORRETTA: C
+  Se i team con riunioni brevi ricevessero semplicemente progetti più facili, la correlazione non sosterrebbe la proposta.
+  Le altre affermazioni sono più forti del necessario.
+  Pattern: Cercare una spiegazione alternativa che distrugga il nesso causale.
+
+
+
+
+                                                                                                                             16
+BOCCONI-STYLE MOCK TEST 02
+
+
+   DATA INSIGHTS            DOMANDA 15 / 50 - Clienti su due canali
+
+
+
+
+  Su 500 clienti, 280 utilizzano l’app, 220 utilizzano il sito web e 90 non utilizzano nessuno dei due canali.
+  Quanti clienti utilizzano esattamente uno dei due canali?
+
+    A    320
+
+
+
+
+    B    90
+
+
+
+
+    C    410
+
+
+
+
+    D    180
+
+
+
+
+  SOLUZIONE - COPRIRE QUESTA FASCIA DURANTE LO SVOLGIMENTO
+
+  RISPOSTA CORRETTA: A
+  Usano almeno un canale: 500 - 90 = 410. Intersezione: 280 + 220 - 410 = 90. Esattamente uno: 410 - 90 = 320.
+  Pattern: Prima trovare l’unione, poi l’intersezione.
+
+
+
+
+                                                                                                                 17
+BOCCONI-STYLE MOCK TEST 02
+
+
+   QUANTITATIVE           DOMANDA 16 / 50 - Sufficienza dei dati
+
+
+
+
+  Domanda: x è positivo?
+                                                            1. x² = 9
+                                                           2. x³ = 27
+  Quale opzione descrive correttamente la sufficienza dei dati?
+
+    A    La sola affermazione 1 è sufficiente.
+
+
+
+
+    B    La sola affermazione 2 è sufficiente.
+
+
+
+
+    C    Le due affermazioni insieme sono sufficienti, ma nessuna lo è da sola.
+
+
+
+
+    D    Ciascuna affermazione è sufficiente da sola.
+
+
+
+
+  SOLUZIONE - COPRIRE QUESTA FASCIA DURANTE LO SVOLGIMENTO
+
+  RISPOSTA CORRETTA: B
+  Da x² = 9 segue x = 3 oppure x = -3: insufficiente. Da x³ = 27 segue unicamente x = 3: sufficiente.
+  Pattern: Una potenza pari può nascondere due segni; una cubica reale no.
+
+
+
+
+                                                                                                        18
+BOCCONI-STYLE MOCK TEST 02
+
+
+   DATA INSIGHTS           DOMANDA 17 / 50 - Indice di prezzo
+
+
+
+
+  Il prezzo di una materia prima a gennaio è €50 per unità e il relativo indice è posto uguale a 100. A giugno
+  l’indice è 124 e vengono acquistate 800 unità.
+  Qual è la spesa complessiva di giugno?
+
+    A    €40.000
+
+
+
+
+    B    €48.000
+
+
+
+
+    C    €49.200
+
+
+
+
+    D    €49.600
+
+
+
+
+  SOLUZIONE - COPRIRE QUESTA FASCIA DURANTE LO SVOLGIMENTO
+
+  RISPOSTA CORRETTA: D
+  Prezzo di giugno = 50 x 124/100 = 62 euro. Spesa = 62 x 800 = 49.600 euro.
+  Pattern: L’indice è una variazione rispetto al prezzo base, non un prezzo in euro.
+
+
+
+
+                                                                                                                 19
+BOCCONI-STYLE MOCK TEST 02
+
+
+        VERBAL             DOMANDA 18 / 50 - Smart working e produttività
+
+
+
+
+ Un’impresa ha esteso lo smart working da uno a tre giorni settimanali. Nei sei mesi successivi, il valore medio dei
+ contratti chiusi per dipendente è aumentato del 9%. Durante lo stesso periodo è cambiato il portafoglio clienti e il
+ sistema di misurazione ha iniziato a includere contratti pluriennali al loro valore complessivo anziché annuale.
+
+
+
+
+  Qual è la conclusione più difendibile?
+
+    A    Il dato osservato non consente di attribuire con certezza l’aumento allo smart working.
+
+
+
+
+    B    Lo smart working ha aumentato la produttività esattamente del 9%.
+
+
+
+
+    C    Il cambiamento del portafoglio clienti non può aver inciso.
+
+
+
+
+    D    La produttività reale è certamente diminuita.
+
+
+
+
+  SOLUZIONE - COPRIRE QUESTA FASCIA DURANTE LO SVOLGIMENTO
+
+  RISPOSTA CORRETTA: A
+  Sono cambiati sia la composizione dei clienti sia il metodo di misurazione. Il confronto prima-dopo non identifica
+  l’effetto causale dello smart working.
+  Pattern: Verificare che la metrica sia comparabile nel tempo.
+
+
+
+
+                                                                                                                        20
+BOCCONI-STYLE MOCK TEST 02
+
+
+   QUANTITATIVE            DOMANDA 19 / 50 - Media ponderata
+
+
+
+
+  Il 40% degli studenti ottiene un punteggio medio di 70 e il restante 60% ottiene un punteggio medio di 85.
+  Qual è il punteggio medio complessivo?
+
+    A    76
+
+
+
+
+    B    77
+
+
+
+
+    C    79
+
+
+
+
+    D    80
+
+
+
+
+  SOLUZIONE - COPRIRE QUESTA FASCIA DURANTE LO SVOLGIMENTO
+
+  RISPOSTA CORRETTA: C
+  Media = 0,40 x 70 + 0,60 x 85 = 28 + 51 = 79.
+  Pattern: Ponderare ogni media per la quota del relativo gruppo.
+
+
+
+
+                                                                                                               21
+BOCCONI-STYLE MOCK TEST 02
+
+
+        VERBAL            DOMANDA 20 / 50 - Classifica parziale
+
+
+
+
+  Sei dipendenti A, B, C, D, E e F hanno stipendi diversi. Sono note le relazioni: A > B; C > D > E; B > D; F ha lo
+  stipendio più basso.
+  Quale affermazione è necessariamente vera?
+
+    A    B ha il secondo stipendio più alto.
+
+
+
+
+    B    D guadagna più di E e F.
+
+
+
+
+    C    C guadagna più di A.
+
+
+
+
+    D    E ha il quarto stipendio più alto.
+
+
+
+
+  SOLUZIONE - COPRIRE QUESTA FASCIA DURANTE LO SVOLGIMENTO
+
+  RISPOSTA CORRETTA: B
+  D è esplicitamente sopra E; inoltre F è ultimo, quindi D è anche sopra F. Le posizioni esatte di B e C non sono
+  completamente determinate.
+  Pattern: Distinguere una relazione certa da un rango esatto non determinato.
+
+
+
+
+                                                                                                                      22
+BOCCONI-STYLE MOCK TEST 02
+
+
+   DATA INSIGHTS            DOMANDA 21 / 50 - Budget residuale
+
+
+
+
+  Un’impresa dispone di un budget di €900.000. IT riceve il 28%, Operations il 24%, Marketing il 18% e Ricerca
+  e Sviluppo riceve €135.000. Il resto è destinato a Risorse Umane.
+  Quale percentuale del budget riceve Risorse Umane?
+
+    A    15%
+
+
+
+
+    B    13%
+
+
+
+
+    C    17%
+
+
+
+
+    D    20%
+
+
+
+
+  SOLUZIONE - COPRIRE QUESTA FASCIA DURANTE LO SVOLGIMENTO
+
+  RISPOSTA CORRETTA: A
+  IT + Operations + Marketing = 70% = 630.000 euro. Aggiungendo R&S si arriva a 765.000. Residuo HR = 135.000, cioè
+  135.000/900.000 = 15%.
+  Pattern: Calcolare il residuo dopo aver convertito tutte le quote nella stessa unità.
+
+
+
+
+                                                                                                                      23
+BOCCONI-STYLE MOCK TEST 02
+
+
+   QUANTITATIVE            DOMANDA 22 / 50 - Minimo comune multiplo
+
+
+
+
+  Qual è il più piccolo intero positivo divisibile contemporaneamente per 12, 18 e 30?
+  Scegli il valore corretto.
+
+    A    90
+
+
+
+
+    B    120
+
+
+
+
+    C    150
+
+
+
+
+    D    180
+
+
+
+
+  SOLUZIONE - COPRIRE QUESTA FASCIA DURANTE LO SVOLGIMENTO
+
+  RISPOSTA CORRETTA: D
+  12 = 2² x 3; 18 = 2 x 3²; 30 = 2 x 3 x 5. MCM = 2² x 3² x 5 = 180.
+  Pattern: Nel MCM si prendono i fattori primi con l’esponente massimo.
+
+
+
+
+                                                                                         24
+BOCCONI-STYLE MOCK TEST 02
+
+
+        VERBAL            DOMANDA 23 / 50 - Vero, falso o non deducibile
+
+
+
+
+ L’espressione “quiet quitting” viene spesso usata per descrivere lavoratori che limitano il proprio impegno alle
+ attività previste dal contratto. Il fenomeno non implica necessariamente dimissioni imminenti né prestazioni
+ insufficienti, perché i compiti contrattuali possono comunque essere svolti correttamente.
+
+
+
+
+  Affermazione: “Il quiet quitting riduce necessariamente il profitto dell’impresa”.
+
+    A    Certamente vera
+
+
+
+
+    B    Probabilmente vera
+
+
+
+
+    C    Non deducibile
+
+
+
+
+    D    Certamente falsa
+
+
+
+
+  SOLUZIONE - COPRIRE QUESTA FASCIA DURANTE LO SVOLGIMENTO
+
+  RISPOSTA CORRETTA: C
+  Il testo non fornisce dati sui profitti. Esclude soltanto che quiet quitting significhi necessariamente dimissioni o
+  prestazioni insufficienti. L’effetto sul profitto resta non determinato.
+  Pattern: “Non necessariamente X” non equivale a “necessariamente non X”.
+
+
+
+
+                                                                                                                         25
+BOCCONI-STYLE MOCK TEST 02
+
+
+   DATA INSIGHTS            DOMANDA 24 / 50 - Costo della vita con condizioni
+
+
+
+  I costi mensili sono:
+  Il lavoro da remoto dimezza i costi di trasporto. Chi sceglie Treviso riceve inoltre un bonus mensile di €40,
+  da sottrarre al costo totale.
+Città                                           Affitto                         Alimentazione                Trasporti
+
+Venezia                                          €850                               €310                       €120
+
+Padova                                           €680                               €300                       €180
+
+Treviso                                          €620                               €290                       €220
+
+
+
+
+  Quale città presenta il costo mensile netto più basso?
+
+    A     Padova
+
+
+
+
+    B     Treviso
+
+
+
+
+    C     Venezia
+
+
+
+
+    D     Padova e Treviso a pari merito
+
+
+
+
+  SOLUZIONE - COPRIRE QUESTA FASCIA DURANTE LO SVOLGIMENTO
+
+  RISPOSTA CORRETTA: B
+  Venezia = 850 + 310 + 60 = 1.220; Padova = 680 + 300 + 90 = 1.070; Treviso = 620 + 290 + 110 - 40 = 980. Il minimo è Treviso.
+  Pattern: Applicare ogni riduzione soltanto alla voce o alla città corretta.
+
+
+
+
+                                                                                                                                  26
+BOCCONI-STYLE MOCK TEST 02
+
+
+   QUANTITATIVE            DOMANDA 25 / 50 - Lavoro congiunto
+
+
+
+
+  Una macchina A completa un lavoro in 8 ore e una macchina B completa lo stesso lavoro in 12 ore.
+  Quanto tempo impiegano lavorando contemporaneamente?
+
+    A    4 ore
+
+
+
+
+    B    4 ore e 20 minuti
+
+
+
+
+    C    4 ore e 30 minuti
+
+
+
+
+    D    4 ore e 48 minuti
+
+
+
+
+  SOLUZIONE - COPRIRE QUESTA FASCIA DURANTE LO SVOLGIMENTO
+
+  RISPOSTA CORRETTA: D
+  Velocità congiunta = 1/8 + 1/12 = 5/24 del lavoro all’ora. Tempo = 24/5 = 4,8 ore = 4 ore e 48 minuti.
+  Pattern: Sommare le velocità, non i tempi.
+
+
+
+
+                                                                                                           27
+BOCCONI-STYLE MOCK TEST 02
+
+
+   DATA INSIGHTS          DOMANDA 26 / 50 - Tasso di ammissione
+
+
+
+  Un’università pubblica i seguenti dati:
+
+Programma                                                 Candidature                          Ammessi
+
+Finance                                                       1.200                                  180
+
+Economics                                                     800                                    160
+
+Data Science                                                  600                                    150
+
+Management                                                    1.000                                  200
+
+
+
+
+  Quale programma presenta il tasso di ammissione più elevato?
+
+    A     Data Science
+
+
+
+
+    B     Management
+
+
+
+
+    C     Economics
+
+
+
+
+    D     Finance
+
+
+
+
+  SOLUZIONE - COPRIRE QUESTA FASCIA DURANTE LO SVOLGIMENTO
+
+  RISPOSTA CORRETTA: A
+  Finance = 15%; Economics = 20%; Data Science = 25%; Management = 20%. Il massimo è Data Science.
+  Pattern: Confrontare ammessi/candidature, non il numero assoluto di ammessi.
+
+
+
+
+                                                                                                           28
+BOCCONI-STYLE MOCK TEST 02
+
+
+        VERBAL             DOMANDA 27 / 50 - Rafforzare un’ipotesi causale
+
+
+
+
+  Dopo l’introduzione di una colazione gratuita, una scuola ha registrato un aumento della frequenza media.
+  La direzione conclude che il programma ha migliorato la presenza degli studenti.
+  Quale informazione rafforzerebbe maggiormente la conclusione?
+
+    A    Gli studenti dichiarano di apprezzare la qualità del cibo.
+
+
+
+
+         Scuole simili senza il programma non hanno registrato un aumento della frequenza nello stesso
+    B
+         periodo.
+
+
+
+
+    C    Il costo del programma è inferiore alle attese.
+
+
+
+
+    D    Alcuni insegnanti arrivano a scuola prima del passato.
+
+
+
+
+  SOLUZIONE - COPRIRE QUESTA FASCIA DURANTE LO SVOLGIMENTO
+
+  RISPOSTA CORRETTA: B
+  Un gruppo di confronto simile riduce la possibilità che l’aumento dipenda da fattori generali esterni al programma.
+  Pattern: Il miglior rafforzamento crea un controfattuale credibile.
+
+
+
+
+                                                                                                                        29
+BOCCONI-STYLE MOCK TEST 02
+
+
+   QUANTITATIVE            DOMANDA 28 / 50 - Valore assoluto e interi
+
+
+
+
+                                   n è un numero intero e soddisfa |2n - 5| < 3.
+  Quanti valori di n sono possibili?
+
+    A    1
+
+
+
+
+    B    3
+
+
+
+
+    C    2
+
+
+
+
+    D    4
+
+
+
+
+  SOLUZIONE - COPRIRE QUESTA FASCIA DURANTE LO SVOLGIMENTO
+
+  RISPOSTA CORRETTA: C
+  -3 < 2n - 5 < 3. Aggiungendo 5: 2 < 2n < 8. Dividendo per 2: 1 < n < 4. Gli interi sono 2 e 3: due valori.
+  Pattern: Trasformare il valore assoluto in una doppia disequazione.
+
+
+
+
+                                                                                                               30
+BOCCONI-STYLE MOCK TEST 02
+
+
+        VERBAL             DOMANDA 29 / 50 - Sequenza vincolata
+
+
+
+
+  Quattro workshop W, X, Y e Z devono essere programmati in fila. X deve svolgersi immediatamente dopo W;
+  Z deve svolgersi prima di Y.
+  Quale programmazione è possibile?
+
+    A    W, Y, X, Z
+
+
+
+
+    B    Y, Z, W, X
+
+
+
+
+    C    Z, W, Y, X
+
+
+
+
+    D    Z, Y, W, X
+
+
+
+
+  SOLUZIONE - COPRIRE QUESTA FASCIA DURANTE LO SVOLGIMENTO
+
+  RISPOSTA CORRETTA: D
+  Nella sequenza Z, Y, W, X, Z precede Y e X segue immediatamente W. Le altre opzioni violano almeno uno dei due vincoli.
+  Pattern: Trattare W-X come un blocco indivisibile.
+
+
+
+
+                                                                                                                            31
+BOCCONI-STYLE MOCK TEST 02
+
+
+   DATA INSIGHTS            DOMANDA 30 / 50 - Costo medio per spedizione
+
+
+
+  I dati mensili di quattro magazzini sono:
+
+Magazzino                                                      Spedizioni              Costi operativi
+
+Nord                                                                3.200                 €48.000
+
+Centro                                                              2.500                 €40.000
+
+Sud                                                                 1.800                 €25.200
+
+Isole                                                               1.000                 €15.000
+
+
+
+
+  Quale magazzino ha il costo medio per spedizione più basso?
+
+      A   Sud
+
+
+
+
+      B   Nord
+
+
+
+
+      C   Centro
+
+
+
+
+      D   Isole
+
+
+
+
+  SOLUZIONE - COPRIRE QUESTA FASCIA DURANTE LO SVOLGIMENTO
+
+  RISPOSTA CORRETTA: A
+  Nord = 15 euro; Centro = 16 euro; Sud = 14 euro; Isole = 15 euro. Il minimo è Sud.
+  Pattern: Dividere il costo totale per il volume corrispondente.
+
+
+
+
+                                                                                                         32
+BOCCONI-STYLE MOCK TEST 02
+
+
+   QUANTITATIVE            DOMANDA 31 / 50 - Combinazioni con esclusione
+
+
+
+
+  Da un gruppo di 7 persone si deve formare un comitato di 4. Due persone specifiche, Anna e Bruno, non
+  possono essere selezionate insieme.
+  Quanti comitati diversi sono possibili?
+
+    A    20
+
+
+
+
+    B    30
+
+
+
+
+    C    25
+
+
+
+
+    D    35
+
+
+
+
+  SOLUZIONE - COPRIRE QUESTA FASCIA DURANTE LO SVOLGIMENTO
+
+  RISPOSTA CORRETTA: C
+  Comitati totali = C(7,4) = 35. Comitati vietati con Anna e Bruno: bisogna scegliere altre 2 persone tra le 5 restanti, quindi
+  C(5,2) = 10. Validi = 35 - 10 = 25.
+  Pattern: Totale meno casi vietati.
+
+
+
+
+                                                                                                                                  33
+BOCCONI-STYLE MOCK TEST 02
+
+
+        VERBAL             DOMANDA 32 / 50 - Selezione del campione
+
+
+
+
+ Una banca afferma che un nuovo algoritmo valuta meglio il rischio di insolvenza perché, tra i clienti a cui è stato
+ concesso un prestito, il tasso di mancato pagamento previsto è vicino a quello osservato. Tuttavia, il modello è stato
+ valutato soltanto sui richiedenti approvati con il precedente sistema; non sono disponibili dati sugli esiti dei
+ richiedenti rifiutati.
+
+
+
+
+  Qual è la principale limitazione dell’evidenza?
+
+    A    Il modello utilizza dati numerici.
+
+
+
+
+    B    Il campione osservato è selezionato e non rappresenta tutti i richiedenti.
+
+
+
+
+    C    Il tasso previsto coincide con quello osservato.
+
+
+
+
+    D    La banca concede prestiti a più clienti.
+
+
+
+
+  SOLUZIONE - COPRIRE QUESTA FASCIA DURANTE LO SVOLGIMENTO
+
+  RISPOSTA CORRETTA: B
+  Valutare soltanto i clienti precedentemente approvati crea selezione del campione. Le prestazioni del modello sui
+  richiedenti esclusi restano sconosciute.
+  Pattern: Controllare chi è incluso e chi manca nel campione.
+
+
+
+
+                                                                                                                          34
+BOCCONI-STYLE MOCK TEST 02
+
+
+     DATA INSIGHTS            DOMANDA 33 / 50 - Crescita percentuale
+
+
+
+    I ricavi annuali di quattro divisioni sono:
+
+Divisione                                                     2025                                     2026
+
+A                                                           €200 mln                                  €230 mln
+
+B                                                           €120 mln                                  €144 mln
+
+C                                                           €80 mln                                   €100 mln
+
+D                                                           €300 mln                                  €348 mln
+
+
+
+
+    Quale divisione ha registrato la crescita percentuale più elevata?
+
+      A    Divisione A
+
+
+
+
+      B    Divisione B
+
+
+
+
+      C    Divisione D
+
+
+
+
+      D    Divisione C
+
+
+
+
+    SOLUZIONE - COPRIRE QUESTA FASCIA DURANTE LO SVOLGIMENTO
+
+    RISPOSTA CORRETTA: D
+    A = 15%; B = 20%; C = 25%; D = 16%. La crescita percentuale massima è quella della Divisione C.
+    Pattern: Dividere l’aumento per il valore iniziale.
+
+
+
+
+                                                                                                                 35
+BOCCONI-STYLE MOCK TEST 02
+
+
+   QUANTITATIVE              DOMANDA 34 / 50 - Percentuale inversa
+
+
+
+
+  Dopo uno sconto del 15%, un prodotto costa €204.
+  Qual era il prezzo iniziale?
+
+    A     €240
+
+
+
+
+    B     €234,60
+
+
+
+
+    C     €230
+
+
+
+
+    D     €220
+
+
+
+
+  SOLUZIONE - COPRIRE QUESTA FASCIA DURANTE LO SVOLGIMENTO
+
+  RISPOSTA CORRETTA: A
+  Il prezzo finale rappresenta l’85% del prezzo iniziale. Prezzo iniziale = 204/0,85 = 240 euro.
+  Pattern: Per risalire al valore iniziale si divide per il fattore residuo.
+
+
+
+
+                                                                                                   36
+BOCCONI-STYLE MOCK TEST 02
+
+
+        VERBAL             DOMANDA 35 / 50 - Sillogismo
+
+
+
+
+  Alcuni economisti sono statistici. Nessuno statistico rifiuta sistematicamente le prove empiriche.
+  Quale conclusione segue necessariamente?
+
+    A    Tutti gli economisti accettano le prove empiriche.
+
+
+
+
+    B    Nessun economista è statistico.
+
+
+
+
+    C    Alcuni economisti non rifiutano sistematicamente le prove empiriche.
+
+
+
+
+    D    Tutti gli statistici sono economisti.
+
+
+
+
+  SOLUZIONE - COPRIRE QUESTA FASCIA DURANTE LO SVOLGIMENTO
+
+  RISPOSTA CORRETTA: C
+  Esistono economisti che sono statistici; nessuno statistico rifiuta sistematicamente le prove. Quindi almeno quegli
+  economisti non le rifiutano sistematicamente.
+  Pattern: Usare soltanto l’intersezione esplicitamente garantita.
+
+
+
+
+                                                                                                                        37
+BOCCONI-STYLE MOCK TEST 02
+
+
+   DATA INSIGHTS            DOMANDA 36 / 50 - Quota di mercato residua
+
+
+
+
+  In un mercato da 50.000 unità, l’impresa A vende 14.000 unità, B ne vende 12.000 e C detiene il 26% del
+  mercato. Il resto appartiene all’impresa D.
+  Qual è la quota di mercato dell’impresa D?
+
+    A    18%
+
+
+
+
+    B    22%
+
+
+
+
+    C    24%
+
+
+
+
+    D    26%
+
+
+
+
+  SOLUZIONE - COPRIRE QUESTA FASCIA DURANTE LO SVOLGIMENTO
+
+  RISPOSTA CORRETTA: B
+  C vende 50.000 x 26% = 13.000 unità. Totale A+B+C = 39.000. D vende 11.000 unità, pari a 11.000/50.000 = 22%.
+  Pattern: Calcolare prima il valore residuo, poi la percentuale.
+
+
+
+
+                                                                                                                  38
+BOCCONI-STYLE MOCK TEST 02
+
+
+   QUANTITATIVE            DOMANDA 37 / 50 - Progressione aritmetica
+
+
+
+
+  Una progressione aritmetica ha primo termine 5 e ragione 3.
+  Qual è la somma dei primi 12 termini?
+
+    A    258
+
+
+
+
+    B    246
+
+
+
+
+    C    276
+
+
+
+
+    D    228
+
+
+
+
+  SOLUZIONE - COPRIRE QUESTA FASCIA DURANTE LO SVOLGIMENTO
+
+  RISPOSTA CORRETTA: A
+  Dodicesimo termine = 5 + 11 x 3 = 38. Somma = 12 x (5 + 38)/2 = 258.
+  Pattern: Individuare prima l’ultimo termine richiesto.
+
+
+
+
+                                                                         39
+BOCCONI-STYLE MOCK TEST 02
+
+
+     DATA INSIGHTS          DOMANDA 38 / 50 - Indice medio ponderato
+
+
+
+    Un tour operator registra:
+
+Destinazione                                                   Visitatori               Soddisfazione media
+
+A                                                               200.000                        8/10
+
+B                                                               300.000                        7/10
+
+C                                                               100.000                        9/10
+
+
+
+
+    Qual è la soddisfazione media complessiva ponderata per il numero di visitatori?
+
+      A    7,50
+
+
+
+
+      B    8,00
+
+
+
+
+      C    8,33
+
+
+
+
+      D    7,67
+
+
+
+
+    SOLUZIONE - COPRIRE QUESTA FASCIA DURANTE LO SVOLGIMENTO
+
+    RISPOSTA CORRETTA: D
+    Media = (200 x 8 + 300 x 7 + 100 x 9)/(200 + 300 + 100) = 4.600/600 = 7,67 circa.
+    Pattern: Non fare la media semplice quando i gruppi hanno dimensioni diverse.
+
+
+
+
+                                                                                                              40
+BOCCONI-STYLE MOCK TEST 02
+
+
+        VERBAL              DOMANDA 39 / 50 - Indebolire un argomento
+
+
+
+
+  Un consulente sostiene che la diffusione dei monopattini elettrici riduce il traffico automobilistico, perché le
+  città con più monopattini condivisi presentano meno congestione.
+  Quale informazione indebolirebbe maggiormente l’argomento?
+
+    A    Molti utenti trovano comodi i monopattini.
+
+
+
+
+         Le città considerate hanno anche ampliato il trasporto pubblico e introdotto forti restrizioni alle
+    B
+         automobili.
+
+
+
+
+    C    I monopattini sono utilizzati soprattutto nei mesi caldi.
+
+
+
+
+    D    Alcune società di sharing sono redditizie.
+
+
+
+
+  SOLUZIONE - COPRIRE QUESTA FASCIA DURANTE LO SVOLGIMENTO
+
+  RISPOSTA CORRETTA: B
+  Trasporto pubblico e restrizioni alle auto sono spiegazioni alternative della minore congestione. La semplice
+  correlazione con i monopattini non identifica la causa.
+  Pattern: Cercare un fattore confondente collegato sia alla causa sia al risultato.
+
+
+
+
+                                                                                                                     41
+BOCCONI-STYLE MOCK TEST 02
+
+
+   QUANTITATIVE            DOMANDA 40 / 50 - Rapporto tra aree
+
+
+
+
+  Le circonferenze di due cerchi sono nel rapporto 2:5.
+  In quale rapporto stanno le loro aree?
+
+    A    2:5
+
+
+
+
+    B    2:25
+
+
+
+
+    C    4:25
+
+
+
+
+    D    4:10
+
+
+
+
+  SOLUZIONE - COPRIRE QUESTA FASCIA DURANTE LO SVOLGIMENTO
+
+  RISPOSTA CORRETTA: C
+  La circonferenza è proporzionale al raggio, quindi i raggi sono nel rapporto 2:5. Le aree sono proporzionali al quadrato
+  dei raggi: 2²:5² = 4:25.
+  Pattern: Le grandezze bidimensionali variano con il quadrato della scala lineare.
+
+
+
+
+                                                                                                                             42
+BOCCONI-STYLE MOCK TEST 02
+
+
+        VERBAL              DOMANDA 41 / 50 - Trasporto pubblico e concorrenza di cause
+
+
+
+
+ Dopo l’apertura di una nuova estensione della metropolitana, i passeggeri mensili della rete sono aumentati del
+ 18%. Nello stesso trimestre, il prezzo dei carburanti è cresciuto sensibilmente e due linee di autobus parallele sono
+ state ridotte. Il comune attribuisce l’intero aumento alla nuova estensione.
+
+
+
+
+  Qual è la valutazione più rigorosa?
+
+    A    L’aumento dei passeggeri è reale, ma il contributo causale dell’estensione non è isolato.
+
+
+
+
+    B    La metropolitana non ha avuto alcun effetto.
+
+
+
+
+    C    Il prezzo dei carburanti spiega necessariamente tutto l’aumento.
+
+
+
+
+    D    La riduzione degli autobus ha certamente diminuito l’uso della metropolitana.
+
+
+
+
+  SOLUZIONE - COPRIRE QUESTA FASCIA DURANTE LO SVOLGIMENTO
+
+  RISPOSTA CORRETTA: A
+  L’aumento è osservato, ma carburanti e autobus sono cambiati contemporaneamente. Attribuire l’intero 18% a una sola
+  causa non è giustificato.
+  Pattern: Diffidare delle attribuzioni totali in presenza di cambiamenti simultanei.
+
+
+
+
+                                                                                                                         43
+BOCCONI-STYLE MOCK TEST 02
+
+
+   DATA INSIGHTS           DOMANDA 42 / 50 - Riallocazione dei finanziamenti
+
+
+
+
+  Un fondo da €200 milioni è inizialmente distribuito così: AI 40%, Biotech 25%, Fintech 20%, Clean Tech 15%.
+  Successivamente i finanziamenti AI aumentano del 25%, quelli Clean Tech raddoppiano e gli altri restano
+  invariati.
+  Qual è la nuova quota di Clean Tech sul totale?
+
+    A    15%
+
+
+
+
+    B    20%
+
+
+
+
+    C    30%
+
+
+
+
+    D    24%
+
+
+
+
+  SOLUZIONE - COPRIRE QUESTA FASCIA DURANTE LO SVOLGIMENTO
+
+  RISPOSTA CORRETTA: D
+  Valori iniziali: 80, 50, 40, 30. Nuovi valori: AI 100, Biotech 50, Fintech 40, Clean Tech 60. Nuovo totale = 250. Quota Clean
+  Tech = 60/250 = 24%.
+  Pattern: Dopo variazioni non uniformi cambia anche il totale.
+
+
+
+
+                                                                                                                                  44
+BOCCONI-STYLE MOCK TEST 02
+
+
+   QUANTITATIVE             DOMANDA 43 / 50 - Diluizione
+
+
+
+
+  Una soluzione di 30 litri contiene il 20% di sale. Si aggiunge acqua pura fino a ottenere una concentrazione
+  del 12%.
+  Quanti litri d’acqua sono stati aggiunti?
+
+    A    15
+
+
+
+
+    B    20
+
+
+
+
+    C    25
+
+
+
+
+    D    30
+
+
+
+
+  SOLUZIONE - COPRIRE QUESTA FASCIA DURANTE LO SVOLGIMENTO
+
+  RISPOSTA CORRETTA: B
+  Sale iniziale = 30 x 20% = 6 litri-equivalenti. Dopo l’aggiunta: 6/(30 + x) = 0,12. Quindi 30 + x = 50 e x = 20.
+  Pattern: La quantità di soluto resta costante durante la diluizione.
+
+
+
+
+                                                                                                                     45
+BOCCONI-STYLE MOCK TEST 02
+
+
+        VERBAL              DOMANDA 44 / 50 - Autoselezione
+
+
+
+
+  Un’università propone di rendere obbligatorio un corso online perché gli studenti che lo completano
+  ottengono voti medi più alti rispetto a chi non lo completa.
+  Quale assunzione è necessaria per sostenere la proposta?
+
+    A    Tutti gli studenti preferiscono i corsi online.
+
+
+
+
+    B    Il corso non richiede alcun tempo.
+
+
+
+
+         La differenza nei voti non è interamente dovuta al fatto che gli studenti più preparati scelgono più
+    C
+         spesso di completare il corso.
+
+
+
+
+    D    Ogni studente che completa il corso ottiene lo stesso voto.
+
+
+
+
+  SOLUZIONE - COPRIRE QUESTA FASCIA DURANTE LO SVOLGIMENTO
+
+  RISPOSTA CORRETTA: C
+  Se gli studenti già più preparati si autoselezionassero nel corso, il confronto non dimostrerebbe l’efficacia del corso. Le
+  altre affermazioni non sono necessarie.
+  Pattern: Individuare la selezione iniziale tra i gruppi confrontati.
+
+
+
+
+                                                                                                                                46
+BOCCONI-STYLE MOCK TEST 02
+
+
+   DATA INSIGHTS            DOMANDA 45 / 50 - Vincoli sui reparti
+
+
+
+
+  Un’azienda ha 72 dipendenti distribuiti tra Produzione, Ricerca e Sviluppo, Marketing e Amministrazione.
+  Amministrazione ha 18 dipendenti. Ricerca e Sviluppo ha il doppio dei dipendenti di Marketing. Ogni
+  reparto ha tra 10 e 25 dipendenti e Ricerca e Sviluppo ne ha al massimo 22.
+  Quale affermazione è necessariamente vera?
+
+    A    Produzione ha almeno 21 dipendenti.
+
+
+
+
+    B    Marketing ha esattamente 10 dipendenti.
+
+
+
+
+    C    Ricerca e Sviluppo ha esattamente 20 dipendenti.
+
+
+
+
+    D    Produzione ha più di 24 dipendenti.
+
+
+
+
+  SOLUZIONE - COPRIRE QUESTA FASCIA DURANTE LO SVOLGIMENTO
+
+  RISPOSTA CORRETTA: A
+  P + R&S + M = 54 e R&S = 2M, quindi P + 3M = 54. I vincoli impongono M = 10 oppure 11. Ne segue P = 24 oppure 21.
+  Quindi Produzione ha sempre almeno 21 dipendenti.
+  Pattern: Trasformare i vincoli testuali in equazione e intervallo di valori.
+
+
+
+
+                                                                                                                      47
+BOCCONI-STYLE MOCK TEST 02
+
+
+   QUANTITATIVE            DOMANDA 46 / 50 - Logaritmi e dominio
+
+
+
+
+                                                 log₃(x - 1) + log₃(x + 1) = 2
+  Qual è il valore di x?
+
+    A    3
+
+
+
+
+    B    -√10
+
+
+
+
+    C    10
+
+
+
+
+    D    √10
+
+
+
+
+  SOLUZIONE - COPRIRE QUESTA FASCIA DURANTE LO SVOLGIMENTO
+
+  RISPOSTA CORRETTA: D
+  Dominio: x > 1. Unendo i logaritmi: log₃[(x - 1)(x + 1)] = 2, quindi x² - 1 = 9 e x² = 10. Il dominio elimina -√10: x = √10.
+  Pattern: Controllare sempre il dominio dopo la soluzione algebrica.
+
+
+
+
+                                                                                                                                 48
+BOCCONI-STYLE MOCK TEST 02
+
+
+     DATA INSIGHTS            DOMANDA 47 / 50 - Profitto operativo
+
+
+
+    Un’impresa vende tre prodotti:
+    I costi fissi mensili complessivi sono €55.000.
+Prodotto                                                            Ricavi                                Costi variabili
+
+A                                                                  €120.000                                  €72.000
+
+B                                                                  €90.000                                   €54.000
+
+C                                                                  €60.000                                   €39.000
+
+
+
+
+    Qual è il profitto operativo mensile complessivo?
+
+      A    €44.000
+
+
+
+
+      B    €55.000
+
+
+
+
+      C    €50.000
+
+
+
+
+      D    €105.000
+
+
+
+
+    SOLUZIONE - COPRIRE QUESTA FASCIA DURANTE LO SVOLGIMENTO
+
+    RISPOSTA CORRETTA: C
+    Margine di contribuzione = (120 - 72) + (90 - 54) + (60 - 39) = 48 + 36 + 21 = 105 mila. Profitto operativo = 105 - 55 = 50 mila
+    euro.
+    Pattern: Sottrarre i costi fissi una sola volta dal margine complessivo.
+
+
+
+
+                                                                                                                                       49
+BOCCONI-STYLE MOCK TEST 02
+
+
+        VERBAL             DOMANDA 48 / 50 - Modus tollens
+
+
+
+
+  Tutti i ricercatori che pubblicano il rapporto finale hanno completato la revisione metodologica. Elena non
+  ha completato la revisione metodologica.
+  Quale conclusione segue necessariamente?
+
+    A    Elena non è una ricercatrice.
+
+
+
+
+    B    Elena non ha pubblicato il rapporto finale.
+
+
+
+
+    C    Elena pubblicherà il rapporto in futuro.
+
+
+
+
+    D    Nessun ricercatore ha pubblicato il rapporto.
+
+
+
+
+  SOLUZIONE - COPRIRE QUESTA FASCIA DURANTE LO SVOLGIMENTO
+
+  RISPOSTA CORRETTA: B
+  Se pubblicazione implica revisione completata, l’assenza della revisione implica che Elena non ha pubblicato. Non segue
+  nulla sul suo ruolo o sul futuro.
+  Pattern: Da P -> Q e non Q segue non P.
+
+
+
+
+                                                                                                                            50
+BOCCONI-STYLE MOCK TEST 02
+
+
+   QUANTITATIVE            DOMANDA 49 / 50 - Diagonale di un parallelepipedo
+
+
+
+
+  Un parallelepipedo rettangolo ha dimensioni 3 cm, 4 cm e 12 cm.
+  Quanto misura la diagonale dello spazio?
+
+    A    13 cm
+
+
+
+
+    B    12 cm
+
+
+
+
+    C    15 cm
+
+
+
+
+    D    19 cm
+
+
+
+
+  SOLUZIONE - COPRIRE QUESTA FASCIA DURANTE LO SVOLGIMENTO
+
+  RISPOSTA CORRETTA: A
+  d = √(3² + 4² + 12²) = √(9 + 16 + 144) = √169 = 13 cm.
+  Pattern: Applicare Pitagora in tre dimensioni.
+
+
+
+
+                                                                               51
+BOCCONI-STYLE MOCK TEST 02
+
+
+   QUANTITATIVE             DOMANDA 50 / 50 - Perimetro, area e diagonale
+
+
+
+
+                                Un rettangolo ha perimetro 34 cm e area 60 cm².
+  Quanto misura la sua diagonale?
+
+    A    10 cm
+
+
+
+
+    B    12 cm
+
+
+
+
+    C    13 cm
+
+
+
+
+    D    17 cm
+
+
+
+
+  SOLUZIONE - COPRIRE QUESTA FASCIA DURANTE LO SVOLGIMENTO
+
+  RISPOSTA CORRETTA: C
+  Se i lati sono a e b, allora a + b = 17 e ab = 60. La diagonale soddisfa d² = a² + b² = (a + b)² - 2ab = 17² - 120 = 169. Quindi d =
+  13 cm.
+  Pattern: Usare (a + b)² = a² + b² + 2ab senza trovare separatamente i lati.
+
+
+
+
+                                                                                                                                         52
+

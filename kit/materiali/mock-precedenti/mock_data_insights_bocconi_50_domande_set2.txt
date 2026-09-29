@@ -1,0 +1,1286 @@
+                     Mock Data Insights Bocconi - Set 2
+  50 domande diverse - focus sui pattern
+
+  Obiettivo: allenare riconoscimento rapido della struttura, non solo calcolo. Le domande sono costruite sul format dei
+  tuoi esempi: grafici a barre, line chart, pie chart, tabelle, forecast, margini, quote, medie ponderate, dati insufficienti e
+  multi-affermazioni.
+
+
+
+  Regola di utilizzo
+  Lavora in blocchi cronometrati. Tempo target: 90 secondi per domanda. Se arrivi a 120 secondi senza una risposta
+  difendibile, considera la domanda fallita anche se poi la risolvi. Questo è il punto: devi imparare quali strutture ti
+  rubano tempo.
+
+
+
+  Struttura del PDF
+  Parte 1: indicazioni operative. Parte 2: 50 domande. Parte 3: answer key. Parte 4: soluzioni con pattern. Le risposte
+  corrette sono alternate e non seguono uno schema fisso.
+
+
+
+
+Mock Data Insights Bocconi - Set 2                                                                                       Pagina 1
+               Pagina iniziale - come risolvere queste
+                              domande
+  Protocollo dei primi 30 secondi
+  • Leggi prima la domanda, non il grafico. Devi sapere se cerca valore assoluto, percentuale, quota, variazione,
+  confronto, massimo/minimo, affermazione vera o dato non determinabile.
+  • Identifica il denominatore. La maggior parte degli errori nasce da percentuali su basi diverse: totale, sottogruppo,
+  categoria, anno precedente, valore iniziale.
+  • Conta i passaggi. 1 passaggio = fattibile. 2 passaggi = ok. 3+ passaggi = domanda lenta: rispondi solo se la formula è
+  chiara subito.
+  • Se compare "solo", cerca overlap. Se non sono dati, la risposta è spesso non determinabile.
+  • Se compare "quota", non guardare il valore assoluto. Devi dividere per il totale della categoria.
+  • Se compare "punti percentuali", non fare variazioni percentuali. Sottrai le percentuali direttamente.
+  • Se ci sono margini/costi/sconti, ordina i passaggi. Prima prezzo effettivo o ricavo netto; poi margine; poi quantità.
+  • Se ci sono forecast e quote costanti, aggiorna prima il totale. Poi applica la quota o il rapporto.
+  • Se ogni opzione richiede un calcolo diverso, è una trappola. Elimina rapidamente o ometti nella prova reale.
+
+  Pattern killer da riconoscere
+  Overlap mancanti; percentuali su basi diverse; medie ponderate; variazioni successive; forecast con quote o rapporti
+  costanti; margini con costi fissi; reallocation di pie chart; ottimizzazione con budget e cap; multi-affermazioni; vincoli
+  con "certamente".
+  Criterio secco: se non sai scrivere la formula entro 30 secondi, non stai risolvendo: stai esplorando. Nel test questo è
+  costoso.
+
+
+
+
+Mock Data Insights Bocconi - Set 2                                                                                     Pagina 2
+  Domanda 1. Ripartizione spesa marketing 2025
+  Pattern focus: Pie reallocation - eliminare categorie e redistribuire budget
+
+
+
+
+  Se l'azienda eliminasse completamente Stampa e Radio, redistribuendo quel budget in parti uguali tra Digital e TV,
+  quale sarebbe la nuova quota percentuale di Digital?
+
+  A. 50,0%
+  B. 47,5%
+  C. 52,0%
+  D. 45,0%
+
+
+
+
+Mock Data Insights Bocconi - Set 2                                                                               Pagina 3
+  Domanda 2. Costi operativi per divisione
+  Pattern focus: Disparita percentuale - usare il denominatore richiesto
+
+
+
+
+  Quale voce di costo mostra la maggiore disparita percentuale tra Nord e Sud, calcolata rispetto al valore del Sud?
+
+  A. Marketing
+  B. Utilities
+  C. Affitti
+  D. Personale
+
+
+
+
+Mock Data Insights Bocconi - Set 2                                                                                 Pagina 4
+  Domanda 3. Composizione portafoglio investimenti
+  Pattern focus: Somma di sottogruppi - quota su totale
+
+             Asset class              Valore (M€)               Rendimento               Rischio
+             Azioni                   150                       7,8%                     Alto
+             Obbligazioni             90                        3,2%                     Basso
+             Immobiliare              80                        5,0%                     Medio
+             Materie prime            35                        10,5%                    Alto
+             Crypto                   20                        18,0%                    Alto
+             Liquidità                25                        0,9%                     Basso
+
+
+  Quale percentuale del portafoglio totale è investita in asset class ad alto rischio?
+
+  A. 46,3%
+  B. 48,8%
+  C. 51,3%
+  D. 55,0%
+
+
+
+
+Mock Data Insights Bocconi - Set 2                                                                 Pagina 5
+  Domanda 4. Tasso di disoccupazione
+  Pattern focus: Punti percentuali - non percentuale relativa
+
+
+
+
+  Quale paese ha registrato la maggiore riduzione in punti percentuali del tasso di disoccupazione tra 2020 e 2024?
+
+  A. Italia
+  B. Germania
+  C. Francia
+  D. Spagna
+
+
+
+
+Mock Data Insights Bocconi - Set 2                                                                               Pagina 6
+  Domanda 5. Andamento prezzi materie prime
+  Pattern focus: Indice base 100 - trasformare indice in prezzo
+
+
+
+
+  Sapendo che a gennaio il petrolio costa 70 €/barile, l'oro 1.700 €/oncia, e che l'azienda usa ogni mese 1.200 barili di
+  petrolio e 4 once d'oro, quale affermazione è corretta?
+
+  A. La spesa per petrolio di giugno supera quella di gennaio di più di 20.000 €
+  B. La variazione dell'oro marzo/febbraio supera quella del petrolio
+  C. La spesa totale petrolio+oro a giugno è inferiore a maggio
+  D. L'oro di giugno costa 1.820 € l'oncia
+
+
+
+
+Mock Data Insights Bocconi - Set 2                                                                                    Pagina 7
+  Domanda 6. Distribuzione energia per fonte
+  Pattern focus: Mix energetico - mantenere proporzioni del residuo
+
+
+
+
+  Se le rinnovabili salissero al 45%, mantenendo le altre fonti non rinnovabili nelle stesse proporzioni relative, a quale
+  quota scenderebbe il gas naturale?
+
+  A. Da 38% a circa 35%
+  B. Da 38% a circa 28%
+  C. Da 38% a circa 31%
+  D. Da 38% a circa 25%
+
+
+
+
+Mock Data Insights Bocconi - Set 2                                                                                    Pagina 8
+  Domanda 7. Vendite mensili prodotti elettronici
+  Pattern focus: Quota online - rapporto, non valore assoluto
+
+
+
+
+  Quale categoria ha la maggior quota percentuale di vendite online rispetto al proprio totale?
+
+  A. Tablet
+  B. Smartphone
+  C. Laptop
+  D. Smartwatch
+
+
+
+
+Mock Data Insights Bocconi - Set 2                                                                Pagina 9
+  Domanda 8. Soddisfazione clienti per servizio
+  Pattern focus: Ottimizzazione - costo per punto e vincoli
+
+
+
+
+  Ogni punto di miglioramento costa: Telefono 50K, Chat 30K, Email 25K, Negozio 80K. L'App non può migliorare
+  ulteriormente. Con budget 180K e miglioramenti frazionabili, quale nuovo punteggio medio massimo si ottiene?
+
+  A. 8,42
+  B. 8,81
+  C. 8,95
+  D. 8,14
+
+
+
+
+Mock Data Insights Bocconi - Set 2                                                                           Pagina 10
+  Domanda 9. Ore medie lavorate a settimana
+  Pattern focus: Media di sottogruppo - includere solo i paesi richiesti
+
+
+
+
+  Di quante ore settimanali il Canada supera la media dei paesi europei mostrati?
+
+  A. 7,5 ore
+  B. 6,4 ore
+  C. 5,9 ore
+  D. 6,7 ore
+
+
+
+
+Mock Data Insights Bocconi - Set 2                                                  Pagina 11
+  Domanda 10. Performance fondi comuni
+  Pattern focus: Rendimento per unità di rischio - scegliere Sharpe Ratio
+
+             Fondo                   Rendimento     Volatilità            Sharpe Ratio   AUM (M€)
+             Alpha Growth            12,5%          18,9%                 0,66           470
+             Beta Value              8,9%           12,0%                 0,74           330
+             Gamma Balanced          6,8%           8,5%                  0,80           590
+             Delta Tech              18,5%          25,0%                 0,74           220
+             Epsilon Income          4,3%           5,2%                  0,82           910
+
+
+  Quale fondo offre il miglior rendimento per unità di rischio assunto?
+
+  A. Alpha Growth
+  B. Epsilon Income
+  C. Gamma Balanced
+  D. Delta Tech
+
+
+
+
+Mock Data Insights Bocconi - Set 2                                                                  Pagina 12
+  Domanda 11. Temperature e popolazione
+  Pattern focus: Media ponderata - usare i pesi
+
+              Città                         Temperatura                       Peso popolazione
+              Milano                        8 °C                              30%
+              Roma                          12 °C                             25%
+              Napoli                        15 °C                             20%
+              Torino                        6 °C                              25%
+
+
+  Qual è la temperatura media nazionale ponderata in base alla popolazione?
+
+  A. 10,3 °C
+  B. 10,8 °C
+  C. 9,9 °C
+  D. 11,2 °C
+
+
+
+
+Mock Data Insights Bocconi - Set 2                                                               Pagina 13
+  Domanda 12. Arrivi turistici
+  Pattern focus: Crescita percentuale vs crescita assoluta
+
+             Area                            Arrivi 2022 (mln)                 Arrivi 2024 (mln)
+             Mare                            1,2                               1,5
+             Città d'arte                    0,8                               1,1
+             Laghi                           2,0                               2,4
+             Montagna                        0,5                               0,75
+
+
+  Quale area ha registrato la crescita percentuale più alta tra 2022 e 2024?
+
+  A. Mare
+  B. Città d'arte
+  C. Laghi
+  D. Montagna
+
+
+
+
+Mock Data Insights Bocconi - Set 2                                                                 Pagina 14
+  Domanda 13. Vendite per reparto
+  Pattern focus: Bonus con soglia - crescita strettamente superiore
+
+             Reparto                 Vendite 2023             Vendite 2024              Crescita
+             Sales                   100                      115                       +15%
+             Marketing               80                       88                        +10%
+             R&D;                    50                       59                        +18%
+             HR                      30                       33                        +10%
+             Operations              110                      121                       +10%
+
+
+  Il bonus viene erogato solo se la crescita 2024 vs 2023 supera il 12%. Quanti reparti hanno diritto al bonus?
+
+  A. 2 reparti
+  B. 1 reparto
+  C. 3 reparti
+  D. 4 reparti
+
+
+
+
+Mock Data Insights Bocconi - Set 2                                                                                Pagina 15
+  Domanda 14. Mercato software
+  Pattern focus: Quota di mercato futura - crescita del totale e dell'azienda
+
+             Voce                                             Valore attuale
+             Mercato totale                                   240 M€
+             Fatturato Azienda A                              60 M€
+             Crescita mercato prevista                        +25%
+             Crescita Azienda A prevista                      +20%
+
+
+  Quale sarà la quota di mercato prevista dell'Azienda A?
+
+  A. 20,8%
+  B. 24,0%
+  C. 25,0%
+  D. 26,4%
+
+
+
+
+Mock Data Insights Bocconi - Set 2                                              Pagina 16
+  Domanda 15. Promozioni prodotti
+  Pattern focus: Profitto unitario - prezzo scontato prima del margine
+
+             Prodotto                Prezzo         Sconto               Costo unitario   Unità
+             A                       100 €          10%                  65 €             500
+             B                       75 €           0%                   55 €             700
+             C                       120 €          25%                  80 €             450
+             D                       60 €           5%                   42 €             800
+
+
+  Quale prodotto genera il profitto totale più alto dopo lo sconto?
+
+  A. Prodotto A
+  B. Prodotto C
+  C. Prodotto B
+  D. Prodotto D
+
+
+
+
+Mock Data Insights Bocconi - Set 2                                                                Pagina 17
+  Domanda 16. Budget aziendale
+  Pattern focus: Budget residuo - calcolare per differenza
+
+             Voce                                             Budget attuale
+             Sales                                            400 M€
+             Marketing                                        250 M€
+             IT                                               180 M€
+             Admin                                            120 M€
+             Totale                                           950 M€
+
+
+  Il prossimo anno il budget totale crescerà del 20%. Sales crescerà del 15%, Marketing sarà il 30% del nuovo totale, IT
+  crescerà del 10%. Quale sarà il budget Admin?
+
+  A. Circa 120 M€
+  B. Circa 150 M€
+  C. Circa 165 M€
+  D. Circa 140 M€
+
+
+
+
+Mock Data Insights Bocconi - Set 2                                                                                Pagina 18
+  Domanda 17. Distribuzione spese aziendali
+  Pattern focus: Pie chart + totale futuro + nuova quota
+
+
+
+
+  Il budget totale attuale è 3.000.000 €. Il prossimo anno aumenterà del 12% e la quota R&D; salirà al 28%. Di quanto
+  aumenterà la spesa R&D; in valore assoluto?
+
+  A. Circa 220.000 €
+  B. Circa 281.000 €
+  C. Circa 180.000 €
+  D. Circa 336.000 €
+
+
+
+
+Mock Data Insights Bocconi - Set 2                                                                               Pagina 19
+  Domanda 18. Indicatori macroeconomici
+  Pattern focus: Inflazione reale - attenzione al PIL negativo
+
+             Paese                   Crescita PIL                Inflazione             Tasso BCE
+             Paese A                 +0,2%                       2,4%                   4,25%
+             Paese B                 -0,5%                       1,8%                   4,25%
+             Paese C                 +2,2%                       3,0%                   4,25%
+             Paese D                 +1,0%                       2,1%                   4,25%
+             Paese E                 +0,3%                       1,5%                   4,25%
+
+
+  Quale paese presenta il tasso di inflazione reale più basso, definito come inflazione meno crescita del PIL?
+
+  A. Paese A
+  B. Paese B
+  C. Paese C
+  D. Paese E
+
+
+
+
+Mock Data Insights Bocconi - Set 2                                                                               Pagina 20
+  Domanda 19. Abbonati piattaforma streaming
+  Pattern focus: Variazioni successive - non sommare percentuali
+
+             Mese                                             Variazione mensile
+             Base iniziale                                    80.000 abbonati
+             Febbraio                                         +25%
+             Marzo                                            -10%
+             Aprile                                           +8%
+
+
+  Quanti abbonati avrà la piattaforma ad aprile dopo le tre variazioni successive?
+
+  A. 97.200 abbonati
+  B. 94.000 abbonati
+  C. 96.000 abbonati
+  D. 98.400 abbonati
+
+
+
+
+Mock Data Insights Bocconi - Set 2                                                   Pagina 21
+  Domanda 20. Fatturato trimestrale
+  Pattern focus: Margine operativo + costi fissi - annuale vs trimestrale
+
+
+
+
+  Sapendo che il margine operativo di A è 30%, quello di B 32%, e i costi fissi annui sono A=18 M€ e B=14 M€, quale
+  affermazione è corretta?
+
+  A. A supera B di circa 5 M€
+  B. A e B hanno lo stesso utile operativo
+  C. B supera A di oltre 10 M€
+  D. L'utile operativo annuo di B supera quello di A di circa 3,6 M€
+
+
+
+
+Mock Data Insights Bocconi - Set 2                                                                               Pagina 22
+  Domanda 21. Preferenze clienti
+  Pattern focus: Percentuali su basi diverse - convertire in valori assoluti
+
+             Segmento                         Numero clienti                   % che sceglie Add-on A
+             Premium                          600                              65%
+             Standard                         1.400                            40%
+
+
+  Quale segmento contiene più clienti che scelgono Add-on A?
+
+  A. Clienti premium
+  B. Clienti standard
+  C. Sono uguali
+  D. Non determinabile
+
+
+
+
+Mock Data Insights Bocconi - Set 2                                                                      Pagina 23
+  Domanda 22. Uso applicazioni
+  Pattern focus: Overlap mancanti - non inventare intersezioni
+
+             App                                            % utenti che la usa
+             App A                                          60%
+             App B                                          45%
+             App C                                          30%
+             Totale utenti                                  1.000
+
+
+  Quanti utenti usano solo App A?
+
+  A. 100 utenti
+  B. 150 utenti
+  C. 200 utenti
+  D. Non determinabile con i dati forniti
+
+
+
+
+Mock Data Insights Bocconi - Set 2                                                Pagina 24
+  Domanda 23. Vendite e resi
+  Pattern focus: Ricavi netti - togliere resi o churn
+
+             Categoria                Unità vendute          Prezzo   Tasso resi
+             A                        1.000                  50 €     5%
+             B                        700                    90 €     8%
+             C                        1.500                  35 €     12%
+             D                        400                    140 €    15%
+
+
+  Quale categoria ha il ricavo netto più alto dopo i resi?
+
+  A. Categoria A
+  B. Categoria C
+  C. Categoria B
+  D. Categoria D
+
+
+
+
+Mock Data Insights Bocconi - Set 2                                                 Pagina 25
+  Domanda 24. Customer satisfaction
+  Pattern focus: Media ponderata - numero rispondenti diverso
+
+             Canale                        Rispondenti                      Punteggio
+             Email                         400                              7,5
+             Telefono                      200                              8,0
+             Chat                          300                              8,5
+             App                           100                              6,0
+
+
+  Qual è il punteggio medio complessivo ponderato per il numero di rispondenti?
+
+  A. 7,75
+  B. 7,50
+  C. 7,90
+  D. 8,00
+
+
+
+
+Mock Data Insights Bocconi - Set 2                                                      Pagina 26
+  Domanda 25. Commercio estero
+  Pattern focus: Forecast con rapporto costante - import/export
+
+             Voce                                           Valore attuale
+             Export                                         500 M€
+             Import                                         450 M€
+             Crescita export prevista                       +12%
+             Rapporto Import/Export futuro                  Costante
+
+
+  Quale sarà il saldo commerciale previsto?
+
+  A. +42 M€
+  B. +56 M€
+  C. +64 M€
+  D. +90 M€
+
+
+
+
+Mock Data Insights Bocconi - Set 2                                           Pagina 27
+  Domanda 26. Clienti SaaS
+  Pattern focus: Churn + nuovi clienti - ricostruire base finale
+
+             Voce                                                  Valore
+             Clienti iniziali                                      2.000
+             Churn mensile                                         8%
+             Nuovi clienti                                         300
+             ARPU mensile                                          120 €
+
+
+  Quale sarà il ricavo mensile finale dopo churn e acquisizioni?
+
+  A. 235.200 €
+  B. 240.000 €
+  C. 256.800 €
+  D. 264.000 €
+
+
+
+
+Mock Data Insights Bocconi - Set 2                                          Pagina 28
+  Domanda 27. Punto di pareggio
+  Pattern focus: Break-even con profitto target
+
+             Voce                                           Valore
+             Prezzo unitario                                50 €
+             Costo variabile unitario                       30 €
+             Costi fissi                                    120.000 €
+             Profitto desiderato                            40.000 €
+
+
+  Quante unità devono essere vendute per ottenere il profitto desiderato?
+
+  A. 6.000 unità
+  B. 7.500 unità
+  C. 8.500 unità
+  D. 8.000 unità
+
+
+
+
+Mock Data Insights Bocconi - Set 2                                          Pagina 29
+  Domanda 28. Costo mensile di vita
+  Pattern focus: Ottimizzazione costo totale - applicare bonus e riduzioni
+
+             Città                   Affitto         Trasporti            Cibo                 Bonus
+             Venezia                 900             120                  350                  0
+             Padova                  700             180                  320                  100
+             Verona                  750             150                  340                  50
+             Trieste                 650             200                  350                  0
+
+
+  Con smart working i trasporti si riducono del 40%. Il bonus va sottratto dal costo mensile totale. Quale città ha il costo
+  finale più basso?
+
+  A. Padova
+  B. Venezia
+  C. Verona
+  D. Trieste
+
+
+
+
+Mock Data Insights Bocconi - Set 2                                                                                   Pagina 30
+  Domanda 29. Nuova distribuzione budget
+  Pattern focus: Ripartizione residua mantenendo un rapporto
+
+
+
+
+  Nel nuovo piano A salirà al 40%, B al 25% ed E sarà eliminata. C e D manterranno lo stesso rapporto reciproco attuale.
+  Quale sarà la nuova quota di C?
+
+  A. 20,0%
+  B. Circa 21,9%
+  C. 25,0%
+  D. 18,8%
+
+
+
+
+Mock Data Insights Bocconi - Set 2                                                                               Pagina 31
+  Domanda 30. Soddisfazione per area
+  Pattern focus: Lettura diretta - max meno min
+
+
+
+
+  Qual è la differenza tra il punteggio più alto e quello più basso?
+
+  A. 18 punti
+  B. 20 punti
+  C. 23 punti
+  D. 27 punti
+
+
+
+
+Mock Data Insights Bocconi - Set 2                                     Pagina 32
+  Domanda 31. Tassi di interesse
+  Pattern focus: Variazione in punti - serie temporale
+
+
+
+
+  Quale paese ha registrato il maggiore aumento in punti percentuali tra 2021 e 2024?
+
+  A. Paese A
+  B. Paese B
+  C. Paese C
+  D. Tutti uguali
+
+
+
+
+Mock Data Insights Bocconi - Set 2                                                      Pagina 33
+  Domanda 32. Portafoglio semestrale
+  Pattern focus: Rendimenti ponderati e composti
+
+             Fondo                   Peso                   Q1    Q2
+             Fondo A                 50%                    +4%   -3%
+             Fondo B                 30%                    +1%   +2%
+             Fondo C                 20%                    -2%   +5%
+             Capitale iniziale       100.000 €
+
+
+  Quale capitale finale approssimato si ottiene dopo Q1 e Q2?
+
+  A. Circa 101.900 €
+  B. Circa 102.500 €
+  C. Circa 100.200 €
+  D. Circa 102.000 €
+
+
+
+
+Mock Data Insights Bocconi - Set 2                                      Pagina 34
+  Domanda 33. Performance fondi
+  Pattern focus: Sharpe implicito - calcolare rendimento/volatilità
+
+             Fondo                           Rendimento                        Volatilità
+             Fondo X                         10,0%                             20,0%
+             Fondo Y                         8,5%                              10,0%
+             Fondo Z                         6,0%                              7,5%
+             Fondo W                         12,0%                             18,0%
+
+
+  Assumendo tasso risk-free nullo, quale fondo ha il rendimento per unità di rischio più alto?
+
+  A. Fondo X
+  B. Fondo Y
+  C. Fondo Z
+  D. Fondo W
+
+
+
+
+Mock Data Insights Bocconi - Set 2                                                               Pagina 35
+  Domanda 34. Indice prezzi di un paniere
+  Pattern focus: Indice di paniere - pesare importi base
+
+             Voce                            Spesa base gennaio               Indice maggio
+             Energia                         100 €                            115
+             Alimentari                      200 €                            108
+             Trasporti                       150 €                            120
+
+
+  Qual è la variazione percentuale della spesa totale del paniere a maggio rispetto a gennaio?
+
+  A. Circa +11,0%
+  B. Circa +12,4%
+  C. Circa +13,6%
+  D. Circa +15,0%
+
+
+
+
+Mock Data Insights Bocconi - Set 2                                                               Pagina 36
+  Domanda 35. Produzione industriale
+  Pattern focus: Export margin - volume esportato x costo x margine
+
+
+
+
+  Sapendo che le quote esportate sono A=70%, B=40%, C=30%; i costi unitari sono A=1.000 €, B=600 €, C=200 €; e il
+  margine sulle esportazioni è 20% del costo, quale prodotto genera il margine da export maggiore?
+
+  A. Prodotto A
+  B. Prodotto B
+  C. Prodotto C
+  D. Prodotto B e C uguali
+
+
+
+
+Mock Data Insights Bocconi - Set 2                                                                             Pagina 37
+  Domanda 36. Valutazione università
+  Pattern focus: ROI universitario - formula data
+
+             Università              Salary medio   Employment rate    Costo annuo         Durata
+             A                       40.000 €       90%                6.000 €             2 anni
+             B                       38.000 €       95%                5.000 €             2 anni
+             C                       45.000 €       80%                10.000 €            2 anni
+             D                       35.000 €       98%                4.000 €             2 anni
+
+
+  Usando l'indicatore Salary*Employment rate - Costo annuo*Durata, quale università ha il valore più alto?
+
+  A. Università A
+  B. Università B
+  C. Università C
+  D. Università D
+
+
+
+
+Mock Data Insights Bocconi - Set 2                                                                           Pagina 38
+  Domanda 37. Budget marketing
+  Pattern focus: Redistribuzione proporzionale - non parti uguali
+
+
+
+
+  Se Stampa viene eliminata e il suo 10% viene redistribuito proporzionalmente tra Digital, TV ed Eventi secondo le loro
+  quote attuali, quale sarà la nuova quota di Digital?
+
+  A. 45,0%
+  B. 44,4%
+  C. 46,0%
+  D. 50,0%
+
+
+
+
+Mock Data Insights Bocconi - Set 2                                                                                Pagina 39
+  Domanda 38. Vendite online e negozio
+  Pattern focus: Quota online - denominatore per categoria
+
+
+
+
+  Quale prodotto ha la maggiore quota percentuale online sul totale della propria categoria?
+
+  A. Prodotto A
+  B. Prodotto B
+  C. Prodotto D
+  D. Prodotto C
+
+
+
+
+Mock Data Insights Bocconi - Set 2                                                             Pagina 40
+  Domanda 39. Ricavi e margini
+  Pattern focus: Crescita del profitto - ricavi x margine
+
+             Prodotto                Ricavi attuali         Ricavi futuri   Margine
+             A                       100 M€                 120 M€          20%
+             B                       80 M€                  100 M€          30%
+             C                       150 M€                 160 M€          15%
+             D                       60 M€                  80 M€           40%
+
+
+  Quale prodotto registra il maggiore aumento del profitto lordo?
+
+  A. Prodotto D
+  B. Prodotto A
+  C. Prodotto B
+  D. Prodotto C
+
+
+
+
+Mock Data Insights Bocconi - Set 2                                                    Pagina 41
+  Domanda 40. Media esami
+  Pattern focus: Media ponderata - crediti diversi
+
+             Esame                           Voto    Crediti
+             Microeconomia                   28      6
+             Statistica                      24      12
+             Finanza                         30      6
+             Diritto                         26      9
+
+
+  Qual è la media ponderata per crediti?
+
+  A. 26,00
+  B. 26,36
+  C. 26,75
+  D. 27,00
+
+
+
+
+Mock Data Insights Bocconi - Set 2                             Pagina 42
+  Domanda 41. Pianificazione spedizioni
+  Pattern focus: Vincoli e certezza - distinguere possibile da necessario
+
+             Variabile                                         Vincolo
+             A                                                 tra 40 e 60
+             C                                                 tra 20 e 30
+             B                                                 almeno 10 più di C
+             Totale A+B+C                                      120
+
+
+  Quale affermazione è certamente vera?
+
+  A. A è sempre maggiore di B
+  B. C può superare B
+  C. A è sempre pari a 60
+  D. B supera sempre C
+
+
+
+
+Mock Data Insights Bocconi - Set 2                                                  Pagina 43
+  Domanda 42. Adozione servizio premium
+  Pattern focus: Basi diverse mancanti - percentuale senza numerosità
+
+             Segmento                                        % che acquista upgrade
+             Premium                                         60%
+             Standard                                        45%
+
+
+  Quale segmento contiene più clienti che acquistano l'upgrade, in valore assoluto?
+
+  A. Non determinabile
+  B. Segmento Premium
+  C. Segmento Standard
+  D. Sono sicuramente uguali
+
+
+
+
+Mock Data Insights Bocconi - Set 2                                                    Pagina 44
+  Domanda 43. Ore lavorate per paese
+  Pattern focus: Confronto con media selezionata
+
+
+
+
+  Di quante ore il Giappone supera la media dei paesi europei mostrati?
+
+  A. 6,5 ore
+  B. 7,5 ore
+  C. 7,0 ore
+  D. 8,0 ore
+
+
+
+
+Mock Data Insights Bocconi - Set 2                                        Pagina 45
+  Domanda 44. Paniere consumi
+  Pattern focus: Inflazione ponderata - pesi del paniere
+
+             Categoria                       Peso          Inflazione
+             Alimentari                      30%           5%
+             Energia                         20%           12%
+             Affitto                         40%           2%
+             Trasporti                       10%           7%
+
+
+  Qual è l'inflazione complessiva del paniere?
+
+  A. 4,8%
+  B. 5,4%
+  C. 5,0%
+  D. 6,1%
+
+
+
+
+Mock Data Insights Bocconi - Set 2                                      Pagina 46
+  Domanda 45. Mix energetico nazionale
+  Pattern focus: Target di mix - proporzioni nel blocco residuo
+
+
+
+
+  Se le fonti non fossili (rinnovabili+nucleare) salissero al 40%, mantenendo proporzionali le fonti fossili, a quanto
+  scenderebbe il gas?
+
+  A. Da 45% a circa 36%
+  B. Da 45% a circa 40%
+  C. Da 45% a circa 34%
+  D. Da 45% a circa 30%
+
+
+
+
+Mock Data Insights Bocconi - Set 2                                                                                   Pagina 47
+  Domanda 46. Vendite regionali
+  Pattern focus: Multi-affermazione - obiettivi, margini, bonus
+
+             Regione                   2022                         2023               Obiettivo 2024
+             Nord                      700                          770                850
+             Centro                    500                          525                580
+             Sud                       400                          480                550
+             Isole                     300                          330                370
+
+
+  Nel 2024 ogni regione raggiunge l'obiettivo. I costi sono 30% delle vendite per Nord e Centro, 35% per Sud e Isole.
+  Bonus se crescita 2024 vs 2023 supera il 12%. Quale affermazione è corretta?
+
+  A. Solo Sud ha diritto al bonus
+  B. Il Centro cresce più nel 2022/2023 che nel 2024/2023
+  C. Il totale vendite 2024 supera il totale 2022 di oltre il 20%
+  D. Il margine del Nord è inferiore a quello delle Isole
+
+
+
+
+Mock Data Insights Bocconi - Set 2                                                                                Pagina 48
+  Domanda 47. Campagne marketing
+  Pattern focus: ROI canale marketing - conversione e AOV
+
+              Canale                 Spesa           Impression          Conversion rate   AOV
+              Search                 50.000 €        500.000             2,0%              80 €
+              Social                 40.000 €        800.000             1,0%              60 €
+              Email                  10.000 €        100.000             5,0%              50 €
+              Display                30.000 €        600.000             0,5%              70 €
+
+
+  Quale canale ha il ROI più alto, definito come (ricavi-spesa)/spesa?
+
+  A. Search
+  B. Social
+  C. Display
+  D. Email
+
+
+
+
+Mock Data Insights Bocconi - Set 2                                                                Pagina 49
+  Domanda 48. Emissioni industriali
+  Pattern focus: Emissioni - intensità x produzione
+
+             Settore                 Produzione              Intensità 2023           Intensità 2024
+             Acciaio                 100.000 t               2,0                      1,8
+             Cemento                 150.000 t               0,8                      0,7
+             Chimica                 80.000 t                1,5                      1,4
+
+
+  A produzione invariata, quale settore ha la maggiore riduzione assoluta di emissioni?
+
+  A. Cemento
+  B. Acciaio
+  C. Chimica
+  D. Tutti uguali
+
+
+
+
+Mock Data Insights Bocconi - Set 2                                                                     Pagina 50
+  Domanda 49. Operazione azionaria
+  Pattern focus: Rendimento netto - commissioni e dividendi
+
+             Voce                                             Valore
+             Azioni acquistate                                100
+             Prezzo acquisto                                  50 €
+             Prezzo vendita                                   58 €
+             Dividendo per azione                             2€
+             Commissione acquisto e vendita                   1% per lato
+
+
+  Qual è il rendimento netto sull'esborso iniziale complessivo?
+
+  A. Circa 15,8%
+  B. Circa 16,5%
+  C. Circa 17,7%
+  D. Circa 18,9%
+
+
+
+
+Mock Data Insights Bocconi - Set 2                                          Pagina 51
+  Domanda 50. Miglioramento servizi
+  Pattern focus: Ottimizzazione con cap - miglioramento marginale
+
+             Servizio                Punteggio             Costo per punto         Miglioramento max
+             Delivery                6,5                   40K                     2,0
+             Supporto                7,0                   25K                     1,0
+             App                     8,0                   50K                     0,5
+             Prezzo                  6,0                   30K                     3,0
+
+
+  Con budget 150K e miglioramenti frazionabili, quale nuovo punteggio medio massimo si ottiene?
+
+  A. 7,95
+  B. 8,25
+  C. 8,40
+  D. 8,09
+
+
+
+
+Mock Data Insights Bocconi - Set 2                                                                     Pagina 52
+                                              Answer key
+           Q            R            Q    R        Q         R          Q         R          Q         R
+           1            A            2    B        3         C          4         D          5         A
+           6            C            7    A        8         B          9         D          10        B
+           11           C            12   D        13        A          14        B          15        C
+           16           D            17   B        18        C          19        A          20        D
+           21           B            22   D        23        C          24        A          25        B
+           26           C            27   D        28        A          29        B          30        C
+           31           A            32   D        33        B          34        C          35        A
+           36           D            37   B        38        C          39        A          40        B
+           41           D            42   A        43        C          44        B          45        A
+           46           C            47   D        48        B          49        C          50        D
+
+
+  Nota: l'answer key serve solo dopo il tentativo cronometrato. Se lo guardi prima, stai falsando l'allenamento.
+
+
+
+
+Mock Data Insights Bocconi - Set 2                                                                                 Pagina 53
+                                     Soluzioni commentate
+  Le soluzioni evidenziano il pattern. Il tuo obiettivo è riconoscere il pattern prima del calcolo.
+
+
+  1. Risposta A - Ripartizione spesa marketing 2025
+  Stampa + Radio = 12% + 8% = 20%. Redistribuito in parti uguali: +10 punti a Digital e +10 punti a TV. Digital passa da 40% a 50%.
+  Pattern: non normalizzare di nuovo se il totale resta 100%.
+
+  2. Risposta B - Costi operativi per divisione
+  Personale: (30-20)/20 = 50%. Affitti: (12-8)/8 = 50%. Utilities: (9-4,5)/4,5 = 100%. Marketing: (15-9)/9 = 66,7%. Risposta: Utilities.
+  Pattern: la differenza assoluta non basta; serve la differenza percentuale sul denominatore specificato.
+
+  3. Risposta C - Composizione portafoglio investimenti
+  Asset ad alto rischio: Azioni 150 + Materie prime 35 + Crypto 20 = 205. Totale = 400. Quota = 205/400 = 51,25%, cioè circa 51,3%.
+  Pattern: sommare prima i valori, poi dividere per il totale; non fare la media delle percentuali.
+
+  4. Risposta D - Tasso di disoccupazione
+  Italia: -1,4 punti. Spagna: -3,8 punti. Germania: -1,1 punti. Francia: -1,4 punti. La maggiore riduzione in punti percentuali è della
+  Spagna. Pattern: punti percentuali = differenza diretta tra percentuali, non variazione percentuale relativa.
+
+  5. Risposta A - Andamento prezzi materie prime
+  Petrolio: gennaio 70*1.200 = 84.000 €. Giugno: 70*1,25*1.200 = 105.000 €. Aumento = 21.000 €, quindi supera 20.000 €. Oro
+  marzo/febbraio: 106/103-1 = 2,9%; petrolio: 110/105-1 = 4,8%. Oro giugno = 1.700*1,12 = 1.904 €. Pattern: un indice non è un
+  prezzo; va moltiplicato per il prezzo base.
+
+  6. Risposta C - Distribuzione energia per fonte
+  Le non rinnovabili iniziali sono 68%. Il gas è 38/68 del blocco non rinnovabile. Dopo il target, il blocco non rinnovabile è 55%.
+  Nuovo gas = 55%*(38/68) = 30,7%, circa 31%. Pattern: non sottrarre semplicemente 13 punti dal gas; bisogna ridurre
+  proporzionalmente tutto il residuo.
+
+  7. Risposta A - Vendite mensili prodotti elettronici
+  Smartphone: 4500/7500 = 60%. Laptop: 2000/4000 = 50%. Tablet: 1600/2100 = 76,2%. Camera: 900/1900 = 47,4%. Smartwatch:
+  3200/4400 = 72,7%. Risposta: Tablet. Pattern: il valore online più alto non implica la quota online più alta.
+
+  8. Risposta B - Soddisfazione clienti per servizio
+  Conviene comprare prima i punti meno costosi: Email fino a 10 richiede 3,5 punti e costa 87,5K; Chat fino a 10 richiede 2,5 punti
+  e costa 75K. Totale 162,5K, resta 17,5K. Con Telefono si compra 0,35 punti. Incremento totale = 6,35. Punteggio iniziale totale =
+  37,7. Nuovo totale = 44,05; media = 44,05/5 = 8,81. Pattern: ordinare per costo marginale, non migliorare il punteggio più basso
+  a caso.
+
+  9. Risposta D - Ore medie lavorate a settimana
+  Paesi europei mostrati: Italia, Francia, Germania, Paesi Bassi. Media = (35,5+35,0+34,2+31,8)/4 = 34,125. Canada = 40,8.
+  Differenza = 6,675, circa 6,7 ore. Pattern: non includere Canada e Corea nella media europea.
+
+  10. Risposta B - Performance fondi comuni
+  Il miglior rendimento per unità di rischio è indicato dallo Sharpe Ratio più alto. Epsilon Income ha Sharpe 0,82, superiore agli
+  altri. Pattern: non scegliere il rendimento più alto; il rendimento va rapportato al rischio.
+
+  11. Risposta C - Temperature e popolazione
+  Media ponderata = 8*0,30 + 12*0,25 + 15*0,20 + 6*0,25 = 2,4 + 3,0 + 3,0 + 1,5 = 9,9 °C. Pattern: non fare la media semplice dei
+  quattro valori.
+
+  12. Risposta D - Arrivi turistici
+  Mare: +0,3/1,2 = 25%. Città d'arte: +0,3/0,8 = 37,5%. Laghi: +0,4/2,0 = 20%. Montagna: +0,25/0,5 = 50%. Pattern: crescita assoluta
+  e percentuale possono dare classifiche diverse.
+
+  13. Risposta A - Vendite per reparto
+
+
+Mock Data Insights Bocconi - Set 2                                                                                                 Pagina 54
+  Sales cresce del 15% e R&D; del 18%, quindi superano il 12%. Marketing, HR e Operations crescono del 10%. Risposta: 2 reparti.
+  Pattern: "supera" indica >12%, non >=12%.
+
+  14. Risposta B - Mercato software
+  Mercato futuro = 240*1,25 = 300 M€. Azienda A futura = 60*1,20 = 72 M€. Quota = 72/300 = 24%. Pattern: non applicare la
+  crescita dell'azienda al mercato o viceversa.
+
+  15. Risposta C - Promozioni prodotti
+  A: (100*0,90 - 65)*500 = 12.500 €. B: (75 - 55)*700 = 14.000 €. C: (120*0,75 - 80)*450 = 4.500 €. D: (60*0,95 - 42)*800 = 12.000 €.
+  Risposta: B. Pattern: il costo va sottratto dal prezzo effettivo, non dal prezzo listino.
+
+  16. Risposta D - Budget aziendale
+  Nuovo totale = 950*1,20 = 1.140. Sales = 400*1,15 = 460. Marketing = 30%*1.140 = 342. IT = 180*1,10 = 198. Admin = 1.140 - 460
+  - 342 - 198 = 140 M€. Pattern: la voce residua non segue automaticamente la crescita totale.
+
+  17. Risposta B - Distribuzione spese aziendali
+  R&D; attuale = 22%*3.000.000 = 660.000 €. Nuovo totale = 3.000.000*1,12 = 3.360.000 €. Nuova R&D; = 28%*3.360.000 =
+  940.800 €. Aumento = 280.800 €, circa 281.000 €. Pattern: aggiornare prima il totale, poi applicare la nuova quota.
+
+  18. Risposta C - Indicatori macroeconomici
+  A: 2,4-0,2 = 2,2. B: 1,8-(-0,5)=2,3. C: 3,0-2,2 = 0,8. D: 2,1-1,0=1,1. E: 1,5-0,3=1,2. Il più basso è Paese C. Pattern: sottrarre un PIL
+  negativo aumenta il risultato.
+
+  19. Risposta A - Abbonati piattaforma streaming
+  80.000*1,25 = 100.000. Poi 100.000*0,90 = 90.000. Poi 90.000*1,08 = 97.200. Pattern: +25%, -10%, +8% non si sommano; si
+  moltiplicano i fattori.
+
+  20. Risposta D - Fatturato trimestrale
+  Fatturato annuo A = 190; utile A = 190*0,30 - 18 = 39 M€. Fatturato annuo B = 177; utile B = 177*0,32 - 14 = 42,64 M€. Differenza
+  = 3,64 M€ a favore di B. Pattern: calcolare sul totale annuo, non su un solo trimestre.
+
+  21. Risposta B - Preferenze clienti
+  Premium: 600*65% = 390. Standard: 1.400*40% = 560. I clienti standard sono di più in valore assoluto, anche se la percentuale
+  è minore. Pattern: percentuali con basi diverse non si confrontano direttamente.
+
+  22. Risposta D - Uso applicazioni
+  Non basta conoscere le percentuali di utilizzo delle singole app. Per sapere quanti usano solo A servono gli overlap AB, AC e
+  ABC. Pattern: la parola "solo" è un segnale di possibile insufficienza dati.
+
+  23. Risposta C - Vendite e resi
+  A: 1.000*50*0,95 = 47.500 €. B: 700*90*0,92 = 57.960 €. C: 1.500*35*0,88 = 46.200 €. D: 400*140*0,85 = 47.600 €. Risposta: B.
+  Pattern: usare le unità nette, non le unità vendute lorde.
+
+  24. Risposta A - Customer satisfaction
+  Media = (400*7,5 + 200*8,0 + 300*8,5 + 100*6,0)/1.000 = 7.750/1.000 = 7,75. Pattern: un canale con pochi rispondenti non pesa
+  come uno con molti rispondenti.
+
+  25. Risposta B - Commercio estero
+  Rapporto Import/Export attuale = 450/500 = 0,9. Export futuro = 500*1,12 = 560. Import futuro = 560*0,9 = 504. Saldo = 560 -
+  504 = +56 M€. Pattern: se un rapporto resta costante, non resta costante il valore assoluto.
+
+  26. Risposta C - Clienti SaaS
+  Clienti rimasti = 2.000*(1-0,08) = 1.840. Clienti finali = 1.840 + 300 = 2.140. Ricavo = 2.140*120 = 256.800 €. Pattern: prima
+  togliere il churn, poi aggiungere i nuovi clienti.
+
+  27. Risposta D - Punto di pareggio
+  Margine di contribuzione unitario = 50 - 30 = 20 €. Unità = (120.000 + 40.000)/20 = 8.000. Pattern: nel numeratore vanno sia
+  costi fissi sia profitto target.
+
+  28. Risposta A - Costo mensile di vita
+
+Mock Data Insights Bocconi - Set 2                                                                                                   Pagina 55
+  Venezia: 900 + 120*0,6 + 350 = 1.322. Padova: 700 + 180*0,6 + 320 - 100 = 1.028. Verona: 750 + 150*0,6 + 340 - 50 = 1.130.
+  Trieste: 650 + 200*0,6 + 350 = 1.120. Risposta: Padova. Pattern: condizioni e bonus vanno applicati prima del confronto.
+
+  29. Risposta B - Nuova distribuzione budget
+  Dopo A=40% e B=25%, resta 35% per C e D. Il rapporto attuale C:D è 25:15 = 5:3. Quindi C = 35*(5/8) = 21,875%, circa 21,9%.
+  Pattern: mantenere il rapporto tra categorie residue, non mantenere le quote assolute.
+
+  30. Risposta C - Soddisfazione per area
+  Punteggio massimo = Qualità 91. Punteggio minimo = Supporto 68. Differenza = 91 - 68 = 23 punti. Pattern: se è lettura diretta,
+  non complicare.
+
+  31. Risposta A - Tassi di interesse
+  Paese A: +3,5 punti. Paese B: +2,0 punti. Paese C: +2,6 punti. Risposta: Paese A. Pattern: variazione in punti percentuali =
+  sottrazione diretta.
+
+  32. Risposta D - Portafoglio semestrale
+  Rendimento Q1 = 0,5*4% + 0,3*1% + 0,2*(-2%) = 1,9%. Rendimento Q2 = 0,5*(-3%) + 0,3*2% + 0,2*5% = 0,1%. Capitale =
+  100.000*1,019*1,001 = 102.001,9 €, circa 102.000 €. Pattern: prima ponderare per trimestre, poi comporre i trimestri.
+
+  33. Risposta B - Performance fondi
+  Rapporto rendimento/volatilità: X = 0,50; Y = 0,85; Z = 0,80; W = 0,67. Il più alto è Fondo Y. Pattern: quando Sharpe non è dato, si
+  calcola come rendimento/volatilità se il risk-free è nullo.
+
+  34. Risposta C - Indice prezzi di un paniere
+  Spesa maggio = 100*1,15 + 200*1,08 + 150*1,20 = 115 + 216 + 180 = 511. Spesa gennaio = 450. Variazione = (511-450)/450 =
+  13,56%. Pattern: ogni voce va aggiornata con il proprio indice, poi si somma.
+
+  35. Risposta A - Produzione industriale
+  A: 200k*70%*1.000*20% = 28 M€. B: 350k*40%*600*20% = 16,8 M€. C: 500k*30%*200*20% = 6 M€. Risposta: A. Pattern: il
+  volume totale più alto non basta; conta il valore esportato.
+
+  36. Risposta D - Valutazione università
+  A: 40.000*0,90 - 12.000 = 24.000. B: 38.000*0,95 - 10.000 = 26.100. C: 45.000*0,80 - 20.000 = 16.000. D: 35.000*0,98 - 8.000 =
+  26.300. Risposta: D. Pattern: salario alto senza employment rate e costi può ingannare.
+
+  37. Risposta B - Budget marketing
+  Le quote rimanenti sommano 90%. Digital riceve 10%*(40/90) = 4,44 punti. Nuova quota Digital = 40 + 4,44 = 44,44%. Pattern:
+  "proporzionalmente" non significa "in parti uguali".
+
+  38. Risposta C - Vendite online e negozio
+  A: 5000/(5000+8000)=38,5%. B: 3200/(3200+800)=80%. C: 4200/(4200+1800)=70%. D: 2800/(2800+200)=93,3%. Risposta: D.
+  Pattern: non scegliere automaticamente il prodotto con più vendite online assolute.
+
+  39. Risposta A - Ricavi e margini
+  A: profitto 20 -> 24, aumento 4. B: 24 -> 30, aumento 6. C: 22,5 -> 24, aumento 1,5. D: 24 -> 32, aumento 8. Risposta: D. Pattern:
+  l'aumento dei ricavi va moltiplicato per il margine.
+
+  40. Risposta B - Media esami
+  Media = (28*6 + 24*12 + 30*6 + 26*9)/(6+12+6+9) = 870/33 = 26,36. Pattern: esami con più crediti pesano di più.
+
+  41. Risposta D - Pianificazione spedizioni
+  Per vincolo diretto, B è almeno 10 più di C, quindi B supera sempre C. Le altre affermazioni possono essere vere in alcuni casi
+  ma non sono necessarie. Pattern: "certamente" richiede verità in tutti i casi compatibili, non in un caso plausibile.
+
+  42. Risposta A - Adozione servizio premium
+  Mancano le numerosità dei segmenti. Il 60% di un gruppo piccolo può essere meno del 45% di un gruppo grande. Pattern:
+  senza basi assolute, non si confrontano quantità assolute.
+
+  43. Risposta C - Ore lavorate per paese
+
+
+Mock Data Insights Bocconi - Set 2                                                                                               Pagina 56
+  Paesi europei: Italia, Francia, Germania. Media = (34+32+33)/3 = 33. Giappone = 40. Differenza = 7 ore. Pattern: includere solo il
+  sottogruppo indicato dalla domanda.
+
+  44. Risposta B - Paniere consumi
+  Inflazione ponderata = 30%*5 + 20%*12 + 40%*2 + 10%*7 = 1,5 + 2,4 + 0,8 + 0,7 = 5,4%. Pattern: non fare la media semplice
+  delle inflazioni.
+
+  45. Risposta A - Mix energetico nazionale
+  Le fonti fossili iniziali sono 75%, con gas 45/75 del blocco fossile. Dopo il target, il blocco fossile è 60%. Gas nuovo =
+  60*(45/75)=36%. Pattern: preservare le proporzioni dentro il blocco residuo.
+
+  46. Risposta C - Vendite regionali
+  Totale 2022 = 1.900. Totale 2024 = 2.350. Crescita = 450/1.900 = 23,7%, quindi supera il 20%. Il bonus spetta a Sud e Isole, non
+  solo Sud. Il Nord ha margine 850*70%=595; le Isole 370*65%=240,5. Pattern: nelle multi-affermazioni verifica una proposizione
+  alla volta, senza usare intuizioni.
+
+  47. Risposta D - Campagne marketing
+  Search: ricavi 500.000*2%*80=800.000, ROI=15. Social: 480.000, ROI=11. Email: 250.000, ROI=24. Display: 210.000, ROI=6.
+  Risposta: Email. Pattern: alto volume di impression non equivale a ROI alto.
+
+  48. Risposta B - Emissioni industriali
+  Acciaio: 100.000*(2,0-1,8)=20.000. Cemento: 150.000*(0,8-0,7)=15.000. Chimica: 80.000*(1,5-1,4)=8.000. Risposta: Acciaio.
+  Pattern: riduzione assoluta = produzione * riduzione di intensità.
+
+  49. Risposta C - Operazione azionaria
+  Costo iniziale = 100*50 + 1%*5.000 = 5.050. Incasso vendita netto = 100*58 - 1%*5.800 = 5.742. Dividendi = 200. Guadagno
+  netto = 5.742 + 200 - 5.050 = 892. Rendimento = 892/5.050 = 17,66%. Pattern: includere commissioni su acquisto e vendita, non
+  solo la plusvalenza prezzo.
+
+  50. Risposta D - Miglioramento servizi
+  Ordine per costo per punto: Supporto 25K fino a 1 punto; Prezzo 30K fino a 3 punti; Delivery 40K; App 50K. Spesa: Supporto 1
+  punto = 25K; Prezzo 3 punti = 90K; resta 35K per Delivery = 0,875 punti. Incremento totale = 4,875. Punteggio iniziale totale =
+  27,5. Nuovo totale = 32,375; media = 8,09. Pattern: ottimizzazione = comprare prima i punti più economici rispettando i cap.
+
+
+
+
+Mock Data Insights Bocconi - Set 2                                                                                             Pagina 57
+

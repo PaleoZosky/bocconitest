@@ -1,0 +1,551 @@
+            Archivio errori - Mock Bocconi
+                  Quesiti puliti, soluzione e risposta originale
+
+
+
+
+Contiene i 62 errori dei mock 1-7, nello stesso ordine in cui sono stati caricati.
+Nella schermata del quesito non sono visibili ne la tua selezione ne il feedback corretto/errato.
+Sotto ogni esercizio trovi la soluzione, il passaggio chiave e, solo dopo, la risposta data in origine.
+Indice
+
+Mock 1: quesiti 1-15 (15 errori)
+
+Mock 2: quesiti 16-24 (9 errori)
+
+Mock 3: quesiti 25-35 (11 errori)
+
+Mock 4: quesiti 36-43 (8 errori)
+
+Mock 5-6: quesiti 44-57 (14 errori)
+
+Mock 7: quesiti 58-62 (5 errori)
+Mock 1
+ 15 errori
+Quesito 1 - Mock 1                                                                                                          Schermata originale 40
+
+
+
+
+  Soluzione corretta: Solo A
+  Passaggio chiave: A e vera: sabato sono 2 ore, meno della media degli altri giorni. B e falsa: le femmine sono 5 su 15, cioe 1/3. C e falsa:
+  35 giocatori / 3 allenatori non fa 11. D e falsa: 20 / 3 e inferiore a 15 / 1.
+  In origine avevi risposto: Sia la A sia la D
+Quesito 2 - Mock 1                                                                                                                                   Schermata originale 41
+
+
+
+
+  Soluzione corretta: B
+  Passaggio chiave: La (1) da sola lascia piu coppie intere con gf = 3; la (2) da sola non determina g. Insieme f > 1 impone f = 3 e quindi g = 1.
+  In origine avevi risposto: A
+Quesito 3 - Mock 1                                                                                                                                                                              Schermata originale 42
+
+
+
+
+  Soluzione corretta: Seconda opzione
+  Passaggio chiave: Il TAN dei mutui green e indicato come mediamente inferiore di 20-30 punti base. Le altre opzioni introducono causalita, periodi temporali o dati sul 2014 non sostenuti dal brano.
+  In origine avevi risposto: Le richieste di surroga hanno determinato un allungamento della durata media dei mutui
+Quesito 4 - Mock 1                                                                                                       Schermata originale 43
+
+
+
+
+  Soluzione corretta: D
+  Passaggio chiave: Neppure insieme basta. Con 54 ore totali e massimo 8 al giorno, la domenica puo valere 6, 7 oppure 8 ore; il costo
+  cambia, quindi il totale pagato non e unico.
+  In origine avevi risposto: B
+Quesito 5 - Mock 1                                                                                                                                                 Schermata originale 44
+
+
+
+
+  Soluzione corretta: 5
+  Passaggio chiave: Il primo gol della trasferta e gia fissato. Nelle cinque posizioni restanti bisogna collocare il secondo gol della trasferta: 5 possibilita.
+  In origine avevi risposto: 5! / (4! x 2!)
+Quesito 6 - Mock 1                                                                                                       Schermata originale 45
+
+
+
+
+  Soluzione corretta: Seconda opzione
+  Passaggio chiave: La fascia 45-64 anni scende da 89,8% nel 2022 a 87,5% nel 2023. Le altre affermazioni sono smentite dai valori del
+  grafico.
+  In origine avevi risposto: La percentuale 45-64 anni non supera il doppio della percentuale 65+ in entrambi gli anni
+Quesito 7 - Mock 1                                                                                                       Schermata originale 46
+
+
+
+
+  Soluzione corretta: Solo C
+  Passaggio chiave: L area tropicale e la piu piccola ed e pari a 80 m2: l area del panda rosso non puo quindi essere 70 m2. A, B e D sono
+  compatibili o direttamente vere.
+  In origine avevi risposto: Solo la A
+Quesito 8 - Mock 1                                                                                                               Schermata originale 47
+
+
+
+
+  Soluzione corretta: B
+  Passaggio chiave: Servono le tre aree delle coppie di facce. Insieme: V = sqrt[(ab)(bc)(ac)] = sqrt(120 x 96 x 80) = 960 m3.
+  In origine avevi risposto: D
+Quesito 9 - Mock 1                                                                                                                                Schermata originale 48
+
+
+
+
+  Soluzione corretta: Non ricavabile dal testo
+  Passaggio chiave: Il brano descrive il declino dell interesse per l utopia, ma non lo attribuisce ai cambiamenti politici avvenuti in Europa.
+  In origine avevi risposto: Vera
+Quesito 10 - Mock 1                                                                                                                                                                   Schermata originale 49
+
+
+
+
+  Soluzione corretta: Seconda opzione
+  Passaggio chiave: Una sperimentazione in Paesi molto simili all Italia, nella quale il 4% risulta gia sufficiente, sostiene direttamente che la proposta del 5% possa funzionare.
+  In origine avevi risposto: Il piano e stato sperimentato in altri Paesi dell emisfero boreale e richiede almeno il 5%
+Quesito 11 - Mock 1                                                                                                                                                                    Schermata originale 50
+
+
+
+
+  Soluzione corretta: Quarta opzione
+  Passaggio chiave: Se il sistema crea un business di diplomi con costi proibitivi, ostacola l accesso regolare al lavoro e indebolisce direttamente la giustificazione del sindaco.
+  In origine avevi risposto: I cioccolatai attivi da piu di 24 mesi sono piu numerosi di quelli che dovranno frequentare il corso
+Quesito 12 - Mock 1                                                                                                                                          Schermata originale 51
+
+
+
+
+  Soluzione corretta: Vera
+  Passaggio chiave: E una parafrasi coerente del meccanismo descritto: facilitare l infiltrazione, la conservazione e il successivo riutilizzo dell acqua.
+  In origine avevi risposto: Non ricavabile dal testo
+Quesito 13 - Mock 1                                                                                  Schermata originale 52
+
+
+
+
+  Soluzione corretta: 499,50 euro
+  Passaggio chiave: Usare solo la riga Sera: 2x4,50 + 15x1,50 + 3x3 + 55x5 + 40x4 + 24x1 = 499,50.
+  In origine avevi risposto: 1.391,00 euro
+Quesito 14 - Mock 1                                                                                                          Schermata originale 53
+
+
+
+
+  Soluzione corretta: Sia B sia C
+  Passaggio chiave: Primi 5 capitoli: 150 pagine; capitoli 6-10: 125; ultimi 5: 75, quindi 15 ciascuno. B e vera e 30:25 = 6:5 rende vera C.
+  In origine avevi risposto: Solo la C
+Quesito 15 - Mock 1                                                                                                                      Schermata originale 54
+
+
+
+
+  Soluzione corretta: Gli uomini sono il doppio delle donne
+  Passaggio chiave: (24M + 21F)/(M + F) = 23 porta a M = 2F. La media e piu vicina a 24, quindi il gruppo maschile deve pesare di piu.
+  In origine avevi risposto: Le studentesse sono in numero doppio rispetto agli studenti maschi
+Mock 2
+ 9 errori
+Quesito 16 - Mock 2                                                                                                                                                            Schermata originale 55
+
+
+
+
+  Soluzione corretta: B
+  Passaggio chiave: Femmine 12.000, maschi 8.000. Le due affermazioni insieme danno 4.000 femmine nate, 2.000 maschi non nati e 6.000 maschi nati: 10.000 nati, cioe il 50%.
+  In origine avevi risposto: D
+Quesito 17 - Mock 2                                                                                                                                               Schermata originale 56
+
+
+
+
+  Soluzione corretta: A
+  Passaggio chiave: La (2) da sola basta: i libri rossi e tedeschi non possono superare i 15 tedeschi, quindi P <= 15/45 = 1/3 < 1/2. La (1) da sola non basta.
+  In origine avevi risposto: B
+Quesito 18 - Mock 2                                                                                                                       Schermata originale 57
+
+
+
+
+  Soluzione corretta: B
+  Passaggio chiave: Il 60% del 75% ha ordinato entrambi: 45%. Questo 45% e il 90% di chi ha ordinato vino, quindi vino = 45%/90% = 50%.
+  In origine avevi risposto: D
+Quesito 19 - Mock 2                                                                                                                  Schermata originale 58
+
+
+
+
+  Soluzione corretta: D
+  Passaggio chiave: Essere multiplo di 4 e di 6 implica essere multiplo del mcm(4,6) = 12, non necessariamente di 24. Esempio: 12.
+  In origine avevi risposto: B
+Quesito 20 - Mock 2                                                                     Schermata originale 59
+
+
+
+
+  Soluzione corretta: 40% in piu
+  Passaggio chiave: La base e quanto ha pagato lui: (1050 - 750)/750 = 300/750 = 40%.
+  In origine avevi risposto: Il 29% in piu
+Quesito 21 - Mock 2                                                                                                                                                       Schermata originale 60
+
+
+
+
+  Soluzione corretta: A
+  Passaggio chiave: La (1) da sola mostra che due elementi differiscono di piu di 2, quindi il range dell insieme e certamente maggiore di 2. La (2) da sola non basta.
+  In origine avevi risposto: D
+Quesito 22 - Mock 2                                                                                                                                        Schermata originale 61
+
+
+
+
+  Soluzione corretta: Falsa
+  Passaggio chiave: Il testo colloca le botteghe di barbieri e cerusici ai margini della citta; l affermazione le colloca vicino alle botteghe centrali.
+  In origine avevi risposto: Non ricavabile dal testo
+Quesito 23 - Mock 2                                                                                                                                                         Schermata originale 62
+
+
+
+
+  Soluzione corretta: Quarta opzione
+  Passaggio chiave: Per le casalinghe, meno di 3 ore significa 5% + 20% = 25%. Non si possono confrontare numerosita di categorie diverse senza conoscerne le dimensioni.
+  In origine avevi risposto: Tra chi guarda la TV oltre 3 ore, gli studenti sono piu numerosi dei liberi professionisti
+Quesito 24 - Mock 2                                                                                                                                           Schermata originale 63
+
+
+
+
+  Soluzione corretta: Quarta opzione
+  Passaggio chiave: La domanda citata e la domanda di laureati e lavoratori qualificati: il brano sostiene che sia maggiore all estero rispetto all Italia.
+  In origine avevi risposto: La domanda si riferisce al problema degli stipendi bassi in Italia
+Mock 3
+ 11 errori
+Quesito 25 - Mock 3                                                                                                          Schermata originale 64
+
+
+
+
+  Soluzione corretta: A
+  Passaggio chiave: La (1) identifica b come ipotenusa: a2 + c2 = b2, quindi l angolo opposto, B, e retto. Il rapporto 3:4:5 da solo non dice
+  quale lato sia b.
+  In origine avevi risposto: C
+Quesito 26 - Mock 3                                                                                                       Schermata originale 65
+
+
+
+
+  Soluzione corretta: Solo B, C e D
+  Passaggio chiave: B e necessaria perche Arte > Storia. Se Storia = 200, il minimo e 200 e il massimo e 400, quindi C. D e possibile
+  costruendo una configurazione compatibile.
+  In origine avevi risposto: Solo la B e la C
+Quesito 27 - Mock 3                                                                                                    Schermata originale 66
+
+
+
+
+  Soluzione corretta: Seconda opzione
+  Passaggio chiave: Mostrare che le imprese reagiscono agli aumenti di costo investendo in soluzioni meno costose nel lungo periodo
+  conferma il meccanismo su cui si basa la tassa.
+  In origine avevi risposto: In passato tasse simili non hanno modificato il comportamento delle aziende
+Quesito 28 - Mock 3                                                                                                                                       Schermata originale 67
+
+
+
+
+  Soluzione corretta: Non deducibile
+  Passaggio chiave: Il brano descrive la situazione attuale ma non fornisce una previsione capace di confermare o negare un inevitabile declino futuro.
+  In origine avevi risposto: Falsa
+Quesito 29 - Mock 3                                                                                                     Schermata originale 68
+
+
+
+
+  Soluzione corretta: Museo B, circa 1.029.000 euro
+  Passaggio chiave: Utili 2024: A circa 694.800; B circa 1.028.900; C circa 1.017.600. B e leggermente superiore a C.
+  In origine avevi risposto: Museo C con circa 1.018.000 euro
+Quesito 30 - Mock 3                                                                                                   Schermata originale 69
+
+
+
+
+  Soluzione corretta: 23,1 anni
+  Passaggio chiave: Lettere ha (400 + 600)/2 = 500 iscritti. Media = (22x400 + 24x600 + 23x500)/1500 = 23,13 circa.
+  In origine avevi risposto: 23,4 anni
+Quesito 31 - Mock 3                                                                                                   Schermata originale 70
+
+
+
+
+  Soluzione corretta: Tutte le precedenti
+  Passaggio chiave: Da Alfa + Beta = 36 e Alfa > Beta segue Alfa >= 19 e Beta <= 17. Se Alfa = 20, Beta = 16. Gamma puo arrivare a 25 e
+  superare Alfa.
+  In origine avevi risposto: Solo la A, la B e la C
+Quesito 32 - Mock 3                                                                                                       Schermata originale 71
+
+
+
+
+  Soluzione corretta: Al Museo B sono stati registrati piu visitatori che al Museo A
+  Passaggio chiave: Nel 2023: totale 1.605; C = 465 per crescita costante; A = 370 dal totale quadriennale; quindi B = 770, maggiore di A.
+  In origine avevi risposto: Il Museo B e aumentato di 120 mila visitatori rispetto al 2022
+Quesito 33 - Mock 3                                                                                                                                                                         Schermata originale 72
+
+
+
+
+  Soluzione corretta: Terza opzione
+  Passaggio chiave: Rese per ettaro: Veneto 131,6; Puglia 119,5; Emilia-Romagna 138,5; Sicilia 45,9; Toscana 48,3. Le due rese piu basse producono 7,3 milioni, non oltre il 60% dei 12,5 del Veneto.
+  In origine avevi risposto: La resa per ettaro del Veneto supera quella della Puglia di oltre il 15%
+Quesito 34 - Mock 3                                                                                                               Schermata originale 73
+
+
+
+
+  Soluzione corretta: Lo spreco sistematico
+  Passaggio chiave: Il modello lineare e definito dal ciclo estrai-produci-usa-getta; la caratteristica distintiva rispetto all economia circolare e la
+  produzione sistematica di sprechi.
+  In origine avevi risposto: L estrazione continua di risorse
+Quesito 35 - Mock 3                                                                                                                                                                             Schermata originale 74
+
+
+
+
+  Soluzione corretta: Seconda opzione
+  Passaggio chiave: Per attribuire causalmente la riduzione dei furti alle telecamere bisogna escludere altri fattori concorrenti. Gli arresti non sono necessari: puo bastare la deterrenza.
+  In origine avevi risposto: Le telecamere hanno portato anche all arresto di molti criminali
+Mock 4
+ 8 errori
+Quesito 36 - Mock 4                                                                                              Schermata originale 75
+
+
+
+
+  Soluzione corretta: B
+  Passaggio chiave: La (1) da x = 2 oppure 3; la (2) da sola non basta. Insieme x < 3 elimina 3 e resta x = 2.
+  In origine avevi risposto: D
+Quesito 37 - Mock 4                                                                                                                    Schermata originale 76
+
+
+
+
+  Soluzione corretta: D
+  Passaggio chiave: Le due condizioni insieme identificano i numeri 3 e 6, ma non quale sia m: sono possibili (m,n) = (3,6) e (6,3).
+  In origine avevi risposto: B
+Quesito 38 - Mock 4                                                                                                      Schermata originale 77
+
+
+
+
+  Soluzione corretta: B
+  Passaggio chiave: Dal perimetro a + b = 14; dalla diagonale a2 + b2 = 100. Quindi 14^2 = 100 + 2ab e l area ab = 48.
+  In origine avevi risposto: D
+Quesito 39 - Mock 4                                                                                                                           Schermata originale 78
+
+
+
+
+  Soluzione corretta: Non deducibile
+  Passaggio chiave: Il testo indica come motivo la rapidita di lettura e la concentrazione, ma non dice nulla sul prezzo dei romanzi brevi.
+  In origine avevi risposto: Falsa
+Quesito 40 - Mock 4                                                                                                         Schermata originale 79
+
+
+
+
+  Soluzione corretta: Falsa
+  Passaggio chiave: Il testo dice che il mentoring riduce in generale l abbandono e che l efficacia dipende dalla preparazione dei tutor: questo
+  esclude il termine assoluto sempre.
+  In origine avevi risposto: Non deducibile
+Quesito 41 - Mock 4                                                                                                      Schermata originale 80
+
+
+
+
+  Soluzione corretta: Diminuzione di circa il 3%
+  Passaggio chiave: Sommando costo di produzione e carbon tax, il totale passa da circa 29,78 milioni nel 2021 a 28,98 milioni nel 2023:
+  circa -2,7%.
+  In origine avevi risposto: Aumento di circa il 3%
+Quesito 42 - Mock 4                                                                                                      Schermata originale 81
+
+
+
+
+  Soluzione corretta: Circa +14,3%
+  Passaggio chiave: Nel rendimento netto vanno inclusi dividendi, commissione di acquisto e commissione di vendita. Il rapporto tra
+  guadagno netto e costo iniziale effettivo e circa 14,3%.
+  In origine avevi risposto: Circa +21,2%
+Quesito 43 - Mock 4                                                                                                    Schermata originale 82
+
+
+
+
+  Soluzione corretta: Aumento di circa 2.400 euro
+  Passaggio chiave: Il 20% di 3.000 spedizioni Economy e 600. Il margine unitario passa da 3 a 7 euro: aumento 600 x 4 = 2.400.
+  In origine avevi risposto: Aumento di circa 2.800 euro
+Mock 5-6
+  14 errori
+Quesito 44 - Mock 5-6                                                                                                                                   Schermata originale 83
+
+
+
+
+  Soluzione corretta: D
+  Passaggio chiave: f(x) = 0 e x primo lascia x = 2 oppure 3. Anche la quadratica lascia 2 oppure 3. Le condizioni insieme non eliminano l ambiguita.
+  In origine avevi risposto: A
+Quesito 45 - Mock 5-6                                                                                                                                           Schermata originale 84
+
+
+
+
+  Soluzione corretta: A
+  Passaggio chiave: Il rapporto rosse:blu = 1:3 da solo determina P(rossa) = 1/4. Sapere solo che le palline totali sono 12 non determina il numero di rosse.
+  In origine avevi risposto: B
+Quesito 46 - Mock 5-6                                                                                                              Schermata originale 85
+
+
+
+
+  Soluzione corretta: 2/3
+  Passaggio chiave: Pari: 6; multipli di 3: 4; intersezione, multipli di 6: 2. Inclusione-esclusione: 6 + 4 - 2 = 8; 8/12 = 2/3.
+  In origine avevi risposto: 3/4
+Quesito 47 - Mock 5-6                                                                                                                                              Schermata originale 86
+
+
+
+
+  Soluzione corretta: A
+  Passaggio chiave: Con (1): lati obliqui 8, semidifferenza delle basi 3, altezza sqrt(55), quindi area determinata. Diagonale 13 e base 16 non bastano da sole.
+  In origine avevi risposto: C
+Quesito 48 - Mock 5-6                                                                                                        Schermata originale 87
+
+
+
+
+  Soluzione corretta: Al minuto 9
+  Passaggio chiave: Il consumo diventa 10 L/min. Al minuto 8 il livello e 520, ma il sistema parte solo sotto 520. Al minuto 9 e 510.
+  In origine avevi risposto: Al minuto 8
+Quesito 49 - Mock 5-6                                                                                                      Schermata originale 88
+
+
+
+
+  Soluzione corretta: La differenza tra A e B sara superiore a 400 intervistati
+  Passaggio chiave: Gli indecisi sono 132 e si ripartiscono secondo 52:19:18. Totali circa A = 701, B = 256, C = 243; A - B circa 445.
+  In origine avevi risposto: Il Prodotto C potrebbe raggiungere il 25% considerando il margine di errore
+Quesito 50 - Mock 5-6                                                                                                             Schermata originale 89
+
+
+
+
+  Soluzione corretta: Non deducibile
+  Passaggio chiave: Lo studio confronta mattina e sera e dichiara di non avere analizzato in modo specifico le ore pomeridiane.
+  In origine avevi risposto: Falsa
+Quesito 51 - Mock 5-6                                                                                                Schermata originale 90
+
+
+
+
+  Soluzione corretta: Aumento di 1,35 C
+  Passaggio chiave: Media ponderata 2019 = 17,055 C; media ponderata 2023 = 18,41 C. Differenza = 1,355 C, circa 1,35.
+  In origine avevi risposto: Aumento di 1,42 C
+Quesito 52 - Mock 5-6                                                                                                   Schermata originale 91
+
+
+
+
+  Soluzione corretta: 0,2 punti in meno
+  Passaggio chiave: Media semplice = 6,9; media ponderata = 6,7. Il peso elevato assegnato a Crescita, che ha un voto basso, riduce il
+  risultato.
+  In origine avevi risposto: Sono uguali
+Quesito 53 - Mock 5-6                                                                                                          Schermata originale 92
+
+
+
+
+  Soluzione corretta: 2:1
+  Passaggio chiave: Con R = Robusta e A = Arabica: 12R + 18A = 14(R + A), quindi R = 2A e il rapporto Robusta:Arabica e 2:1.
+  In origine avevi risposto: 1:2
+Quesito 54 - Mock 5-6                                                                                                  Schermata originale 94
+
+
+
+
+  Soluzione corretta: B e D
+  Passaggio chiave: B mostra che i succhi possono compensare le calorie eliminate; D mostra che il cambiamento delle abitudini potrebbe
+  non andare nella direzione desiderata.
+  In origine avevi risposto: B e C
+Quesito 55 - Mock 5-6                                                                                                        Schermata originale 95
+
+
+
+
+  Soluzione corretta: Falsa
+  Passaggio chiave: Il brano mostra una correlazione e specifica che contano anche qualita, continuita e altri fattori. Non si puo parlare di
+  garanzia per qualsiasi studente.
+  In origine avevi risposto: Non deducibile
+Quesito 56 - Mock 5-6                                                                                                Schermata originale 96
+
+
+
+
+  Soluzione corretta: 225.000 euro; con TPA a 9 euro, 202.500 euro
+  Passaggio chiave: Secondo semestre 775.000 passeggeri, primo 640.000. Differenza media mensile = 135.000/6 = 22.500; moltiplicare per
+  la TPA.
+  In origine avevi risposto: Circa 1.350.000 euro; con TPA a 9 euro, circa 1.215.000 euro
+Quesito 57 - Mock 5-6                                                                                                        Schermata originale 97
+
+
+
+
+  Soluzione corretta: 2.053.000 euro
+  Passaggio chiave: A riceve 2/3 degli 8 punti di E: +5,33 punti, quota 37,33%. Il mercato cresce a 5,5 milioni: 37,33% x 5,5 milioni circa
+  2,053 milioni.
+  In origine avevi risposto: 1.936.000 euro
+Mock 7
+ 5 errori
+Quesito 58 - Mock 7                                                                                                 Schermata originale 98
+
+
+
+
+  Soluzione corretta: Solo A e D
+  Passaggio chiave: Con A amministrazione = 18 e R&S; = 2M: P + 3M = 54. I casi ammessi danno M = 10 o 11 e P = 24 o 21, quindi P >=
+  19. D segue dal limite massimo di 25.
+  In origine avevi risposto: Solo D
+Quesito 59 - Mock 7                                                                                                    Schermata originale 99
+
+
+
+
+  Soluzione corretta: Sud, con differenza del 12%
+  Passaggio chiave: Aprile: Nord 50.000/3.000 = 16,67; Centro 42.000/2.500 = 16,80; Sud 27.000/1.800 = 15. Differenza = (16,80 - 15)/15 =
+  12%.
+  In origine avevi risposto: Centro, con una differenza del 10,3%
+Quesito 60 - Mock 7                                                                                                    Schermata originale 100
+
+
+
+
+  Soluzione corretta: Circa 546 milioni
+  Passaggio chiave: Totale 2023 = 1.630 milioni; totale 2024 = 1.711,5. La Meccanica mantiene la quota 520/1.630, quindi vale circa 546.
+  In origine avevi risposto: Circa 558 milioni
+Quesito 61 - Mock 7                                                                                                           Schermata originale 101
+
+
+
+
+  Soluzione corretta: 15,8%
+  Passaggio chiave: Cedole: 40 x 2 = 80. Capital gain: 1.020 - 950 = 70. Guadagno totale 150; rendimento = 150/950 = 15,8%.
+  In origine avevi risposto: 13,7%
+Quesito 62 - Mock 7                                                                                                             Schermata originale 102
+
+
+
+
+  Soluzione corretta: Terza opzione
+  Passaggio chiave: Il testo attribuisce ai sostenitori della globalizzazione la tesi che la diversificazione attenui il rischio economico nel lungo
+  periodo.
+  In origine avevi risposto: Prima opzione: l integrazione non possa mai compensare completamente i rischi regionali
+

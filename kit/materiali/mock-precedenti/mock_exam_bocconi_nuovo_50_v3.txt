@@ -1,0 +1,1214 @@
+                     Mock Exam Bocconi-style
+                     50 domande nuove - Quantitativa, Data Insights, Verbale
+
+
+  Durata suggerita               75 minuti
+
+  Formato                        50 domande a scelta multipla
+
+  Struttura                      18 Quantitative + 16 Data Insights + 16 Verbali
+
+  Soluzioni                      Separate in fondo al PDF
+
+
+
+ Questo mock usa pattern ricorrenti dei tuoi esercizi: data sufficiency, percentuali annidate, media
+ ponderata, grafici con rettifiche, vincoli logici, causality trap e non deducibilità. Domande e numeri sono
+ nuovi.
+
+
+
+
+Mock Exam Bocconi-style - 50 domande nuove                                                              Pagina 1
+ Quantitativa
+ Domanda 1
+ Alla domanda seguente scelga la risposta secondo i seguenti criteri:
+ A. se solo una affermazione, o (1) o (2), da sola è sufficiente a rispondere al problema, ma l'altra da sola
+ non lo è;
+ B. se bisogna combinare le affermazioni (1) e (2), sebbene nessuna presa singolarmente sia sufficiente;
+ C. se entrambe le affermazioni sono da sole sufficienti;
+ D. se, anche combinando le affermazioni, non si è in grado di rispondere al problema.
+
+ Si vuole stabilire se un numero intero positivo n è divisibile per 6.
+
+ Affermazione (1): n è divisibile per 3.
+ Affermazione (2): n è pari.
+
+ A. A
+
+ B. B
+
+ C. C
+
+ D. D
+
+
+ Domanda 2
+ Sara ha un budget di 1.500 euro per organizzare un viaggio. Spende il 42% del budget per l'hotel; il volo
+ costa i 2/3 dell'hotel; prenota tre escursioni, ciascuna pari al 12,5% del costo del volo; infine acquista una
+ assicurazione pari al 15% della somma tra volo e una sola escursione. Quanti euro le restano,
+ arrotondando all'euro più vicino?
+
+ A. 218 euro
+
+ B. 222 euro
+
+ C. 236 euro
+
+ D. 247 euro
+
+
+ Domanda 3
+ In un sacchetto ci sono 5 palline rosse, 4 blu e 3 verdi. Si estraggono 3 palline senza reinserimento. Qual è
+ la probabilità di estrarre esattamente 2 palline rosse?
+
+ A. 5/22
+
+ B. 7/22
+
+ C. 3/11
+
+ D. 9/22
+
+
+ Domanda 4
+ Un corriere percorre per 2 ore una tratta a 70 km/h e poi per 3 ore una seconda tratta a 50 km/h. Qual è la
+ velocità media sull'intero percorso?
+
+ A. 56 km/h
+
+ B. 58 km/h
+
+ C. 60 km/h
+
+ D. 62 km/h
+
+
+ Domanda 5
+
+
+Mock Exam Bocconi-style - 50 domande nuove                                                               Pagina 2
+ Alla domanda seguente scelga la risposta secondo i seguenti criteri:
+ A. se solo una affermazione, o (1) o (2), da sola è sufficiente a rispondere al problema, ma l'altra da sola
+ non lo è;
+ B. se bisogna combinare le affermazioni (1) e (2), sebbene nessuna presa singolarmente sia sufficiente;
+ C. se entrambe le affermazioni sono da sole sufficienti;
+ D. se, anche combinando le affermazioni, non si è in grado di rispondere al problema.
+
+ Qual è l'area del rettangolo R?
+
+ Affermazione (1): il perimetro di R è 34 cm.
+ Affermazione (2): la diagonale di R misura 13 cm.
+
+ A. A
+
+ B. B
+
+ C. C
+
+ D. D
+
+
+ Domanda 6
+ Per x maggiore di 2 si ha log base 3 di x più log base 3 di (x - 2) uguale a 2. Quanto vale x?
+
+ A. 1 + radice di 10
+
+ B. 3
+
+ C. 2 + radice di 13
+
+ D. 5
+
+
+ Domanda 7
+ Due fratelli hanno età nel rapporto 4:3 e la somma delle età attuali è 49 anni. Quanti anni fa il maggiore
+ aveva il doppio dell'età del minore?
+
+ A. 7 anni fa
+
+ B. 10 anni fa
+
+ C. 14 anni fa
+
+ D. Non è mai accaduto
+
+
+ Domanda 8
+ In un'azienda lavorano 7 uomini e 5 donne. Si vuole formare un comitato di 4 persone composto
+ esattamente da 2 uomini e 2 donne. In quanti modi diversi si può formare il comitato?
+
+ A. 140
+
+ B. 180
+
+ C. 210
+
+ D. 240
+
+
+ Domanda 9
+ Alla domanda seguente scelga la risposta secondo i seguenti criteri:
+ A. se solo una affermazione, o (1) o (2), da sola è sufficiente a rispondere al problema, ma l'altra da sola
+ non lo è;
+ B. se bisogna combinare le affermazioni (1) e (2), sebbene nessuna presa singolarmente sia sufficiente;
+ C. se entrambe le affermazioni sono da sole sufficienti;
+ D. se, anche combinando le affermazioni, non si è in grado di rispondere al problema.
+
+
+
+
+Mock Exam Bocconi-style - 50 domande nuove                                                               Pagina 3
+ Dato x reale positivo, si vuole stabilire se x è maggiore di 4.
+
+ Affermazione (1): x^2 è maggiore di 16.
+ Affermazione (2): x^3 è minore di 125.
+
+ A. A
+
+ B. B
+
+ C. C
+
+ D. D
+
+
+ Domanda 10
+ Una cisterna può essere riempita da una prima pompa in 5 ore e da una seconda pompa in 8 ore. Una
+ valvola aperta svuoterebbe la cisterna piena in 20 ore. Aprendo contemporaneamente le due pompe e la
+ valvola, quanto tempo serve per riempire la cisterna?
+
+ A. 3 ore e 20 minuti
+
+ B. 3 ore e 38 minuti circa
+
+ C. 4 ore
+
+ D. 4 ore e 15 minuti
+
+
+ Domanda 11
+ La facoltà A ha 120 studenti con età media 23 anni, la facoltà B ha 180 studenti con età media 25 anni, la
+ facoltà C ha 150 studenti con età media 22 anni. Qual è l'età media ponderata dei tre gruppi?
+
+ A. 23,1 anni
+
+ B. 23,5 anni
+
+ C. 23,8 anni
+
+ D. 24,0 anni
+
+
+ Domanda 12
+ Una funzione lineare passa per i punti (2,5) e (6,17). Quanto vale la funzione per x = 9?
+
+ A. 23
+
+ B. 24
+
+ C. 25
+
+ D. 26
+
+
+ Domanda 13
+ In una progressione aritmetica il primo termine è 7 e la ragione è 4. Quale termine della progressione è
+ uguale a 79?
+
+ A. Il 18esimo
+
+ B. Il 19esimo
+
+ C. Il 20esimo
+
+ D. Il 21esimo
+
+
+ Domanda 14
+ La somma dei numeri di pagina di un fascicolo, dalla pagina 1 all'ultima pagina, è 465. Qual è l'ultima
+ pagina numerata?
+
+
+Mock Exam Bocconi-style - 50 domande nuove                                                            Pagina 4
+ A. 28
+
+ B. 29
+
+ C. 30
+
+ D. 31
+
+
+ Domanda 15
+ Tre reparti producono componenti. Il reparto A produce il 30% dei pezzi con difettosità 4%, il reparto B il
+ 50% con difettosità 1%, il reparto C il 20% con difettosità 5%. Se un pezzo estratto a caso è difettoso, qual
+ è la probabilità che provenga dal reparto C?
+
+ A. Circa 25%
+
+ B. Circa 31%
+
+ C. Circa 37%
+
+ D. Circa 42%
+
+
+ Domanda 16
+ Un triangolo isoscele ha base 24 cm e lati obliqui lunghi 20 cm. Qual è la sua area?
+
+ A. 168 cm2
+
+ B. 180 cm2
+
+ C. 192 cm2
+
+ D. 216 cm2
+
+
+ Domanda 17
+ Alla domanda seguente scelga la risposta secondo i seguenti criteri:
+ A. se solo una affermazione, o (1) o (2), da sola è sufficiente a rispondere al problema, ma l'altra da sola
+ non lo è;
+ B. se bisogna combinare le affermazioni (1) e (2), sebbene nessuna presa singolarmente sia sufficiente;
+ C. se entrambe le affermazioni sono da sole sufficienti;
+ D. se, anche combinando le affermazioni, non si è in grado di rispondere al problema.
+
+ In un triangolo ABC i lati sono a = BC, b = CA, c = AB. Si vuole stabilire se l'angolo in B è retto.
+
+ Affermazione (1): CA è il lato più lungo e a^2 + c^2 = b^2.
+ Affermazione (2): i lati sono in rapporto 5:12:13.
+
+ A. A
+
+ B. B
+
+ C. C
+
+ D. D
+
+
+ Domanda 18
+ In una classe di 40 studenti, 22 studiano inglese, 18 francese e 15 tedesco. Inoltre 8 studiano inglese e
+ francese, 7 inglese e tedesco, 5 francese e tedesco, e 3 tutte e tre le lingue. Quanti studenti non studiano
+ nessuna delle tre lingue?
+
+ A. 0
+
+ B. 1
+
+ C. 2
+
+ D. 3
+
+
+Mock Exam Bocconi-style - 50 domande nuove                                                               Pagina 5
+ Data Insights
+ Domanda 19
+
+
+
+
+ Il grafico mostra i ricavi trimestrali 2023 di tre filiali, in migliaia di euro. I margini operativi lordi sono:
+ Milano 22%, Roma 26%, Napoli 30%. Nel Q4 i costi fissi trimestrali sono: Milano 50.000 euro, Roma 42.000
+ euro, Napoli 35.000 euro. Quale filiale registra il maggiore utile operativo nel Q4?
+
+ A. Milano, circa 35.800 euro
+
+ B. Roma, circa 50.300 euro
+
+ C. Napoli, circa 49.000 euro
+
+ D. Milano e Napoli a pari merito
+
+
+ Domanda 20
+
+
+
+
+ Il grafico mostra la distribuzione attuale del budget aziendale, pari a 2,8 milioni di euro. Il budget totale
+ aumenterà del 12% nel prossimo anno e di un ulteriore 8% l'anno successivo. A partire dal prossimo anno,
+ la quota R&D salirà stabilmente al 22% del nuovo budget totale. Di quanto aumenterà in valore assoluto il
+ budget R&D rispetto alla situazione iniziale, considerando il secondo anno successivo?
+
+ A. Circa 267.000 euro
+
+ B. Circa 297.000 euro
+
+
+Mock Exam Bocconi-style - 50 domande nuove                                                                Pagina 6
+ C. Circa 331.000 euro
+
+ D. Circa 358.000 euro
+
+
+ Domanda 21
+  Segmento            Clienti             ARPU annuo           Margine          Churn
+
+  SMB                 520                 1.200 euro           35%              18%
+
+  Mid-market          180                 5.200 euro           28%              10%
+
+  Enterprise          45                  24.000 euro          22%              4%
+
+  Pubblica
+                      30                  15.000 euro          18%              6%
+  Amministrazione
+
+
+ Una società SaaS monitora quattro segmenti clienti. Considerando il churn annuo, quale segmento
+ genererà il maggior margine lordo mantenuto il prossimo anno?
+
+ A. SMB
+
+ B. Mid-market
+
+ C. Enterprise
+
+ D. Pubblica Amministrazione
+
+
+ Domanda 22
+
+
+
+
+ Il grafico mostra le visite giornaliere del sito, in migliaia. Il revenue per visita è 0,90 euro per Desktop e
+ 0,45 euro per Mobile. Il costo server per 1.000 visite è 14 euro per Desktop e 9 euro per Mobile. In quale
+ giorno il margine netto totale è massimo?
+
+ A. Martedì
+
+ B. Mercoledì
+
+ C. Giovedì
+
+ D. Venerdì
+
+
+ Domanda 23
+  Provenienza                   2021                    2022                 2023
+
+  Stessa regione                160                     150                  138
+
+  Regione limitrofa             100                     112                  122
+
+
+
+
+Mock Exam Bocconi-style - 50 domande nuove                                                                 Pagina 7
+  Altra regione italiana     70                      78                      90
+
+  Totale                     330                     340                     350
+
+
+ La tabella riporta gli immatricolati universitari per provenienza geografica, in migliaia. Quale affermazione
+ è corretta?
+
+ A. Gli immatricolati da altra regione sono cresciuti di oltre il 40% tra 2021 e 2023
+
+ B. La quota degli studenti dalla stessa regione è diminuita di oltre 8 punti percentuali tra 2021 e 2023
+
+ C. Il totale degli immatricolati è cresciuto del 10% tra 2021 e 2023
+
+ D. Gli studenti da regione limitrofa superano quelli dalla stessa regione nel 2023
+
+
+ Domanda 24
+
+
+
+
+ Il grafico mostra i costi operativi mensili dei magazzini, in migliaia di euro. Ogni mese Nord gestisce 3.000
+ spedizioni, Centro 2.500 e Sud 2.000. Nel mese di aprile, quale magazzino ha il costo medio per spedizione
+ più basso e qual è la differenza percentuale tra il costo più alto e quello più basso?
+
+ A. Nord, circa 11%
+
+ B. Centro, circa 13%
+
+ C. Sud, circa 15%
+
+ D. Sud, circa 20%
+
+
+ Domanda 25
+
+
+
+
+Mock Exam Bocconi-style - 50 domande nuove                                                              Pagina 8
+ Il grafico mostra la composizione di un portafoglio da 600.000 euro. Nel trimestre: Tech perde il 12%,
+ Healthcare guadagna l'8%, Bonds guadagna il 3%, Real estate perde il 5%, Cash resta invariata. Qual è la
+ variazione netta del portafoglio e il valore finale?
+
+ A. -9.600 euro; 590.400 euro
+
+ B. -11.040 euro; 588.960 euro
+
+ C. -13.500 euro; 586.500 euro
+
+ D. +2.400 euro; 602.400 euro
+
+
+ Domanda 26
+  DATI                                                 PROPOSIZIONI
+
+                                                       A. Il team A ha 14 membri.
+  Quattro team: A, B, C, D. Ogni team ha tra 8 e 20
+                                                       B. Il team C raggiunge il massimo consentito.
+  membri. A ha 4 membri più di B. C ha il doppio dei
+                                                       C. Il team B ha almeno 11 membri.
+  membri di B. D ha 12 membri. Il totale è 56.
+                                                       D. Il team C ha più membri del team D.
+
+
+ Legga i dati e le proposizioni. In base ai dati, quali proposizioni sono sicuramente vere?
+
+ A. Solo A e B
+
+ B. Solo A, B e D
+
+ C. Solo B e D
+
+ D. Tutte
+
+
+ Domanda 27
+
+
+
+
+Mock Exam Bocconi-style - 50 domande nuove                                                             Pagina 9
+ Il grafico mostra i consumi energetici per fonte. I costi medi sono: Fossili 90 euro/MWh, Rinnovabili 42
+ euro/MWh, Idroelettrico 55 euro/MWh. Le emissioni sono: Fossili 760 kg CO2/MWh, Rinnovabili 20 kg/MWh,
+ Idroelettrico 8 kg/MWh. La carbon tax è 50 euro per tonnellata di CO2. Qual è la variazione percentuale del
+ costo totale tra 2021 e 2023?
+
+ A. Diminuzione di circa 5%
+
+ B. Diminuzione di circa 12%
+
+ C. Aumento di circa 3%
+
+ D. Aumento di circa 8%
+
+
+ Domanda 28
+  Museo                        Visitatori 2023             Prezzo 2023               Costi operativi
+
+  A                            180.000                     14 euro                   1,4 mln euro
+
+  B                            130.000                     24 euro                   1,3 mln euro
+
+  C                            150.000                     18 euro                   1,0 mln euro
+
+
+ La tabella riporta visitatori 2023, prezzo medio e costi operativi annui di tre musei. Nel 2024 i visitatori
+ previsti cambiano così: A +10%, B +5%, C +12%; i prezzi aumentano dell'8% per tutti, mentre i costi
+ operativi restano invariati. Quale museo avrà l'utile operativo più alto nel 2024?
+
+ A. Museo A, circa 1,59 mln euro
+
+ B. Museo B, circa 2,24 mln euro
+
+ C. Museo C, circa 2,27 mln euro
+
+ D. Museo B e C hanno lo stesso utile
+
+
+ Domanda 29
+  Canale              Visite                 Conversione             Valore ordine      Spesa marketing
+
+  Social              80.000                 2,5%                    70 euro            50.000 euro
+
+  Search              55.000                 4,2%                    90 euro            65.000 euro
+
+  Email               30.000                 6,0%                    65 euro            8.000 euro
+
+  Affiliate           40.000                 3,5%                    80 euro            25.000 euro
+
+
+ La tabella mostra dati di performance e-commerce per canale. Il costo prodotto è pari al 55% dei ricavi.
+ Quale canale genera il maggior margine netto, definito come ricavi meno costo prodotto meno spesa
+
+
+Mock Exam Bocconi-style - 50 domande nuove                                                                Pagina 10
+ marketing?
+
+ A. Social
+
+ B. Search
+
+ C. Email
+
+ D. Affiliate
+
+
+ Domanda 30
+
+
+
+
+ Il grafico mostra la variazione dei chilometri percorsi ogni mese rispetto al mese precedente. A luglio il
+ ciclista ha percorso 165 km. Le ore mensili di allenamento aumentano di 2 ogni due mesi: gennaio-febbraio
+ 9 ore, marzo-aprile 11 ore, maggio-giugno 13 ore, luglio-agosto 15 ore. La velocità media di giugno,
+ rispetto a quella di febbraio, è:
+
+ A. circa il 25% più bassa
+
+ B. circa il 10% più alta
+
+ C. uguale
+
+ D. oltre il 30% più bassa
+
+
+ Domanda 31
+
+
+
+
+Mock Exam Bocconi-style - 50 domande nuove                                                         Pagina 11
+ Il grafico mostra le esportazioni 2023 per tre settori. Per il 2024 sono previste crescite: Moda +6%,
+ Meccanica +10%, Food +4%. Margini lordi: Moda 38%, Meccanica 22%, Food 30%. I costi logistici sono pari
+ al 7% del fatturato per tutti. Quale settore genererà il maggior margine netto nel 2024?
+
+ A. Moda, circa 21,0 mld euro
+
+ B. Meccanica, circa 11,9 mld euro
+
+ C. Food, circa 12,9 mld euro
+
+ D. Meccanica, circa 15,8 mld euro
+
+
+ Domanda 32
+  Zona                                  Peso popolazione                      Indice soddisfazione
+
+  Centro                                25%                                   8,2
+
+  Nord                                  30%                                   7,5
+
+  Sud                                   20%                                   6,8
+
+  Ovest                                 25%                                   7,9
+
+
+ Una città misura la soddisfazione dei servizi pubblici in quattro zone. Qual è l'indice medio ponderato della
+ città?
+
+ A. 7,41
+
+ B. 7,54
+
+ C. 7,64
+
+ D. 7,82
+
+
+ Domanda 33
+  Anno                                  Passeggeri (mln)                      Durata media volo
+
+  2020                                  14                                    80
+
+  2021                                  20                                    85
+
+  2022                                  32                                    100
+
+  2023                                  38                                    95
+
+
+ La tabella riporta passeggeri e durata media del volo di una compagnia aerea. Quale affermazione è
+ corretta?
+
+ A. Il numero di passeggeri nel 2023 è più del doppio di quello del 2020
+
+ B. La durata media del volo è aumentata ogni anno
+
+ C. Il rapporto passeggeri/durata è diminuito costantemente
+
+ D. La crescita percentuale 2022-2023 supera quella 2021-2022
+
+
+ Domanda 34
+  Piattaforma         06-12                  12-18            18-24                 Totale giornaliero
+
+  P1 Social           24%                    42%              58%                   70%
+
+  P2 News             46%                    33%              18%                   60%
+
+  P3 Video            12%                    35%              66%                   75%
+
+
+ La tabella mostra l'utilizzo giornaliero di tre piattaforme su 12 milioni di utenti. Il totale giornaliero indica
+ chi usa la piattaforma almeno una volta al giorno. Un utente può usare più piattaforme. Il 24% degli utenti
+ usa tutte e tre le piattaforme. Quanti utenti usano esattamente una sola piattaforma?
+
+
+Mock Exam Bocconi-style - 50 domande nuove                                                                Pagina 12
+ A. Circa 2,4 milioni
+
+ B. Circa 3,1 milioni
+
+ C. Circa 4,0 milioni
+
+ D. Non determinabile con i dati forniti
+
+
+
+ Verbale
+ Domanda 35
+ Si legga attentamente il brano.
+
+ Negli ultimi anni molte città europee hanno promosso politiche di mobilità sostenibile, introducendo piste
+ ciclabili, zone a traffico limitato e incentivi all'uso del trasporto pubblico. I sostenitori ritengono che la
+ riduzione dell'auto privata produca benefici ambientali, sanitari ed economici: minori emissioni, meno
+ rumore, minore congestione e più spazio urbano destinato a funzioni sociali. Tuttavia, commercianti e
+ residenti di alcune aree centrali sostengono che la transizione sia stata gestita in modo troppo rapido,
+ senza alternative sufficienti per chi deve trasportare merci, accompagnare persone anziane o raggiungere
+ zone non servite bene dai mezzi pubblici. Alcuni studi mostrano che, quando le restrizioni al traffico sono
+ accompagnate da un potenziamento effettivo del trasporto pubblico, l'impatto negativo sulle attività
+ commerciali tende a ridursi. Il punto centrale non è quindi se la mobilità sostenibile sia desiderabile in
+ astratto, ma se l'implementazione concreta sia coordinata.
+
+ Qual è la tesi principale del brano?
+
+ A. Le politiche di mobilità sostenibile sono sempre dannose per il commercio urbano
+
+ B. La mobilità sostenibile può produrre benefici, ma richiede implementazione coordinata e alternative
+    praticabili
+
+ C. Le piste ciclabili sono lo strumento più efficace per ridurre le emissioni
+
+ D. Il trasporto pubblico non può sostituire l'auto privata
+
+
+ Domanda 36
+ Uno studio osserva che gli studenti che partecipano regolarmente a gruppi di studio ottengono voti medi
+ più alti rispetto a chi studia da solo. Il rapporto conclude che i gruppi di studio causano il miglioramento del
+ rendimento. Alcuni docenti criticano la conclusione: secondo loro, gli studenti più motivati e organizzati
+ potrebbero essere anche quelli più inclini a partecipare ai gruppi di studio. In quel caso, i voti più alti
+ dipenderebbero dalle caratteristiche iniziali degli studenti, non dal gruppo di studio.
+
+ Quale debolezza logica viene evidenziata?
+
+ A. Il campione è troppo piccolo
+
+ B. Il rapporto confonde correlazione e causalità
+
+ C. I gruppi di studio non funzionano mai
+
+ D. I voti universitari non misurano alcuna competenza
+
+
+ Domanda 37
+ L'adozione di sistemi di intelligenza artificiale nella selezione del personale promette di rendere più rapidi i
+ processi di recruiting, analizzando migliaia di curriculum in tempi ridotti. Alcune aziende sostengono che
+ questi strumenti riducano la discrezionalità umana e permettano decisioni più oggettive. Tuttavia, diversi
+ ricercatori avvertono che un algoritmo addestrato su dati storici può replicare distorsioni presenti nelle
+ decisioni passate. Se in passato certi profili sono stati esclusi per ragioni non pertinenti alla produttività, il
+ sistema potrebbe imparare a penalizzarli anche in futuro. Per questo, efficienza tecnica ed equità non
+ coincidono necessariamente.
+
+
+
+Mock Exam Bocconi-style - 50 domande nuove                                                                 Pagina 13
+ Quale affermazione è correttamente desumibile?
+
+ A. Gli algoritmi eliminano automaticamente ogni bias umano
+
+ B. I sistemi di AI possono essere efficienti ma mantenere distorsioni se addestrati su dati problematici
+
+ C. La selezione del personale deve essere svolta solo manualmente
+
+ D. I curriculum non contengono informazioni utili
+
+
+ Domanda 38
+ Una catena di supermercati ha introdotto etichette ambientali sui prodotti alimentari, indicando con una
+ scala da A a E l'impatto stimato. L'azienda sostiene che le etichette porteranno i consumatori a scegliere
+ prodotti più sostenibili. Tuttavia, un'indagine interna mostra che molti clienti scelgono principalmente in
+ base al prezzo e alla familiarità del marchio. Inoltre, molti intervistati dichiarano di non comprendere il
+ metodo con cui viene calcolato il punteggio ambientale.
+
+ Quale affermazione, se vera, indebolirebbe maggiormente la tesi secondo cui le etichette da sole
+ modificheranno le scelte?
+
+ A. I prodotti con etichetta A sono spesso esposti sugli scaffali centrali
+
+ B. La maggioranza dei consumatori ignora le etichette ambientali quando il prezzo è più alto
+
+ C. Alcuni produttori chiedono criteri più trasparenti
+
+ D. Le etichette sono stampate con inchiostri riciclabili
+
+
+ Domanda 39
+ Dati e proposizioni.
+
+ In un concorso partecipano quattro candidati: Alice, Bruno, Carla e Davide. Alice ha ottenuto più punti di
+ Bruno. Carla ha ottenuto meno punti di Davide. Bruno ha almeno tanti punti quanti Carla.
+
+ A. Alice ha sicuramente più punti di Carla.
+ B. Davide ha sicuramente più punti di Bruno.
+ C. Carla è sicuramente ultima.
+ D. Alice è sicuramente prima.
+
+ Quale proposizione è sicuramente vera?
+
+ A. Solo A
+
+ B. Solo A e C
+
+ C. Solo B
+
+ D. Solo D
+
+
+ Domanda 40
+ Il settore dell'editoria scolastica sta vivendo una trasformazione complessa. Da un lato, i manuali digitali
+ permettono aggiornamenti frequenti, contenuti multimediali e riduzione del peso degli zaini. Dall'altro,
+ docenti e genitori segnalano difficoltà legate alla concentrazione, alla disponibilità di dispositivi e alla
+ qualità non sempre uniforme delle piattaforme. Alcune scuole ottengono buoni risultati con modelli misti,
+ dove il cartaceo resta il riferimento principale e il digitale serve per esercizi e aggiornamenti. Il dibattito
+ non riguarda una sostituzione totale e immediata del cartaceo, ma la ricerca di equilibrio.
+
+ L'affermazione secondo cui il brano sostiene che i libri cartacei dovrebbero essere eliminati rapidamente è:
+
+ A. Vera
+
+ B. Falsa
+
+
+Mock Exam Bocconi-style - 50 domande nuove                                                               Pagina 14
+ C. Non deducibile
+
+ D. Vera solo per le scuole superiori
+
+
+ Domanda 41
+ Un comune ha introdotto una app per segnalare buche, lampioni guasti e problemi di pulizia. Nei primi sei
+ mesi sono arrivate 18.000 segnalazioni e il tempo medio di intervento è sceso da 12 a 7 giorni. Il sindaco
+ sostiene che la app ha reso l'amministrazione più efficiente. Alcuni consiglieri osservano però che, nello
+ stesso periodo, il comune ha assunto 40 nuovi operatori e rinnovato i contratti di manutenzione. Secondo
+ loro, attribuire tutto il miglioramento alla app è prematuro.
+
+ Quale assunzione è necessaria per sostenere l'argomentazione del sindaco?
+
+ A. Che nessun cittadino abbia usato la app più di una volta
+
+ B. Che il miglioramento non sia dovuto principalmente agli altri interventi organizzativi
+
+ C. Che il numero di buche sia rimasto identico ogni mese
+
+ D. Che tutti i cittadini possiedano uno smartphone
+
+
+ Domanda 42
+ La diffusione dei corsi universitari online ha ampliato l'accesso alla formazione superiore per studenti
+ lavoratori, persone lontane dai grandi centri e soggetti con responsabilità familiari. Le piattaforme digitali
+ consentono flessibilità e riducono alcuni costi indiretti. Tuttavia, diversi studi segnalano che
+ l'apprendimento online richiede forte autodisciplina e può aumentare il rischio di isolamento, soprattutto
+ nei primi anni. Gli atenei che integrano tutoraggio regolare e momenti sincroni mostrano tassi di
+ completamento più elevati rispetto ai corsi completamente asincroni.
+
+ Quale conclusione è più coerente?
+
+ A. La didattica online è sempre inferiore a quella in presenza
+
+ B. I corsi online possono ampliare l'accesso, ma funzionano meglio se accompagnati da supporto strutturato
+
+ C. La flessibilità elimina ogni rischio di abbandono
+
+ D. Gli studenti lavoratori non beneficiano della didattica online
+
+
+ Domanda 43
+ Un produttore di batterie dichiara che la propria nuova tecnologia renderà le auto elettriche competitive
+ con quelle a combustione entro tre anni. La previsione si basa su test interni che mostrano riduzione del
+ costo per kWh e maggiore durata. Tuttavia, i test sono stati condotti su prototipi in laboratorio, non su
+ produzione di massa. Alcuni analisti osservano che il passaggio alla scala industriale può introdurre costi,
+ difetti e vincoli di approvvigionamento non rilevati nei test preliminari.
+
+ Quale affermazione indebolisce maggiormente la conclusione?
+
+ A. La domanda di auto elettriche è cresciuta
+
+ B. La produzione industriale richiede materiali rari dal prezzo instabile
+
+ C. I test interni migliorano rispetto alla generazione precedente
+
+ D. Molti governi incentivano veicoli elettrici
+
+
+ Domanda 44
+ Il turismo naturalistico è cresciuto rapidamente in molte aree montane, portando nuove entrate a
+ comunità colpite dallo spopolamento. Rifugi, guide alpine e produttori locali hanno beneficiato
+ dell'aumento dei visitatori. Allo stesso tempo, l'afflusso concentrato in pochi mesi ha generato erosione dei
+ sentieri, pressione sui servizi pubblici e conflitti con i residenti. Alcune amministrazioni sperimentano
+ prenotazioni obbligatorie sui percorsi più fragili. Le associazioni turistiche temono perdite di entrate,
+
+
+Mock Exam Bocconi-style - 50 domande nuove                                                              Pagina 15
+ mentre gli ambientalisti sostengono che senza tutela il valore dell'esperienza naturale sarà compromesso.
+
+ Qual è il tono del brano?
+
+ A. Celebrativo e promozionale
+
+ B. Equilibrato e problematico
+
+ C. Allarmistico e catastrofico
+
+ D. Ironico e distaccato
+
+
+ Domanda 45
+ Dati e proposizioni.
+
+ In un negozio ci sono quattro reparti: Casa, Tecnologia, Sport e Alimentari. Tecnologia ha più prodotti di
+ Sport. Casa ha meno prodotti di Alimentari. Sport ha almeno tanti prodotti quanti Casa.
+
+ A. Tecnologia ha sicuramente più prodotti di Casa.
+ B. Alimentari ha sicuramente più prodotti di Tecnologia.
+ C. Casa è sicuramente il reparto con meno prodotti.
+ D. Sport ha sicuramente più prodotti di Alimentari.
+
+ Quale proposizione è sicuramente vera?
+
+ A. Solo A
+
+ B. Solo A e C
+
+ C. Solo C
+
+ D. Nessuna
+
+
+ Domanda 46
+ Le politiche di lavoro ibrido sono state adottate da molte imprese dopo la pandemia. In alcuni casi hanno
+ ridotto i costi immobiliari e aumentato la soddisfazione dei dipendenti. In altri, soprattutto nei team appena
+ formati, i manager hanno riscontrato difficoltà nella trasmissione informale delle competenze e nella
+ costruzione della fiducia. Alcune imprese fissano giorni comuni di presenza, altre lasciano autonomia ai
+ team. I risultati sembrano dipendere dal tipo di attività, dall'esperienza dei lavoratori e dalla qualità degli
+ strumenti di coordinamento.
+
+ L'affermazione secondo cui il lavoro ibrido produce sempre un aumento della produttività è:
+
+ A. Vera
+
+ B. Falsa
+
+ C. Non deducibile
+
+ D. Vera solo nei team nuovi
+
+
+ Domanda 47
+ Un rapporto sulla sicurezza alimentare sostiene che l'agricoltura verticale potrebbe contribuire a rendere
+ più stabile la produzione di ortaggi nelle aree urbane. Le coltivazioni in ambienti controllati riducono
+ l'esposizione a siccità, parassiti e variazioni climatiche, e possono usare meno suolo. Tuttavia, gli impianti
+ richiedono investimenti iniziali elevati e consumano molta energia. Secondo il rapporto, la tecnologia è
+ promettente per prodotti ad alto valore e filiere locali, ma non può essere considerata una soluzione
+ universale per tutte le colture e tutti i territori.
+
+ Quale affermazione è supportata?
+
+ A. L'agricoltura verticale sostituirà completamente quella tradizionale
+
+
+
+Mock Exam Bocconi-style - 50 domande nuove                                                              Pagina 16
+ B. L'agricoltura verticale può essere utile in alcuni contesti, ma presenta limiti economici ed energetici
+
+ C. Gli impianti verticali non richiedono investimenti
+
+ D. La tecnologia funziona solo nelle aree rurali
+
+
+ Domanda 48
+ Una ricerca sulle abitudini di lettura mostra che gli abbonamenti digitali aumentano il numero medio di
+ articoli letti ogni settimana dagli utenti. Tuttavia, lo stesso studio rileva che molti lettori dedicano meno
+ tempo a ciascun articolo e tendono a leggere titoli e riassunti più spesso dei testi completi. Gli autori
+ concludono che l'accesso illimitato non equivale necessariamente a maggiore approfondimento: può
+ aumentare la quantità di contenuti consultati, ma non sempre la qualità dell'attenzione.
+
+ L'affermazione secondo cui gli abbonamenti digitali hanno sicuramente aumentato la profondità della
+ lettura è:
+
+ A. Vera
+
+ B. Falsa
+
+ C. Non deducibile
+
+ D. Vera solo per gli utenti giovani
+
+
+ Domanda 49
+ Una regione ha finanziato corsi gratuiti di programmazione per disoccupati di lunga durata. Dopo un anno,
+ il 38% dei partecipanti ha trovato impiego, contro il 24% di un gruppo simile che non ha frequentato i corsi.
+ L'assessore sostiene che il programma è stato efficace. Valutatori indipendenti chiedono però di verificare
+ se i partecipanti fossero già più motivati, più istruiti o più disponibili alla mobilità. Senza questa verifica,
+ sostengono, la differenza occupazionale potrebbe sovrastimare l'effetto del corso.
+
+ Quale informazione rafforzerebbe maggiormente la conclusione dell'assessore?
+
+ A. Partecipanti e non partecipanti erano simili per istruzione, età, motivazione e disponibilità geografica
+    prima del corso
+
+ B. Il settore informatico offre stipendi elevati in alcune città
+
+ C. Molti partecipanti hanno trovato il corso interessante
+
+ D. Il costo del programma è inferiore ad altri programmi
+
+
+ Domanda 50
+ Negli ultimi vent'anni le piattaforme di streaming hanno trasformato la distribuzione audiovisiva. Hanno
+ ampliato l'accesso a cataloghi internazionali, favorito la circolazione di produzioni non anglofone e
+ permesso scelta flessibile. Allo stesso tempo, la concentrazione del mercato in pochi operatori globali
+ solleva dubbi sulla sostenibilità economica dei produttori indipendenti e sulla visibilità delle opere meno
+ promosse dagli algoritmi. Alcuni parlano di democratizzazione dell'accesso, altri di nuova dipendenza da
+ intermediari privati. Il fenomeno non può essere ridotto né a puro progresso culturale né a semplice
+ minaccia per la diversità.
+
+ Qual è la posizione dell'autore?
+
+ A. Entusiastica verso lo streaming
+
+ B. Critica senza riconoscere benefici
+
+ C. Bilanciata: riconosce opportunità e rischi
+
+ D. Indifferente al tema culturale
+
+
+
+
+Mock Exam Bocconi-style - 50 domande nuove                                                               Pagina 17
+ Soluzioni
+ Chiave sintetica
+  Domand    Rispo   Domand     Rispo   Domand     Rispo   Domand    Rispo   Domand     Rispo
+  a         sta     a          sta     a          sta     a         sta     a          sta
+
+  1         B       2          B       3          B       4         B       5          B
+
+  6         A       7          C       8          C       9         A       10         B
+
+  11        B       12         D       13         B       14        C       15         C
+
+  16        C       17         A       18         C       19        B       20         B
+
+  21        B       22         D       23         B       24        C       25         B
+
+  26        B       27         A       28         C       29        C       30         A
+
+  31        A       32         C       33         A       34        D       35         B
+
+  36        B       37         B       38         B       39        A       40         B
+
+  41        B       42         B       43         B       44        B       45         A
+
+  46        B       47         B       48         B       49        A       50         C
+
+
+
+ Domanda 1 - Risposta B
+ (1) non basta: 9 e 12 sono entrambi divisibili per 3, ma solo 12 è divisibile per 6. (2) non basta: 8 e 12 sono pari,
+ ma solo 12 è divisibile per 6. Insieme danno divisibilità per 2 e per 3, quindi per 6. Risposta B.
+
+ Domanda 2 - Risposta B
+ Hotel = 630. Volo = 420. Ogni escursione = 52,5; tre escursioni = 157,5. Assicurazione = 15% di 472,5 = 70,875.
+ Spesa totale = 1.278,375. Restano 221,625, circa 222 euro. Risposta B.
+
+ Domanda 3 - Risposta B
+ Casi favorevoli: scegliere 2 rosse su 5 e 1 non rossa su 7: C(5,2) x C(7,1) = 70. Casi totali: C(12,3)=220. Probabilità
+ = 70/220 = 7/22. Risposta B.
+
+ Domanda 4 - Risposta B
+ Distanza totale = 2x70 + 3x50 = 290 km. Tempo totale = 5 ore. Velocità media = 290/5 = 58 km/h. Risposta B.
+
+ Domanda 5 - Risposta B
+ (1) dà a+b=17, non l'area. (2) dà a^2+b^2=169, non l'area. Insieme: (a+b)^2 = a^2+b^2+2ab, quindi 289 =
+ 169 + 2ab; area ab = 60. Risposta B.
+
+ Domanda 6 - Risposta A
+ La somma dei logaritmi diventa log base 3 di x(x-2). Quindi x(x-2)=9, cioè x^2 - 2x - 9 = 0. La soluzione positiva
+ compatibile è x = 1 + radice di 10. Risposta A.
+
+ Domanda 7 - Risposta C
+ Le età attuali sono 28 e 21. Cerchiamo t: 28 - t = 2(21 - t). Quindi 28 - t = 42 - 2t, da cui t = 14. Risposta C.
+
+ Domanda 8 - Risposta C
+ Si scelgono 2 uomini tra 7 e 2 donne tra 5: C(7,2) x C(5,2) = 21 x 10 = 210. Risposta C.
+
+ Domanda 9 - Risposta A
+ Poiché x è positivo, x^2 maggiore di 16 implica x maggiore di 4: sufficiente. x^3 minore di 125 implica x minore di
+ 5, ma x potrebbe essere 3 oppure 4,5: non sufficiente. Risposta A.
+
+ Domanda 10 - Risposta B
+ Tasso netto = 1/5 + 1/8 - 1/20 = 11/40 di cisterna all'ora. Tempo = 40/11 ore = 3,636 ore, circa 3 ore e 38 minuti.
+ Risposta B.
+
+ Domanda 11 - Risposta B
+
+Mock Exam Bocconi-style - 50 domande nuove                                                                      Pagina 18
+ Media = (120x23 + 180x25 + 150x22)/(450) = 10.560/450 = 23,47, cioè circa 23,5 anni. Risposta B.
+
+ Domanda 12 - Risposta D
+ Pendenza = (17-5)/(6-2)=3. La retta è y=3x+q. Con (2,5): q=-1. Per x=9: y=26. Risposta D.
+
+ Domanda 13 - Risposta B
+ a_n = 7 + 4(n-1). Ponendo 79 = 7 + 4(n-1), otteniamo n-1=18 e quindi n=19. Risposta B.
+
+ Domanda 14 - Risposta C
+ n(n+1)/2 = 465, quindi n(n+1)=930. Poiché 30x31=930, n=30. Risposta C.
+
+ Domanda 15 - Risposta C
+ P(difettoso)=0,30x0,04 + 0,50x0,01 + 0,20x0,05 = 0,027. Quota C tra i difettosi = 0,010/0,027 = 37,0%. Risposta
+ C.
+
+ Domanda 16 - Risposta C
+ L'altezza dimezza la base: 12 cm. h = radice(20^2 - 12^2) = 16. Area = 24x16/2 = 192 cm2. Risposta C.
+
+ Domanda 17 - Risposta A
+ (1) è sufficiente: b=CA è opposto all'angolo B e soddisfa Pitagora. (2) dice che il triangolo è rettangolo, ma non
+ dice quale lato sia il 13, quindi non localizza l'angolo retto. Risposta A.
+
+ Domanda 18 - Risposta C
+ Inclusione-esclusione: 22+18+15-8-7-5+3 = 38. Nessuna lingua = 40-38 = 2. Risposta C.
+
+ Domanda 19 - Risposta B
+ Utile Q4 = ricavi x margine - costi fissi. Milano = 35.800; Roma = 50.300; Napoli = 49.000. Il maggiore è Roma.
+ Risposta B.
+
+ Domanda 20 - Risposta B
+ R&D iniziale = 16% di 2.800.000 = 448.000. Budget dopo due anni = 2.800.000 x 1,12 x 1,08 = 3.386.880. R&D
+ nuovo = 22% di 3.386.880 = 745.114 circa. Aumento = 297.114 circa. Risposta B.
+
+ Domanda 21 - Risposta B
+ Margine mantenuto = clienti x (1-churn) x ARPU x margine. SMB = 179.088; Mid-market = 235.872; Enterprise =
+ 228.096; PA = 76.140. Vince Mid-market. Risposta B.
+
+ Domanda 22 - Risposta D
+ Margine per 1.000 visite: Desktop 886 euro, Mobile 441 euro. Venerdì = 60x886 + 95x441 = 95.055 euro,
+ superiore agli altri giorni. Risposta D.
+
+ Domanda 23 - Risposta B
+ Quota stessa regione: 160/330 = 48,48% nel 2021; 138/350 = 39,43% nel 2023. Calo = 9,05 punti percentuali.
+ Risposta B.
+
+ Domanda 24 - Risposta C
+ Aprile: Nord = 18; Centro = 18,40; Sud = 16 euro/spedizione. Il più basso è Sud. Differenza = (18,40-16)/16 =
+ 15%. Risposta C.
+
+ Domanda 25 - Risposta B
+ Variazioni: Tech -21.600; Healthcare +10.560; Bonds +4.500; Real estate -4.500; Cash 0. Totale = -11.040. Valore
+ finale = 588.960. Risposta B.
+
+ Domanda 26 - Risposta B
+ Dati: A = B+4; C = 2B; D = 12; totale 56. Quindi B+(B+4)+2B+12=56, B=10, A=14, C=20, D=12. Vere A, B e D.
+ Risposta B.
+
+ Domanda 27 - Risposta A
+ Costo per MWh con tax: Fossili 128; Rinnovabili 43; Idroelettrico 55,4. Totale 2021 = 25.410 milioni; totale 2023 =
+ 24.207 milioni. Variazione = -4,7%, circa -5%. Risposta A.
+
+
+
+Mock Exam Bocconi-style - 50 domande nuove                                                                    Pagina 19
+ Domanda 28 - Risposta C
+ A utile = 1,594 mln; B utile = 2,238 mln; C utile = 2,266 mln. Il maggiore è C. Risposta C.
+
+ Domanda 29 - Risposta C
+ Margine netto = ricavi x 45% - spesa. Social = 13.000; Search = 28.555; Email = 44.650; Affiliate = 25.400. Vince
+ Email. Risposta C.
+
+ Domanda 30 - Risposta A
+ Luglio = 165 e variazione di luglio = -25, quindi giugno = 190. Risalendo: febbraio = 175. Velocità febbraio =
+ 175/9 = 19,44; giugno = 190/13 = 14,62. Diminuzione = 24,8%. Risposta A.
+
+ Domanda 31 - Risposta A
+ Margine netto = margine lordo - logistica. Moda: 64x1,06x31% = 21,03. Meccanica: 72x1,10x15% = 11,88. Food:
+ 54x1,04x23% = 12,92. Risposta A.
+
+ Domanda 32 - Risposta C
+ Indice = 8,2x25% + 7,5x30% + 6,8x20% + 7,9x25% = 7,635, circa 7,64. Risposta C.
+
+ Domanda 33 - Risposta A
+ 38 milioni è più del doppio di 14 milioni. Le altre sono false: la durata scende nel 2023; il rapporto non diminuisce;
+ la crescita 2021-2022 è maggiore di quella 2022-2023. Risposta A.
+
+ Domanda 34 - Risposta D
+ Mancano le intersezioni a due piattaforme. Conosciamo i totali singoli e l'intersezione tripla, ma non abbastanza
+ per calcolare gli utenti esattamente su una piattaforma. Risposta D.
+
+ Domanda 35 - Risposta B
+ Il testo riconosce benefici e criticità, ma la tesi è che l'esito dipende dalla qualità dell'implementazione. Risposta B.
+
+ Domanda 36 - Risposta B
+ Il testo mostra una correlazione e poi una conclusione causale. La critica introduce una possibile variabile di
+ selezione. Risposta B.
+
+ Domanda 37 - Risposta B
+ Il brano dice esattamente che l'AI può essere efficiente ma replicare distorsioni dei dati storici. Risposta B.
+
+ Domanda 38 - Risposta B
+ Se i consumatori ignorano l'etichetta quando il prezzo è più alto, l'etichetta da sola non sposta davvero la scelta.
+ Risposta B.
+
+ Domanda 39 - Risposta A
+ Alice > Bruno e Bruno >= Carla, quindi Alice > Carla. Non sappiamo il rapporto tra Davide e Bruno o tra Davide e
+ Alice. Risposta A.
+
+ Domanda 40 - Risposta B
+ Il brano dice espressamente che non si parla di sostituzione totale e immediata. Risposta B.
+
+ Domanda 41 - Risposta B
+ Il sindaco attribuisce il miglioramento alla app. Deve quindi escludere che il risultato dipenda principalmente da
+ assunzioni e contratti. Risposta B.
+
+ Domanda 42 - Risposta B
+ Il testo presenta vantaggi e criticità, poi indica il supporto strutturato come fattore che migliora i risultati. Risposta
+ B.
+
+ Domanda 43 - Risposta B
+ Se la produzione di massa dipende da materiali rari e instabili, il costo finale può non scendere come previsto.
+ Risposta B.
+
+ Domanda 44 - Risposta B
+
+
+Mock Exam Bocconi-style - 50 domande nuove                                                                         Pagina 20
+ Il testo mostra benefici e costi, senza propaganda e senza catastrofismo. Risposta B.
+
+ Domanda 45 - Risposta A
+ Tecnologia > Sport e Sport >= Casa, quindi Tecnologia > Casa. Le altre relazioni non sono determinate. Risposta
+ A.
+
+ Domanda 46 - Risposta B
+ Il testo parla di risultati condizionati e di difficoltà in alcuni casi. Il termine sempre rende l'affermazione falsa.
+ Risposta B.
+
+ Domanda 47 - Risposta B
+ Il testo dice che è promettente in certi contesti ma non universale, per costi ed energia. Risposta B.
+
+ Domanda 48 - Risposta B
+ Il testo dice che aumenta la quantità, ma non necessariamente la profondità. Quindi l'affermazione è falsa.
+ Risposta B.
+
+ Domanda 49 - Risposta A
+ L'obiezione riguarda selezione e causalità. Se i gruppi erano comparabili prima, la differenza finale è più
+ attribuibile al corso. Risposta A.
+
+ Domanda 50 - Risposta C
+ Il testo presenta benefici e rischi e rifiuta interpretazioni unilaterali. Risposta C.
+
+
+
+
+Mock Exam Bocconi-style - 50 domande nuove                                                                          Pagina 21
+

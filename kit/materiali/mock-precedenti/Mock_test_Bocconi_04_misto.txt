@@ -1,0 +1,1416 @@
+                      MOCK TEST
+                      BOCCONI 04
+                    50 domande nuove - ordine misto
+
+
+
+
+            18 Quantitative | 16 Verbal | 16 Data Insights
+
+
+
+                         Tempo consigliato: 75 minuti
+
+
+Una sola risposta corretta per domanda. Soluzione nella fascia inferiore di ogni pagina.
+
+
+
+
+                        Preparazione test magistrale - versione 04
+Scheda risposte
+Segna una sola risposta. Usa questa pagina prima di controllare le soluzioni.
+
+
+
+
+ 01                        11                       21                          31        41
+ A B C D                   A B C D                  A B C D                     A B C D   A B C D
+
+
+
+
+ 02                        12                       22                          32        42
+ A B C D                   A B C D                  A B C D                     A B C D   A B C D
+
+
+
+
+ 03                        13                       23                          33        43
+ A B C D                   A B C D                  A B C D                     A B C D   A B C D
+
+
+
+
+ 04                        14                       24                          34        44
+ A B C D                   A B C D                  A B C D                     A B C D   A B C D
+
+
+
+
+ 05                        15                       25                          35        45
+ A B C D                   A B C D                  A B C D                     A B C D   A B C D
+
+
+
+
+ 06                        16                       26                          36        46
+ A B C D                   A B C D                  A B C D                     A B C D   A B C D
+
+
+
+
+ 07                        17                       27                          37        47
+ A B C D                   A B C D                  A B C D                     A B C D   A B C D
+
+
+
+
+ 08                        18                       28                          38        48
+ A B C D                   A B C D                  A B C D                     A B C D   A B C D
+
+
+
+
+ 09                        19                       29                          39        49
+ A B C D                   A B C D                  A B C D                     A B C D   A B C D
+
+
+
+
+ 10                        20                       30                          40        50
+ A B C D                   A B C D                  A B C D                     A B C D   A B C D
+
+
+
+
+Mock Test Bocconi 04
+   DOMANDA 01                                                                                            QUANTITATIVE
+
+
+
+Una squadra di 8 operai completa un lavoro in 15 giorni, lavorando tutti allo stesso
+ritmo. Dopo 5 giorni, 2 operai vengono trasferiti. In quanti giorni complessivi verra
+completato il lavoro?
+ A. 18 giorni e 1/3
+ B. 16 giorni e 2/3
+ C. 20 giorni
+ D. 21 giorni e 2/3
+
+
+
+
+   SOLUZIONE - RISPOSTA A
+
+   Il lavoro totale e 8 x 15 = 120 giornate-operaio. Nei primi 5 giorni vengono svolte 8 x 5 = 40 giornate. Restano 80
+   giornate, completate da 6 operai in 80/6 = 13 giorni e 1/3. Totale: 18 giorni e 1/3.
+
+
+
+
+Mock Test Bocconi 04 - 75 minuti - senza calcolatrice                                                                    1/50
+   DOMANDA 02                                                                                                 VERBAL
+
+
+
+TESTO
+Un impresa ha introdotto una settimana lavorativa di quattro giorni mantenendo invariato lo stipendio. Dopo sei mesi, la
+produttivita per dipendente e aumentata del 9% e le assenze sono diminuite. Tuttavia, nello stesso periodo l impresa ha
+automatizzato alcune attivita amministrative e ha perso due clienti che richiedevano molto lavoro ma generavano ricavi
+modesti. I dirigenti attribuiscono il miglioramento interamente alla riduzione dei giorni lavorativi. Lo studio interno non
+confronta l impresa con organizzazioni simili e misura la produttivita come ricavi divisi per numero di dipendenti.
+
+Quale conclusione e maggiormente supportata dal testo?
+ A. La settimana di quattro giorni ha certamente causato l intero aumento di produttivita
+ B. La produttivita misurata e aumentata, ma non e possibile isolare l effetto della nuova settimana
+ lavorativa
+ C. L automazione ha certamente ridotto la produttivita
+ D. La perdita dei due clienti ha necessariamente ridotto i ricavi totali
+
+
+
+
+   SOLUZIONE - RISPOSTA B
+
+   Il miglioramento osservato e reale secondo la metrica usata, ma piu cambiamenti simultanei impediscono di attribuirlo
+   interamente alla settimana di quattro giorni.
+
+
+
+
+Mock Test Bocconi 04 - 75 minuti - senza calcolatrice                                                                   2/50
+     DOMANDA 03                                                                                        DATA INSIGHTS
+
+
+
+ Prodotto                            Unita                    Prezzo unitario                  Costo variabile unitario
+
+ A                                                1.200                  EUR 50                           EUR 32
+
+ B                                                 800                   EUR 75                           EUR 45
+
+ C                                                1.500                  EUR 30                           EUR 24
+
+
+Quale prodotto genera il margine di contribuzione totale piu elevato?
+ A. Prodotto A
+ B. Prodotto C
+ C. Prodotto B
+ D. A e B generano lo stesso margine
+
+
+
+
+     SOLUZIONE - RISPOSTA C
+
+     A: 1.200x(50-32)=21.600. B: 800x(75-45)=24.000. C: 1.500x(30-24)=9.000. Il massimo e B.
+
+
+
+
+Mock Test Bocconi 04 - 75 minuti - senza calcolatrice                                                                     3/50
+   DOMANDA 04                                                                                           QUANTITATIVE
+
+
+
+Il prezzo di un titolo diminuisce del 20%. Di quale percentuale deve poi aumentare,
+rispetto al nuovo prezzo, per tornare al valore iniziale?
+ A. 20%
+ B. 22,5%
+ C. 30%
+ D. 25%
+
+
+
+
+   SOLUZIONE - RISPOSTA D
+
+   Se il prezzo iniziale e 100, dopo il calo vale 80. Per tornare a 100 deve aumentare di 20 su una base di 80: 20/80 =
+   25%.
+
+
+
+
+Mock Test Bocconi 04 - 75 minuti - senza calcolatrice                                                                     4/50
+     DOMANDA 05                                                                                    DATA INSIGHTS
+
+
+
+ Prodotto                            Unita                    Prezzo unitario              Costo variabile unitario
+
+ A                                                1.200                  EUR 50                         EUR 32
+
+ B                                                 800                   EUR 75                         EUR 45
+
+ C                                                1.500                  EUR 30                         EUR 24
+
+
+Se le unita del prodotto C aumentano del 20% e tutti gli altri dati restano invariati, di
+quanto aumenta il margine totale dell impresa?
+ A. EUR 1.800
+ B. EUR 1.200
+ C. EUR 1.500
+ D. EUR 2.160
+
+
+
+
+     SOLUZIONE - RISPOSTA A
+
+     L aumento e 20% di 1.500 = 300 unita. Margine unitario C = 30-24=6. Incremento: 300x6=EUR 1.800.
+
+
+
+
+Mock Test Bocconi 04 - 75 minuti - senza calcolatrice                                                                 5/50
+   DOMANDA 06                                                                                                 VERBAL
+
+
+
+TESTO
+Un impresa ha introdotto una settimana lavorativa di quattro giorni mantenendo invariato lo stipendio. Dopo sei mesi, la
+produttivita per dipendente e aumentata del 9% e le assenze sono diminuite. Tuttavia, nello stesso periodo l impresa ha
+automatizzato alcune attivita amministrative e ha perso due clienti che richiedevano molto lavoro ma generavano ricavi
+modesti. I dirigenti attribuiscono il miglioramento interamente alla riduzione dei giorni lavorativi. Lo studio interno non
+confronta l impresa con organizzazioni simili e misura la produttivita come ricavi divisi per numero di dipendenti.
+
+Quale informazione sarebbe piu utile per valutare l effetto causale della settimana di
+quattro giorni?
+ A. La soddisfazione personale dell amministratore delegato
+ B. L andamento di imprese comparabili che non hanno cambiato la settimana lavorativa
+ C. Il numero totale di dipendenti dell impresa
+ D. Il settore economico dei due clienti persi
+
+
+
+
+   SOLUZIONE - RISPOSTA B
+
+   Un gruppo comparabile senza intervento permetterebbe di distinguere l effetto della nuova organizzazione da
+   tendenze esterne o cambiamenti concomitanti.
+
+
+
+
+Mock Test Bocconi 04 - 75 minuti - senza calcolatrice                                                                   6/50
+   DOMANDA 07                                                                                             QUANTITATIVE
+
+
+
+Un recipiente contiene 30 litri di una soluzione al 40% di sale. Quanti litri di acqua
+devono essere aggiunti affinche la concentrazione scenda al 24%?
+ A. 12 litri
+ B. 18 litri
+ C. 20 litri
+ D. 24 litri
+
+
+
+
+   SOLUZIONE - RISPOSTA C
+
+   Il sale e 30 x 0,40 = 12 litri-equivalenti. Per avere concentrazione 24%, il volume finale deve soddisfare 12/V = 0,24,
+   quindi V = 50. Occorre aggiungere 50 - 30 = 20 litri.
+
+
+
+
+Mock Test Bocconi 04 - 75 minuti - senza calcolatrice                                                                        7/50
+   DOMANDA 08                                                                                                   VERBAL
+
+
+
+TESTO
+Un impresa ha introdotto una settimana lavorativa di quattro giorni mantenendo invariato lo stipendio. Dopo sei mesi, la
+produttivita per dipendente e aumentata del 9% e le assenze sono diminuite. Tuttavia, nello stesso periodo l impresa ha
+automatizzato alcune attivita amministrative e ha perso due clienti che richiedevano molto lavoro ma generavano ricavi
+modesti. I dirigenti attribuiscono il miglioramento interamente alla riduzione dei giorni lavorativi. Lo studio interno non
+confronta l impresa con organizzazioni simili e misura la produttivita come ricavi divisi per numero di dipendenti.
+
+Quale problema riguarda direttamente la misura di produttivita utilizzata?
+ A. Le assenze non possono mai essere misurate
+ B. Il numero di giorni lavorativi non influenza mai i ricavi
+ C. L automazione rende impossibile qualsiasi analisi quantitativa
+ D. I ricavi per dipendente possono aumentare anche se cambia la composizione dei clienti
+
+
+
+
+   SOLUZIONE - RISPOSTA D
+
+   Perdere clienti ad alta intensita di lavoro e basso ricavo puo aumentare i ricavi per dipendente senza un vero
+   miglioramento generalizzato dell efficienza.
+
+
+
+
+Mock Test Bocconi 04 - 75 minuti - senza calcolatrice                                                                   8/50
+     DOMANDA 09                                                                                 DATA INSIGHTS
+
+
+
+ Prodotto                            Unita                  Prezzo unitario             Costo variabile unitario
+
+ A                                                1.200                EUR 50                      EUR 32
+
+ B                                                 800                 EUR 75                      EUR 45
+
+ C                                                1.500                EUR 30                      EUR 24
+
+
+Qual e il margine di contribuzione complessivo come percentuale dei ricavi
+complessivi?
+ A. 33,1%
+ B. 30,0%
+ C. 31,5%
+ D. 35,0%
+
+
+
+
+     SOLUZIONE - RISPOSTA A
+
+     Ricavi: 60.000+60.000+45.000=165.000. Margini: 21.600+24.000+9.000=54.600. 54.600/165.000=33,09%, circa
+     33,1%.
+
+
+
+
+Mock Test Bocconi 04 - 75 minuti - senza calcolatrice                                                              9/50
+   DOMANDA 10                                                                                                    QUANTITATIVE
+
+
+
+Per quanti valori interi di x vale contemporaneamente -3 <= x <= 5 e x^2 - 2x - 8 < 0?
+ A. 4
+ B. 5
+ C. 6
+ D. 7
+
+
+
+
+   SOLUZIONE - RISPOSTA B
+
+   x^2 - 2x - 8 = (x - 4)(x + 2). La disequazione e verificata per -2 < x < 4. Gli interi sono -1, 0, 1, 2, 3: in totale 5.
+
+
+
+
+Mock Test Bocconi 04 - 75 minuti - senza calcolatrice                                                                         10/50
+   DOMANDA 11                                                                                                 VERBAL
+
+
+
+TESTO
+Un impresa ha introdotto una settimana lavorativa di quattro giorni mantenendo invariato lo stipendio. Dopo sei mesi, la
+produttivita per dipendente e aumentata del 9% e le assenze sono diminuite. Tuttavia, nello stesso periodo l impresa ha
+automatizzato alcune attivita amministrative e ha perso due clienti che richiedevano molto lavoro ma generavano ricavi
+modesti. I dirigenti attribuiscono il miglioramento interamente alla riduzione dei giorni lavorativi. Lo studio interno non
+confronta l impresa con organizzazioni simili e misura la produttivita come ricavi divisi per numero di dipendenti.
+
+Quale affermazione e incompatibile con il testo?
+ A. Nello stesso periodo sono cambiate piu condizioni operative
+ B. Le assenze sono diminuite
+ C. Lo studio include un gruppo di controllo composto da imprese simili
+ D. I dirigenti attribuiscono il miglioramento alla settimana corta
+
+
+
+
+   SOLUZIONE - RISPOSTA C
+
+   Il testo afferma esplicitamente che lo studio non confronta l impresa con organizzazioni simili.
+
+
+
+
+Mock Test Bocconi 04 - 75 minuti - senza calcolatrice                                                                 11/50
+     DOMANDA 12                                                                             DATA INSIGHTS
+
+
+
+ Fondo                               Capitale                   Rendimento           Commissione su capitale
+
+ X                                              EUR 200.000                  6%                  1%
+
+ Y                                              EUR 150.000                  4%                 0,5%
+
+ Z                                              EUR 50.000                   -8%                 0%
+
+
+Qual e il rendimento netto monetario complessivo dopo le commissioni?
+ A. EUR 10.250
+ B. EUR 12.000
+ C. EUR 13.250
+ D. EUR 11.250
+
+
+
+
+     SOLUZIONE - RISPOSTA D
+
+     X: 12.000-2.000=10.000. Y: 6.000-750=5.250. Z: -4.000. Totale netto = 11.250.
+
+
+
+
+Mock Test Bocconi 04 - 75 minuti - senza calcolatrice                                                          12/50
+   DOMANDA 13                                                                                              QUANTITATIVE
+
+
+
+Un quadrato e inscritto in un cerchio di raggio 5 cm. Qual e l area del quadrato?
+ A. 50 cm^2
+ B. 25 cm^2
+ C. 40 cm^2
+ D. 100 cm^2
+
+
+
+
+   SOLUZIONE - RISPOSTA A
+
+   La diagonale del quadrato coincide con il diametro del cerchio: d = 10. Poiche d = lato x radice(2), il lato al quadrato
+   vale d^2/2 = 100/2 = 50. L area e quindi 50 cm^2.
+
+
+
+
+Mock Test Bocconi 04 - 75 minuti - senza calcolatrice                                                                         13/50
+   DOMANDA 14                                                                                                    VERBAL
+
+
+
+TESTO
+In una citta, il numero di compravendite immobiliari e diminuito del 18% in un anno, mentre il prezzo mediano delle
+abitazioni vendute e aumentato del 4%. Un associazione di agenti immobiliari sostiene che il mercato sia diventato piu
+forte. Gli economisti locali osservano pero che sono state vendute meno abitazioni periferiche e una quota maggiore di
+immobili centrali di fascia alta. Inoltre, il prezzo mediano non tiene conto della qualita e delle caratteristiche delle
+abitazioni vendute nei due periodi.
+
+Quale affermazione e certamente vera?
+ A. Ogni abitazione della citta vale il 4% in piu
+ B. Il numero di transazioni e diminuito
+ C. La domanda immobiliare e aumentata in ogni quartiere
+ D. Gli immobili periferici hanno perso esattamente il 18% del valore
+
+
+
+
+   SOLUZIONE - RISPOSTA B
+
+   Il calo del numero di compravendite e l unico fatto esplicito tra le opzioni. Il prezzo mediano non implica un aumento
+   uniforme dei prezzi.
+
+
+
+
+Mock Test Bocconi 04 - 75 minuti - senza calcolatrice                                                                       14/50
+     DOMANDA 15                                                                                    DATA INSIGHTS
+
+
+
+ Fondo                               Capitale                 Rendimento                    Commissione su capitale
+
+ X                                              EUR 200.000                6%                           1%
+
+ Y                                              EUR 150.000                4%                           0,5%
+
+ Z                                              EUR 50.000                 -8%                          0%
+
+
+Qual e il rendimento netto percentuale dell intero portafoglio?
+ A. 2,25%
+ B. 2,50%
+ C. 2,8125%
+ D. 3,00%
+
+
+
+
+     SOLUZIONE - RISPOSTA C
+
+     Capitale totale = 400.000. Rendimento netto monetario = 11.250. Quindi 11.250/400.000 = 2,8125%.
+
+
+
+
+Mock Test Bocconi 04 - 75 minuti - senza calcolatrice                                                                 15/50
+   DOMANDA 16                                                                                   QUANTITATIVE
+
+
+
+Da 6 uomini e 5 donne si deve scegliere un gruppo di 4 persone contenente almeno 2
+donne. Quanti gruppi sono possibili?
+ A. 195
+ B. 205
+ C. 225
+ D. 215
+
+
+
+
+   SOLUZIONE - RISPOSTA D
+
+   Casi con 2 donne: C(5,2)C(6,2)=10x15=150. Con 3 donne: C(5,3)C(6,1)=10x6=60. Con 4 donne: C(5,4)=5. Totale
+   150+60+5=215.
+
+
+
+
+Mock Test Bocconi 04 - 75 minuti - senza calcolatrice                                                           16/50
+   DOMANDA 17                                                                                                 VERBAL
+
+
+
+TESTO
+In una citta, il numero di compravendite immobiliari e diminuito del 18% in un anno, mentre il prezzo mediano delle
+abitazioni vendute e aumentato del 4%. Un associazione di agenti immobiliari sostiene che il mercato sia diventato piu
+forte. Gli economisti locali osservano pero che sono state vendute meno abitazioni periferiche e una quota maggiore di
+immobili centrali di fascia alta. Inoltre, il prezzo mediano non tiene conto della qualita e delle caratteristiche delle
+abitazioni vendute nei due periodi.
+
+Quale elemento indebolisce maggiormente l interpretazione secondo cui il mercato e
+diventato piu forte?
+ A. La diversa composizione degli immobili venduti
+ B. Il fatto che le abitazioni siano beni durevoli
+ C. L esistenza di agenti immobiliari
+ D. La presenza di un prezzo mediano
+
+
+
+
+   SOLUZIONE - RISPOSTA A
+
+   Se aumenta la quota di immobili centrali e costosi, il prezzo mediano puo salire anche senza un aumento del valore di
+   immobili comparabili.
+
+
+
+
+Mock Test Bocconi 04 - 75 minuti - senza calcolatrice                                                                 17/50
+     DOMANDA 18                                                                                        DATA INSIGHTS
+
+
+
+ Fondo                               Capitale                    Rendimento                    Commissione su capitale
+
+ X                                              EUR 200.000                   6%                            1%
+
+ Y                                              EUR 150.000                   4%                           0,5%
+
+ Z                                              EUR 50.000                    -8%                           0%
+
+
+Se il rendimento di Z fosse 0% anziche -8%, di quanti punti percentuali aumenterebbe il
+rendimento netto del portafoglio?
+ A. 0,5 punti
+ B. 1 punto
+ C. 2 punti
+ D. 8 punti
+
+
+
+
+     SOLUZIONE - RISPOSTA B
+
+     Il miglioramento monetario e 8% di 50.000 = 4.000. Sul capitale totale di 400.000 equivale a 4.000/400.000 = 1 punto
+     percentuale.
+
+
+
+
+Mock Test Bocconi 04 - 75 minuti - senza calcolatrice                                                                    18/50
+   DOMANDA 19                                                                                     QUANTITATIVE
+
+
+
+In una scatola vi sono 5 palline nere e 4 bianche. Si estraggono 2 palline senza
+reinserimento. Sapendo che almeno una e nera, qual e la probabilita che siano
+entrambe nere?
+ A. 1/4
+ B. 5/12
+ C. 1/3
+ D. 1/2
+
+
+
+
+   SOLUZIONE - RISPOSTA C
+
+   Le coppie totali sono C(9,2)=36. Le coppie con almeno una nera sono 36-C(4,2)=30. Le coppie entrambe nere sono
+   C(5,2)=10. Probabilita condizionata: 10/30=1/3.
+
+
+
+
+Mock Test Bocconi 04 - 75 minuti - senza calcolatrice                                                               19/50
+   DOMANDA 20                                                                                                VERBAL
+
+
+
+TESTO
+In una citta, il numero di compravendite immobiliari e diminuito del 18% in un anno, mentre il prezzo mediano delle
+abitazioni vendute e aumentato del 4%. Un associazione di agenti immobiliari sostiene che il mercato sia diventato piu
+forte. Gli economisti locali osservano pero che sono state vendute meno abitazioni periferiche e una quota maggiore di
+immobili centrali di fascia alta. Inoltre, il prezzo mediano non tiene conto della qualita e delle caratteristiche delle
+abitazioni vendute nei due periodi.
+
+Quale dato permetterebbe il confronto piu rigoroso dei prezzi nel tempo?
+ A. Il numero di annunci pubblicati sui social media
+ B. Il prezzo medio nazionale
+ C. Il reddito del presidente dell associazione
+ D. Un indice dei prezzi che controlli per caratteristiche e localizzazione degli immobili
+
+
+
+
+   SOLUZIONE - RISPOSTA D
+
+   Un indice edonico o basato su immobili comparabili riduce la distorsione dovuta al cambiamento nella composizione
+   delle vendite.
+
+
+
+
+Mock Test Bocconi 04 - 75 minuti - senza calcolatrice                                                                  20/50
+   DOMANDA 21                                                                          DATA INSIGHTS
+
+
+
+ Mese                                            Indice prezzo         Consumo (MWh)
+
+ Gennaio                                                         100                   500
+
+ Febbraio                                                        120                   450
+
+ Marzo                                                           90                    600
+
+A gennaio il prezzo effettivo era EUR 80 per MWh.
+
+Qual e la spesa energetica di febbraio?
+ A. EUR 43.200
+ B. EUR 40.500
+ C. EUR 45.000
+ D. EUR 48.000
+
+
+
+
+   SOLUZIONE - RISPOSTA A
+
+   Prezzo febbraio = 80x1,20 = EUR 96. Spesa = 96x450 = EUR 43.200.
+
+
+
+
+Mock Test Bocconi 04 - 75 minuti - senza calcolatrice                                             21/50
+   DOMANDA 22                                                                               QUANTITATIVE
+
+
+
+In una progressione aritmetica, il terzo termine e 11 e il nono termine e 35. Qual e la
+somma dei primi 12 termini?
+ A. 312
+ B. 300
+ C. 324
+ D. 336
+
+
+
+
+   SOLUZIONE - RISPOSTA B
+
+   a3=a1+2d=11 e a9=a1+8d=35. Sottraendo: 6d=24, quindi d=4 e a1=3. a12=3+11x4=47. S12=12(3+47)/2=300.
+
+
+
+
+Mock Test Bocconi 04 - 75 minuti - senza calcolatrice                                                    22/50
+   DOMANDA 23                                                                                                    VERBAL
+
+
+
+TESTO
+In una citta, il numero di compravendite immobiliari e diminuito del 18% in un anno, mentre il prezzo mediano delle
+abitazioni vendute e aumentato del 4%. Un associazione di agenti immobiliari sostiene che il mercato sia diventato piu
+forte. Gli economisti locali osservano pero che sono state vendute meno abitazioni periferiche e una quota maggiore di
+immobili centrali di fascia alta. Inoltre, il prezzo mediano non tiene conto della qualita e delle caratteristiche delle
+abitazioni vendute nei due periodi.
+
+Quale conclusione non e deducibile?
+ A. La composizione delle vendite e cambiata
+ B. Il prezzo mediano e aumentato
+ C. Il valore di tutte le abitazioni periferiche e diminuito
+ D. Il volume delle transazioni e diminuito
+
+
+
+
+   SOLUZIONE - RISPOSTA C
+
+   Il testo dice che sono state vendute meno abitazioni periferiche, non che il loro valore sia necessariamente diminuito.
+
+
+
+
+Mock Test Bocconi 04 - 75 minuti - senza calcolatrice                                                                    23/50
+   DOMANDA 24                                                                                    DATA INSIGHTS
+
+
+
+ Mese                                            Indice prezzo                   Consumo (MWh)
+
+ Gennaio                                                         100                             500
+
+ Febbraio                                                        120                             450
+
+ Marzo                                                           90                              600
+
+A gennaio il prezzo effettivo era EUR 80 per MWh.
+
+Come varia la spesa da febbraio a marzo?
+ A. Diminuisce di EUR 2.400
+ B. Aumenta di EUR 2.400
+ C. Aumenta di EUR 4.800
+ D. Rimane invariata
+
+
+
+
+   SOLUZIONE - RISPOSTA D
+
+   Marzo: prezzo 80x0,90=72; spesa 72x600=43.200. E identica alla spesa di febbraio.
+
+
+
+
+Mock Test Bocconi 04 - 75 minuti - senza calcolatrice                                                       24/50
+   DOMANDA 25                                                                            QUANTITATIVE
+
+
+
+Se 3^(x+1) = 27 x 9^(x-1), quanto vale x?
+ A. 0
+ B. -1
+ C. 1
+ D. 2
+
+
+
+
+   SOLUZIONE - RISPOSTA A
+
+   27 = 3^3 e 9^(x-1)=3^(2x-2). Il secondo membro e 3^(2x+1). Quindi x+1 = 2x+1 e x=0.
+
+
+
+
+Mock Test Bocconi 04 - 75 minuti - senza calcolatrice                                              25/50
+   DOMANDA 26                                                                                                      VERBAL
+
+
+
+TESTO
+Un ospedale ha adottato un sistema di intelligenza artificiale per assegnare priorita ai pazienti in pronto soccorso. Nel
+trimestre successivo, il tempo medio di attesa e diminuito. Il sistema, pero, e stato introdotto insieme a un aumento del
+personale nei fine settimana e a una nuova procedura per i casi non urgenti. Una revisione ha inoltre rilevato che l
+algoritmo era stato addestrato su dati storici nei quali alcuni gruppi di pazienti ricevevano meno frequentemente esami
+diagnostici. La direzione sostiene che la diminuzione del tempo medio dimostri sia l efficacia sia l equita del sistema.
+
+Qual e il principale errore nella conclusione della direzione?
+ A. Considerare il pronto soccorso un servizio sanitario
+ B. Confondere una diminuzione del tempo medio con una prova sufficiente sia di causalita sia di equita
+ C. Utilizzare dati storici invece di dati futuri
+ D. Aumentare il personale nei fine settimana
+
+
+
+
+   SOLUZIONE - RISPOSTA B
+
+   Il tempo medio puo essere influenzato dagli altri interventi e non misura da solo eventuali disparita tra gruppi. Efficacia
+   causale ed equita richiedono prove distinte.
+
+
+
+
+Mock Test Bocconi 04 - 75 minuti - senza calcolatrice                                                                       26/50
+   DOMANDA 27                                                                                  DATA INSIGHTS
+
+
+
+ Corso                               Domande              Ammessi                   Iscritti
+
+ Economia                                         1.200             300                           240
+
+ Finanza                                           900              225                           180
+
+ Management                                       1.500             450                           315
+
+ Data Science                                      600              180                           144
+
+
+Quali corsi hanno il tasso di ammissione piu elevato?
+ A. Solo Economia
+ B. Solo Finanza
+ C. Management e Data Science
+ D. Economia e Finanza
+
+
+
+
+   SOLUZIONE - RISPOSTA C
+
+   Economia 300/1.200=25%; Finanza 225/900=25%; Management 450/1.500=30%; Data Science 180/600=30%. I valori
+   massimi sono Management e Data Science.
+
+
+
+
+Mock Test Bocconi 04 - 75 minuti - senza calcolatrice                                                     27/50
+   DOMANDA 28                                                                                         QUANTITATIVE
+
+
+
+Data sufficiency. Qual e il valore di n, sapendo che n e un intero positivo? (1) n e
+divisibile per 6. (2) 20 < n < 30.
+ A. La sola (1) e sufficiente
+ B. La sola (2) e sufficiente
+ C. Anche insieme non sono sufficienti
+ D. Insieme sono sufficienti, ma nessuna da sola
+
+
+
+
+   SOLUZIONE - RISPOSTA D
+
+   Tra 21 e 29 l unico multiplo di 6 e 24. Ciascuna informazione da sola ammette piu valori; insieme determinano n=24.
+
+
+
+
+Mock Test Bocconi 04 - 75 minuti - senza calcolatrice                                                                    28/50
+   DOMANDA 29                                                                                                    VERBAL
+
+
+
+TESTO
+Un ospedale ha adottato un sistema di intelligenza artificiale per assegnare priorita ai pazienti in pronto soccorso. Nel
+trimestre successivo, il tempo medio di attesa e diminuito. Il sistema, pero, e stato introdotto insieme a un aumento del
+personale nei fine settimana e a una nuova procedura per i casi non urgenti. Una revisione ha inoltre rilevato che l
+algoritmo era stato addestrato su dati storici nei quali alcuni gruppi di pazienti ricevevano meno frequentemente esami
+diagnostici. La direzione sostiene che la diminuzione del tempo medio dimostri sia l efficacia sia l equita del sistema.
+
+Quale evidenza sarebbe piu rilevante per valutare l equita del sistema?
+ A. I tempi di attesa e gli esiti clinici disaggregati per gruppi comparabili di pazienti
+ B. Il costo del software
+ C. Il numero di computer presenti in ospedale
+ D. L opinione del fornitore dell algoritmo
+
+
+
+
+   SOLUZIONE - RISPOSTA A
+
+   L equita richiede confronti tra gruppi, controllando per gravita e caratteristiche cliniche. Una media complessiva puo
+   nascondere differenze rilevanti.
+
+
+
+
+Mock Test Bocconi 04 - 75 minuti - senza calcolatrice                                                                       29/50
+   DOMANDA 30                                                                                 DATA INSIGHTS
+
+
+
+ Corso                               Domande              Ammessi                  Iscritti
+
+ Economia                                         1.200             300                          240
+
+ Finanza                                           900              225                          180
+
+ Management                                       1.500             450                          315
+
+ Data Science                                      600              180                          144
+
+
+Quale corso ha il tasso di immatricolazione tra gli ammessi piu basso?
+ A. Economia
+ B. Management
+ C. Finanza
+ D. Data Science
+
+
+
+
+   SOLUZIONE - RISPOSTA B
+
+   Economia 240/300=80%; Finanza 180/225=80%; Management 315/450=70%; Data Science 144/180=80%. Il piu
+   basso e Management.
+
+
+
+
+Mock Test Bocconi 04 - 75 minuti - senza calcolatrice                                                    30/50
+   DOMANDA 31                                                                     QUANTITATIVE
+
+
+
+Qual e la soluzione dell inequazione |2x - 3| <= 5?
+ A. -4 <= x <= 1
+ B. x <= -1 oppure x >= 4
+ C. -1 <= x <= 4
+ D. -1 < x < 4
+
+
+
+
+   SOLUZIONE - RISPOSTA C
+
+   -5 <= 2x - 3 <= 5. Sommando 3: -2 <= 2x <= 8. Dividendo per 2: -1 <= x <= 4.
+
+
+
+
+Mock Test Bocconi 04 - 75 minuti - senza calcolatrice                                       31/50
+   DOMANDA 32                                                                                                  VERBAL
+
+
+
+TESTO
+Un ospedale ha adottato un sistema di intelligenza artificiale per assegnare priorita ai pazienti in pronto soccorso. Nel
+trimestre successivo, il tempo medio di attesa e diminuito. Il sistema, pero, e stato introdotto insieme a un aumento del
+personale nei fine settimana e a una nuova procedura per i casi non urgenti. Una revisione ha inoltre rilevato che l
+algoritmo era stato addestrato su dati storici nei quali alcuni gruppi di pazienti ricevevano meno frequentemente esami
+diagnostici. La direzione sostiene che la diminuzione del tempo medio dimostri sia l efficacia sia l equita del sistema.
+
+Quale affermazione e supportata dal testo?
+ A. Il sistema ha sicuramente causato la diminuzione dei tempi
+ B. Il sistema non puo contenere distorsioni
+ C. Tutti i gruppi di pazienti hanno ottenuto esiti migliori
+ D. L algoritmo e stato introdotto insieme ad altri cambiamenti organizzativi
+
+
+
+
+   SOLUZIONE - RISPOSTA D
+
+   Il testo indica chiaramente l aumento del personale e la nuova procedura introdotti nello stesso periodo.
+
+
+
+
+Mock Test Bocconi 04 - 75 minuti - senza calcolatrice                                                                 32/50
+   DOMANDA 33                                                                                       DATA INSIGHTS
+
+
+
+ Corso                               Domande                Ammessi                      Iscritti
+
+ Economia                                         1.200                 300                            240
+
+ Finanza                                           900                  225                            180
+
+ Management                                       1.500                 450                            315
+
+ Data Science                                      600                  180                            144
+
+
+Qual e il tasso complessivo di iscrizione rispetto alle domande ricevute?
+ A. 20,9%
+ B. 18,3%
+ C. 20,0%
+ D. 25,0%
+
+
+
+
+   SOLUZIONE - RISPOSTA A
+
+   Iscritti totali=240+180+315+144=879. Domande totali=4.200. 879/4.200=20,93%, circa 20,9%.
+
+
+
+
+Mock Test Bocconi 04 - 75 minuti - senza calcolatrice                                                          33/50
+   DOMANDA 34                                                                                          QUANTITATIVE
+
+
+
+Un automobile percorre 120 km a 60 km/h e poi 180 km a 90 km/h. Qual e la velocita
+media sull intero percorso?
+ A. 70 km/h
+ B. 75 km/h
+ C. 72 km/h
+ D. 80 km/h
+
+
+
+
+   SOLUZIONE - RISPOSTA B
+
+   Il tempo totale e 120/60 + 180/90 = 2 + 2 = 4 ore. La distanza totale e 300 km. Velocita media = 300/4 = 75 km/h.
+
+
+
+
+Mock Test Bocconi 04 - 75 minuti - senza calcolatrice                                                                  34/50
+   DOMANDA 35                                                                                                    VERBAL
+
+
+
+TESTO
+Un ospedale ha adottato un sistema di intelligenza artificiale per assegnare priorita ai pazienti in pronto soccorso. Nel
+trimestre successivo, il tempo medio di attesa e diminuito. Il sistema, pero, e stato introdotto insieme a un aumento del
+personale nei fine settimana e a una nuova procedura per i casi non urgenti. Una revisione ha inoltre rilevato che l
+algoritmo era stato addestrato su dati storici nei quali alcuni gruppi di pazienti ricevevano meno frequentemente esami
+diagnostici. La direzione sostiene che la diminuzione del tempo medio dimostri sia l efficacia sia l equita del sistema.
+
+Quale risultato indebolirebbe maggiormente l affermazione che il sistema e equo?
+ A. Il tempo medio complessivo continua a diminuire
+ B. Il personale dichiara che il sistema e facile da usare
+ C. A parita di gravita, un gruppo riceve sistematicamente priorita inferiore e presenta esiti peggiori
+ D. Il software viene aggiornato ogni mese
+
+
+
+
+   SOLUZIONE - RISPOSTA C
+
+   Una disparita sistematica a parita di condizioni cliniche e direttamente incompatibile con una forte affermazione di
+   equita.
+
+
+
+
+Mock Test Bocconi 04 - 75 minuti - senza calcolatrice                                                                     35/50
+   DOMANDA 36                                                                                    DATA INSIGHTS
+
+
+
+ Centro                              Spedizioni             Costo totale                  Consegne puntuali
+
+ Nord                                             4.000              EUR 68.000                      92%
+
+ Centro                                           3.000              EUR 48.000                      95%
+
+ Sud                                              2.000              EUR 38.000                      90%
+
+
+Quale centro ha il costo medio per spedizione piu basso?
+ A. Nord
+ B. Sud
+ C. Nord e Centro sono uguali
+ D. Centro
+
+
+
+
+   SOLUZIONE - RISPOSTA D
+
+   Nord: 68.000/4.000=17. Centro: 48.000/3.000=16. Sud: 38.000/2.000=19. Il minimo e Centro.
+
+
+
+
+Mock Test Bocconi 04 - 75 minuti - senza calcolatrice                                                         36/50
+   DOMANDA 37                                                                                              QUANTITATIVE
+
+
+
+Due cilindri hanno la stessa altezza. Il raggio del secondo e il 50% maggiore di quello
+del primo. Qual e il rapporto tra il volume del secondo e quello del primo?
+ A. 9/4
+ B. 3/2
+ C. 2
+ D. 5/2
+
+
+
+
+   SOLUZIONE - RISPOSTA A
+
+   Il volume e proporzionale a r^2. Se il nuovo raggio e 1,5r, il volume diventa (1,5)^2 = 2,25 = 9/4 volte il precedente.
+
+
+
+
+Mock Test Bocconi 04 - 75 minuti - senza calcolatrice                                                                        37/50
+   DOMANDA 38                                                                                               VERBAL
+
+
+
+Cinque candidati A, B, C, D ed E sono ordinati dal punteggio piu alto al piu basso. A
+precede C; D segue immediatamente B; E precede A. Quale ordine e possibile?
+ A. B, D, C, E, A
+ B. E, A, B, D, C
+ C. E, C, A, B, D
+ D. A, E, B, D, C
+
+
+
+
+   SOLUZIONE - RISPOSTA B
+
+   A rispetta E prima di A, A prima di C e la coppia consecutiva B-D. Le altre violano almeno un vincolo.
+
+
+
+
+Mock Test Bocconi 04 - 75 minuti - senza calcolatrice                                                           38/50
+   DOMANDA 39                                                                                   DATA INSIGHTS
+
+
+
+ Centro                              Spedizioni             Costo totale                 Consegne puntuali
+
+ Nord                                             4.000              EUR 68.000                      92%
+
+ Centro                                           3.000              EUR 48.000                      95%
+
+ Sud                                              2.000              EUR 38.000                      90%
+
+
+Qual e la percentuale complessiva di consegne puntuali, ponderata per il numero di
+spedizioni?
+ A. 91,8%
+ B. 92,0%
+ C. 92,6%
+ D. 93,0%
+
+
+
+
+   SOLUZIONE - RISPOSTA C
+
+   Consegne puntuali: 4.000x0,92=3.680; 3.000x0,95=2.850; 2.000x0,90=1.800. Totale 8.330 su 9.000 = 92,56%, circa
+   92,6%.
+
+
+
+
+Mock Test Bocconi 04 - 75 minuti - senza calcolatrice                                                           39/50
+   DOMANDA 40                                                                QUANTITATIVE
+
+
+
+Per x diverso da 2, semplificare (x^3 - 8)/(x - 2). Qual e il valore dell espressione per
+x=3?
+ A. 13
+ B. 17
+ C. 27
+ D. 19
+
+
+
+
+   SOLUZIONE - RISPOSTA D
+
+   x^3-8 = (x-2)(x^2+2x+4). Semplificando e ponendo x=3: 9+6+4=19.
+
+
+
+
+Mock Test Bocconi 04 - 75 minuti - senza calcolatrice                                       40/50
+   DOMANDA 41                                                                                               VERBAL
+
+
+
+Un azienda sostiene: "Il nuovo corso di formazione aumentera le vendite, perche
+insegna tecniche di negoziazione piu avanzate". Quale assunzione e necessaria?
+ A. Almeno alcuni partecipanti applicheranno efficacemente le tecniche apprese
+ B. Tutti i venditori hanno identica esperienza
+ C. Le vendite dipendono esclusivamente dalla negoziazione
+ D. Nessun concorrente offre formazione
+
+
+
+
+   SOLUZIONE - RISPOSTA A
+
+   Se nessuno applica efficacemente le tecniche, il meccanismo proposto non puo produrre l aumento delle vendite. Le
+   altre affermazioni sono troppo forti.
+
+
+
+
+Mock Test Bocconi 04 - 75 minuti - senza calcolatrice                                                                  41/50
+   DOMANDA 42                                                                                DATA INSIGHTS
+
+
+
+ Centro                              Spedizioni            Costo totale               Consegne puntuali
+
+ Nord                                             4.000             EUR 68.000                   92%
+
+ Centro                                           3.000             EUR 48.000                   95%
+
+ Sud                                              2.000             EUR 38.000                   90%
+
+
+Se il centro Sud riduce il costo totale del 10% senza modificare le spedizioni, quale sara
+il suo nuovo costo medio?
+ A. EUR 15,20
+ B. EUR 17,10
+ C. EUR 16,20
+ D. EUR 18,00
+
+
+
+
+   SOLUZIONE - RISPOSTA B
+
+   Nuovo costo totale = 38.000x0,90=34.200. Costo medio = 34.200/2.000 = EUR 17,10.
+
+
+
+
+Mock Test Bocconi 04 - 75 minuti - senza calcolatrice                                                     42/50
+   DOMANDA 43                                                         QUANTITATIVE
+
+
+
+Un capitale di EUR 10.000 cresce del 10% nel primo anno e diminuisce del 10% nel
+secondo. Qual e il valore finale?
+ A. EUR 9.800
+ B. EUR 10.000
+ C. EUR 9.900
+ D. EUR 10.100
+
+
+
+
+   SOLUZIONE - RISPOSTA C
+
+   10.000 x 1,10 x 0,90 = 10.000 x 0,99 = EUR 9.900.
+
+
+
+
+Mock Test Bocconi 04 - 75 minuti - senza calcolatrice                              43/50
+   DOMANDA 44                                                                                            VERBAL
+
+
+
+Tutti i revisori senior conoscono il principio X. Nessuna persona che ignora il principio
+X puo approvare il rapporto finale. Quale conclusione e necessariamente vera?
+ A. Solo i revisori senior possono approvare il rapporto
+ B. Tutti coloro che conoscono X approvano il rapporto
+ C. Nessun revisore junior conosce X
+ D. Chi approva il rapporto conosce il principio X
+
+
+
+
+   SOLUZIONE - RISPOSTA D
+
+   La seconda premessa equivale a: se una persona approva, allora non ignora X, quindi conosce X. Non segue che
+   conoscere X sia sufficiente per approvare.
+
+
+
+
+Mock Test Bocconi 04 - 75 minuti - senza calcolatrice                                                             44/50
+   DOMANDA 45                                                                                           DATA INSIGHTS
+
+
+
+DATI
+Su 800 intervistati, 460 utilizzano il servizio A, 350 il servizio B e 190 entrambi. Tra chi non utilizza nessuno dei due
+servizi, il 40% ha meno di 30 anni.
+
+Quanti intervistati non utilizzano nessuno dei due servizi?
+ A. 180
+ B. 140
+ C. 160
+ D. 200
+
+
+
+
+   SOLUZIONE - RISPOSTA A
+
+   Utilizzano almeno uno: 460+350-190=620. Nessuno: 800-620=180.
+
+
+
+
+Mock Test Bocconi 04 - 75 minuti - senza calcolatrice                                                                       45/50
+   DOMANDA 46                                                                               QUANTITATIVE
+
+
+
+In una classe, 28 studenti studiano inglese, 22 francese e 10 entrambe le lingue. Se 8
+non studiano nessuna delle due, quanti studenti ci sono in totale?
+ A. 40
+ B. 48
+ C. 50
+ D. 58
+
+
+
+
+   SOLUZIONE - RISPOSTA B
+
+   Almeno una lingua: 28+22-10=40. Aggiungendo gli 8 che non studiano nessuna lingua: 48.
+
+
+
+
+Mock Test Bocconi 04 - 75 minuti - senza calcolatrice                                                 46/50
+   DOMANDA 47                                                                                                VERBAL
+
+
+
+Un ristorante conclude che il nuovo menu ha aumentato la soddisfazione perche la
+valutazione media e passata da 4,0 a 4,3. Quale informazione indebolisce
+maggiormente la conclusione?
+ A. Il nuovo menu contiene meno piatti
+ B. Il ristorante ha cambiato il colore dei tavoli
+ C. Nel secondo periodo hanno risposto soprattutto clienti abituali molto soddisfatti, mentre il tasso di
+ risposta e diminuito drasticamente
+ D. Alcuni piatti costano piu di prima
+
+
+
+
+   SOLUZIONE - RISPOSTA C
+
+   Il cambiamento nella composizione dei rispondenti introduce un serio bias di selezione: le due medie potrebbero non
+   essere confrontabili.
+
+
+
+
+Mock Test Bocconi 04 - 75 minuti - senza calcolatrice                                                                47/50
+   DOMANDA 48                                                                                           DATA INSIGHTS
+
+
+
+DATI
+Su 800 intervistati, 460 utilizzano il servizio A, 350 il servizio B e 190 entrambi. Tra chi non utilizza nessuno dei due
+servizi, il 40% ha meno di 30 anni.
+
+Quanti intervistati con meno di 30 anni non utilizzano nessuno dei due servizi?
+ A. 64
+ B. 76
+ C. 90
+ D. 72
+
+
+
+
+   SOLUZIONE - RISPOSTA D
+
+   Il gruppo che non usa nessun servizio e 180. Il 40% di 180 e 72.
+
+
+
+
+Mock Test Bocconi 04 - 75 minuti - senza calcolatrice                                                                       48/50
+   DOMANDA 49                                                                                    QUANTITATIVE
+
+
+
+Il massimo comune divisore di due numeri e 6 e il loro minimo comune multiplo e 180.
+Se uno dei due numeri e 30, qual e l altro?
+ A. 36
+ B. 24
+ C. 30
+ D. 42
+
+
+
+
+   SOLUZIONE - RISPOSTA A
+
+   Per due interi positivi, prodotto = MCD x mcm. Quindi 30 x n = 6 x 180 = 1080, da cui n=36.
+
+
+
+
+Mock Test Bocconi 04 - 75 minuti - senza calcolatrice                                                      49/50
+   DOMANDA 50                                                                   QUANTITATIVE
+
+
+
+I punti A(2, -1) e B(8, 7) sono estremi di un segmento. Qual e la distanza tra A e B?
+ A. 8
+ B. 10
+ C. 9
+ D. 12
+
+
+
+
+   SOLUZIONE - RISPOSTA B
+
+   Differenze: 8-2=6 e 7-(-1)=8. Distanza = radice(6^2+8^2) = radice(100)=10.
+
+
+
+
+Mock Test Bocconi 04 - 75 minuti - senza calcolatrice                                     50/50
+
