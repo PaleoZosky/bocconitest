@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Simulazioni test Bocconi — lauree magistrali</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header id="sitehead">
+  <div class="inner">
+    <span class="brand">Simulazioni Bocconi</span>
+    <nav>
+      <a href="#mock">Mock</a>
+      <a href="#andamento">Andamento</a>
+      <a href="#storico">Storico</a>
+      <a href="#allenamento">Allenamento</a>
+    </nav>
+    <button class="themebtn" type="button">Tema</button>
+  </div>
+</header>
+
+<main id="home" class="wrap page">
+  <h1>Test Bocconi, lauree magistrali</h1>
+  <p class="lead">50 domande in 75 minuti: 18 quantitativa, 16 verbale, 16 data insights.
+    Tre domande per schermata, non si torna indietro. I risultati restano nel browser, su questo dispositivo.</p>
+
+  <div class="kpis" id="kpis"></div>
+
+  <section class="block" id="mock">
+    <h2 class="sec">Mock disponibili</h2>
+    <div class="list" id="listamock"></div>
+  </section>
+
+  <section class="block" id="andamento">
+    <h2 class="sec">Andamento per area</h2>
+    <div id="grafico"></div>
+  </section>
+
+  <section class="block" id="storico">
+    <h2 class="sec">Storico</h2>
+    <div class="hist" id="tabstorico"></div>
+    <div class="actions noprint">
+      <button class="btn ghost small" id="copiatutto">Copia l'ultimo riepilogo</button>
+      <button class="btn ghost small" id="svuota">Cancella lo storico</button>
+      <span class="flash" id="flash"></span>
+    </div>
+  </section>
+
+  <section class="block" id="allenamento">
+    <h2 class="sec">Mini-mock</h2>
+    <p class="note">Domande pescate dai mock pubblicati. Il tempo è 1,5 minuti a domanda.</p>
+    <div class="form">
+      <div class="field">
+        <label>Domande</label>
+        <div class="chips">
+          <label class="chip"><input type="radio" name="n" value="9" checked><span>9 domande · 13'30"</span></label>
+          <label class="chip"><input type="radio" name="n" value="15"><span>15 domande · 22'30"</span></label>
+        </div>
+      </div>
+      <div class="field">
+        <label>Aree</label>
+        <div class="chips">
+          <label class="chip"><input type="checkbox" name="area" value="Q"><span>Quantitativa</span></label>
+          <label class="chip"><input type="checkbox" name="area" value="V"><span>Verbale</span></label>
+          <label class="chip"><input type="checkbox" name="area" value="DI"><span>Data insights</span></label>
+        </div>
+      </div>
+      <div class="field">
+        <label for="pattsel">Pattern</label>
+        <select id="pattsel" multiple size="6"></select>
+      </div>
+      <div class="field">
+        <label>Disponibili</label>
+        <span class="note" id="conteggio">—</span>
+      </div>
+    </div>
+    <div class="actions">
+      <a class="btn" id="vaimini" href="mock.html?mode=mini&n=9">Inizia il mini-mock</a>
+    </div>
+
+    <h2 class="sec">Rifai i miei errori</h2>
+    <p class="note" id="conterrori">—</p>
+    <div class="actions" id="azerrori"></div>
+  </section>
+
+  <p class="note" style="margin-top:3rem">
+    Nessun dato lascia il dispositivo: punteggi e risposte stanno nel <i>localStorage</i> di questo browser.
+  </p>
+</main>
+
+<script src="js/charts.js"></script>
+<script src="mocks/elenco.js"></script>
+<script src="js/engine.js"></script>
+<script>
+(function () {
+  const B = window.Bocconi;
+  B.Tema.init();
+
+  const el = id => document.getElementById(id);
+  const storico = () => B.Store.storico();
+
+  /* ------------------------------------------------ elenco dei mock */
+  function rendiElenco() {
+    const st = storico();
+    const righe = B.elenco().map(v => {
+      const tentativi = st.filter(t => t.mockId === v.id);
+      const migliore = tentativi.reduce((best, t) => {
+        const QS = B.domande(t.items.map(it => ({ m: it.m, n: it.n })));
+        const R = B.punteggio(QS, t.items.map(it => (it.a === undefined ? null : it.a)));
+        return (!best || R.pts > best.pts) ? { pts: R.pts, ts: t.ts } : best;
+      }, null);
+      const stato = tentativi.length
+        ? `<span class="state">fatto ${tentativi.length}×</span><span class="score">${B.num(migliore.pts)}<small> /50</small></span>`
+        : `<span class="badge">da fare</span>`;
+      return `<div class="item">
+        <div>
+          <div class="title"><a class="go" href="mock.html?id=${v.id}">${B.esc(v.title)}</a></div>
+          <div class="meta">${B.esc(v.sub || '')}${v.note ? ' · ' + B.esc(v.note) : ''}</div>
+          <div class="meta">${v.minutes} minuti${tentativi.length ? ` · <a class="go" href="mock.html?rev=${migliore.ts}">rivedi il migliore</a>` : ''}</div>
+        </div>
+        <div class="side">${stato}</div>
+      </div>`;
+    }).join('');
+    el('listamock').innerHTML = righe || '<p class="empty">Nessun mock pubblicato.</p>';
+  }
+
+  /* ------------------------------------------------ riquadri in alto */
+  function rendiKpi() {
+    const st = storico();
+    const completi = st.filter(t => t.mode === 'full');
+    const punti = completi.map(t => {
+      const QS = B.domande(t.items.map(it => ({ m: it.m, n: it.n })));
+      return B.punteggio(QS, t.items.map(it => (it.a === undefined ? null : it.a))).pts;
+    });
+    const ultimo = punti.length ? punti[punti.length - 1] : null;
+    const migliore = punti.length ? Math.max.apply(null, punti) : null;
+    const errori = B.mieiErrori().length;
+    el('kpis').innerHTML = `
+      <div class="kpi"><b>${completi.length}</b><span>mock completi svolti</span></div>
+      <div class="kpi"><b>${ultimo === null ? '—' : B.num(ultimo)}</b><span>ultimo punteggio</span></div>
+      <div class="kpi"><b>${migliore === null ? '—' : B.num(migliore)}</b><span>miglior punteggio</span></div>
+      <div class="kpi"><b>${errori}</b><span>domande da rifare</span></div>`;
+  }
+
+  /* ------------------------------------------------ grafico andamento */
+  function rendiGrafico() {
+    const completi = storico().filter(t => t.mode === 'full');
+    if (completi.length < 1) {
+      el('grafico').innerHTML = '<p class="empty">Il grafico compare dopo il primo mock completo.</p>';
+      return;
+    }
+    el('grafico').innerHTML = B.andamento(completi) +
+      '<p class="note">Ogni punto è la percentuale di punti ottenuti sul massimo dell\'area (18, 16 e 16).</p>';
+  }
+
+  /* ------------------------------------------------ tabella storico */
+  function rendiStorico() {
+    const st = storico().slice().reverse();
+    if (!st.length) { el('tabstorico').innerHTML = '<p class="empty">Ancora nessun tentativo registrato su questo browser.</p>'; return; }
+    const righe = st.map(t => {
+      const QS = B.domande(t.items.map(it => ({ m: it.m, n: it.n })));
+      const R = B.punteggio(QS, t.items.map(it => (it.a === undefined ? null : it.a)));
+      const d = new Date(t.ts);
+      return `<div class="row">
+        <span class="when">${d.toLocaleDateString('it-IT')} ${d.toLocaleTimeString('it-IT', { hour: '2-digit', minute: '2-digit' })}</span>
+        <span class="lbl"><a href="mock.html?rev=${t.ts}">${B.esc(t.label)}</a></span>
+        <span>${R.right}</span><span>${R.wrong}</span><span>${R.blank}</span>
+        <span>${B.num(R.pts)}${t.mode === 'full' ? '' : '<small> /' + R.tot + '</small>'}</span>
+      </div>`;
+    }).join('');
+    el('tabstorico').innerHTML = `<div class="row head"><span>Quando</span><span>Prova</span><span>G</span><span>S</span><span>O</span><span>Punti</span></div>${righe}`;
+  }
+
+  /* ------------------------------------------------ mini-mock */
+  function pattern() {
+    const set = new Set();
+    B.tutteLeDomande().forEach(x => set.add(x.q.patt));
+    return Array.from(set).sort((a, b) => {
+      const ma = B.PATTERN_MIEI.includes(a), mb = B.PATTERN_MIEI.includes(b);
+      if (ma !== mb) return ma ? -1 : 1;
+      return a.localeCompare(b, 'it');
+    });
+  }
+
+  function rendiPattern() {
+    el('pattsel').innerHTML = pattern().map(p =>
+      `<option value="${B.esc(p)}">${B.PATTERN_MIEI.includes(p) ? '◆ ' : ''}${B.esc(p)}</option>`).join('');
+  }
+
+  function aggiornaMini() {
+    const n = document.querySelector('input[name=n]:checked').value;
+    const aree = Array.from(document.querySelectorAll('input[name=area]:checked')).map(i => i.value);
+    const patt = Array.from(el('pattsel').selectedOptions).map(o => o.value);
+    let pool = B.tutteLeDomande();
+    if (aree.length) pool = pool.filter(x => aree.indexOf(x.q.area) >= 0);
+    if (patt.length) pool = pool.filter(x => patt.indexOf(x.q.patt) >= 0);
+    const url = 'mock.html?mode=mini&n=' + n
+      + (aree.length ? '&area=' + encodeURIComponent(aree.join(',')) : '')
+      + (patt.length ? '&patt=' + encodeURIComponent(patt.join('|')) : '');
+    const a = el('vaimini');
+    a.href = url;
+    const basta = pool.length > 0;
+    a.classList.toggle('ghost', !basta);
+    a.textContent = basta ? `Inizia il mini-mock (${Math.min(+n, pool.length)} domande)` : 'Nessuna domanda con questi filtri';
+    el('conteggio').textContent = pool.length
+      ? `${pool.length} domande nel serbatoio${pool.length < +n ? ' — meno di quelle richieste, le userò tutte' : ''}`
+      : 'nessuna domanda con questi filtri';
+  }
+
+  /* ------------------------------------------------ rifai i miei errori */
+  function rendiErrori() {
+    const err = B.mieiErrori();
+    const perArea = err.reduce((a, x) => (a[x.q.area] = (a[x.q.area] || 0) + 1, a), {});
+    if (!err.length) {
+      el('conterrori').textContent = 'Nessuna domanda sbagliata o omessa in archivio: comparirà qui dopo il primo mock.';
+      el('azerrori').innerHTML = '';
+      return;
+    }
+    el('conterrori').innerHTML = `${err.length} domande sbagliate o lasciate in bianco nei tentativi precedenti` +
+      ` (Q ${perArea.Q || 0} · V ${perArea.V || 0} · DI ${perArea.DI || 0}).` +
+      ` Tempo: 1,5 minuti a domanda.`;
+    const opzioni = [9, 15, err.length].filter((v, i, a) => v <= err.length && a.indexOf(v) === i);
+    el('azerrori').innerHTML = opzioni.map((v, i) =>
+      `<a class="btn ${i ? 'ghost' : ''}" href="mock.html?mode=errori&n=${v}" style="text-decoration:none">Rifai ${v === err.length ? 'tutte (' + v + ')' : v + ' domande'}</a>`
+    ).join('');
+  }
+
+  /* ------------------------------------------------ azioni */
+  function collega() {
+    document.querySelectorAll('input[name=n], input[name=area]').forEach(i => i.addEventListener('change', aggiornaMini));
+    el('pattsel').addEventListener('change', aggiornaMini);
+
+    el('svuota').onclick = () => {
+      if (!storico().length) return;
+      if (!confirm('Cancello tutti i risultati salvati su questo browser? Non si può annullare.')) return;
+      B.Store.svuotaStorico();
+      rendiTutto();
+    };
+    el('copiatutto').onclick = () => {
+      const st = storico();
+      if (!st.length) { el('flash').textContent = 'Storico vuoto.'; el('flash').classList.add('on'); setTimeout(() => el('flash').classList.remove('on'), 2200); return; }
+      B.copia(B.esporta(st[st.length - 1]), el('flash'));
+    };
+  }
+
+  function rendiTutto() {
+    rendiElenco(); rendiKpi(); rendiGrafico(); rendiStorico(); rendiErrori(); aggiornaMini();
+  }
+
+  B.caricaTutti().then(() => { rendiPattern(); collega(); rendiTutto(); })
+    .catch(e => { el('listamock').innerHTML = `<p class="empty">Non riesco a caricare i mock: ${B.esc(e.message)}</p>`; });
+})();
+</script>
+</body>
+</html>
