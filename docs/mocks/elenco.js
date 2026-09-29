@@ -27,6 +27,14 @@
       sub: '50 domande · 18 quantitativa, 16 verbale, 16 data insights',
       minutes: 75,
       note: 'Focus su Data Insights e sui cinque pattern d\'errore.'
+    },
+    {
+      id: '10',
+      file: 'mocks/mock-10.js',
+      title: 'Mock 10',
+      sub: '50 domande · 18 quantitativa, 16 verbale, 16 data insights',
+      minutes: 75,
+      note: 'Focus su Data Insights: sufficienza dei dati, quote e valori assoluti, medie ponderate.'
     }
   ];
   if (typeof module === 'object' && module.exports) module.exports = ELENCO;
