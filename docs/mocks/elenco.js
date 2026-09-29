@@ -19,6 +19,14 @@
       sub: '50 domande · 18 quantitativa, 16 verbale, 16 data insights',
       minutes: 75,
       note: 'Creato fuori dal repository e convertito nel formato del sito.'
+    },
+    {
+      id: '09',
+      file: 'mocks/mock-09.js',
+      title: 'Mock 09',
+      sub: '50 domande · 18 quantitativa, 16 verbale, 16 data insights',
+      minutes: 75,
+      note: 'Focus su Data Insights e sui cinque pattern d\'errore.'
     }
   ];
   if (typeof module === 'object' && module.exports) module.exports = ELENCO;
