@@ -312,3 +312,44 @@ select{
   .patt .row{grid-template-columns:1fr 3.2rem;gap:.3rem .6rem}
   .patt .row .qs{grid-column:1 / -1}
 }
+
+/* ---------- Mock 08: figure, frazioni, colori dei grafici ---------- */
+:root{
+  --ink-2:var(--ink-soft); --ink-3:var(--ink-soft); --rule-2:var(--rule-strong);
+  --s1:#2a78d6; --s2:#eb6834; --s3:#1baf7a;
+  --on-s1:#ffffff; --on-s2:#16223a; --on-s3:#16223a;
+  --y1:#6da7ec; --y2:#1c5cab;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --s1:#3987e5; --s2:#d95926; --s3:#199e70;
+    --on-s1:#0e1116; --on-s2:#0e1116; --on-s3:#0e1116;
+    --y1:#1c5cab; --y2:#6da7ec;
+  }
+}
+:root[data-theme="dark"]{
+  --s1:#3987e5; --s2:#d95926; --s3:#199e70;
+  --on-s1:#0e1116; --on-s2:#0e1116; --on-s3:#0e1116;
+  --y1:#1c5cab; --y2:#6da7ec;
+}
+.fr{display:inline-flex;flex-direction:column;vertical-align:middle;text-align:center;font-size:.86em;line-height:1.12;margin:0 .12em;font-variant-numeric:lining-nums}
+.fr > span:first-child{border-bottom:1px solid currentColor;padding:0 .2em .05em}
+.fr > span:last-child{padding:.05em .2em 0}
+.fig{margin:.2rem 0 1rem}
+.fig figcaption{font:600 .95rem/1.35 Inter,system-ui,sans-serif;margin-bottom:.45rem}
+.fig-key{font:600 .9rem/1.4 Inter,system-ui,sans-serif;margin-bottom:.45rem}
+.fig-note{font:400 .84rem/1.4 Inter,system-ui,sans-serif;color:var(--ink-soft);margin-top:.35rem}
+.fig-scroll{overflow-x:auto}
+.legend{list-style:none;margin:0 0 .35rem;padding:0;display:flex;flex-wrap:wrap;gap:.3rem 1.1rem;font:400 .86rem/1.3 Inter,system-ui,sans-serif;color:var(--ink-soft)}
+.legend li{display:flex;align-items:center;gap:.45rem}
+.sw{display:inline-block;width:.8rem;height:.8rem;border-radius:3px}
+.sw.line{width:1.3rem;height:3px;border-radius:2px}
+svg.chart{display:block;width:100%;max-width:560px;min-width:320px;height:auto}
+.chart .grid{stroke:var(--rule);stroke-width:1}
+.chart .axis{stroke:var(--rule-strong);stroke-width:1}
+.chart text{font-family:Inter,system-ui,sans-serif}
+.chart .tick{font-size:11.5px;fill:var(--ink-soft)}
+.chart .lab{font-size:12.5px;fill:var(--ink);font-weight:600}
+.chart .val{font-size:12px;fill:var(--ink);font-weight:600}
+.chart .in{font-size:12px;font-weight:600}
+.chart .total{font-size:12.5px;fill:var(--ink);font-weight:600}
