@@ -43,6 +43,12 @@
       sub: '50 domande · 18 quantitativa, 16 verbale, 16 data insights',
       minutes: 75,
       note: 'Focus su Data Insights: tabelle con dati mancanti, grafici da leggere con cautela (asse troncato, livelli e variazioni), sufficienza dei dati, medie ponderate.'
+      id: '12',
+      file: 'mocks/mock-12.js',
+      title: 'Mock 12',
+      sub: '50 domande · 18 quantitativa, 16 verbale, 16 data insights',
+      minutes: 75,
+      note: 'Focus su Data Insights: sufficienza dei dati, medie ponderate (anche mediana e Simpson), percentuali e valori assoluti, cause alternative.'
     }
   ];
   if (typeof module === 'object' && module.exports) module.exports = ELENCO;
