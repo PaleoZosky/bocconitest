@@ -35,6 +35,14 @@
       sub: '50 domande · 18 quantitativa, 16 verbale, 16 data insights',
       minutes: 75,
       note: 'Focus su Data Insights: sufficienza dei dati, quote e valori assoluti, medie ponderate.'
+    },
+    {
+      id: '11',
+      file: 'mocks/mock-11.js',
+      title: 'Mock 11',
+      sub: '50 domande · 18 quantitativa, 16 verbale, 16 data insights',
+      minutes: 75,
+      note: 'Focus su Data Insights: istogramma, grafico a due assi, rette da prolungare, tabelle da ricostruire, sufficienza dei dati.'
     }
   ];
   if (typeof module === 'object' && module.exports) module.exports = ELENCO;
