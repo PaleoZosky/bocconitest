@@ -26,6 +26,8 @@ kit/                  materiale di partenza (sola lettura): brief, mock vecchi, 
 node tools/validate.js docs/mocks/mock-07.js   # controlla un mock
 node tools/compare-mock07.js                   # mock-07.js == kit/modello/mock07.html
 node tools/check-math-10.js                    # ricalcola le risposte del Mock 10
+node tools/check-math-13.js                    # ricalcola le risposte del Mock 13
+node tools/check-math-12.js                    # ricalcola le risposte del Mock 12
 node tools/check-novelty.js docs/mocks/mock-10.js  # somiglianze con le domande già presenti
 npx http-server docs -p 8123                   # anteprima locale
 ```
