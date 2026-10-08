@@ -43,6 +43,8 @@
       sub: '50 domande · 18 quantitativa, 16 verbale, 16 data insights',
       minutes: 75,
       note: 'Focus su Data Insights: istogramma, grafico a due assi, rette da prolungare, tabelle da ricostruire, sufficienza dei dati.'
+    },
+    {
       id: '13',
       file: 'mocks/mock-13.js',
       title: 'Mock 13',
@@ -57,6 +59,14 @@
       sub: '50 domande · 18 quantitativa, 16 verbale, 16 data insights',
       minutes: 75,
       note: 'Focus su Data Insights: sufficienza dei dati, medie ponderate (anche mediana e Simpson), percentuali e valori assoluti, cause alternative.'
+    },
+    {
+      id: '14',
+      file: 'mocks/mock-14.js',
+      title: 'Mock 14',
+      sub: '50 domande · 18 quantitativa, 16 verbale, 16 data insights',
+      minutes: 75,
+      note: 'Calibrato sulla difficoltà del test ufficiale: più passaggi per domanda, opzioni-esca mascherate, sufficienza dei dati con criteri A–D rimescolati, tabelle con percentuali di riga e celle mancanti, brani economici con numeri.'
     }
   ];
   if (typeof module === 'object' && module.exports) module.exports = ELENCO;
