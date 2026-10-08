@@ -91,6 +91,14 @@
       sub: '50 domande · 18 quantitativa, 16 verbale, 16 data insights',
       minutes: 75,
       note: 'Livello del Mock 15: basi delle percentuali e listino dallo scontato con IVA, lavoro con cambio a metà, resti e congruenze, probabilità condizionata, brani con modali e opzioni quasi tutte plausibili. Data Insights come il Mock 14, con proposizioni «sicuramente vere/false» e sufficienza dei dati.'
+    },
+    {
+      id: '18',
+      file: 'mocks/mock-18.js',
+      title: 'Mock 18',
+      sub: '50 domande · 18 quantitativa, 16 verbale, 16 data insights',
+      minutes: 75,
+      note: 'Livello del Mock 15: promozioni e basi delle percentuali, lavoro con cambio a metà, velocità media su tratti diseguali, resti, combinatoria con vincoli, brani con modali e opzioni quasi tutte plausibili. Data Insights come il Mock 14, con proposizioni «sicuramente vere/false», sufficienza dei dati e medie ponderate.'
     }
   ];
   if (typeof module === 'object' && module.exports) module.exports = ELENCO;
