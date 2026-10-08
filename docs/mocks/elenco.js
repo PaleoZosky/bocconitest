@@ -75,6 +75,14 @@
       sub: '50 domande · 18 quantitativa, 16 verbale, 16 data insights',
       minutes: 75,
       note: 'Più difficile del Mock 14 in Quantitativa e Verbale: percentuali a più livelli, miscele, medie ponderate inverse, lavoro con cambio a metà, combinatoria con vincoli, brani da 120–200 parole con modali e opzioni quasi tutte plausibili. Data Insights allo stesso livello del Mock 14.'
+    },
+    {
+      id: '16',
+      file: 'mocks/mock-16.js',
+      title: 'Mock 16',
+      sub: '50 domande · 18 quantitativa, 16 verbale, 16 data insights',
+      minutes: 75,
+      note: 'Più difficile del Mock 14 in Quantitativa e Verbale: percentuali a più livelli e condizionate, miscele, media ponderata inversa a tre sedi, lavoro con cambio a metà, combinatoria con vincoli, sistema con interi, brani da 120–200 parole con modali e opzioni quasi tutte plausibili. Data Insights allo stesso livello del Mock 14.'
     }
   ];
   if (typeof module === 'object' && module.exports) module.exports = ELENCO;
