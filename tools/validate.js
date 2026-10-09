@@ -14,7 +14,7 @@
    5.  ci sono più di 3 risposte uguali di fila;
    6.  una lettera compare meno del 18% o più del 32% delle volte
        (contando solo le domande a 4 opzioni);
-   7.  le domande in inglese non sono 2 o 3;
+   7.  le domande in inglese non sono 0, 2 o 3 (0 per i mock tutti in italiano);
    8.  meno di 17 domande hanno come `patt` una delle 5 etichette
        dei pattern d'errore;
    9.  manca `sol`, `trap` o `patt`;
@@ -38,7 +38,7 @@ const MIN_QUOTA = 0.18;
 const MAX_QUOTA = 0.32;
 const MAX_FILA = 3;
 const MIN_PATTERN_MIEI = 17;
-const EN_AMMESSE = [2, 3];
+const EN_AMMESSE = [0, 2, 3];
 
 /* Riconosce una domanda vero / falso / non deducibile: o ha un `claim`
    da giudicare, oppure le sue opzioni sono la terna classica. */
