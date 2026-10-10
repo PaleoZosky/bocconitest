@@ -29,6 +29,7 @@ node tools/check-math-10.js                    # ricalcola le risposte del Mock 
 node tools/check-math-13.js                    # ricalcola le risposte del Mock 13
 python3 tools/check_math_14.py                 # ricalcola le risposte del Mock 14 (Python)
 node tools/check-math-12.js                    # ricalcola le risposte del Mock 12
+python3 tools/check_math_23.py                 # ricalcola le risposte del Mock 23 (e check_math_24.py per il 24)
 node tools/check-novelty.js docs/mocks/mock-10.js  # somiglianze con le domande già presenti
 npx http-server docs -p 8123                   # anteprima locale
 ```
