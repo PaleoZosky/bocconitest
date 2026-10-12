@@ -147,6 +147,22 @@
       sub: '50 domande · 18 quantitativa, 16 verbale, 16 data insights',
       minutes: 75,
       note: 'Tutto in italiano, livello del Mock 15 ma con calcoli e testi più corti (tempo teorico stimato: circa 86 minuti): effetti di prezzo e quantità, probabilità con evento contrario, combinatoria con vincoli, medie ponderate, brani da 80–150 parole con modali. Data Insights come il Mock 14, con proposizioni «sicuramente vere/false», sufficienza dei dati, tabelle con celle mancanti e medie pesate.'
+    },
+    {
+      id: '25',
+      file: 'mocks/mock-25.js',
+      title: 'Mock 25',
+      sub: '50 domande · 18 quantitativa, 16 verbale, 16 data insights',
+      minutes: 75,
+      note: 'Tutto in italiano, livello del Mock 15 ma con calcoli e testi più corti (tempo teorico stimato: circa 86 minuti): basi delle percentuali, media ponderata inversa, combinatoria con vincoli, probabilità di una serie al meglio delle tre, cifre delle unità, brani da 80–150 parole con regole e modali. Data Insights come il Mock 14, con proposizioni «sicuramente vere/false», sufficienza dei dati (anche con tabella 2×2 e casi limite), tabelle con margini e piani tariffari.'
+    },
+    {
+      id: '26',
+      file: 'mocks/mock-26.js',
+      title: 'Mock 26',
+      sub: '50 domande · 18 quantitativa, 16 verbale, 16 data insights',
+      minutes: 75,
+      note: 'Tutto in italiano, livello del Mock 15 ma con calcoli e testi più corti (tempo teorico stimato: circa 86 minuti): variazioni a catena, miscele e rapporti, probabilità condizionata (le tre monete), distribuzioni e cifre, treni in senso opposto, brani da 80–150 parole con tassi, regole e campioni. Data Insights come il Mock 14, con proposizioni «sicuramente vere/false», sufficienza dei dati (insiemi, mcm, equazioni intere), grafici con rapporti e tabelle con cella mancante.'
     }
   ];
   if (typeof module === 'object' && module.exports) module.exports = ELENCO;
