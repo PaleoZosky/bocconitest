@@ -179,6 +179,14 @@
       sub: '50 domande · 18 quantitativa, 16 verbale, 16 data insights',
       minutes: 75,
       note: 'Tutto in italiano, livello del Mock 15 ma con calcoli e testi più corti (tempo teorico stimato: circa 86 minuti): sconti e interessi composti, base della percentuale che cambia, anagrammi con vincolo, probabilità condizionata e senza reinserimento, lavoro e portate, brani da 80–150 parole con ricarico e margine, ammortamento, tassi e regole di spedizione. Data Insights come il Mock 14, con proposizioni «sicuramente vere/false» (anche logiche), sufficienza dei dati (tabella 2×2, intervalli, sì/no con un limite), grafici con medie ponderate e tabella con cella mancante.'
+    },
+    {
+      id: '29',
+      file: 'mocks/mock-29.js',
+      title: 'Mock 29',
+      sub: '50 domande · 18 quantitativa, 16 verbale, 16 data insights',
+      minutes: 75,
+      note: 'Tutto in italiano, livello del Mock 15 ma con calcoli e testi più corti (tempo teorico stimato: circa 86 minuti): medie ponderate inverse, basi diverse delle percentuali, probabilità senza reinserimento, podio con vincolo, resti e mcm, calendario, brani da 80–150 parole con tasso reale, deficit e debito, necessario vs sufficiente, selezione del campione e regole di punteggio. Data Insights come il Mock 14, con proposizioni «sicuramente vere/false» (anche logiche), sufficienza dei dati (sì/no con un limite, tabella 2×2, cerchio, intervallo), grafici con crescite composte e rapporti, tabella con cella mancante e confronti «doppio» con numeri vicini.'
     }
   ];
   if (typeof module === 'object' && module.exports) module.exports = ELENCO;
