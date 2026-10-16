@@ -170,6 +170,14 @@
       title: 'Mock 27',
       sub: '50 domande · 18 quantitativa, 16 verbale, 16 data insights',
       minutes: 75,
+      note: 'Tutto in italiano, livello del Mock 15 ma con calcoli e testi più corti (tempo teorico stimato: circa 86 minuti): sconti a catena, lavoro e velocità media, ricarico e margine, anagrammi con vincolo, resti, probabilità condizionata, brani da 80–150 parole con modali, regole e cause alternative. Data Insights come il Mock 14, con proposizioni «sicuramente vere/false», sufficienza dei dati (limiti, mcm, tabella 2×2, triangolo), grafici con percentuali su sottoinsiemi e tabelle con cella mancante.'
+    },
+    {
+      id: '28',
+      file: 'mocks/mock-28.js',
+      title: 'Mock 28',
+      sub: '50 domande · 18 quantitativa, 16 verbale, 16 data insights',
+      minutes: 75,
       note: 'Tutto in italiano, livello del Mock 15 ma con calcoli e testi più corti (tempo teorico stimato: circa 86 minuti): sconti e interessi composti, base della percentuale che cambia, anagrammi con vincolo, probabilità condizionata e senza reinserimento, lavoro e portate, brani da 80–150 parole con ricarico e margine, ammortamento, tassi e regole di spedizione. Data Insights come il Mock 14, con proposizioni «sicuramente vere/false» (anche logiche), sufficienza dei dati (tabella 2×2, intervalli, sì/no con un limite), grafici con medie ponderate e tabella con cella mancante.'
     }
   ];
